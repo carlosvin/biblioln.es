@@ -871,13 +871,12 @@ UNSLUGIFY_TITLES = True
 # Uncomment and modify to following lines to match your accounts.
 # Images displayed come from the `previewimage` meta tag.
 # You can specify the card type by using the `card` parameter in TWITTER_CARD.
-# TWITTER_CARD = {
-#     # 'use_twitter_cards': True,  # enable Twitter Cards
-#     # 'card': 'summary',          # Card type, you can also use 'summary_large_image',
-#                                   # see https://dev.twitter.com/cards/types
-#     # 'site': '@website',         # twitter nick for the website
-#     # 'creator': '@username',     # Username for the content creator / author.
-# }
+TWITTER_CARD = {
+	'use_twitter_cards': True,  # enable Twitter Cards
+	'card': 'Biblioteca Municipal de Los Navalmorales',          # Card type, you can also use 'summary_large_image',
+	'site': '@biblioln',         # twitter nick for the website
+	'creator': '@biblioln',     # Username for the content creator / author.
+}
 
 # If webassets is installed, bundle JS and CSS to make site loading faster
 # USE_BUNDLES = True
