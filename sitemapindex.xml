@@ -125,6 +125,10 @@
   <lastmod>2015-07-06</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/La Biblioteca/rss.xml</loc>
+  <lastmod>2015-07-08</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/XVII Encuentro Provincial de Clubes de Lectura/rss.xml</loc>
   <lastmod>2015-07-07</lastmod>
  </sitemap>
@@ -138,10 +142,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2015-07-07</lastmod>
+  <lastmod>2015-07-08</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2015-07-07</lastmod>
+  <lastmod>2015-07-08</lastmod>
  </sitemap>
 </sitemapindex>
