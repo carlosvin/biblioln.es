@@ -121,6 +121,8 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/stories/la-biblioteca-de-los-navalmorales.html", "La Biblioteca"),
+	("/stories/la-biblioteca-de-los-navalmorales/contacto.html", "Contacto"),
         ("/archive.html", "Archivos"),
         ("/categories/index.html", "Categorías"),
         ("/rss.xml", "RSS"),
