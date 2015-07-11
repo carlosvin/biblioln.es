@@ -53,6 +53,22 @@ Hay un fondo antiguo que se está comenzando a incorporar al catálogo actualmen
 
 Esta biblioteca ha sido informatizada y pertenece a la `Red de Bibliotecas de Castilla-La Mancha`_ desde el 19 de Octubre del 2009.
 
+Reglamento
+==========
+
+`Reglamento de La Biblioteca Municipal de Los Navalmorales`_
+
+Contacto_
+=========
+
+| Calle Antonio Palomeque Torres, 2
+| 45140 Los Navalmorales (TOLEDO)
+| 925404242
+
+.. _Contacto: /stories/la-biblioteca-de-los-navalmorales/contacto.html
+
+.. _`Reglamento de La Biblioteca Municipal de Los Navalmorales`: /wp-content/uploads/reglamento-de-funcionamiento-de-la-biblioteca-pblica-municipal-los-navalmorales.pdf 
+
 
 .. _`Red de Bibliotecas de Castilla-La Mancha`: http://reddebibliotecas.jccm.es/
 

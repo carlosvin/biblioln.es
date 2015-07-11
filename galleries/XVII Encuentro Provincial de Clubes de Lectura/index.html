@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# " lang="es">
+<html prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# fb: http://ogp.me/ns/fb# " lang="es">
     <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,6 +14,7 @@
       <link rel="canonical" href="http://biblioln.es/galleries/XVII%20Encuentro%20Provincial%20de%20Clubes%20de%20Lectura/index.html">
 
 
+        <meta property="fb:app_id" content="biblioln">
 
 
     
@@ -128,12 +129,12 @@
             <img src="landero6.thumbnail.jpg" alt="Landero6"></a>
         </li>
 <li>
-<a href="landero3.jpg" class="thumbnail image-reference" title="Landero3">
-            <img src="landero3.thumbnail.jpg" alt="Landero3"></a>
-        </li>
-<li>
 <a href="landero5.jpg" class="thumbnail image-reference" title="Landero5">
             <img src="landero5.thumbnail.jpg" alt="Landero5"></a>
+        </li>
+<li>
+<a href="landero3.jpg" class="thumbnail image-reference" title="Landero3">
+            <img src="landero3.thumbnail.jpg" alt="Landero3"></a>
 </li>
 </ul>
 </noscript>
@@ -142,7 +143,7 @@
         <!--End of body content-->
 
         <footer>
-            Contents © 2015         <a href="mailto:carlosvin@gmail.com">carlosvin</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2015         <a href="mailto:carlosvin@gmail.com">Biblioteca de Los Navalmorales</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a><br>
             
         </footer>
     </div>
@@ -178,13 +179,13 @@
     <!-- fancy dates -->
     <script>
     moment.locale("es");
-    fancydates(0, "YYYY-MM-DD HH:mm");
+    fancydates(0, "DD-MM-YYYY");
     </script>
     <!-- end fancy dates -->
     
 <script src="../../assets/js/flowr.plugin.js"></script>
 <script>
-jsonContent = [{"url_thumb": "landero2.thumbnail.jpg", "size": {"w": 180, "h": 135}, "url": "landero2.jpg", "title": "Landero2"}, {"url_thumb": "fotografia-bibliotecarias-y-landero.thumbnail.jpg", "size": {"w": 180, "h": 110}, "url": "fotografia-bibliotecarias-y-landero.jpg", "title": "Fotografia bibliotecarias y landero"}, {"url_thumb": "landero1.thumbnail.jpg", "size": {"w": 101, "h": 180}, "url": "landero1.jpg", "title": "Landero1"}, {"url_thumb": "landero6.thumbnail.jpg", "size": {"w": 180, "h": 135}, "url": "landero6.jpg", "title": "Landero6"}, {"url_thumb": "landero3.thumbnail.jpg", "size": {"w": 135, "h": 180}, "url": "landero3.jpg", "title": "Landero3"}, {"url_thumb": "landero5.thumbnail.jpg", "size": {"w": 180, "h": 101}, "url": "landero5.jpg", "title": "Landero5"}];
+jsonContent = [{"url_thumb": "landero2.thumbnail.jpg", "title": "Landero2", "size": {"h": 135, "w": 180}, "url": "landero2.jpg"}, {"url_thumb": "fotografia-bibliotecarias-y-landero.thumbnail.jpg", "title": "Fotografia bibliotecarias y landero", "size": {"h": 110, "w": 180}, "url": "fotografia-bibliotecarias-y-landero.jpg"}, {"url_thumb": "landero1.thumbnail.jpg", "title": "Landero1", "size": {"h": 180, "w": 101}, "url": "landero1.jpg"}, {"url_thumb": "landero6.thumbnail.jpg", "title": "Landero6", "size": {"h": 135, "w": 180}, "url": "landero6.jpg"}, {"url_thumb": "landero5.thumbnail.jpg", "title": "Landero5", "size": {"h": 101, "w": 180}, "url": "landero5.jpg"}, {"url_thumb": "landero3.thumbnail.jpg", "title": "Landero3", "size": {"h": 180, "w": 135}, "url": "landero3.jpg"}];
 $("#gallery_container").flowr({
         data : jsonContent,
         height : 180*.6,
