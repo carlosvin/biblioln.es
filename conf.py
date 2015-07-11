@@ -131,7 +131,7 @@ NAVIGATION_LINKS = {
 
 
 # Name of the theme to use.
-THEME = "bootstrap3"
+THEME = "def"
 
 # Below this point, everything is optional
 
@@ -751,6 +751,9 @@ COMMENT_SYSTEM_ID = "biblioln"
 # <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
 # <!-- End of social buttons -->
 # """
+SOCIAL_BUTTONS_CODE = """<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ec7029a5c9222a6" async="async"></script>
+"""
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
@@ -834,7 +837,6 @@ COMMENT_SYSTEM_ID = "biblioln"
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-# BODY_END = ""
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.
