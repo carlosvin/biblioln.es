@@ -18,7 +18,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Biblioteca de Los Navalmorales"  # (translatable)
-BLOG_TITLE = "Biblioteca de Los Navalmorales"  # (translatable)
+BLOG_TITLE = "Biblioteca Los Navalmorales"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link
 SITE_URL = "http://biblioln.es/"
@@ -26,7 +26,7 @@ SITE_URL = "http://biblioln.es/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://biblioln.es/"
 BLOG_EMAIL = "carlosvin@gmail.com"
-BLOG_DESCRIPTION = "Biblioteca P\u00fablica Municipal"  # (translatable)
+BLOG_DESCRIPTION = "Biblioteca P\u00fablica Municipal de Los Navalmorales"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -255,7 +255,7 @@ COMPILERS = {
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-# LOGO_URL = ''
+# LOGO_URL = 'logo.png'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
@@ -822,7 +822,7 @@ SOCIAL_BUTTONS_CODE = """<!-- Go to www.addthis.com/dashboard to customize your 
 # Bootstrap is served from BootstrapCDN (provided by MaxCDN)
 # Set this to False if you want to host your site without requiring access to
 # external resources.
-# USE_CDN = False
+USE_CDN = False
 
 # Check for USE_CDN compatibility.
 # If you are using custom themes, have configured the CSS properly and are
@@ -852,6 +852,24 @@ SOCIAL_BUTTONS_CODE = """<!-- Go to www.addthis.com/dashboard to customize your 
 # An example re is the following:
 # '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)-(?P<title>.*)\.md'
 # FILE_METADATA_REGEXP = None
+
+BODY_END = """<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=7089865; 
+var sc_invisible=1; 
+var sc_security="c6347cb2"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="shopify site
+analytics" href="http://statcounter.com/shopify/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/7089865/0/c6347cb2/1/"
+alt="shopify site analytics"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->"""
 
 # If you hate "Filenames with Capital Letters and Spaces.md", you should
 # set this to true.
