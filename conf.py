@@ -807,14 +807,14 @@ SOCIAL_BUTTONS_CODE = """<!-- Go to www.addthis.com/dashboard to customize your 
 # """ % SITE_URL
 #
 # If you prefer a Google search form, here's an example that should just work:
-# SEARCH_FORM = """
-# <!-- Custom search with Google-->
-# <form id="search" action="//www.google.com/search" method="get" class="navbar-form pull-left">
-# <input type="hidden" name="q" value="site:%s" />
-# <input type="text" name="q" maxlength="255" results="0" placeholder="Search"/>
-# </form>
-# <!-- End of custom search -->
-#""" % SITE_URL
+SEARCH_FORM = """
+<!-- Custom search with Google-->
+<form id="search" action="//www.google.com/search" method="get" class="navbar-form pull-left">
+<input type="hidden" name="site" value="site:%s" />
+<input type="text" name="q" maxlength="255" results="0" placeholder="Search"/>
+</form>
+<!-- End of custom search -->
+""" % SITE_URL
 
 # Use content distribution networks for jQuery, twitter-bootstrap css and js,
 # and html5shiv (for older versions of Internet Explorer)
