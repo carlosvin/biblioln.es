@@ -808,12 +808,13 @@ SOCIAL_BUTTONS_CODE = """<!-- Go to www.addthis.com/dashboard to customize your 
 #
 # If you prefer a Google search form, here's an example that should just work:
 SEARCH_FORM = """
-<!-- Custom search with Google-->
-<form id="search" action="//www.google.com/search" method="get" class="navbar-form pull-left">
-<input type="hidden" name="site" value="site:%s" />
-<input type="text" name="q" maxlength="255" results="0" placeholder="Search"/>
+<div class="container nopadding">
+<form method="get" action="http://www.google.com/search" class="form-horizontal" role="form">
+<input type="text" name="q" size="25" placeholder="Search"/>
+<input type="submit"/>
+<input type="hidden" name="sitesearch" value="%s" />
 </form>
-<!-- End of custom search -->
+</div>
 """ % SITE_URL
 
 # Use content distribution networks for jQuery, twitter-bootstrap css and js,
