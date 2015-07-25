@@ -15,4 +15,12 @@ Informacion del evento
 - En `La Biblioteca`_
 - Para niñas, niños, mamás y papás de todas las edades
 
+.. thumbnail:: /2015/07/papiroflexia-y-cuentos.png
+
+	`El cartel en PDF`_
+
+.. previewimage: /2015/07/papiroflexia-y-cuentos.png
+
+
 .. _`La Biblioteca`: http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html
+.. _`El cartel en PDF`: /2015/07/papiroflexia-y-cuentos.pdf
