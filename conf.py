@@ -28,50 +28,6 @@ SITE_URL = "http://biblioln.es/"
 BLOG_EMAIL = "carlosvin@gmail.com"
 BLOG_DESCRIPTION = "Biblioteca P\u00fablica Municipal de Los Navalmorales"  # (translatable)
 
-# Nikola is multilingual!
-#
-# Currently supported languages are:
-#
-# en     English
-# ar     Arabic
-# bg     Bulgarian
-# ca     Catalan
-# cs     Czech [ALTERNATIVELY cz]
-# da     Danish
-# de     German
-# el     Greek [NOT gr]
-# eo     Esperanto
-# es     Spanish
-# et     Estonian
-# eu     Basque
-# fa     Persian
-# fi     Finnish
-# fr     French
-# hi     Hindi
-# hr     Croatian
-# id     Indonesian
-# it     Italian
-# ja     Japanese [NOT jp]
-# ko     Korean
-# nb     Norwegian Bokmål
-# nl     Dutch
-# pl     Polish
-# pt_br  Portuguese (Brasil)
-# ru     Russian
-# sk     Slovak
-# sl     Slovene
-# sr     Serbian (Cyrillic)
-# sv     Swedish
-# tr     Turkish [NOT tr_TR]
-# ur     Urdu
-# zh_cn  Chinese (Simplified)
-#
-# If you want to use Nikola with a non-supported language you have to provide
-# a module containing the necessary translations
-# (cf. the modules at nikola/data/themes/base/messages/).
-# If a specific post is not translated to a language, then the version
-# in the default language will be shown instead.
-
 # What is the default language?
 DEFAULT_LANG = "es"
 
@@ -239,7 +195,7 @@ COMPILERS = {
         "markdown": ('.md', '.mdown', '.markdown', '.wp'),
         "html": ('.html', '.htm')
         }
-        
+
 
 # Create by default posts in one file format?
 # Set to False for two-file posts, with separate metadata.
@@ -856,9 +812,9 @@ USE_CDN = False
 
 BODY_END = """<!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
-var sc_project=7089865; 
-var sc_invisible=1; 
-var sc_security="c6347cb2"; 
+var sc_project=7089865;
+var sc_invisible=1;
+var sc_security="c6347cb2";
 var scJsHost = (("https:" == document.location.protocol) ?
 "https://secure." : "http://www.");
 document.write("<sc"+"ript type='text/javascript' src='" +
