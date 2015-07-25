@@ -62,11 +62,15 @@
                 
             </li>
 </ul>
-<div class="container nopadding">
-<form method="get" action="http://www.google.com/search" class="form-horizontal" role="form">
-<input type="text" name="q" size="25" placeholder="Search"><input type="submit"><input type="hidden" name="sitesearch" value="http://biblioln.es/">
-</form>
+<form method="get" action="http://www.google.com/search" class="navbar-form navbar-right" role="search">
+<div class="form-group">
+<input type="text" name="q" class="form-control" placeholder="Search">
 </div>
+<button type="submit" class="btn btn-primary">
+	<span class="glyphicon glyphicon-search"></span>
+</button>
+<input type="hidden" name="sitesearch" value="http://biblioln.es/">
+</form>
 
 
             <ul class="nav navbar-nav navbar-right"></ul>
@@ -94,8 +98,8 @@
             <img src="landero2.thumbnail.jpg" alt="Landero2"></a>
         </li>
 <li>
-<a href="fotografia-bibliotecarias-y-landero.jpg" class="thumbnail image-reference" title="Fotografia bibliotecarias y landero">
-            <img src="fotografia-bibliotecarias-y-landero.thumbnail.jpg" alt="Fotografia bibliotecarias y landero"></a>
+<a href="landero3.jpg" class="thumbnail image-reference" title="Landero3">
+            <img src="landero3.thumbnail.jpg" alt="Landero3"></a>
         </li>
 <li>
 <a href="landero1.jpg" class="thumbnail image-reference" title="Landero1">
@@ -106,8 +110,8 @@
             <img src="landero5.thumbnail.jpg" alt="Landero5"></a>
         </li>
 <li>
-<a href="landero3.jpg" class="thumbnail image-reference" title="Landero3">
-            <img src="landero3.thumbnail.jpg" alt="Landero3"></a>
+<a href="fotografia-bibliotecarias-y-landero.jpg" class="thumbnail image-reference" title="Fotografia bibliotecarias y landero">
+            <img src="fotografia-bibliotecarias-y-landero.thumbnail.jpg" alt="Fotografia bibliotecarias y landero"></a>
         </li>
 <li>
 <a href="landero6.jpg" class="thumbnail image-reference" title="Landero6">
@@ -129,7 +133,7 @@
     moment.locale("es");
     fancydates(0, "DD-MM-YYYY");
     </script><!-- end fancy dates --><script src="../../assets/js/flowr.plugin.js"></script><script>
-jsonContent = [{"size": {"h": 135, "w": 180}, "title": "Landero2", "url": "landero2.jpg", "url_thumb": "landero2.thumbnail.jpg"}, {"size": {"h": 110, "w": 180}, "title": "Fotografia bibliotecarias y landero", "url": "fotografia-bibliotecarias-y-landero.jpg", "url_thumb": "fotografia-bibliotecarias-y-landero.thumbnail.jpg"}, {"size": {"h": 180, "w": 101}, "title": "Landero1", "url": "landero1.jpg", "url_thumb": "landero1.thumbnail.jpg"}, {"size": {"h": 101, "w": 180}, "title": "Landero5", "url": "landero5.jpg", "url_thumb": "landero5.thumbnail.jpg"}, {"size": {"h": 180, "w": 135}, "title": "Landero3", "url": "landero3.jpg", "url_thumb": "landero3.thumbnail.jpg"}, {"size": {"h": 135, "w": 180}, "title": "Landero6", "url": "landero6.jpg", "url_thumb": "landero6.thumbnail.jpg"}];
+jsonContent = [{"size": {"h": 135, "w": 180}, "title": "Landero2", "url": "landero2.jpg", "url_thumb": "landero2.thumbnail.jpg"}, {"size": {"h": 180, "w": 135}, "title": "Landero3", "url": "landero3.jpg", "url_thumb": "landero3.thumbnail.jpg"}, {"size": {"h": 180, "w": 101}, "title": "Landero1", "url": "landero1.jpg", "url_thumb": "landero1.thumbnail.jpg"}, {"size": {"h": 101, "w": 180}, "title": "Landero5", "url": "landero5.jpg", "url_thumb": "landero5.thumbnail.jpg"}, {"size": {"h": 110, "w": 180}, "title": "Fotografia bibliotecarias y landero", "url": "fotografia-bibliotecarias-y-landero.jpg", "url_thumb": "fotografia-bibliotecarias-y-landero.thumbnail.jpg"}, {"size": {"h": 135, "w": 180}, "title": "Landero6", "url": "landero6.jpg", "url_thumb": "landero6.thumbnail.jpg"}];
 $("#gallery_container").flowr({
         data : jsonContent,
         height : 180*.6,

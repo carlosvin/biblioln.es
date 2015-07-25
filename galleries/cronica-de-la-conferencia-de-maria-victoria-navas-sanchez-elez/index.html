@@ -62,11 +62,15 @@
                 
             </li>
 </ul>
-<div class="container nopadding">
-<form method="get" action="http://www.google.com/search" class="form-horizontal" role="form">
-<input type="text" name="q" size="25" placeholder="Search"><input type="submit"><input type="hidden" name="sitesearch" value="http://biblioln.es/">
-</form>
+<form method="get" action="http://www.google.com/search" class="navbar-form navbar-right" role="search">
+<div class="form-group">
+<input type="text" name="q" class="form-control" placeholder="Search">
 </div>
+<button type="submit" class="btn btn-primary">
+	<span class="glyphicon glyphicon-search"></span>
+</button>
+<input type="hidden" name="sitesearch" value="http://biblioln.es/">
+</form>
 
 
             <ul class="nav navbar-nav navbar-right"></ul>
@@ -90,8 +94,8 @@
 <noscript>
 <ul class="thumbnails">
 <li>
-<a href="IMG_20150610_205445.jpg" class="thumbnail image-reference" title="Img 20150610 205445">
-            <img src="IMG_20150610_205445.thumbnail.jpg" alt="Img 20150610 205445"></a>
+<a href="IMG_20150610_205031.jpg" class="thumbnail image-reference" title="Img 20150610 205031">
+            <img src="IMG_20150610_205031.thumbnail.jpg" alt="Img 20150610 205031"></a>
         </li>
 <li>
 <a href="IMG_20150610_200827.jpg" class="thumbnail image-reference" title="Img 20150610 200827">
@@ -102,8 +106,8 @@
             <img src="IMG_20150610_201704.thumbnail.jpg" alt="Img 20150610 201704"></a>
         </li>
 <li>
-<a href="IMG_20150610_205031.jpg" class="thumbnail image-reference" title="Img 20150610 205031">
-            <img src="IMG_20150610_205031.thumbnail.jpg" alt="Img 20150610 205031"></a>
+<a href="IMG_20150610_205445.jpg" class="thumbnail image-reference" title="Img 20150610 205445">
+            <img src="IMG_20150610_205445.thumbnail.jpg" alt="Img 20150610 205445"></a>
         </li>
 <li>
 <a href="IMG_20150610_203855.jpg" class="thumbnail image-reference" title="Img 20150610 203855">
@@ -125,7 +129,7 @@
     moment.locale("es");
     fancydates(0, "DD-MM-YYYY");
     </script><!-- end fancy dates --><script src="../../assets/js/flowr.plugin.js"></script><script>
-jsonContent = [{"size": {"h": 135, "w": 180}, "title": "Img 20150610 205445", "url": "IMG_20150610_205445.jpg", "url_thumb": "IMG_20150610_205445.thumbnail.jpg"}, {"size": {"h": 135, "w": 180}, "title": "Img 20150610 200827", "url": "IMG_20150610_200827.jpg", "url_thumb": "IMG_20150610_200827.thumbnail.jpg"}, {"size": {"h": 135, "w": 180}, "title": "Img 20150610 201704", "url": "IMG_20150610_201704.jpg", "url_thumb": "IMG_20150610_201704.thumbnail.jpg"}, {"size": {"h": 135, "w": 180}, "title": "Img 20150610 205031", "url": "IMG_20150610_205031.jpg", "url_thumb": "IMG_20150610_205031.thumbnail.jpg"}, {"size": {"h": 135, "w": 180}, "title": "Img 20150610 203855", "url": "IMG_20150610_203855.jpg", "url_thumb": "IMG_20150610_203855.thumbnail.jpg"}];
+jsonContent = [{"size": {"h": 135, "w": 180}, "title": "Img 20150610 205031", "url": "IMG_20150610_205031.jpg", "url_thumb": "IMG_20150610_205031.thumbnail.jpg"}, {"size": {"h": 135, "w": 180}, "title": "Img 20150610 200827", "url": "IMG_20150610_200827.jpg", "url_thumb": "IMG_20150610_200827.thumbnail.jpg"}, {"size": {"h": 135, "w": 180}, "title": "Img 20150610 201704", "url": "IMG_20150610_201704.jpg", "url_thumb": "IMG_20150610_201704.thumbnail.jpg"}, {"size": {"h": 135, "w": 180}, "title": "Img 20150610 205445", "url": "IMG_20150610_205445.jpg", "url_thumb": "IMG_20150610_205445.thumbnail.jpg"}, {"size": {"h": 135, "w": 180}, "title": "Img 20150610 203855", "url": "IMG_20150610_203855.jpg", "url_thumb": "IMG_20150610_203855.thumbnail.jpg"}];
 $("#gallery_container").flowr({
         data : jsonContent,
         height : 180*.6,

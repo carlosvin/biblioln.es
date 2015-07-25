@@ -106,11 +106,15 @@ Tarde
                 
             </li>
 </ul>
-<div class="container nopadding">
-<form method="get" action="http://www.google.com/search" class="form-horizontal" role="form">
-<input type="text" name="q" size="25" placeholder="Search"><input type="submit"><input type="hidden" name="sitesearch" value="http://biblioln.es/">
-</form>
+<form method="get" action="http://www.google.com/search" class="navbar-form navbar-right" role="search">
+<div class="form-group">
+<input type="text" name="q" class="form-control" placeholder="Search">
 </div>
+<button type="submit" class="btn btn-primary">
+	<span class="glyphicon glyphicon-search"></span>
+</button>
+<input type="hidden" name="sitesearch" value="http://biblioln.es/">
+</form>
 
 
             <ul class="nav navbar-nav navbar-right">
