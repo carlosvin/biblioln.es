@@ -21,6 +21,14 @@ Informacion del evento
 
 .. previewimage: /2015/07/papiroflexia-y-cuentos.png
 
+Crónica del evento
+==================
+
+Hemos pasado una tarde estupenda de cuentos y papiroflexia con Javier Caboblanco Brasero, a continuación unas fotografías:
+
+.. thumbnail:: /2015/07/papiroflexiaycuentos.foto.1.jpg
+.. thumbnail:: /2015/07/papiroflexiaycuentos.foto.2.jpg
+
 
 .. _`La Biblioteca`: http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html
 .. _`El cartel en PDF`: /2015/07/papiroflexia-y-cuentos.pdf
