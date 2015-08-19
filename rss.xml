@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales</title><link>http://biblioln.es/</link><description>Biblioteca Pública Municipal de Los Navalmorales</description><atom:link href="http://biblioln.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Sun, 16 Aug 2015 12:32:00 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Papiroflexia y Cuentos</title><link>http://biblioln.es/posts/2015/07/papiroflexia-y-cuentos.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Taller de papiroflexia y cuentos impartido por Javier Caboblanco Brasero.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales</title><link>http://biblioln.es/</link><description>Biblioteca Pública Municipal de Los Navalmorales</description><atom:link href="http://biblioln.es/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Wed, 19 Aug 2015 18:08:16 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Estrella Cervantes</title><link>http://biblioln.es/posts/2015/08/estrella-cervantes.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;La Unión Astronómica Internacional (IAU) ha abierto un concurso
+mundial para asignar nombres oficiales a exoplanetas (planetas alrededor
+de otras estrellas) y a sus estrellas anfitrionas (nameexoworlds.iau.org).&lt;/p&gt;
+&lt;p&gt;Desde el Planetario de Pamplona, la Sociedad Española de Astronomía y
+el Instituto Cervantes han hecho una propuesta para nombrar a la
+estrella mu Arae con el nombre de &lt;strong&gt;"Cervantes"&lt;/strong&gt; y a sus 4 planetas con los
+de sus personajes: Quijote, Dulcinea, Sancho y Rocinante. Puedes ver
+muchos más detalles en la página web oficial: &lt;a class="reference external" href="http://www.estrellacervantes.es"&gt;http://www.estrellacervantes.es&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Más información en las redes &lt;a class="reference external" href="https://twitter.com/hashtag/YoEstrellaCervantes"&gt;#YoEstrellaCervantes&lt;/a&gt;:&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;a class="reference external image-reference" href="https://twitter.com/CervantesmuAra"&gt;&lt;img alt="https://g.twimg.com/dev/documentation/image/Twitter_logo_blue_16.png" src="https://g.twimg.com/dev/documentation/image/Twitter_logo_blue_16.png"&gt;&lt;/a&gt;
+&lt;p class="caption"&gt;&lt;a class="reference external" href="https://twitter.com/CervantesmuAra"&gt;@CervantesmuAra&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="figure"&gt;
+&lt;a class="reference external image-reference" href="https://www.facebook.com/CervantesmuAra"&gt;&lt;img alt="http://www.clipartbest.com/cliparts/9cR/R9a/9cRR9ajgi.png" src="http://www.clipartbest.com/cliparts/9cR/R9a/9cRR9ajgi.png" style="width: 16px;"&gt;&lt;/a&gt;
+&lt;p class="caption"&gt;&lt;a class="reference external" href="https://www.facebook.com/CervantesmuAra"&gt;facebook.com/CervantesmuAra&lt;/a&gt;&lt;/p&gt;
+&lt;div class="legend"&gt;
+&lt;div class="figure"&gt;
+&lt;a class="reference external image-reference" href="http://www.estrellacervantes.es"&gt;&lt;img alt="/2015/08/estrella-cervantes-banner.png" src="http://biblioln.es/2015/08/estrella-cervantes-banner.png"&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;iframe width="425" height="344" src="//www.youtube.com/embed/93blZXM7DGg?rel=0&amp;amp;hd=1&amp;amp;wmode=transparent"&gt;&lt;/iframe&gt;&lt;!-- previewimage: /2015/08/estrella-cervantes-banner.png --&gt;&lt;/div&gt;</description><category>Astrofísica</category><category>Literatura</category><guid>http://biblioln.es/posts/2015/08/estrella-cervantes.html</guid><pubDate>Wed, 19 Aug 2015 17:00:00 GMT</pubDate></item><item><title>Papiroflexia y Cuentos</title><link>http://biblioln.es/posts/2015/07/papiroflexia-y-cuentos.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Taller de papiroflexia y cuentos impartido por Javier Caboblanco Brasero.&lt;/p&gt;
 &lt;div class="section" id="informacion-del-evento"&gt;
 &lt;h2&gt;Informacion del evento&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -110,62 +132,4 @@
 &lt;p&gt;Desde la biblioteca queremos agradecer la colaboración a los profesores del Colegio Público San Francisco y de IES de Los Navalmorales.&lt;/p&gt;
 &lt;a class="reference external image-reference" href="http://biblioln.es/IMG_20150423_180243-d%C3%ADa-del-libro-enla-biblioteca.jpg"&gt;&lt;img alt="/IMG_20150423_180243-día-del-libro-enla-biblioteca.thumbnail.jpg" src="http://biblioln.es/IMG_20150423_180243-d%C3%ADa-del-libro-enla-biblioteca.thumbnail.jpg"&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Día del Libro</category><category>eventos</category><category>La Biblioteca</category><guid>http://biblioln.es/posts/2015/05/celebracion-dia-del-libro-2015-en-la-biblioteca.html</guid><pubDate>Sun, 10 May 2015 19:32:31 GMT</pubDate></item><item><title>Certamen Relato Breve "Mariví Fernández González"</title><link>http://biblioln.es/posts/2015/05/certamen-relato-breve-marivi-fernandez-gonzalez.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;A continuación colgamos las bases del primer &lt;strong&gt;Certamen de Relate Breve "Mariví Fernández González"&lt;/strong&gt; organizado por la &lt;strong&gt;Asociación El Libro de los Clubes&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/2015/05/Programa-Definitivo.pdf"&gt;Bases del primer Certamen de Relate Breve Mariví Fernández González&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Esta Web</category><category>eventos</category><guid>http://biblioln.es/posts/2015/05/certamen-relato-breve-marivi-fernandez-gonzalez.html</guid><pubDate>Thu, 07 May 2015 17:26:38 GMT</pubDate></item><item><title>Novedades Literatura Infantil</title><link>http://biblioln.es/posts/2015/04/novedades-literatura-infantil.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;a href="http://www.google.com/search?q=9788444169293"&gt;MY LITTLE PONY: PINKIE PIE Y LA FANTASTICA FIESTA &lt;b&gt;...&lt;/b&gt; - Agapea&lt;/a&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788444169293"&gt;9788444169293&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://portadas.quorum.t2v.com/6/9/2/9/3/9788444169293.JPG" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788444169286"&gt;MY LITTLE PONY : TWILIGHT SPARKLE Y EL HECHIZO DEL &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788444169286"&gt;9788444169286&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/86/9788444169286.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788493822347"&gt;PASAJES Librería internacional: Mil y un cuentos&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788493822347"&gt;9788493822347&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://ecx.images-amazon.com/images/I/51B0sGvGz0L._SX258_BO1,204,203,200_.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788484647416"&gt;LA FAMILIA C - PEP BRUNO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788484647416"&gt;9788484647416&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/16/9788484647416.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788467574159"&gt;LOS FUTBOLISIMOS: EL MISTERIO DEL ROBO IMPOSIBLE &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788467574159"&gt;9788467574159&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/59/9788467574159.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788408131984"&gt;SHERLOCK, LUPIN Y YO 5: EL CASTILLO DE HIELO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788408131984"&gt;9788408131984&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/84/9788408131984.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788420444765"&gt;UNA (ESTUPENDA) HISTORIA DE DRAGONES Y PRINCESAS &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788420444765"&gt;9788420444765&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/65/9788420444765.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788567502879"&gt;9788567502879&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/78/9788484289678.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788461540464"&gt;LA FAMILIA C - PEP BRUNO, comprar el libro&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788461540464"&gt;9788461540464&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://ecx.images-amazon.com/images/I/81M0FYJM8mL.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788498710731"&gt;La aldea menuda: 2010/03&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788498710731"&gt;9788498710731&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://ecx.images-amazon.com/images/I/81S6P4C1L3L.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788467536058"&gt;QUIJOTE - MIGUEL DE CERVANTES SAAVEDRA&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788467536058"&gt;9788467536058&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t1/58/9788467536058.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788416075126"&gt;¿DONDE ESTA WALLY?: LA COLECCION DEFINITIVA - MARTIN &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788416075126"&gt;9788416075126&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/26/9788416075126.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788494222825"&gt;RUIDO - PABLO ALBO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788494222825"&gt;9788494222825&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t1/25/9788494222825.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788492702886"&gt;11. La máquina de las estaciones - Almadraba Infantil y Juvenil&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788492702886"&gt;9788492702886&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/86/9788492702886.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788484289678"&gt;UN MONSTRUO - PEP BRUNO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788484289678"&gt;9788484289678&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/78/9788484289678.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788408113362"&gt;BUSCAFIERAS 23. BLAZE. EL DRAGON DE HIELO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788408113362"&gt;9788408113362&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/62/9788408113362.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788426391797"&gt;ADA GOTH Y EL FANTASMA DEL RATÓN - CHRIS RIDDELL &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788426391797"&gt;9788426391797&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://www.libreriacentral.com/Resources/Pictures/9788426391797.JPG" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788423692811"&gt;MICHO 2, EDUCACIÓN INFANTIL, MARTÍNEZ BELINCHÓN, PILAR &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788423692811"&gt;9788423692811&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://ecx.images-amazon.com/images/I/819QM6fX1QL.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788468309217"&gt;LA EXTRAÑA ORQUESTA - PABLO ALBO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788468309217"&gt;9788468309217&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/17/9788468309217.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788420417974"&gt;EL MISTERIO DE LAS MASCARAS VENECIANAS(EL PEQUEÑO &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788420417974"&gt;9788420417974&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/74/9788420417974.jpg" alt="" width="480"&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Catálogo</category><category>novedades</category><guid>http://biblioln.es/posts/2015/04/novedades-literatura-infantil.html</guid><pubDate>Thu, 23 Apr 2015 22:45:54 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/2015/05/Programa-Definitivo.pdf"&gt;Bases del primer Certamen de Relate Breve Mariví Fernández González&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Esta Web</category><category>eventos</category><guid>http://biblioln.es/posts/2015/05/certamen-relato-breve-marivi-fernandez-gonzalez.html</guid><pubDate>Thu, 07 May 2015 17:26:38 GMT</pubDate></item></channel></rss>

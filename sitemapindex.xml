@@ -7,11 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2015-08-19</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/agradecimientos.xml</loc>
   <lastmod>2015-07-23</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/categories/astrofisica.xml</loc>
+  <lastmod>2015-08-19</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/bebeteca.xml</loc>
@@ -76,6 +80,10 @@
  <sitemap>
   <loc>http://biblioln.es/categories/libros.xml</loc>
   <lastmod>2015-07-23</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/categories/literatura.xml</loc>
+  <lastmod>2015-08-19</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/los-mayores-cuentan-cuentos.xml</loc>
@@ -159,10 +167,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2015-08-19</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2015-08-19</lastmod>
  </sitemap>
 </sitemapindex>

@@ -23,7 +23,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/2015/index.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2015-08-19</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
@@ -31,11 +31,15 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/actividades.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2015-08-19</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/agradecimientos.html</loc>
   <lastmod>2015-08-16</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/categories/astrofisica.html</loc>
+  <lastmod>2015-08-19</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/bebeteca.html</loc>
@@ -91,7 +95,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/index.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2015-08-19</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/la-biblioteca.html</loc>
@@ -104,6 +108,10 @@
  <url>
   <loc>http://biblioln.es/categories/libros.html</loc>
   <lastmod>2015-08-16</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/categories/literatura.html</loc>
+  <lastmod>2015-08-19</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/los-mayores-cuentan-cuentos.html</loc>
@@ -203,7 +211,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-12.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2015-08-19</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-2.html</loc>
@@ -239,7 +247,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2015-08-19</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/07/comenzamos-a-andar.html</loc>
@@ -731,15 +739,27 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2015/06/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2015-08-19</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2015/06/xvii-encuentro-provincial-de-clubes-de-lectura.html</loc>
   <lastmod>2015-08-16</lastmod>
  </url>
  <url>
+  <loc>http://biblioln.es/posts/2015/07/estrella-cervantes.html</loc>
+  <lastmod>2015-08-19</lastmod>
+ </url>
+ <url>
   <loc>http://biblioln.es/posts/2015/07/papiroflexia-y-cuentos.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2015-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2015/08/estrella-cervantes.html</loc>
+  <lastmod>2015-08-19</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2015/08/papiroflexia-y-cuentos.html</loc>
+  <lastmod>2015-08-19</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/stories/2011/07/44.html</loc>
