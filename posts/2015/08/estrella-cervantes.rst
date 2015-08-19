@@ -31,6 +31,8 @@ Más información en las redes `#YoEstrellaCervantes`_:
 	.. figure:: /2015/08/estrella-cervantes-banner.png
 		:target: http://www.estrellacervantes.es
 
+--
+
 .. youtube:: 93blZXM7DGg
 
 .. previewimage: /2015/08/estrella-cervantes-banner.png
