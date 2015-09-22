@@ -23,7 +23,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/2015/index.html</loc>
-  <lastmod>2015-08-19</lastmod>
+  <lastmod>2015-09-22</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
@@ -66,6 +66,10 @@
   <lastmod>2015-08-16</lastmod>
  </url>
  <url>
+  <loc>http://biblioln.es/categories/cursos.html</loc>
+  <lastmod>2015-09-22</lastmod>
+ </url>
+ <url>
   <loc>http://biblioln.es/categories/dia-del-libro.html</loc>
   <lastmod>2015-08-16</lastmod>
  </url>
@@ -95,7 +99,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/index.html</loc>
-  <lastmod>2015-08-19</lastmod>
+  <lastmod>2015-09-22</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/categories/informatica.html</loc>
+  <lastmod>2015-09-22</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/la-biblioteca.html</loc>
@@ -134,12 +142,16 @@
   <lastmod>2015-08-16</lastmod>
  </url>
  <url>
+  <loc>http://biblioln.es/categories/seguridad.html</loc>
+  <lastmod>2015-09-22</lastmod>
+ </url>
+ <url>
   <loc>http://biblioln.es/categories/taller-de-literatura.html</loc>
   <lastmod>2015-08-16</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/talleres.html</loc>
-  <lastmod>2015-08-16</lastmod>
+  <lastmod>2015-09-22</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/teatro.html</loc>
@@ -211,7 +223,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-12.html</loc>
-  <lastmod>2015-08-19</lastmod>
+  <lastmod>2015-09-22</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-2.html</loc>
@@ -247,7 +259,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index.html</loc>
-  <lastmod>2015-08-19</lastmod>
+  <lastmod>2015-09-22</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/07/comenzamos-a-andar.html</loc>
@@ -751,7 +763,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2015/08/estrella-cervantes.html</loc>
-  <lastmod>2015-08-19</lastmod>
+  <lastmod>2015-09-22</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2015/09/taller-scratch-navalmorales.html</loc>
+  <lastmod>2015-09-22</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/stories/2011/07/44.html</loc>

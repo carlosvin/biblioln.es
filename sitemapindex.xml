@@ -42,6 +42,10 @@
   <lastmod>2015-07-23</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/categories/cursos.xml</loc>
+  <lastmod>2015-09-22</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/categories/dia-del-libro.xml</loc>
   <lastmod>2015-07-23</lastmod>
  </sitemap>
@@ -68,6 +72,10 @@
  <sitemap>
   <loc>http://biblioln.es/categories/fotos.xml</loc>
   <lastmod>2015-07-23</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/categories/informatica.xml</loc>
+  <lastmod>2015-09-22</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/la-biblioteca.xml</loc>
@@ -106,12 +114,16 @@
   <lastmod>2015-07-23</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/categories/seguridad.xml</loc>
+  <lastmod>2015-09-22</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
   <lastmod>2015-07-23</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/talleres.xml</loc>
-  <lastmod>2015-07-23</lastmod>
+  <lastmod>2015-09-22</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/teatro.xml</loc>
@@ -167,10 +179,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2015-08-19</lastmod>
+  <lastmod>2015-09-22</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2015-08-19</lastmod>
+  <lastmod>2015-09-22</lastmod>
  </sitemap>
 </sitemapindex>
