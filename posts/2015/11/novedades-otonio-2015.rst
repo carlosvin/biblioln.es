@@ -1,9 +1,8 @@
 .. title: Novedades Otoño 2015
 .. slug: novedades-otonio-2015
-.. date: 2015-11-26 21:00
-.. tags: Catalogo, Novedades, Libros
+.. date: 2015-10-26 21:00
+.. tags: Catálogo, novedades, Libros
 .. description: Lista de nuevos libros recientemente adquiridos por la Biblioteca
-.. type: micro
 
 
 .. book_figure:: NUMEROS SALTARINES - KATE LEE, comprar el libro
