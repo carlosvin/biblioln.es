@@ -23,12 +23,8 @@ Bases
 
 .. thumbnail:: /2015/10/mejor-lector-2015.png
 
-	`El cartel en PDF`_
-
 .. previewimage: /2015/10/mejor-lector-2015.png
 
 
-
-
 .. _`La Biblioteca`: http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html
-.. _`El cartel en PDF`: /2015/07/papiroflexia-y-cuentos.pdf
+

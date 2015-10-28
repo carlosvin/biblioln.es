@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Biblioteca Los Navalmorales</title><link>http://biblioln.es/</link><description>Biblioteca Pública Municipal de Los Navalmorales</description><atom:link rel="self" type="application/rss+xml" href="http://biblioln.es/rss.xml"></atom:link><language>es</language><lastBuildDate>Wed, 28 Oct 2015 00:49:22 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Regalo al Mejor Lector/a 2015</title><link>http://biblioln.es/posts/2015/10/mejor-lector-2015.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Durante este último trimestre del año vamos a celebrar un concurso al mejor lector del trimestre.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales</title><link>http://biblioln.es/</link><description>Biblioteca Pública Municipal de Los Navalmorales</description><atom:link href="http://biblioln.es/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Wed, 28 Oct 2015 19:10:22 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Regalo al Mejor Lector/a 2015</title><link>http://biblioln.es/posts/2015/10/mejor-lector-2015.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Durante este último trimestre del año vamos a celebrar un concurso al mejor lector del trimestre.&lt;/p&gt;
 &lt;div class="section" id="bases"&gt;
 &lt;h2&gt;Bases&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -14,10 +14,7 @@
 &lt;li&gt;Para los niños de primaria&lt;/li&gt;
 &lt;li&gt;Más información en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html"&gt;La Biblioteca&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="figure"&gt;
 &lt;a class="reference external image-reference" href="http://biblioln.es/2015/10/mejor-lector-2015.png"&gt;&lt;img alt="/2015/10/mejor-lector-2015.thumbnail.png" src="http://biblioln.es/2015/10/mejor-lector-2015.thumbnail.png"&gt;&lt;/a&gt;
-&lt;p class="caption"&gt;&lt;a class="reference external" href="http://biblioln.es/2015/07/papiroflexia-y-cuentos.pdf"&gt;El cartel en PDF&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
 &lt;!-- previewimage: /2015/10/mejor-lector-2015.png --&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><guid>http://biblioln.es/posts/2015/10/mejor-lector-2015.html</guid><pubDate>Mon, 26 Oct 2015 21:00:00 GMT</pubDate></item><item><title>Novedades Otoño 2015</title><link>http://biblioln.es/posts/2015/10/novedades-otonio-2015.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="book-figure"&gt;
 &lt;div class="book-figure-media"&gt;
