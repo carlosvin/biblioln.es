@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (Actividades)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/actividades.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 19 Aug 2015 18:06:13 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Papiroflexia y Cuentos</title><link>http://biblioln.es/posts/2015/07/papiroflexia-y-cuentos.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Taller de papiroflexia y cuentos impartido por Javier Caboblanco Brasero.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Biblioteca Los Navalmorales (Actividades)</title><link>http://biblioln.es/</link><description></description><atom:link rel="self" type="application/rss+xml" href="http://biblioln.es/categories/actividades.xml"></atom:link><language>es</language><lastBuildDate>Tue, 27 Oct 2015 23:54:09 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Papiroflexia y Cuentos</title><link>http://biblioln.es/posts/2015/07/papiroflexia-y-cuentos.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Taller de papiroflexia y cuentos impartido por Javier Caboblanco Brasero.&lt;/p&gt;
 &lt;div class="section" id="informacion-del-evento"&gt;
 &lt;h2&gt;Informacion del evento&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -23,13 +23,13 @@
 &lt;p&gt;También queremos expresar nuestro agradecimiento desde El Taller de Literatura, a la Coral Cristo de Las Maravillas y a Rafael Cabrera su director.&lt;/p&gt;
 &lt;p&gt;Ellos han colaborado cantando para nosotros La Habanera "Mi Pueblo" (autora Mª Antonia Ricas Peces, música de Rafael Cabrera), que aparece en el libro. Hemos cerrado el acto de una forma muy bonita, siempre es un placer escucharles.&lt;/p&gt;
 
-&lt;div id="slides_bc7d78019d1745eeab9b645e2882cef1" class="carousel slide"&gt;
+&lt;div id="slides_53cbbcaf934548399a49ec7b617c4726" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_bc7d78019d1745eeab9b645e2882cef1" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_bc7d78019d1745eeab9b645e2882cef1" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_bc7d78019d1745eeab9b645e2882cef1" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_bc7d78019d1745eeab9b645e2882cef1" data-slide-to="3"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_bc7d78019d1745eeab9b645e2882cef1" data-slide-to="4"&gt;
+            &lt;li data-target="#slides_53cbbcaf934548399a49ec7b617c4726" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_53cbbcaf934548399a49ec7b617c4726" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_53cbbcaf934548399a49ec7b617c4726" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_53cbbcaf934548399a49ec7b617c4726" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_53cbbcaf934548399a49ec7b617c4726" data-slide-to="4"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez/IMG_20150610_200827.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
@@ -38,8 +38,8 @@
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez/IMG_20150610_201704.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez/IMG_20150610_205031.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2015/06/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez.html#slides_bc7d78019d1745eeab9b645e2882cef1" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2015/06/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez.html#slides_bc7d78019d1745eeab9b645e2882cef1" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2015/06/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez.html#slides_53cbbcaf934548399a49ec7b617c4726" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2015/06/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez.html#slides_53cbbcaf934548399a49ec7b617c4726" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Entrada anterior: &lt;a class="reference external" href="http://biblioln.es/posts/2015/06/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez.html"&gt;Conferencia Impartida por María Victoria Navas Sánchez-Élez&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2015/06/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez.html</guid><pubDate>Tue, 30 Jun 2015 18:26:46 GMT</pubDate></item><item><title>Taller de Comprension Lectora "Los 10 Fantasticos"</title><link>http://biblioln.es/posts/2015/05/taller-de-comprension-lectora-los-10-fantasticos.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Esta formado por un grupo de 10 niñas/niños de 1º y 2º de primaria&lt;/p&gt;
