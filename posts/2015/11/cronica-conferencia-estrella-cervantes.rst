@@ -11,7 +11,7 @@ Javier Gorgas (astrofísico, catedrático del `Departamento de Astrofísica de l
 
 Nos hablo sobre planetas, galaxias y estrellas, centrandonos en una estrella descubierta recientemente a la que nos gustaria que llamasen estrella Cervantes, como nuestro gran escritor.
 
-`Mas información sobre como votar`.
+`Mas información sobre como votar`_.
 
 Asistieron 90 personas, todo un éxito.
 
