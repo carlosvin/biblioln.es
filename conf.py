@@ -78,7 +78,8 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/stories/la-biblioteca-de-los-navalmorales.html", "La Biblioteca"),
-	("/stories/la-biblioteca-de-los-navalmorales/contacto.html", "Contacto"),
+        ("/stories/la-biblioteca-de-los-navalmorales/contacto.html", "Contacto"),
+        ("http://reddebibliotecas.jccm.es/portal/", "Catálogo JCCM"),
         ("/archive.html", "Archivos"),
         ("/categories/index.html", "Categorías"),
         ("/rss.xml", "RSS"),
