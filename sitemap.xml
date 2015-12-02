@@ -23,15 +23,15 @@
  </url>
  <url>
   <loc>http://biblioln.es/2015/index.html</loc>
-  <lastmod>2015-12-02T20:11:00Z</lastmod>
+  <lastmod>2015-12-02T20:26:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2015-12-02T20:11:00Z</lastmod>
+  <lastmod>2015-12-02T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/actividades.html</loc>
-  <lastmod>2015-12-02T20:11:00Z</lastmod>
+  <lastmod>2015-12-02T20:26:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/agradecimientos.html</loc>
@@ -52,6 +52,10 @@
  <url>
   <loc>http://biblioln.es/categories/comprension-lectora.html</loc>
   <lastmod>2015-11-12T20:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/categories/concursos.html</loc>
+  <lastmod>2015-12-02T20:26:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/conferencias.html</loc>
@@ -99,7 +103,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/index.html</loc>
-  <lastmod>2015-11-12T20:12:00Z</lastmod>
+  <lastmod>2015-12-02T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/informatica.html</loc>
@@ -227,7 +231,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-13.html</loc>
-  <lastmod>2015-12-02T20:11:00Z</lastmod>
+  <lastmod>2015-12-02T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-2.html</loc>
@@ -263,7 +267,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index.html</loc>
-  <lastmod>2015-12-02T20:11:00Z</lastmod>
+  <lastmod>2015-12-02T20:26:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/07/comenzamos-a-andar.html</loc>
@@ -795,7 +799,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html</loc>
-  <lastmod>2015-12-02T20:11:00Z</lastmod>
+  <lastmod>2015-12-02T20:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2015/12/premio-mejor-lector-2015.html</loc>
+  <lastmod>2015-12-02T20:26:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/stories/2011/07/44.html</loc>
