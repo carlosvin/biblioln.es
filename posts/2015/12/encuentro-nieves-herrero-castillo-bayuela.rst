@@ -12,10 +12,13 @@ La presentación ha sido en `Castillo de Bayuela`_, donde hemos pasado una tarde
 .. thumbnail:: /2015/12/encuentro-nieves-herrero.jpg
   :align: center
 
+.. thumbnail:: /2015/12/encuentro-nieves-herrero-2.jpg
+  :align: center
+
 .. thumbnail:: /2015/11/nieves_herrero.png
   :align: center
 
-.. previewimage: /2015/12/encuentro-nieves-herrero.jpg
+.. previewimage: /2015/12/encuentro-nieves-herrero-2.jpg
 
 
 .. _`Como si no hubiera un mañana`: http://www.esferalibros.com/libro/como-si-no-hubiera-un-manana/

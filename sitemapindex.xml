@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2015-12-02T20:26:00Z</lastmod>
+  <lastmod>2015-12-16T22:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/agradecimientos.xml</loc>
@@ -71,7 +71,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2015-12-02T20:11:00Z</lastmod>
+  <lastmod>2015-12-16T22:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/fotos.xml</loc>
@@ -123,7 +123,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
-  <lastmod>2015-12-02T20:11:00Z</lastmod>
+  <lastmod>2015-12-16T22:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/talleres.xml</loc>
@@ -183,10 +183,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2015-12-02T20:26:00Z</lastmod>
+  <lastmod>2015-12-16T22:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2015-12-02T20:26:00Z</lastmod>
+  <lastmod>2015-12-16T22:30:00Z</lastmod>
  </sitemap>
 </sitemapindex>
