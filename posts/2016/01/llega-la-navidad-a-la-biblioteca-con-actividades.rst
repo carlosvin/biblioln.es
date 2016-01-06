@@ -73,6 +73,11 @@ Susana. la monitora de La Bebeteca, que hay todos los viernes en la Biblioteca, 
 	:align: center
 	:target: /2016/01/navidad-bebeteca.jpg
 
+.. figure:: /2016/01/bebeteca.jpg
+	:width: 480px
+	:align: center
+	:target: /2016/01/bebeteca.jpg
+
 Taller de Literatura
 ====================
 
@@ -101,4 +106,4 @@ La Bibliotecaria de Los Navalmorales.
 
 Mª Lourdes Sánchez
 
-.. previewimage: /2016/01/navidad-club-comprension-lectora.jpg
+.. previewimage: /2016/01/bebeteca.jpg
