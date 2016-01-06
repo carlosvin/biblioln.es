@@ -78,6 +78,11 @@ Susana. la monitora de La Bebeteca, que hay todos los viernes en la Biblioteca, 
 	:align: center
 	:target: /2016/01/bebeteca.jpg
 
+.. figure:: /2016/01/bebeteca2.jpg
+	:width: 480px
+	:align: center
+	:target: /2016/01/bebeteca2.jpg
+
 Taller de Literatura
 ====================
 
