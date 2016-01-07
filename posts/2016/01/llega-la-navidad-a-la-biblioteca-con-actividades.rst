@@ -27,6 +27,7 @@ Segundo   Héctor  Gómez Avellan        Rocío Gómez Jara    Ángela López to
 	:align: center
 	:target: /2016/01/navidad-5-6.2.jpg
 
+Han hecho la entrega de premios: Mº Paz Gallego Muñoz Gallego Muñoz (concejala de cultura), y José Antonio Ruíz Luque(profesor).
 
 Decoramos la Biblioteca
 =======================
