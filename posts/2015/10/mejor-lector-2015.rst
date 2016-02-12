@@ -22,9 +22,9 @@ Bases
 
 
 .. thumbnail:: /2015/10/mejor-lector-2015.png
+  :align: center
 
 .. previewimage: /2015/10/mejor-lector-2015.png
 
 
 .. _`La Biblioteca`: http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html
-

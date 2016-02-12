@@ -9,14 +9,11 @@ Los componentes del  Taller de Literatura, hemos asistido  a la presentación de
 
 La presentación ha sido en `Castillo de Bayuela`_, donde hemos pasado una tarde estupenda. En el pueblo nos han recibido muy bien, hemos visitado el mercado de artesanía.  Seguidamente hemos asistido a la presentación del libro, el acto ha estado muy bien, Nieves Herrero nos ha hablado de Luis Miguel Dominguin y Ava Gardner, que son los protagonistas de este libro.
 
-.. thumbnail:: /2015/12/encuentro-nieves-herrero.jpg
-  :align: center
+.. slides::
 
-.. thumbnail:: /2015/12/encuentro-nieves-herrero-2.jpg
-  :align: center
-
-.. thumbnail:: /2015/11/nieves_herrero.png
-  :align: center
+  /2015/12/encuentro-nieves-herrero.jpg
+  /2015/12/encuentro-nieves-herrero-2.jpg
+  /2015/11/nieves_herrero.png
 
 .. previewimage: /2015/12/encuentro-nieves-herrero-2.jpg
 

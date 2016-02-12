@@ -11,8 +11,8 @@ Hemos leído "Una (estupenda ) historia de dragones y princesas (más o menos)" 
 Estas son las viñetas que ellos han dibujado.
 
 .. thumbnail:: /galleries/2015/Club_de_Lectura_Jovenes_Lectores/clip_image003.jpg
+
 .. thumbnail:: /galleries/2015/Club_de_Lectura_Jovenes_Lectores/clip_image004.jpg
 
 
 Para terminar el curso vamos a leer: El Polizón de Ulises (Ana María Matute) y haremos una actividad en coordinación con otros clubes de lectura infantiles.
-
