@@ -14,6 +14,7 @@ Todos los Lunes a las 5:30pm, las madres y padres cuentan "Cuentos con Chocolate
 - Los interesados en participar pueden pasar a apuntarse a `La Biblioteca`_.
 
 .. thumbnail:: /2016/02/cuentos-con-chocolate.png
+	:align: center
 
 	`El cartel en PDF`_
 

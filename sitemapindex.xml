@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2016-02-10T19:52:00Z</lastmod>
+  <lastmod>2016-02-12T18:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/agradecimientos.xml</loc>
@@ -27,15 +27,15 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/comprension-lectora.xml</loc>
-  <lastmod>2015-10-27T23:54:00Z</lastmod>
+  <lastmod>2016-02-12T18:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/concursos.xml</loc>
-  <lastmod>2015-12-02T20:26:00Z</lastmod>
+  <lastmod>2016-02-12T18:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/conferencias.xml</loc>
-  <lastmod>2015-11-11T18:21:00Z</lastmod>
+  <lastmod>2016-02-12T18:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/cuentacuentos.xml</loc>
@@ -47,7 +47,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/cursos.xml</loc>
-  <lastmod>2016-01-07T18:42:00Z</lastmod>
+  <lastmod>2016-02-12T18:26:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/dia-del-libro.xml</loc>
@@ -71,7 +71,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2015-12-16T22:30:00Z</lastmod>
+  <lastmod>2016-02-12T18:28:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/fotos.xml</loc>
@@ -123,11 +123,11 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
-  <lastmod>2015-12-16T22:30:00Z</lastmod>
+  <lastmod>2016-02-12T18:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/talleres.xml</loc>
-  <lastmod>2016-01-07T18:42:00Z</lastmod>
+  <lastmod>2016-02-12T18:26:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/teatro.xml</loc>
@@ -183,10 +183,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2016-02-10T19:52:00Z</lastmod>
+  <lastmod>2016-02-12T18:35:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2016-02-10T19:52:00Z</lastmod>
+  <lastmod>2016-02-12T18:38:00Z</lastmod>
  </sitemap>
 </sitemapindex>
