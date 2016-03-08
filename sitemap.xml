@@ -27,15 +27,15 @@
  </url>
  <url>
   <loc>http://biblioln.es/2016/index.html</loc>
-  <lastmod>2016-02-12T18:26:00Z</lastmod>
+  <lastmod>2016-03-08T18:37:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2016-02-12T18:32:00Z</lastmod>
+  <lastmod>2016-03-08T18:31:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/actividades.html</loc>
-  <lastmod>2016-02-12T18:35:00Z</lastmod>
+  <lastmod>2016-03-08T18:37:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/agradecimientos.html</loc>
@@ -68,6 +68,10 @@
  <url>
   <loc>http://biblioln.es/categories/cuentacuentos.html</loc>
   <lastmod>2016-01-06T19:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/categories/cuentos-con-chocolate.html</loc>
+  <lastmod>2016-03-08T18:37:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/cuentos.html</loc>
@@ -107,7 +111,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/index.html</loc>
-  <lastmod>2016-01-06T19:47:00Z</lastmod>
+  <lastmod>2016-03-08T18:31:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/informatica.html</loc>
@@ -235,7 +239,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-13.html</loc>
-  <lastmod>2016-02-12T18:32:00Z</lastmod>
+  <lastmod>2016-03-08T18:31:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-2.html</loc>
@@ -271,7 +275,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index.html</loc>
-  <lastmod>2016-02-12T18:35:00Z</lastmod>
+  <lastmod>2016-03-08T18:37:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/07/comenzamos-a-andar.html</loc>
@@ -810,10 +814,6 @@
   <lastmod>2016-02-12T18:33:00Z</lastmod>
  </url>
  <url>
-  <loc>http://biblioln.es/posts/2015/12/mejor-lector-2015.html</loc>
-  <lastmod>2016-02-12T18:32:00Z</lastmod>
- </url>
- <url>
   <loc>http://biblioln.es/posts/2015/12/premio-mejor-lector-2015.html</loc>
   <lastmod>2016-02-12T18:33:00Z</lastmod>
  </url>
@@ -823,11 +823,15 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html</loc>
-  <lastmod>2016-02-12T18:21:00Z</lastmod>
+  <lastmod>2016-03-08T18:31:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2016/02/cuentos-con-chocolate.html</loc>
-  <lastmod>2016-02-12T18:24:00Z</lastmod>
+  <lastmod>2016-03-08T18:31:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2016/03/contando-cuentos-con-chocolate.html</loc>
+  <lastmod>2016-03-08T18:37:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/stories/2011/07/44.html</loc>
