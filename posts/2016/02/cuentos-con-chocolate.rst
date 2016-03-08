@@ -1,7 +1,7 @@
 .. title: Cuentos con Chocolate
 .. slug: cuentos-con-chocolate
 .. date: 2016-02-10 20:30
-.. tags: Actividades
+.. tags: Actividades, Cuentos con Chocolate
 .. description: Todos los lunes a las 5:30 , las madres cuentan: Cuentos con Chocolate; primero el cuento y después el chocolate.
 
 Todos los Lunes a las 5:30pm, las madres y padres cuentan "Cuentos con Chocolate": primero el cuento y después el chocolate.
