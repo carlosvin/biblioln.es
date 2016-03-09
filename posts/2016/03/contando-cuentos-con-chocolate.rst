@@ -9,7 +9,7 @@ Como `ya anunciamos hace unos dias  <link://slug/cuentos-con-chocolate>`_, todos
 Son unos cuentos muy dulces.
 
 - Susana nos ha contado: **Sigueme** (Roger Olmos)
-- Raquel nos ha contado: **Esconderme Kiper!**
+- Raquel nos ha contado: **Escóndeme Kiper!**
 
 .. slides::
 
