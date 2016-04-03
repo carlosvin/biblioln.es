@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2016-03-09T17:21:00Z</lastmod>
+  <lastmod>2016-04-03T14:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/agradecimientos.xml</loc>
@@ -187,10 +187,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2016-03-09T17:21:00Z</lastmod>
+  <lastmod>2016-04-03T14:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2016-03-09T17:21:00Z</lastmod>
+  <lastmod>2016-04-03T14:30:00Z</lastmod>
  </sitemap>
 </sitemapindex>
