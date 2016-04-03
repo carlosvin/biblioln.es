@@ -1,12 +1,222 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales</title><link>http://biblioln.es/</link><description>Biblioteca Pública Municipal de Los Navalmorales</description><atom:link type="application/rss+xml" href="http://biblioln.es/rss.xml" rel="self"></atom:link><language>es</language><lastBuildDate>Sun, 03 Apr 2016 17:53:36 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Concierto de primavera 2016</title><link>http://biblioln.es/posts/2016/04/concierto-primavera.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo 23 de Abril (Día del Libro) a las 19:30 tendrá lugar el Concierto de Primavera  a cargo del &lt;a class="reference external" href="https://www.facebook.com/Coro-de-Profesores-del-IES-Rosa-Chacel-182652961883206/"&gt;Coro de Profesores del IES Rosa Chacel de Colmenar Viejo&lt;/a&gt;.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Biblioteca Los Navalmorales</title><link>http://biblioln.es/</link><description>Biblioteca Pública Municipal de Los Navalmorales</description><atom:link type="application/rss+xml" href="http://biblioln.es/rss.xml" rel="self"></atom:link><language>es</language><lastBuildDate>Sun, 03 Apr 2016 18:28:20 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Concierto de primavera 2016</title><link>http://biblioln.es/posts/2016/04/concierto-primavera.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo 23 de Abril (Día del Libro) a las 19:30 tendrá lugar el Concierto de Primavera  a cargo del &lt;a class="reference external" href="https://www.facebook.com/Coro-de-Profesores-del-IES-Rosa-Chacel-182652961883206/"&gt;Coro de Profesores del IES Rosa Chacel de Colmenar Viejo&lt;/a&gt;.&lt;/p&gt;
 &lt;a class="reference external image-reference" href="http://biblioln.es/2016/04/concierto-primavera-2016.jpg"&gt;&lt;img alt="/2016/04/concierto-primavera-2016.thumbnail.jpg" class="align-center" src="http://biblioln.es/2016/04/concierto-primavera-2016.thumbnail.jpg"&gt;&lt;/a&gt;
 &lt;!-- previewimage: /2016/04/concierto-primavera-2016.jpg --&gt;&lt;/div&gt;</description><category>Actividades</category><category>Día del Libro</category><guid>http://biblioln.es/posts/2016/04/concierto-primavera.html</guid><pubDate>Sun, 03 Apr 2016 16:30:00 GMT</pubDate></item><item><title>Conferencia: Bernardo Atxaga</title><link>http://biblioln.es/posts/2016/04/conferencia-bernardo-Atxaga.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo 8 de Abril tendrá lugar en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html"&gt;La Biblioteca&lt;/a&gt; la Conferencia "Bernardo Atxaga, autor de  Obabakoak: Lo antiguo y lo moderno", impartida por Karlos Cid Abasolo, Profesor titular de  Lengua y Literatura Vasca en la Universidad Complutense de Madrid.&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
 &lt;a class="reference external image-reference" href="http://biblioln.es/2016/04/conferencia-bernardo-atxaga.png"&gt;&lt;img alt="/2016/04/conferencia-bernardo-atxaga.thumbnail.png" src="http://biblioln.es/2016/04/conferencia-bernardo-atxaga.thumbnail.png"&gt;&lt;/a&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="http://biblioln.es/2016/04/conferencia-bernardo-atxaga.pdf"&gt;El cartel en PDF&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;!-- previewimage: /2016/04/conferencia-bernardo-atxaga.png --&gt;&lt;/div&gt;</description><category>Actividades</category><guid>http://biblioln.es/posts/2016/04/conferencia-bernardo-Atxaga.html</guid><pubDate>Sun, 03 Apr 2016 14:30:00 GMT</pubDate></item><item><title>Contando Cuentos con Chocolate</title><link>http://biblioln.es/posts/2016/03/contando-cuentos-con-chocolate.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Como &lt;a class="reference external" href="http://biblioln.es/posts/2016/02/cuentos-con-chocolate.html"&gt;ya anunciamos hace unos dias&lt;/a&gt;, todos los Lunes las mamás y papás cuentan cuentos en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html"&gt;La Biblioteca&lt;/a&gt;, acompañados por el chocolate de la merienda.
+&lt;!-- previewimage: /2016/04/conferencia-bernardo-atxaga.png --&gt;&lt;/div&gt;</description><category>Actividades</category><guid>http://biblioln.es/posts/2016/04/conferencia-bernardo-Atxaga.html</guid><pubDate>Sun, 03 Apr 2016 14:30:00 GMT</pubDate></item><item><title>Novedades</title><link>http://biblioln.es/posts/2016/04/novedades.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.agapea.com/libros/La-legion-perdida-9788408151081-i.htm" target="_blank"&gt;
+&lt;img src="http://www.santiagoposteguillo.es/img/libros/La-legion-perdida.jpg" alt="La legión perdida"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.agapea.com/libros/La-legion-perdida-9788408151081-i.htm" target="_blank"&gt;La legión perdida&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by &lt;a href="http://www.santiagoposteguillo.es/" target="_blank"&gt;Santiago Posteguillo&lt;/a&gt;
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788408151081&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.cervantes.com/libro/9788420418964/cinco-esquinas/" target="_blank"&gt;
+&lt;img src="http://www.serlib.com/imglibros/9788420418964.jpg" alt="Cinco esquinas"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.cervantes.com/libro/9788420418964/cinco-esquinas/" target="_blank"&gt;Cinco esquinas&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by &lt;a href="https://en.wikipedia.org/wiki/Mario_Vargas_Llosa" target="_blank"&gt;Mario Vargas Llosa&lt;/a&gt;
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788420418964&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.iberlibro.com/9788408135654/Cr%C3%B3nicas-Fortuna-Secreto-Trapecista-Isla-8408135651/plp" target="_blank"&gt;
+&lt;img src="http://pictures.abebooks.com/isbn/9788408135654-es.jpg" alt="Las Crónicas De Fortuna 1. El Secreto Del Trapecista (Isla del Tiempo)"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.iberlibro.com/9788408135654/Cr%C3%B3nicas-Fortuna-Secreto-Trapecista-Isla-8408135651/plp" target="_blank"&gt;Las Crónicas De Fortuna 1. El Secreto Del Trapecista (Isla del Tiempo)&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Javier Ruescas
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788408135654&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.abebooks.com/9788467554335/Capublicita-roja-Serres-Alain-8467554339/plp" target="_blank"&gt;
+&lt;img src="http://pictures.abebooks.com/isbn/9788467554335-us.jpg" alt="Capublicita roja"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.abebooks.com/9788467554335/Capublicita-roja-Serres-Alain-8467554339/plp" target="_blank"&gt;Capublicita roja&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Alain Serres
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788467554335&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.agapea.com/libros/El-bosque-de-los-grumos-9788491221074-i.htm" target="_blank"&gt;
+&lt;img src="http://www.agapea.com/Santillana-Educacion-S-L-/El-bosque-de-los-grumos-i1n13414804.jpg" alt="El bosque de los grumos"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.agapea.com/libros/El-bosque-de-los-grumos-9788491221074-i.htm" target="_blank"&gt;El bosque de los grumos&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Carlo Frabetti ; Angeles Peinador
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788491221074&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.loqueleo.com/es/libro/los-lunares-de-renata" target="_blank"&gt;
+&lt;img src="https://d20eq91zdmkqd.cloudfront.net/assets/images/book/large/9788/4912/9788491220947.jpg" alt="Los lunares de Renata"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.loqueleo.com/es/libro/los-lunares-de-renata" target="_blank"&gt;Los lunares de Renata&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Rafael Ordóñez
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788491220947&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.agapea.com/libros/La-princesa-bromista-9788491220879-i.htm" target="_blank"&gt;
+&lt;img src="http://www.agapea.com/Santillana-Educacion-S-L-/La-princesa-bromista-i1n13414840.jpg" alt="La princesa bromista"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.agapea.com/libros/La-princesa-bromista-9788491220879-i.htm" target="_blank"&gt;La princesa bromista&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Nicoletta Costa
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788491220879&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.cervantes.com/libro/9788491220855/un-baul-lleno-de-dinosaurios/" target="_blank"&gt;
+&lt;img src="http://www.serlib.com/imglibros/9788491220855.jpg" alt="Un baúl lleno de dinosaurios"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.cervantes.com/libro/9788491220855/un-baul-lleno-de-dinosaurios/" target="_blank"&gt;Un baúl lleno de dinosaurios&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Ana Rosetti; Alfonso Gómez (Ilustrador)
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788491220855&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.cervantes.com/libro/9788468324012/claude-luces-camara-accion/" target="_blank"&gt;
+&lt;img src="http://www.serlib.com/imglibros/9788468324012.jpg" alt="Claude ¡Luces! ¡Cámara! ¡Acción!"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.cervantes.com/libro/9788468324012/claude-luces-camara-accion/" target="_blank"&gt;Claude ¡Luces! ¡Cámara! ¡Acción!&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Alex T. Smith
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788468324012&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.casadellibro.com/libro-electro/9788468316291/2616626" target="_blank"&gt;
+&lt;img src="http://image.casadellibro.com/a/l/t1/91/9788468316291.jpg" alt="Electro"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.casadellibro.com/libro-electro/9788468316291/2616626" target="_blank"&gt;Electro&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Javier Ruescas; Manu Carbajo
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788468316291&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Novedates</category><guid>http://biblioln.es/posts/2016/04/novedades.html</guid><pubDate>Sun, 03 Apr 2016 13:30:00 GMT</pubDate></item><item><title>Contando Cuentos con Chocolate</title><link>http://biblioln.es/posts/2016/03/contando-cuentos-con-chocolate.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Como &lt;a class="reference external" href="http://biblioln.es/posts/2016/02/cuentos-con-chocolate.html"&gt;ya anunciamos hace unos dias&lt;/a&gt;, todos los Lunes las mamás y papás cuentan cuentos en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html"&gt;La Biblioteca&lt;/a&gt;, acompañados por el chocolate de la merienda.
 Son unos cuentos muy dulces.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Susana nos ha contado: &lt;strong&gt;Sigueme&lt;/strong&gt; (Roger Olmos)&lt;/li&gt;
@@ -234,19 +444,4 @@ Son unos cuentos muy dulces.&lt;/p&gt;
     &lt;a class="right carousel-control" href="http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html#slides_6ce9eacd503a438087316fb48aa22060" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;!-- previewimage: /2015/12/encuentro-nieves-herrero-2.jpg --&gt;&lt;/div&gt;</description><category>Actividades</category><category>eventos</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html</guid><pubDate>Wed, 02 Dec 2015 19:00:00 GMT</pubDate></item><item><title>Actividades del Taller de Literatura para este Trimestre</title><link>http://biblioln.es/posts/2015/11/actividades-taller-literatura-trimestre.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="encuentro-con-nieves-herrero"&gt;
-&lt;h2&gt;Encuentro con Nieves Herrero&lt;/h2&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;El día 28 de Noviembre vamos a Castillo de Bayuela.&lt;/li&gt;
-&lt;li&gt;Salimos a las 15:00 de la puerta de &lt;a class="reference external" href="https://www.google.es/maps/place/45140+Los+Navalmorales,+Toledo/@39.7261021,-4.6397973,19.75z/data=!4m2!3m1!1s0xd6a90aa44a469a1:0x817365c4ae1fd617"&gt;La Iglesia&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Haremos una ruta guiada, donde visitaremos los monumentos más significativos de este bonito pueblo.&lt;/li&gt;
-&lt;li&gt;Asistiremos al encuentro con Nieves Herrero, en la presentación de su nuevo libro: &lt;a class="reference external" href="http://www.esferalibros.com/libro/como-si-no-hubiera-un-manana/"&gt;Como si no hubiera un mañana&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2015/11/nieves_herrero.png"&gt;&lt;img alt="/2015/11/nieves_herrero.thumbnail.png" class="align-center" src="http://biblioln.es/2015/11/nieves_herrero.thumbnail.png"&gt;&lt;/a&gt;
-&lt;!-- previewimage: /2015/11/nieves_herrero.png --&gt;
-&lt;/div&gt;
-&lt;div class="section" id="el-lago-de-los-cisnes"&gt;
-&lt;h2&gt;El Lago de los Cisnes&lt;/h2&gt;
-&lt;p&gt;El día 19 de Diciembre iremos a Toledo a ver la obra &lt;a class="reference external" href="https://es.wikipedia.org/wiki/El_lago_de_los_cisnes"&gt;El Lago de los Cisnes&lt;/a&gt;, que será interpretada por el &lt;a class="reference external" href="http://www.batalov-ballet.ru/"&gt;Ballet Clásico de St. Petersburgo&lt;/a&gt;, compañía fundada por el solista principal de Mariinskiy Ballet, Andrey Batalov (Director Artístico y Coreógrafo) y por Andrey Sharaev (Director General).&lt;/p&gt;
-&lt;p&gt;Este espectáculo es en &lt;a class="reference external" href="http://www.pctoledo.es/es/contacto.html"&gt;El Palacio de Congresos El Greco de Toledo&lt;/a&gt;, a las 20 horas.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>eventos</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2015/11/actividades-taller-literatura-trimestre.html</guid><pubDate>Tue, 24 Nov 2015 19:00:00 GMT</pubDate></item></channel></rss>
+&lt;!-- previewimage: /2015/12/encuentro-nieves-herrero-2.jpg --&gt;&lt;/div&gt;</description><category>Actividades</category><category>eventos</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html</guid><pubDate>Wed, 02 Dec 2015 19:00:00 GMT</pubDate></item></channel></rss>

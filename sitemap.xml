@@ -27,11 +27,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/2016/index.html</loc>
-  <lastmod>2016-04-03T17:53:00Z</lastmod>
+  <lastmod>2016-04-03T18:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2016-04-03T17:53:00Z</lastmod>
+  <lastmod>2016-04-03T18:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/actividades.html</loc>
@@ -111,7 +111,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/index.html</loc>
-  <lastmod>2016-03-08T18:31:00Z</lastmod>
+  <lastmod>2016-04-03T18:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/informatica.html</loc>
@@ -148,6 +148,10 @@
  <url>
   <loc>http://biblioln.es/categories/novedades.html</loc>
   <lastmod>2016-01-06T19:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/categories/novedates.html</loc>
+  <lastmod>2016-04-03T18:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/poesia.html</loc>
@@ -243,7 +247,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-14.html</loc>
-  <lastmod>2016-04-03T17:53:00Z</lastmod>
+  <lastmod>2016-04-03T18:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-2.html</loc>
@@ -279,7 +283,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index.html</loc>
-  <lastmod>2016-04-03T17:53:00Z</lastmod>
+  <lastmod>2016-04-03T18:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/07/comenzamos-a-andar.html</loc>
@@ -835,15 +839,19 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2016/03/contando-cuentos-con-chocolate.html</loc>
-  <lastmod>2016-04-03T14:30:00Z</lastmod>
+  <lastmod>2016-04-03T18:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2016/04/concierto-primavera.html</loc>
-  <lastmod>2016-04-03T17:53:00Z</lastmod>
+  <lastmod>2016-04-03T18:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2016/04/conferencia-bernardo-Atxaga.html</loc>
-  <lastmod>2016-04-03T17:53:00Z</lastmod>
+  <lastmod>2016-04-03T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2016/04/novedades.html</loc>
+  <lastmod>2016-04-03T18:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/stories/2011/07/44.html</loc>
