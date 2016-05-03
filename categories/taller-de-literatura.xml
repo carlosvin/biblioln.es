@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Biblioteca Los Navalmorales (Taller de Literatura)</title><link>http://biblioln.es/</link><description></description><atom:link rel="self" type="application/rss+xml" href="http://biblioln.es/categories/taller-de-literatura.xml"></atom:link><language>es</language><lastBuildDate>Fri, 12 Feb 2016 18:38:04 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Encuentro con Nieves Herrero en Castillo de Bayuela</title><link>http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Los componentes del  Taller de Literatura, hemos asistido  a la presentación del último libro de Nieves Herrero, &lt;a class="reference external" href="http://www.esferalibros.com/libro/como-si-no-hubiera-un-manana/"&gt;Como si no hubiera un mañana&lt;/a&gt;.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (Taller de Literatura)</title><link>http://biblioln.es/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://biblioln.es/categories/taller-de-literatura.xml"></atom:link><language>es</language><lastBuildDate>Tue, 03 May 2016 17:00:14 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Encuentro con Nieves Herrero en Castillo de Bayuela</title><link>http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Los componentes del  Taller de Literatura, hemos asistido  a la presentación del último libro de Nieves Herrero, &lt;a class="reference external" href="http://www.esferalibros.com/libro/como-si-no-hubiera-un-manana/"&gt;Como si no hubiera un mañana&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;La presentación ha sido en &lt;a class="reference external" href="https://www.google.lu/maps/place/Castillo+de+Bayuela,+Toledo,+Spain/data=!4m2!3m1!1s0xd403c52c7262173:0x433e166af2a6ac58?sa=X&amp;amp;ved=0ahUKEwjhhoXH6KnJAhUE2RoKHagaBfEQ8gEIeDAN"&gt;Castillo de Bayuela&lt;/a&gt;, donde hemos pasado una tarde estupenda. En el pueblo nos han recibido muy bien, hemos visitado el mercado de artesanía.  Seguidamente hemos asistido a la presentación del libro, el acto ha estado muy bien, Nieves Herrero nos ha hablado de Luis Miguel Dominguin y Ava Gardner, que son los protagonistas de este libro.&lt;/p&gt;
 
-&lt;div id="slides_6ce9eacd503a438087316fb48aa22060" class="carousel slide"&gt;
+&lt;div id="slides_513ad6de55434f4ba7b9afb0b2f87f56" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_6ce9eacd503a438087316fb48aa22060" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6ce9eacd503a438087316fb48aa22060" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6ce9eacd503a438087316fb48aa22060" data-slide-to="2"&gt;
+            &lt;li data-target="#slides_513ad6de55434f4ba7b9afb0b2f87f56" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_513ad6de55434f4ba7b9afb0b2f87f56" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_513ad6de55434f4ba7b9afb0b2f87f56" data-slide-to="2"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2015/12/encuentro-nieves-herrero.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2015/12/encuentro-nieves-herrero-2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2015/11/nieves_herrero.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html#slides_6ce9eacd503a438087316fb48aa22060" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html#slides_6ce9eacd503a438087316fb48aa22060" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html#slides_513ad6de55434f4ba7b9afb0b2f87f56" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html#slides_513ad6de55434f4ba7b9afb0b2f87f56" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;!-- previewimage: /2015/12/encuentro-nieves-herrero-2.jpg --&gt;&lt;/div&gt;</description><category>Actividades</category><category>eventos</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html</guid><pubDate>Wed, 02 Dec 2015 19:00:00 GMT</pubDate></item><item><title>Actividades del Taller de Literatura para este Trimestre</title><link>http://biblioln.es/posts/2015/11/actividades-taller-literatura-trimestre.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="encuentro-con-nieves-herrero"&gt;
@@ -36,13 +36,13 @@
 &lt;p&gt;También queremos expresar nuestro agradecimiento desde El Taller de Literatura, a la Coral Cristo de Las Maravillas y a Rafael Cabrera su director.&lt;/p&gt;
 &lt;p&gt;Ellos han colaborado cantando para nosotros La Habanera "Mi Pueblo" (autora Mª Antonia Ricas Peces, música de Rafael Cabrera), que aparece en el libro. Hemos cerrado el acto de una forma muy bonita, siempre es un placer escucharles.&lt;/p&gt;
 
-&lt;div id="slides_53cbbcaf934548399a49ec7b617c4726" class="carousel slide"&gt;
+&lt;div id="slides_5dfe54346045448d999ffd1a6e4c915e" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_53cbbcaf934548399a49ec7b617c4726" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_53cbbcaf934548399a49ec7b617c4726" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_53cbbcaf934548399a49ec7b617c4726" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_53cbbcaf934548399a49ec7b617c4726" data-slide-to="3"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_53cbbcaf934548399a49ec7b617c4726" data-slide-to="4"&gt;
+            &lt;li data-target="#slides_5dfe54346045448d999ffd1a6e4c915e" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_5dfe54346045448d999ffd1a6e4c915e" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_5dfe54346045448d999ffd1a6e4c915e" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_5dfe54346045448d999ffd1a6e4c915e" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_5dfe54346045448d999ffd1a6e4c915e" data-slide-to="4"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez/IMG_20150610_200827.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
@@ -51,8 +51,8 @@
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez/IMG_20150610_201704.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez/IMG_20150610_205031.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2015/06/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez.html#slides_53cbbcaf934548399a49ec7b617c4726" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2015/06/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez.html#slides_53cbbcaf934548399a49ec7b617c4726" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2015/06/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez.html#slides_5dfe54346045448d999ffd1a6e4c915e" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2015/06/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez.html#slides_5dfe54346045448d999ffd1a6e4c915e" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Entrada anterior: &lt;a class="reference external" href="http://biblioln.es/posts/2015/06/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez.html"&gt;Conferencia Impartida por María Victoria Navas Sánchez-Élez&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2015/06/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez.html</guid><pubDate>Tue, 30 Jun 2015 18:26:46 GMT</pubDate></item><item><title>XVII Encuentro Provincial de Clubes de Lectura</title><link>http://biblioln.es/posts/2015/06/xvii-encuentro-provincial-de-clubes-de-lectura.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Este año &lt;a class="reference external" href="http://biblioln.es/Secciones/actividades/taller-de-literatura/"&gt;Taller de Literatura Los Nalmorales&lt;/a&gt; hemos asistido al XVII Encuentro Provincial de Clubes de Lectura con el escritor &lt;a class="reference external" href="http://biblioln.es/posts/2015/06/href=%22http://es.wikipedia.org/wiki/Luis_Landero"&gt;Luis Landero&lt;/a&gt; y su novela &lt;a class="reference external" href="http://biblioln.es/posts/2015/06/href=%22http://www.huffingtonpost.es/2014/09/15/landero-balcon-invierno_n_5814866.html"&gt;El balcón en invierno&lt;/a&gt;.&lt;/p&gt;
@@ -60,14 +60,14 @@
 &lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/posts/2015/06/href=%22http://es.wikipedia.org/wiki/Luis_Landero"&gt;Luis Landero&lt;/a&gt; es uno de los grandes escritores de la literatura española contemporánea, galardonado con el &lt;a class="reference external" href="http://es.wikipedia.org/wiki/Premio_de_la_Cr%C3%ADtica_de_narrativa_castellana"&gt;Premio Nacional de la Critica&lt;/a&gt; y &lt;a class="reference external" href="http://es.wikipedia.org/wiki/Premio_Nacional_de_Narrativa_(Espa%C3%B1a)"&gt;Premio Nacional de Literatura&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;A este encuentro de clubes de lectura hemos asistido alrededor de 600 lectoras y lectores de la provincia de Toledo.&lt;/p&gt;
 
-&lt;div id="slides_c16c38762fe14c5192c34153ec440350" class="carousel slide"&gt;
+&lt;div id="slides_3676ebbf0116404b9e5f40bf269b5457" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_c16c38762fe14c5192c34153ec440350" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_c16c38762fe14c5192c34153ec440350" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_c16c38762fe14c5192c34153ec440350" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_c16c38762fe14c5192c34153ec440350" data-slide-to="3"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_c16c38762fe14c5192c34153ec440350" data-slide-to="4"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_c16c38762fe14c5192c34153ec440350" data-slide-to="5"&gt;
+            &lt;li data-target="#slides_3676ebbf0116404b9e5f40bf269b5457" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3676ebbf0116404b9e5f40bf269b5457" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3676ebbf0116404b9e5f40bf269b5457" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3676ebbf0116404b9e5f40bf269b5457" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3676ebbf0116404b9e5f40bf269b5457" data-slide-to="4"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3676ebbf0116404b9e5f40bf269b5457" data-slide-to="5"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/XVII%20Encuentro%20Provincial%20de%20Clubes%20de%20Lectura/fotografia-bibliotecarias-y-landero.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
@@ -77,8 +77,8 @@
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/XVII%20Encuentro%20Provincial%20de%20Clubes%20de%20Lectura/landero5.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/XVII%20Encuentro%20Provincial%20de%20Clubes%20de%20Lectura/landero6.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2015/06/xvii-encuentro-provincial-de-clubes-de-lectura.html#slides_c16c38762fe14c5192c34153ec440350" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2015/06/xvii-encuentro-provincial-de-clubes-de-lectura.html#slides_c16c38762fe14c5192c34153ec440350" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2015/06/xvii-encuentro-provincial-de-clubes-de-lectura.html#slides_3676ebbf0116404b9e5f40bf269b5457" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2015/06/xvii-encuentro-provincial-de-clubes-de-lectura.html#slides_3676ebbf0116404b9e5f40bf269b5457" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2015/06/xvii-encuentro-provincial-de-clubes-de-lectura.html</guid><pubDate>Mon, 08 Jun 2015 18:44:36 GMT</pubDate></item><item><title>Conferencia Impartida por María Victoria Navas Sánchez-Élez</title><link>http://biblioln.es/posts/2015/06/conferencia-impartida-por-maria-victoria-navas-sanchez-elez.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;El próximo día &lt;strong&gt;10 de Junio a las 20 horas&lt;/strong&gt; en La Biblioteca tendrá lugar la Conferencia impartida por &lt;a title="Curriculum vitae de Maria Victoria Navas Sánchez-Élez" href="https://www.ucm.es/romaneslavlinguis/curriculum-maria-victoria-navas" target="_blank"&gt;María Victoria Navas Sánchez-Élez&lt;/a&gt;, profesora de la &lt;a title="Facultad de Filología. Universidad Complutense de Madrid" href="http://filologia.ucm.es/"&gt;Facultad de Filología de la Universidad Complutense de Madrid&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;La conferencia es sobre su libro de recopilación de Romances de Los Navalmorales, titulado: &lt;a title="Romancero y Cancionero de Los Navalmorales." href="https://sapientia.ualg.pt/bitstream/10400.1/2463/1/13-14-Gonzalez-Maria.pdf" target="_blank"&gt;Romancero y Cancionero de Los Navalmorales&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Pueden asistir todas las personas que lo deseen.&lt;/p&gt;&lt;/div&gt;</description><category>eventos</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2015/06/conferencia-impartida-por-maria-victoria-navas-sanchez-elez.html</guid><pubDate>Mon, 08 Jun 2015 18:21:54 GMT</pubDate></item><item><title>Club de Lectura Jovenes Lectores</title><link>http://biblioln.es/posts/2015/05/club-de-lectura-jovenes-lectores.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Son un grupo de 8 niños/niñas de 6º de primaria.&lt;/p&gt;
