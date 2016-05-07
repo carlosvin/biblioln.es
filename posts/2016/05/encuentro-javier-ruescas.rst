@@ -15,3 +15,4 @@ A continuación `algunas fotografías <link://gallery/2016/encuentro-javier-rues
    /galleries/2016/encuentro-javier-ruescas/javier_ruescas2.jpg
    /galleries/2016/encuentro-javier-ruescas/javier_ruescas3.jpg
    /galleries/2016/encuentro-javier-ruescas/javier_ruescas4.jpg
+   /galleries/2016/encuentro-javier-ruescas/javier_ruescas5.jpg

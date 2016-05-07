@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (Actividades)</title><link>http://biblioln.es/</link><description></description><atom:link type="application/rss+xml" href="http://biblioln.es/categories/actividades.xml" rel="self"></atom:link><language>es</language><lastBuildDate>Tue, 03 May 2016 17:27:05 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Día del Libro 2016</title><link>http://biblioln.es/posts/2016/05/dia-del-libro-2016.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Este mes de abril se han llevado a cabo en la biblioteca diferentes actividades con motivo de la celebración del día del libro.
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Biblioteca Los Navalmorales (Actividades)</title><link>http://biblioln.es/</link><description></description><atom:link rel="self" href="http://biblioln.es/categories/actividades.xml" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Sat, 07 May 2016 17:30:24 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Día del Libro 2016</title><link>http://biblioln.es/posts/2016/05/dia-del-libro-2016.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Este mes de abril se han llevado a cabo en la biblioteca diferentes actividades con motivo de la celebración del día del libro.
 Hemos recibido visitas escolares de todos los cursos de primaria, con los que se han hecho las siguientes actividades:
 Con el cuarto, quinto y sexto de primaria, formación de usuarios.
 Los niños de infantil, han disfrutado con los cuentos, especialmente con: "37 Tortugas", y con "Pollo y Erizo" de Pablo Albo. Hemos jugado a: Te Equivocas. Primero,segundo, y tercero de primaria han  jugado con hombrecillos de papel blanco, a los que han decorado con frases bonitas. Previamente les he leído el cuento: "El Hombrecillo de Papel".
@@ -29,21 +29,23 @@ Han asistido 45 niñ@s.&lt;/p&gt;
 Hemos ido, de Los Navalmorales, 19 niñ@s de los  3 clubes de lectura que tenemos en la biblioteca: El Club de las Lectoras, el de Las Mejores Lectoras y La Patrulla Lectora. Para los niñ@s ha sido muy interesante poder hablar y preguntar a los autores del libro que se están leyendo.&lt;/p&gt;
 &lt;p&gt;A continuación &lt;a class="reference external" href="http://biblioln.es/galleries/2016/encuentro-javier-ruescas/index.html"&gt;algunas fotografías&lt;/a&gt;:&lt;/p&gt;
 
-&lt;div id="slides_c6daebf2e82541108f3913c64bba21c6" class="carousel slide"&gt;
+&lt;div id="slides_87ca618338c742789814f6319b1fe66c" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_c6daebf2e82541108f3913c64bba21c6" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_c6daebf2e82541108f3913c64bba21c6" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_c6daebf2e82541108f3913c64bba21c6" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_c6daebf2e82541108f3913c64bba21c6" data-slide-to="3"&gt;
+            &lt;li data-target="#slides_87ca618338c742789814f6319b1fe66c" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_87ca618338c742789814f6319b1fe66c" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_87ca618338c742789814f6319b1fe66c" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_87ca618338c742789814f6319b1fe66c" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_87ca618338c742789814f6319b1fe66c" data-slide-to="4"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2016/encuentro-javier-ruescas/javier_ruescas1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/encuentro-javier-ruescas/javier_ruescas2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/encuentro-javier-ruescas/javier_ruescas3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/encuentro-javier-ruescas/javier_ruescas4.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/encuentro-javier-ruescas/javier_ruescas5.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/05/encuentro-javier-ruescas.html#slides_c6daebf2e82541108f3913c64bba21c6" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/05/encuentro-javier-ruescas.html#slides_c6daebf2e82541108f3913c64bba21c6" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/05/encuentro-javier-ruescas.html#slides_87ca618338c742789814f6319b1fe66c" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/05/encuentro-javier-ruescas.html#slides_87ca618338c742789814f6319b1fe66c" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><guid>http://biblioln.es/posts/2016/05/encuentro-javier-ruescas.html</guid><pubDate>Tue, 03 May 2016 16:00:00 GMT</pubDate></item><item><title>Concierto de primavera 2016</title><link>http://biblioln.es/posts/2016/04/concierto-primavera.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="cronica"&gt;
 &lt;h2&gt;Crónica&lt;/h2&gt;
 &lt;p&gt;Este año hemos celebrado el día del libro en la Biblioteca escuchando al &lt;a class="reference external" href="https://www.facebook.com/Coro-de-Profesores-del-IES-Rosa-Chacel-182652961883206/"&gt;Coro de Profesores del IES Rosa Chacel de Colmenar Viejo&lt;/a&gt;.&lt;/p&gt;

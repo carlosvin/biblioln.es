@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2016-05-03T17:27:00Z</lastmod>
+  <lastmod>2016-05-07T17:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/agradecimientos.xml</loc>
@@ -174,24 +174,16 @@
   <lastmod>2016-01-06T19:47:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://biblioln.es/galleries/2016/Dia%20del%20Libro/rss.xml</loc>
-  <lastmod>2016-05-03T17:12:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://biblioln.es/galleries/2016/dia-del-libro/rss.xml</loc>
   <lastmod>2016-05-03T17:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/encuentro-javier-ruescas/rss.xml</loc>
-  <lastmod>2016-05-03T17:27:00Z</lastmod>
+  <lastmod>2016-05-07T17:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/rss.xml</loc>
   <lastmod>2016-05-03T16:48:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://biblioln.es/galleries/Dia%20del%20Libro%202016/rss.xml</loc>
-  <lastmod>2016-05-03T16:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/La%20Biblioteca/rss.xml</loc>
@@ -206,19 +198,15 @@
   <lastmod>2016-01-06T19:47:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://biblioln.es/galleries/dia-del-libro-2016/rss.xml</loc>
-  <lastmod>2016-05-03T17:01:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://biblioln.es/galleries/rss.xml</loc>
   <lastmod>2016-01-06T19:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2016-05-03T17:27:00Z</lastmod>
+  <lastmod>2016-05-07T17:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2016-05-03T17:27:00Z</lastmod>
+  <lastmod>2016-05-07T17:30:00Z</lastmod>
  </sitemap>
 </sitemapindex>
