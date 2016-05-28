@@ -4,7 +4,7 @@
 .. tags: Actividades
 .. description: Presentación del libro "El Último Holocausto Europeo"
 
-El libro será presentado en La Biblioteca por su autora **Susana Hidalgo**, periodista y experta en migraciones.
+El libro será presentado en La Biblioteca por su autora **Susana Hidalgo Arenas**, periodista y experta en migraciones.
 
 El evento tendrá lugar el 10 de Junio a las 20:00 h en `La Biblioteca`_.
 

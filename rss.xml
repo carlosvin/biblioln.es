@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales</title><link>http://biblioln.es/</link><description>Biblioteca Pública Municipal de Los Navalmorales</description><atom:link href="http://biblioln.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Tue, 24 May 2016 19:01:43 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>El Último Holocausto Europeo</title><link>http://biblioln.es/posts/2016/05/el-ultimo-holocausto-europeo.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El libro será presentado en La Biblioteca por su autora &lt;strong&gt;Susana Hidalgo&lt;/strong&gt;, periodista y experta en migraciones.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales</title><link>http://biblioln.es/</link><description>Biblioteca Pública Municipal de Los Navalmorales</description><atom:link rel="self" href="http://biblioln.es/rss.xml" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Sat, 28 May 2016 16:17:51 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>El Último Holocausto Europeo</title><link>http://biblioln.es/posts/2016/05/el-ultimo-holocausto-europeo.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El libro será presentado en La Biblioteca por su autora &lt;strong&gt;Susana Hidalgo Arenas&lt;/strong&gt;, periodista y experta en migraciones.&lt;/p&gt;
 &lt;p&gt;El evento tendrá lugar el 10 de Junio a las 20:00 h en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html"&gt;La Biblioteca&lt;/a&gt;.&lt;/p&gt;
 
-&lt;div id="slides_88ac46d941d74d63b15ff50db49eacd1" class="carousel slide"&gt;
+&lt;div id="slides_81abc55860104e5dbe0b7ee20d02d9b9" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_88ac46d941d74d63b15ff50db49eacd1" data-slide-to="0" class="active"&gt;
+            &lt;li data-target="#slides_81abc55860104e5dbe0b7ee20d02d9b9" data-slide-to="0" class="active"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2016/05/el_ultimo_holocausto_europeo.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/05/el-ultimo-holocausto-europeo.html#slides_88ac46d941d74d63b15ff50db49eacd1" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/05/el-ultimo-holocausto-europeo.html#slides_88ac46d941d74d63b15ff50db49eacd1" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/05/el-ultimo-holocausto-europeo.html#slides_81abc55860104e5dbe0b7ee20d02d9b9" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/05/el-ultimo-holocausto-europeo.html#slides_81abc55860104e5dbe0b7ee20d02d9b9" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/2016/05/el_ultimo_holocausto_europeo.pdf"&gt;El cartel en PDF&lt;/a&gt;.&lt;/p&gt;
