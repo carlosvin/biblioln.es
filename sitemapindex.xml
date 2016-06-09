@@ -18,6 +18,10 @@
   <lastmod>2016-05-03T17:00:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/categories/avisos.xml</loc>
+  <lastmod>2016-06-09T20:24:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/categories/bebeteca.xml</loc>
   <lastmod>2015-10-27T23:54:00Z</lastmod>
  </sitemap>
@@ -203,10 +207,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2016-05-28T16:17:00Z</lastmod>
+  <lastmod>2016-06-09T20:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2016-05-28T16:17:00Z</lastmod>
+  <lastmod>2016-06-09T20:24:00Z</lastmod>
  </sitemap>
 </sitemapindex>

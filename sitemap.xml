@@ -27,11 +27,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/2016/index.html</loc>
-  <lastmod>2016-05-28T16:17:00Z</lastmod>
+  <lastmod>2016-06-09T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2016-05-24T18:59:00Z</lastmod>
+  <lastmod>2016-06-09T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/actividades.html</loc>
@@ -44,6 +44,10 @@
  <url>
   <loc>http://biblioln.es/categories/astrofisica.html</loc>
   <lastmod>2016-05-03T17:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/categories/avisos.html</loc>
+  <lastmod>2016-06-09T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/bebeteca.html</loc>
@@ -111,7 +115,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/index.html</loc>
-  <lastmod>2016-04-03T18:04:00Z</lastmod>
+  <lastmod>2016-06-09T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/informatica.html</loc>
@@ -259,7 +263,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-14.html</loc>
-  <lastmod>2016-05-24T18:59:00Z</lastmod>
+  <lastmod>2016-06-09T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-2.html</loc>
@@ -295,7 +299,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index.html</loc>
-  <lastmod>2016-05-28T16:17:00Z</lastmod>
+  <lastmod>2016-06-09T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/07/comenzamos-a-andar.html</loc>
@@ -875,11 +879,15 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2016/05/el-ultimo-holocausto-europeo.html</loc>
-  <lastmod>2016-05-28T16:17:00Z</lastmod>
+  <lastmod>2016-06-09T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2016/05/encuentro-javier-ruescas.html</loc>
   <lastmod>2016-05-07T17:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2016/06/cerrado-por-vacaciones.html</loc>
+  <lastmod>2016-06-09T20:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/stories/2011/07/44.html</loc>
