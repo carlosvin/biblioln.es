@@ -19,7 +19,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/avisos.xml</loc>
-  <lastmod>2016-07-11T18:41:00Z</lastmod>
+  <lastmod>2016-08-05T16:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/bebeteca.xml</loc>
@@ -139,7 +139,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller.xml</loc>
-  <lastmod>2016-07-11T18:41:00Z</lastmod>
+  <lastmod>2016-08-05T16:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/talleres.xml</loc>
@@ -194,6 +194,10 @@
   <lastmod>2016-07-11T18:41:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2016/xviii-encuentro-provincial-clubes-lectura/rss.xml</loc>
+  <lastmod>2016-08-05T16:50:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/La%20Biblioteca/rss.xml</loc>
   <lastmod>2016-07-11T18:41:00Z</lastmod>
  </sitemap>
@@ -211,10 +215,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2016-07-11T18:41:00Z</lastmod>
+  <lastmod>2016-08-05T16:52:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2016-07-11T18:41:00Z</lastmod>
+  <lastmod>2016-08-05T16:52:00Z</lastmod>
  </sitemap>
 </sitemapindex>
