@@ -1,7 +1,7 @@
 .. title: Nuevos libros en eBiblio-Castilla-La Mancha
 .. slug: nuevos-libros-en-ebiblio-castilla-la-mancha
 .. date: 2016-09-22 20:00
-.. tags: Avisos, Taller, Enlaces
+.. tags: Avisos, Enlaces, Catálogo
 .. description: Nuevos libros en eBiblio-Castilla-La Mancha
 .. type: micro
 
