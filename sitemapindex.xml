@@ -19,7 +19,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/avisos.xml</loc>
-  <lastmod>2016-08-05T16:52:00Z</lastmod>
+  <lastmod>2016-09-22T21:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/bebeteca.xml</loc>
@@ -68,6 +68,10 @@
  <sitemap>
   <loc>http://biblioln.es/categories/encuentros.xml</loc>
   <lastmod>2016-07-11T18:41:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/categories/enlaces.xml</loc>
+  <lastmod>2016-09-22T21:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/escritores.xml</loc>
@@ -139,7 +143,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller.xml</loc>
-  <lastmod>2016-08-05T16:52:00Z</lastmod>
+  <lastmod>2016-09-22T21:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/talleres.xml</loc>
@@ -215,10 +219,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2016-08-05T16:52:00Z</lastmod>
+  <lastmod>2016-09-22T21:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2016-08-05T16:52:00Z</lastmod>
+  <lastmod>2016-09-22T21:19:00Z</lastmod>
  </sitemap>
 </sitemapindex>
