@@ -1,7 +1,7 @@
 .. title: Encuentro con Nieves Herrero en Castillo de Bayuela
 .. slug: encuentro-nieves-herrero-castillo-bayuela
 .. date: 2015-12-02 20:00
-.. tags: Actividades, eventos, Taller de Literatura
+.. tags: Actividades, Eventos, Taller de Literatura
 .. description: Encuentro con Nieves Herrero en Castillo de Bayuela
 .. type: micro
 

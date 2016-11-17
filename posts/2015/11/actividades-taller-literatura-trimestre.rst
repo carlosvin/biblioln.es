@@ -1,7 +1,7 @@
 .. title: Actividades del Taller de Literatura para este Trimestre
 .. slug: actividades-taller-literatura-trimestre
 .. date: 2015-11-24 20:00
-.. tags: Actividades, eventos, Taller de Literatura
+.. tags: Actividades, Eventos, Taller de Literatura
 .. description: Actividades del Taller de Literatura para el último Trimestre de 2015
 
 Encuentro con Nieves Herrero

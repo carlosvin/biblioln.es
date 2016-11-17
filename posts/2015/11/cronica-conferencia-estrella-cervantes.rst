@@ -1,7 +1,7 @@
 .. title: La Luz de Cervantes Ilumina Nuevos Mundos
 .. slug: cronica-conferencia-estrella-cervantes
 .. date: 2015-11-11 12:00
-.. tags: Actividades, eventos, conferencias
+.. tags: Actividades, Eventos, Conferencias
 .. description: Crónica de la Conferencia sobre La Estrella Cervantes
 .. link: http://estrellacervantes.es
 .. type: micro

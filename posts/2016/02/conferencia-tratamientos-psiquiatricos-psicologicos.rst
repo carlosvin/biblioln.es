@@ -1,7 +1,7 @@
 .. title: Conferencia de Tratamientos Psiquiátricos y Psicológicos
 .. slug: conferencia-tratamientos-psiquiatricos-psicologicos
 .. date: 2016-02-12 19:00
-.. tags: Actividades, eventos, conferencias
+.. tags: Actividades, Eventos, Conferencias
 .. description:  Conferencia de Tratamientos Psiquiátricos y Psicológicos, por Julio Sáez Martínez
 .. type: micro
 
