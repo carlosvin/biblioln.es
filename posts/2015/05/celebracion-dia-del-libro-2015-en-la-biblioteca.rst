@@ -1,7 +1,7 @@
 .. title: Celebración Día del Libro 2015 en la Biblioteca
 .. slug: celebracion-dia-del-libro-2015-en-la-biblioteca
 .. date: 2015-05-10 21:32:31
-.. tags: Día del Libro,eventos,La Biblioteca
+.. tags: Día del Libro,Eventos,La Biblioteca
 .. description: Día del Libro 2015
 
 Las distintas actividades que en este mes de Abril se han hecho en la biblioteca han girado en torno al `Día del Libro`_ y a `El Quijote`_.

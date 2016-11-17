@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (dibujos)</title><link>http://biblioln.es/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://biblioln.es/categories/dibujos.xml"></atom:link><language>es</language><lastBuildDate>Thu, 22 Sep 2016 21:34:56 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Dibujos de La Hora del Cuento (2012)</title><link>http://biblioln.es/posts/2012/02/dibujos-de-la-hora-del-cuento.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Aquí dejamos la galería con dibujos de la Hora del Cuento.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Biblioteca Los Navalmorales (Dibujos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/dibujos.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Thu, 17 Nov 2016 18:15:59 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Dibujos de La Hora del Cuento (2012)</title><link>http://biblioln.es/posts/2012/02/dibujos-de-la-hora-del-cuento.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Aquí dejamos la galería con dibujos de la Hora del Cuento.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;table style="width: 194px;"&gt;
 &lt;tbody&gt;
 
@@ -17,4 +17,4 @@
 
 &lt;/tbody&gt;
 
-&lt;p&gt;&lt;/p&gt;&lt;/table&gt;&lt;/div&gt;</description><category>dibujos</category><category>fotos</category><category>La Hora del Cuento</category><guid>http://biblioln.es/posts/2012/02/dibujos-de-la-hora-del-cuento.html</guid><pubDate>Tue, 28 Feb 2012 22:49:08 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;/table&gt;&lt;/div&gt;</description><category>Dibujos</category><category>Fotos</category><category>La Hora del Cuento</category><guid>http://biblioln.es/posts/2012/02/dibujos-de-la-hora-del-cuento.html</guid><pubDate>Tue, 28 Feb 2012 22:49:08 GMT</pubDate></item></channel></rss>

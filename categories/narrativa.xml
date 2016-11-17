@@ -1,5 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (Narrativa)</title><link>http://biblioln.es/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://biblioln.es/categories/narrativa.xml"></atom:link><language>es</language><lastBuildDate>Thu, 22 Sep 2016 21:34:57 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Alcazaba de Jesús Sánchez Adalid</title><link>http://biblioln.es/posts/2012/06/410.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="http://img6.planetadelibros.com/usuaris/libros/fotos/66/tam_1/alcazaba_9788427025202.jpg" alt="" width="188" height="282"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Narrativa)</title><link>http://biblioln.es/</link><description></description><atom:link rel="self" href="http://biblioln.es/categories/narrativa.xml" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Thu, 17 Nov 2016 18:56:18 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades libros</title><link>http://biblioln.es/posts/2016/11/novedades-libros.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/galleries/2016/novedades/libros/index.html"&gt;Ver las últimas novedades en libros 2016&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div id="slides_ea9ad680b07d4b288288a909ef109c09" class="carousel slide"&gt;
+    &lt;ol class="carousel-indicators"&gt;
+            &lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="4"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="5"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="6"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="7"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="8"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="9"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="10"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="11"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="12"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="13"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="14"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="15"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="16"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="17"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="18"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="19"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="20"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="21"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="22"&gt;
+    &lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="carousel-inner"&gt;
+                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image00.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image01.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image02.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image03.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image04.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image05.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image06.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image07.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image08.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image09.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image10.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image11.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image12.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image13.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image14.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image15.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image16.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image17.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image18.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image19.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image20.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image21.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image22.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/11/novedades-libros.html#slides_ea9ad680b07d4b288288a909ef109c09" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/11/novedades-libros.html#slides_ea9ad680b07d4b288288a909ef109c09" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Narrativa</category><category>novedades</category><guid>http://biblioln.es/posts/2016/11/novedades-libros.html</guid><pubDate>Thu, 17 Nov 2016 18:30:00 GMT</pubDate></item><item><title>Novedades vídeos</title><link>http://biblioln.es/posts/2016/11/novedades-videos.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/galleries/2016/novedades/videos/index.html"&gt;Ver las últimas novedades en vídeos de 2016&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div id="slides_89a3a9f50b0445dea30ad6857b61c1d3" class="carousel slide"&gt;
+    &lt;ol class="carousel-indicators"&gt;
+            &lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="4"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="5"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="6"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="7"&gt;
+    &lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="carousel-inner"&gt;
+                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image00.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image01.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image02.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image03.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image04.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image05.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image06.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image07.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/11/novedades-videos.html#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/11/novedades-videos.html#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Narrativa</category><category>novedades</category><guid>http://biblioln.es/posts/2016/11/novedades-videos.html</guid><pubDate>Thu, 17 Nov 2016 18:30:00 GMT</pubDate></item><item><title>Alcazaba de Jesús Sánchez Adalid</title><link>http://biblioln.es/posts/2012/06/410.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;img src="http://img6.planetadelibros.com/usuaris/libros/fotos/66/tam_1/alcazaba_9788427025202.jpg" alt="" width="188" height="282"&gt;
 &lt;p&gt;Sinopsis extraída de &lt;a title="Alcazaba, Jesús Sánchez Adalid" href="http://www.planetadelibros.com/alcazaba-libro-65528.html" target="_blank"&gt;la página del libro&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;Judit, conocida por todos como la Guapísima por su extraordinaria belleza, aún no ha cumplido los veinticinco años cuando enviuda de Aben Ahmad al-Fiqui, un musulmán con el que su padre la casó por conveniencia. Tras su muerte, Judit, de origen judío, decide buscar nuevo marido, pero es rechazada tanto por musulmanes como por judíos debido a la situación extrema que se vive en Mérida, una ciudad donde imperan las revueltas y las rencillas y donde todos se toleran pero se temen. La calma tensa que preside la relación entre árabes, beréberes, muladíes, judíos y cristianos muy pronto se resquebrajará. La rivalidad y el miedo, además de la codicia de los gobernantes y los feroces tributos anuales que deben rendir a Córdoba hará que se rebelen contra el poder central de Abderramán II.
 
@@ -64,15 +144,4 @@ Para Alatriste y sus camaradas -el veterano Sebastián Copons y el peligroso mor
 &lt;p&gt;&lt;a title="Sinopsis en casadelibro.com" href="http://biblioln.es/2011/11/yo-el-rey-de-juan-antonio-vallejo-nagera/" target="_blank"&gt;Sinopsis de casadelibro.com&lt;/a&gt;:&lt;/p&gt;
 &lt;blockquote&gt;&lt;em&gt;Al llegar el invierno&lt;/em&gt; es una novela histórica que continúa la serie iniciada por Rafael Cabanillas con El secreto de Elvira Madigan sobre el terrorismo y los movimientos revolucionarios armadas. Si El secreto de Elvira Madigan fue premonitorio del 11 M, el nuevo libro es una lección “novelada” de la reciente historia mundial de los últimos 30 años, en la que se cuenta la historia que no aparece en los libros de Historia, pero que los acontecimientos descritos han condicionado la actual situación sociopolítica.&lt;/blockquote&gt;
 
-&lt;p&gt;Ahora también disponible en &lt;a title="La Biblioteca de Los Navalmorales" href="http://biblioln.es/la-biblioteca-de-los-navalmorales/" target="_blank"&gt;La Biblioteca&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Narrativa</category><category>novedades</category><guid>http://biblioln.es/posts/2011/11/al-llegar-el-invierno-de-rafael-canadilla-saldana.html</guid><pubDate>Wed, 02 Nov 2011 12:42:33 GMT</pubDate></item><item><title>"Yo, el rey" de Juan Antonio Vallejo-Nágera</title><link>http://biblioln.es/posts/2011/11/yo-el-rey-de-juan-antonio-vallejo-nagera.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;a href="http://www.planetadelibros.com/yo-el-rey-libro-11717.html"&gt;&lt;img class=" " title=' "Yo, el rey" de Juan Antonio Vallejo-Nágera' src="http://img2.planetadelibros.com/usuaris/libros/fotos/12/tam_1/9788408078951.jpg" alt='Portada de "Yo, el rey" de Juan Antonio Vallejo-Nágera' width="185" height="282"&gt;&lt;/a&gt;
-&lt;p&gt;&lt;a title="Sinopsis en planetadelibros.com" href="http://www.planetadelibros.com/yo-el-rey-libro-11717.html" target="_blank"&gt;Sinopsis&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;En el año 1808 José Bonaparte conversa en Bayona con el emperador Napoleón; se entera de las intrigas de la familia real española y se dispone a ser buen rey para aquel país desconocido para él. Mientras, van llegando noticias sobre las atrocidades de la guerra en toda la península. Cuando entra en Madrid, José I comprenderá que todo lo que haga va a ser inútil.&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a title="Entrada de la wikipedia sobre Juan Antonio Vallejo-Nágera" href="http://es.wikipedia.org/wiki/Juan_Antonio_Vallejo-N%C3%A1gera" target="_blank"&gt;Juan Antonio Vallejo-Nágera Botas&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;(Oviedo, 14 de noviembre de 1926 - Madrid, 13 de marzo de 1990) fue un psiquiatra y escritor español. Hijo del Prof. Dr. D. Antonio Vallejo-Nájera, catedrático de psiquiatría en la Facultad de Medicina de la Universidad Central &lt;a title="Juan Antonio Vallejo-Nágera, más información en la wikipedia" href="http://es.wikipedia.org/wiki/Juan_Antonio_Vallejo-N%C3%A1gera" target="_blank"&gt;[...]&lt;/a&gt;.&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Narrativa</category><category>novedades</category><guid>http://biblioln.es/posts/2011/11/yo-el-rey-de-juan-antonio-vallejo-nagera.html</guid><pubDate>Wed, 02 Nov 2011 12:29:48 GMT</pubDate></item><item><title>¡Comprometeos! - Stéphane Hessel</title><link>http://biblioln.es/posts/2011/11/217.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;a href="http://www.lacentral.com/9788423345137"&gt;&lt;img class=" " title=' "¡Comprometeos!" de Stéphane Hessel' src="http://image.casadellibro.com/libros/0/comprometeos-9788423345137.jpg" alt='Portada del libro "¡Comprometeos!" de Stéphane Hessel' width="212" height="343"&gt;&lt;/a&gt;
-&lt;p&gt;&lt;a title="¡Comprometeos!" href="http://www.lacentral.com/9788423345137" target="_blank"&gt;Sinopsis de La Centra&lt;/a&gt;l:&lt;/p&gt;
-&lt;blockquote&gt;Tras desperezar las conciencias de miles y miles de indignados a lo largo y ancho de toda Europa con ¡Indignaos!, Stéphane Hessel regresa para dar forma aquello que esbozó en su obra anterior: el compromiso, hacia dónde dirigirlo y cómo concretarlo. A través de una larga conversación con Gilles Vanderpooten, desde los casi setenta años que los separan, Hessel se propone dar a los más jóvenes que él, además de motivos de indignación, medios para la acción. Y lo hace llamando a los jóvenes a resistir y reaccionar ante los escándalos que las rodean. Porque, según Hessel, "resistir no supone simplemente reflexionar o describir. Es necesario emprender una acción". La que no cabe otra alternativa que iniciar siguiento el ejemplo vivo y apasionante y tenaz de una de las figuras que mejor ha sabido dar voz a las inquietudes de esta segunda década del siglo XXI.&lt;/blockquote&gt;
-
-&lt;p&gt;Ahora lo tenemos tambíen en &lt;a title="La Biblioteca de Los Navalmorales" href="http://biblioln.es/la-biblioteca-de-los-navalmorales/" target="_blank"&gt;La Biblioteca&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Narrativa</category><category>novedades</category><guid>http://biblioln.es/posts/2011/11/217.html</guid><pubDate>Wed, 02 Nov 2011 12:10:37 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Ahora también disponible en &lt;a title="La Biblioteca de Los Navalmorales" href="http://biblioln.es/la-biblioteca-de-los-navalmorales/" target="_blank"&gt;La Biblioteca&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Narrativa</category><category>novedades</category><guid>http://biblioln.es/posts/2011/11/al-llegar-el-invierno-de-rafael-canadilla-saldana.html</guid><pubDate>Wed, 02 Nov 2011 12:42:33 GMT</pubDate></item></channel></rss>

@@ -1,7 +1,7 @@
 .. title: Conferencia sobre La Estrella Cervantes
 .. slug: conferencia-estrella-cervantes
 .. date: 2015-10-28 20:00
-.. tags: Actividades, eventos, conferencias
+.. tags: Actividades, Eventos, Conferencias
 .. description: Conferencia sobre La Estrella Cervantes
 .. link: http://estrellacervantes.es
 .. type: micro

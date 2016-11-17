@@ -1,5 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (novedades)</title><link>http://biblioln.es/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://biblioln.es/categories/novedades.xml"></atom:link><language>es</language><lastBuildDate>Thu, 22 Sep 2016 21:34:56 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades Otoño 2015</title><link>http://biblioln.es/posts/2015/10/novedades-otonio-2015.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="book-figure"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (novedades)</title><link>http://biblioln.es/</link><description></description><atom:link rel="self" href="http://biblioln.es/categories/novedades.xml" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Thu, 17 Nov 2016 18:56:18 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades libros</title><link>http://biblioln.es/posts/2016/11/novedades-libros.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/galleries/2016/novedades/libros/index.html"&gt;Ver las últimas novedades en libros 2016&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div id="slides_ea9ad680b07d4b288288a909ef109c09" class="carousel slide"&gt;
+    &lt;ol class="carousel-indicators"&gt;
+            &lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="4"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="5"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="6"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="7"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="8"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="9"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="10"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="11"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="12"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="13"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="14"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="15"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="16"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="17"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="18"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="19"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="20"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="21"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ea9ad680b07d4b288288a909ef109c09" data-slide-to="22"&gt;
+    &lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="carousel-inner"&gt;
+                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image00.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image01.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image02.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image03.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image04.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image05.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image06.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image07.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image08.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image09.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image10.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image11.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image12.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image13.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image14.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image15.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image16.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image17.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image18.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image19.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image20.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image21.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/libros/image22.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/11/novedades-libros.html#slides_ea9ad680b07d4b288288a909ef109c09" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/11/novedades-libros.html#slides_ea9ad680b07d4b288288a909ef109c09" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Narrativa</category><category>novedades</category><guid>http://biblioln.es/posts/2016/11/novedades-libros.html</guid><pubDate>Thu, 17 Nov 2016 18:30:00 GMT</pubDate></item><item><title>Novedades vídeos</title><link>http://biblioln.es/posts/2016/11/novedades-videos.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/galleries/2016/novedades/videos/index.html"&gt;Ver las últimas novedades en vídeos de 2016&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div id="slides_89a3a9f50b0445dea30ad6857b61c1d3" class="carousel slide"&gt;
+    &lt;ol class="carousel-indicators"&gt;
+            &lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="4"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="5"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="6"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide-to="7"&gt;
+    &lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="carousel-inner"&gt;
+                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image00.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image01.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image02.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image03.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image04.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image05.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image06.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/novedades/videos/image07.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/11/novedades-videos.html#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/11/novedades-videos.html#slides_89a3a9f50b0445dea30ad6857b61c1d3" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Narrativa</category><category>novedades</category><guid>http://biblioln.es/posts/2016/11/novedades-videos.html</guid><pubDate>Thu, 17 Nov 2016 18:30:00 GMT</pubDate></item><item><title>Novedades Otoño 2015</title><link>http://biblioln.es/posts/2015/10/novedades-otonio-2015.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="book-figure"&gt;
 &lt;div class="book-figure-media"&gt;
 &lt;a class="book-figure-image" href="http://www.casadellibro.com/libro-numeros-saltarines/9788434863019/647643" target="_blank"&gt;
 &lt;img src="http://ecx.images-amazon.com/images/I/31B6ovKHSxL._BO1,204,203,200_.jpg" alt="NUMEROS SALTARINES - KATE LEE, comprar el libro"&gt;
@@ -690,25 +770,4 @@
 
 &lt;/div&gt;
 
-&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</description><category>Cuentos</category><category>Libros</category><category>novedades</category><guid>http://biblioln.es/posts/2012/09/novedades-infantil.html</guid><pubDate>Wed, 19 Sep 2012 18:04:49 GMT</pubDate></item><item><title>"El enredo de la bolsa y la vida", Eduardo Mendoza</title><link>http://biblioln.es/posts/2012/06/el-enredo-de-la-bolsa-y-la-vida-eduardo-mendoza.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;img class=" " src="http://img8.planetadelibros.com/usuaris/libros/fotos/68/tam_1/el-enredo-de-la-bolsa-y-la-vida_9788432210006.jpg" alt="" width="166" height="282"&gt;
-&lt;p&gt;Sinópsis extraída de &lt;a title='Más información del libro "El enredo de la bolsa y la vida" ' href="http://www.planetadelibros.com/el-enredo-de-la-bolsa-y-la-vida-libro-67836.html" target="_blank"&gt;la página del libro&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;El anónimo detective de El misterio de la cripta embrujada, El laberinto de las aceitunas y La aventura del tocador de señoras regresa a la acción en tiempos de crisis. Contra su voluntad, es decir, movido por la amistad y sin un euro en el bolsillo, vuelve a ejercer de insospechado sabueso en la Barcelona de hoy en una carrera contrarreloj por desarticular una acción terrorista antes de que intervengan los servicios de seguridad del Estado.
-
-
-
-Años después de dejar el sanatorio mental donde compartieron celda, Rómulo el Guapo le propone un golpe a nuestro protagonista. Su negativa y la misteriosa desaparición de Rómulo serán el arranque de un enredo para resolver un caso de repercusiones internacionales con la ayuda de un infalible equipo: la adolescente Quesito, el timador profesional Pollo Morgan, el africano albino Kiwijuli Kakawa, conocido como el Juli, la Moski, acordeonista callejera, el repartidor de pizza Manhelik y el señor Armengol, regente del restaurante Se vende perro.
-
-
-
-Eduardo Mendoza regresa con una sátira genial, como las que sólo él sabe hacer. En ella la fábula crea su propia verosimilitud, que es, paródicamente, la del género policial, y la de la farsa convertida en apólogo moral. No se puede contar el libro sin una sonrisa; pero es imposible leerlo sin carcajadas, y sin comprender que en la Europa en quiebra técnica que habitamos no basta con el humor dinamitero e inventivo: es preciso, además, el don de la lucidez.&lt;/blockquote&gt;
-
-&lt;p&gt;El autor, &lt;a title="Toda la información del autor Eduardo Mendoza" href="http://es.wikipedia.org/wiki/Eduardo_Mendoza_Garriga" target="_blank"&gt;Eduardo Mendoza Garriga&lt;/a&gt; (Barcelona, 11 de enero de 1943) es un abogado y escritor español que firma sus libros como Eduardo Mendoza. Su obra literaria, que inaugura con la publicación en 1975 de &lt;a title='Información del libro "La verdad sobre el caso Savolta"' href="http://es.wikipedia.org/wiki/La_verdad_sobre_el_caso_Savolta" target="_blank"&gt;&lt;em&gt;La verdad sobre el caso Savolta&lt;/em&gt;&lt;/a&gt;, mezcla un estilo sencillo y directo con &lt;a title="Toda la información del autor Eduardo Mendoza" href="http://es.wikipedia.org/wiki/Eduardo_Mendoza_Garriga" target="_blank"&gt;...&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Narrativa</category><category>novedades</category><guid>http://biblioln.es/posts/2012/06/el-enredo-de-la-bolsa-y-la-vida-eduardo-mendoza.html</guid><pubDate>Mon, 04 Jun 2012 11:23:18 GMT</pubDate></item><item><title>"El Imperio eres tú" de Javier Moro</title><link>http://biblioln.es/posts/2012/06/el-imperio-eres-tu-de-javier-moro.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;a href="http://www.planetadelibros.com/el-imperio-eres-tu-libro-50565.html"&gt;&lt;img class="  " src="http://www.planetadelibros.com/usuaris/libros/fotos/51/original/el-imperio-eres-tu_9788408104827.jpg" alt="EL IMPERIO ERES TÚ, Javier Moro" width="284" height="432"&gt;&lt;/a&gt;
-&lt;p&gt;Se trata del Premio Planeta 2011 y podéis obtener toda la información en &lt;a title='Más información de libro "El Imperio eres tú"' href="http://www.planetadelibros.com/el-imperio-eres-tu-libro-50565.html" target="_blank"&gt;la página del libro&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Sinopsis extraída de &lt;a title='Más información de libro "El Imperio eres tú"' href="http://www.planetadelibros.com/el-imperio-eres-tu-libro-50565.html" target="_blank"&gt;la página del libro&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;Convertido en emperador de Brasil a los veintitrés años, Pedro I marcó con su huella la historia de dos continentes. Desmedido y contradictorio, las mujeres fueron su salvación y su perdición: mientras su esposa, la virtuosa Leopoldina de Austria, lo llevó a la cumbre, su amante, la ardiente Domitila de Castro, lo arrastró a la decadencia. Cuando el inmenso Brasil se le hizo pequeño y el poder dejó de interesarle, puso su vida en juego por aquello que creía justo. Y alcanzó la gloria.
-
-
-
-Con la belleza exuberante del trópico como telón de fondo, Javier Moro narra con pasión por el detalle la prodigiosa epopeya del nacimiento del mayor país de Sudamérica.&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a title="Más información del autor Javier Moro  (Madrid, 11 de febrero de 1955), Premio Planeta 2011" href="http://es.wikipedia.org/wiki/Javier_Moro" target="_blank"&gt;Más información del autor Javier Moro&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Narrativa</category><category>novedades</category><guid>http://biblioln.es/posts/2012/06/el-imperio-eres-tu-de-javier-moro.html</guid><pubDate>Mon, 04 Jun 2012 11:10:55 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</description><category>Cuentos</category><category>Libros</category><category>novedades</category><guid>http://biblioln.es/posts/2012/09/novedades-infantil.html</guid><pubDate>Wed, 19 Sep 2012 18:04:49 GMT</pubDate></item></channel></rss>
