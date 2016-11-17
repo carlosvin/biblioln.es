@@ -3,8 +3,9 @@
 .. date: 2016-11-17 19:30:00
 .. tags: Narrativa, novedades
 .. description: Novedades libros en noviembre
+.. type: micro
 
-`Ver todas las novedades 2016 <link://gallery/2016/novedades/libros>`_.
+`Ver las últimas novedades en libros 2016 <link://gallery/2016/novedades/libros>`_.
 
 .. slides::
 
