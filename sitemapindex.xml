@@ -139,7 +139,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/premios.xml</loc>
-  <lastmod>2016-11-21T20:12:00Z</lastmod>
+  <lastmod>2016-11-21T20:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/seguridad.xml</loc>
@@ -192,10 +192,6 @@
  <sitemap>
   <loc>http://biblioln.es/galleries/2015/rss.xml</loc>
   <lastmod>2016-09-22T21:34:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://biblioln.es/galleries/2016/VIII%20Congreso%20Nacional%20de%20Bibliotecas%20Publicas/rss.xml</loc>
-  <lastmod>2016-11-21T19:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/dia-del-libro/rss.xml</loc>
@@ -251,10 +247,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2016-11-21T20:12:00Z</lastmod>
+  <lastmod>2016-11-21T20:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2016-11-21T20:12:00Z</lastmod>
+  <lastmod>2016-11-21T20:34:00Z</lastmod>
  </sitemap>
 </sitemapindex>
