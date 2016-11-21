@@ -42,6 +42,10 @@
   <lastmod>2016-11-17T18:15:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/categories/congresos.xml</loc>
+  <lastmod>2016-11-21T19:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/categories/cuentacuentos.xml</loc>
   <lastmod>2016-11-17T18:15:00Z</lastmod>
  </sitemap>
@@ -87,7 +91,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/fotos.xml</loc>
-  <lastmod>2016-11-17T18:17:00Z</lastmod>
+  <lastmod>2016-11-21T19:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/informatica.xml</loc>
@@ -132,6 +136,10 @@
  <sitemap>
   <loc>http://biblioln.es/categories/poesia.xml</loc>
   <lastmod>2016-11-17T18:15:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/categories/premios.xml</loc>
+  <lastmod>2016-11-21T20:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/seguridad.xml</loc>
@@ -186,6 +194,10 @@
   <lastmod>2016-09-22T21:34:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2016/VIII%20Congreso%20Nacional%20de%20Bibliotecas%20Publicas/rss.xml</loc>
+  <lastmod>2016-11-21T19:34:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/2016/dia-del-libro/rss.xml</loc>
   <lastmod>2016-09-22T21:34:00Z</lastmod>
  </sitemap>
@@ -214,6 +226,10 @@
   <lastmod>2016-09-22T21:34:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2016/viii-congreso-nacional-bibliotecas-publicas/rss.xml</loc>
+  <lastmod>2016-11-21T19:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/2016/xviii-encuentro-provincial-clubes-lectura/rss.xml</loc>
   <lastmod>2016-09-22T21:34:00Z</lastmod>
  </sitemap>
@@ -235,10 +251,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2016-11-17T18:56:00Z</lastmod>
+  <lastmod>2016-11-21T20:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2016-11-17T18:56:00Z</lastmod>
+  <lastmod>2016-11-21T20:12:00Z</lastmod>
  </sitemap>
 </sitemapindex>
