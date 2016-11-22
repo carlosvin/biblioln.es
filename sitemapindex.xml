@@ -59,7 +59,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/cursos.xml</loc>
-  <lastmod>2016-09-22T21:34:00Z</lastmod>
+  <lastmod>2016-11-22T18:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/dia-del-libro.xml</loc>
@@ -88,6 +88,10 @@
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
   <lastmod>2016-11-17T18:15:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/categories/formacion.xml</loc>
+  <lastmod>2016-11-22T18:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/fotos.xml</loc>
@@ -155,7 +159,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/talleres.xml</loc>
-  <lastmod>2016-11-17T18:17:00Z</lastmod>
+  <lastmod>2016-11-22T18:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/teatro.xml</loc>
@@ -222,6 +226,10 @@
   <lastmod>2016-09-22T21:34:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2016/talleres/rss.xml</loc>
+  <lastmod>2016-11-22T18:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/2016/viii-congreso-nacional-bibliotecas-publicas/rss.xml</loc>
   <lastmod>2016-11-21T19:36:00Z</lastmod>
  </sitemap>
@@ -247,10 +255,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2016-11-21T20:33:00Z</lastmod>
+  <lastmod>2016-11-22T18:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2016-11-21T20:34:00Z</lastmod>
+  <lastmod>2016-11-22T18:21:00Z</lastmod>
  </sitemap>
 </sitemapindex>
