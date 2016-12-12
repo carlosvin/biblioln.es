@@ -159,7 +159,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/talleres.xml</loc>
-  <lastmod>2016-11-22T18:21:00Z</lastmod>
+  <lastmod>2016-12-12T22:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/teatro.xml</loc>
@@ -179,7 +179,11 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/visitas.xml</loc>
-  <lastmod>2016-11-17T18:15:00Z</lastmod>
+  <lastmod>2016-12-12T22:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/categories/zarzuela.xml</loc>
+  <lastmod>2016-12-12T22:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2012/Visita%20de%20los%20alumnos%20de%20la%20ESO/rss.xml</loc>
@@ -255,10 +259,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2016-11-22T18:21:00Z</lastmod>
+  <lastmod>2016-12-12T22:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2016-11-22T18:21:00Z</lastmod>
+  <lastmod>2016-12-12T22:37:00Z</lastmod>
  </sitemap>
 </sitemapindex>

@@ -27,11 +27,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/2016/index.html</loc>
-  <lastmod>2016-11-22T18:21:00Z</lastmod>
+  <lastmod>2016-12-12T22:37:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2016-11-22T18:16:00Z</lastmod>
+  <lastmod>2016-12-12T22:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/actividades.html</loc>
@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/avisos.html</loc>
-  <lastmod>2016-11-22T18:18:00Z</lastmod>
+  <lastmod>2016-12-12T22:37:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/bebeteca.html</loc>
@@ -127,7 +127,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/index.html</loc>
-  <lastmod>2016-11-22T18:16:00Z</lastmod>
+  <lastmod>2016-12-12T22:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/informatica.html</loc>
@@ -159,11 +159,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/narrativa.html</loc>
-  <lastmod>2016-11-22T18:16:00Z</lastmod>
+  <lastmod>2016-12-12T22:37:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/novedades.html</loc>
-  <lastmod>2016-11-22T18:16:00Z</lastmod>
+  <lastmod>2016-12-12T22:37:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/novedates.html</loc>
@@ -191,7 +191,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/talleres.html</loc>
-  <lastmod>2016-11-22T18:21:00Z</lastmod>
+  <lastmod>2016-12-12T22:37:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/teatro.html</loc>
@@ -211,7 +211,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/visitas.html</loc>
-  <lastmod>2016-11-17T18:15:00Z</lastmod>
+  <lastmod>2016-12-12T22:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/categories/zarzuela.html</loc>
+  <lastmod>2016-12-12T22:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/descarga.html</loc>
@@ -319,7 +323,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-16.html</loc>
-  <lastmod>2016-11-22T18:16:00Z</lastmod>
+  <lastmod>2016-12-12T22:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-2.html</loc>
@@ -355,7 +359,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index.html</loc>
-  <lastmod>2016-11-22T18:21:00Z</lastmod>
+  <lastmod>2016-12-12T22:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/07/comenzamos-a-andar.html</loc>
@@ -991,7 +995,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2016/11/talleres-formaci%C3%B3n.html</loc>
-  <lastmod>2016-11-22T18:21:00Z</lastmod>
+  <lastmod>2016-12-12T22:28:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2016/11/talleres-halloween.html</loc>
@@ -1000,6 +1004,10 @@
  <url>
   <loc>http://biblioln.es/posts/2016/11/viii-congreso-nacional-bibliotecas-publicas.html</loc>
   <lastmod>2016-11-21T20:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2016/12/visita-a-toledo-a-ver-zarzuela.html</loc>
+  <lastmod>2016-12-12T22:36:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/stories/2011/07/44.html</loc>
