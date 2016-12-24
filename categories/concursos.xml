@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (Concursos)</title><link>http://biblioln.es/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://biblioln.es/categories/concursos.xml"></atom:link><language>es</language><lastBuildDate>Thu, 22 Sep 2016 21:34:57 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Premio al Mejor Lector/a 2015</title><link>http://biblioln.es/posts/2015/12/premio-mejor-lector-2015.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo día 22 de Diciembre en la Biblioteca a las 18 horas, se hará entrega del &lt;a class="reference external" href="http://biblioln.es/posts/2015/10/mejor-lector-2015.html"&gt;premio al mejor lector&lt;/a&gt;.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (Concursos)</title><link>http://biblioln.es/</link><description></description><atom:link type="application/rss+xml" href="http://biblioln.es/categories/concursos.xml" rel="self"></atom:link><language>es</language><lastBuildDate>Sat, 24 Dec 2016 04:49:42 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Premio al Mejor Lector/a 2015</title><link>http://biblioln.es/posts/2015/12/premio-mejor-lector-2015.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo día 22 de Diciembre en la Biblioteca a las 18 horas, se hará entrega del &lt;a class="reference external" href="http://biblioln.es/posts/2015/10/mejor-lector-2015.html"&gt;premio al mejor lector&lt;/a&gt;.&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;Habrá dos premios uno para los más pequeños y otro para los mayores.&lt;/li&gt;
 &lt;li&gt;Están participando en esta actividad 20 niños de educación primaria, tenemos 20 cofres con las fichas de los libros  que han ido leyendo.&lt;/li&gt;
 &lt;li&gt;El día 22 las contaremos y el que más haya leído se llevará el premio, que será un juego educativo.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div id="slides_7f2d7ad061084de7b602ad9f140ce061" class="carousel slide"&gt;
+&lt;div id="slides_3322971400c14bbe843d56a5ba4fd3ed" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_7f2d7ad061084de7b602ad9f140ce061" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_7f2d7ad061084de7b602ad9f140ce061" data-slide-to="1"&gt;
+            &lt;li data-target="#slides_3322971400c14bbe843d56a5ba4fd3ed" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3322971400c14bbe843d56a5ba4fd3ed" data-slide-to="1"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2015/12/premio-al-mejor-lector.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2015/10/mejor-lector-2015.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2015/12/premio-mejor-lector-2015.html#slides_7f2d7ad061084de7b602ad9f140ce061" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2015/12/premio-mejor-lector-2015.html#slides_7f2d7ad061084de7b602ad9f140ce061" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2015/12/premio-mejor-lector-2015.html#slides_3322971400c14bbe843d56a5ba4fd3ed" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2015/12/premio-mejor-lector-2015.html#slides_3322971400c14bbe843d56a5ba4fd3ed" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;!-- previewimage: /2015/10/mejor-lector-2015.png --&gt;&lt;/div&gt;</description><category>Actividades</category><category>Concursos</category><guid>http://biblioln.es/posts/2015/12/premio-mejor-lector-2015.html</guid><pubDate>Wed, 02 Dec 2015 19:30:00 GMT</pubDate></item></channel></rss>

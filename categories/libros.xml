@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Biblioteca Los Navalmorales (Libros)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/libros.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Thu, 17 Nov 2016 18:15:58 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades Otoño 2015</title><link>http://biblioln.es/posts/2015/10/novedades-otonio-2015.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="book-figure"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (Libros)</title><link>http://biblioln.es/</link><description></description><atom:link type="application/rss+xml" href="http://biblioln.es/categories/libros.xml" rel="self"></atom:link><language>es</language><lastBuildDate>Sat, 24 Dec 2016 04:49:50 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Actividades Navideñas</title><link>http://biblioln.es/posts/2016/12/libros-premio-maria-moliner.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Ya han llegado a la biblioteca los libros del premio María Moliner. Son 210 libros, la mayoría son infantiles y juveniles, unos 50 son de adultos. Los cuentos son muy, muy bonitos, os están esperando en la Biblioteca.&lt;/p&gt;
+
+&lt;div id="slides_033ee8e069ae41f8bc7b290349e88961" class="carousel slide"&gt;
+    &lt;ol class="carousel-indicators"&gt;
+            &lt;li data-target="#slides_033ee8e069ae41f8bc7b290349e88961" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_033ee8e069ae41f8bc7b290349e88961" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_033ee8e069ae41f8bc7b290349e88961" data-slide-to="2"&gt;
+    &lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="carousel-inner"&gt;
+                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2016/libros-premio-maria-moliner/libros-premio-maria-moliner.1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/libros-premio-maria-moliner/libros-premio-maria-moliner.2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/libros-premio-maria-moliner/MMoliner-2016.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/12/libros-premio-maria-moliner.html#slides_033ee8e069ae41f8bc7b290349e88961" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/12/libros-premio-maria-moliner.html#slides_033ee8e069ae41f8bc7b290349e88961" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/galleries/2016/libros-premio-maria-moliner/index.html"&gt;Ver fotos&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Libros</category><category>Narrativa</category><category>novedades</category><category>Premios</category><guid>http://biblioln.es/posts/2016/12/libros-premio-maria-moliner.html</guid><pubDate>Fri, 23 Dec 2016 10:40:00 GMT</pubDate></item><item><title>Novedades Otoño 2015</title><link>http://biblioln.es/posts/2015/10/novedades-otonio-2015.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="book-figure"&gt;
 &lt;div class="book-figure-media"&gt;
 &lt;a class="book-figure-image" href="http://www.casadellibro.com/libro-numeros-saltarines/9788434863019/647643" target="_blank"&gt;
 &lt;img src="http://ecx.images-amazon.com/images/I/31B6ovKHSxL._BO1,204,203,200_.jpg" alt="NUMEROS SALTARINES - KATE LEE, comprar el libro"&gt;
@@ -348,96 +365,4 @@
 &lt;p&gt;Anah Tivoli no sabe todo lo que le deparará el futuro hasta que recibe un regalo de cumpleaños que no sólo cambiará su vida, sino la de todos los habitantes de Lacerdin. A partir de este momento, la pequeña no parará de vivir mágicas aventuras junto a Promton, antiguo maestro de la escuela y druida encubierto, y Tilton, un extraño y desconocido ser perteneciente al clan de los Gniwells, quienes no tardarán en convertirse en sus nuevos y misteriosos amigos. Juntos, lucharán por devolver la tranquilidad al condado en el que residen mediante una incansable y ardua lucha contra Celoder, un maligno hechicero que no durará en poner todo su empeño para que fracasen.&lt;/p&gt;
 &lt;h4&gt;Biografía&lt;/h4&gt;
 
-&lt;p&gt;Guillermo de los Mozos Alventosa nació en Madrid en 1983. Tras estudiar periodismo, su vocación como escritor le llevó hasta Guatemala, en donde se encargaría de cubrir reportajes de impacto social para el diario El Periódico. A su vuelta a España comenzó los estudios de Administración y Dirección de Empresas, carrera que terminó hace dos años para posteriormente cursar un máster en Dirección de Comunicación y Relaciones Públicas. Actualmente, compagina su labor como monitor de escritura creativa  con la creación literaria, el desarrollo de su blog &lt;a title="www.gmozos.blogspot.com" href="http://www.gmozos.blogspot.com" target="_blank"&gt;www.gmozos.blogspot.com&lt;/a&gt; y la administración de los siguientes portales literarios: &lt;a title="www.diversidadliteraria.es" href="http://www.diversidadliteraria.es" target="_blank"&gt;www.diversidadliteraria.es&lt;/a&gt;, &lt;a title="www.universodelibros.com" href="http://www.universodelibros.com" target="_blank"&gt;www.universodelibros.com&lt;/a&gt; y &lt;a title="www.booktrailersweb.es" href="http://www.booktrailersweb.es" target="_blank"&gt;www.booktrailersweb.es&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><guid>http://biblioln.es/posts/2014/02/presentacion-del-libro-el-amuleto-de-abraxas-del-autor-guillermo-de-los-mozos-alventosa.html</guid><pubDate>Wed, 26 Feb 2014 10:26:05 GMT</pubDate></item><item><title>Novedades Diciembre 2013</title><link>http://biblioln.es/posts/2013/12/novedades-diciembre-2013.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;h3&gt;El Canto del Cuco, &lt;small&gt;ROBERT GALBRATH&lt;/small&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;img id="imgPrincipal" title="el canto del cuco-robert galbraith-9788467040395" alt="el canto del cuco-robert galbraith-9788467040395" src="http://image.casadellibro.com/libros/1/el-canto-del-cuco-9788467040395.jpg"&gt;&lt;/p&gt;
-&lt;h4&gt;Resumen&lt;/h4&gt;
-
-&lt;p&gt;El canto del cuco es la aclamada primera novela de misterio de J. K. Rowling escrita bajo el seudónimo de Robert Galbraith. Una joven modelo con problemas emocionales cae desde su balcón de Mayfair en plena noche. Su cuerpo yace en la calle nevada. Todo el mundo asume que ha sido un suicidio, excepto su hermano...&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;h3&gt;Mi Vida Querida, &lt;small&gt;ALICE MUNRO&lt;/small&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img id="imgPrincipal" title="mi vida querida-alice munro-9788426421395" alt="mi vida querida-alice munro-9788426421395" src="http://image.casadellibro.com/libros/1/mi-vida-querida-9788426421395.jpg"&gt;&lt;/p&gt;
-&lt;h4&gt;Resumen&lt;/h4&gt;
-
-&lt;p&gt;¿Bastan un beso robado, un salto desde un tren en marcha, la sombra de una mujer que me rodea alrededor de una casa, una borrachera de media tarde o las preguntas arriesgadas de una niña para conformar un mundo que se baste a sí mismo y cuente la vida entera? Si quien escribe es Alice Munro un simple adjetivo sirve para cruzar las fronteras de la anécdota y colocarnos en el lugar donde nacen los sentimientos y las emociones.La gran autora canadiense nos sorprende de nuevo con Mi vida querida , una colección de cuentos donde vemos a hombres y mujeres obligados a traficar con la vida sin más recursos que su humanidad.&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;h3&gt;El Cielo ha Vuelto, &lt;small&gt;Clara Sánchez&lt;/small&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img id="imgPrincipal" title="el cielo ha vuelto (premio planeta 2013)-clara sanchez-9788408119944" alt="el cielo ha vuelto (premio planeta 2013)-clara sanchez-9788408119944" src="http://image.casadellibro.com/libros/1/el-cielo-ha-vuelto-premio-planeta-2013-9788408119944.jpg"&gt;&lt;/p&gt;
-&lt;h4&gt;Resumen&lt;/h4&gt;
-
-&lt;p&gt;Premio Planeta de Novela 2013 ¿Puede una persona que se cruza por azar en nuestra vida decirnos algo que nos marque para siempre? Patricia es una joven modelo de pasarela cuya vida parece marcada por el éxito. En un vuelo de trabajo conoce a Viviana, su compañera de asiento, que le advierte que tenga cuidado porque......&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;h3&gt;El Médico Hereje, &lt;small&gt;José Luis Corral&lt;/small&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img id="imgPrincipal" title="el medico hereje-jose luis corral-9788408119906" alt="el medico hereje-jose luis corral-9788408119906" src="http://image.casadellibro.com/libros/1/el-medico-hereje-9788408119906.jpg"&gt;&lt;/p&gt;
-&lt;h4&gt;Resumen&lt;/h4&gt;
-
-&lt;p&gt;Un tiempo de guerras de religión, unas ideas heréticas, un hombre perseguido, un proceso inquisitorial, un juicio injusto, un libro maldito. Los avances del Renacimiento, el descubrimiento de la circulación de la sangre, la persecución de los herejes, la caza de brujas, las hogueras de la Inquisición En plena Reform a Protestante, un hombre retará a todos los poderes religiosos y laicos en defensa de la libertad de conciencia y de opinión. El médico hereje es un relato cargado de intriga, emoción, pasiones, traiciones y denuncias que relata el proceso y ejecución en la hoguera del médico Miguel Servet en 1553...&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;h3&gt;El Testigo Invisible, &lt;small&gt;Carmen Posadas&lt;/small&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img id="imgPrincipal" title="el testigo invisible-carmen posadas-9788408034551" alt="el testigo invisible-carmen posadas-9788408034551" src="http://image.casadellibro.com/libros/1/el-testigo-invisible-9788408034551.jpg"&gt;&lt;/p&gt;
-&lt;h4&gt;Resumen&lt;/h4&gt;
-
-&lt;p&gt;El testigo invisible, de Carmen Posadas, autora de otras obras como La cinta roja o Pequeñas infamias (Premio Planeta 1998), es una novela de narrativa histórica ambientada en la Rusia bolchevique en la que un sirviente que sobrevivió a la familia imperial rusa, es el gran protagonista.&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;h3&gt;Los Juegos del Hambre II: En Llamas, &lt;small&gt;Suzane Collins&lt;/small&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img id="imgPrincipal" title="los juegos del hambre 2: en llamas-suzanne collins-9788427202139" alt="los juegos del hambre 2: en llamas-suzanne collins-9788427202139" src="http://image.casadellibro.com/libros/1/los-juegos-del-hambre-2-en-llamas-9788427202139.jpg"&gt;&lt;/p&gt;
-&lt;h4&gt;Resumen&lt;/h4&gt;
-
-&lt;p&gt;Katniss Everdeen ha sobrevivido a Los juegos del hambre. Pero el Capitolio quiere venganza. Contra todopronóstico, Katniss Everdeen y Peeta Mellark siguen vivos. Aunque Katniss debería sentirse aliviada, se rumorea queexiste una rebelión contra el Capitolio, una rebelión que puede que Katniss y Peeta hayan ayudado a inspira&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;h3&gt;Las Olas del Destino, &lt;small&gt;Suzane Collins&lt;/small&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img title="Portada del libro Las olas del destino - 9788466653220" alt="Portada del libro Las olas del destino - 9788466653220" src="http://www.educandoo.com/Ediciones-B-S-A-/Las-olas-del-destino-i0n9632822.jpg" width="100"&gt;&lt;/p&gt;
-&lt;h4&gt;Resumen&lt;/h4&gt;
-
-&lt;p&gt;Isla de Jamaica, 1753. Deirdre, la hija de la inglesa Nora Fortnam y del esclavo Akwasi, lleva una vida protegida en la plantación de su madre y de su padre adoptivo.Pese a los orígenes poco claros de la joven, los muchachos de la isla beben los vientos por ella. Deirdre, sin embargo, no siente el menor interés por ninguno de ellos hasta que el joven médico Victor Dufresne pide su mano.Tras una espléndida ceremonia nupcial, la pareja de recién casados zarpa hacia Saint-Domingue, en La Española. Los sucesos que allí acontecerán transformarán sus vidas por completo… ...&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;h3&gt;El Club de las Zapatillas Rojas, &lt;small&gt;Ana Punset&lt;/small&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img id="imgPrincipal" title="el club de las zapatillas rojas-ana punset-9788484410812" alt="el club de las zapatillas rojas-ana punset-9788484410812" src="http://image.casadellibro.com/libros/1/el-club-de-las-zapatillas-rojas-9788484410812.jpg"&gt;&lt;/p&gt;
-&lt;h4&gt;Resumen&lt;/h4&gt;
-
-&lt;p&gt;Lucía, Frida, Bea y Marta deciden sellar un pacto de amistad y fundan el CLUB DE LAS ZAPATILLAS ROJAS.&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;h3&gt;Diario de Nikki 2, &lt;small&gt;Rachel Renée Russel&lt;/small&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img id="imgPrincipal" title="diario de nikki 2: cronicas de una chica no es precisamente la re ina de la fiesta (ficcion kids)-rachel renee rusell-9788427200845" alt="diario de nikki 2: cronicas de una chica no es precisamente la re ina de la fiesta (ficcion kids)-rachel renee rusell-9788427200845" src="http://image.casadellibro.com/libros/1/diario-de-nikki-2-cronicas-de-una-chica-no-es-precisamente-la-re-ina-de-la-fiesta-ficcion-kids-9788427200845.jpg"&gt;&lt;/p&gt;
-&lt;h4&gt;Resumen&lt;/h4&gt;
-
-&lt;p&gt;Ya instalada en su nueva escuela, la vida parece sonreírle a Nikki Maxwell, especialmente desde que su flechazo, Brandon, le pidió ser su compañero de laboratorio. No obstante, cuando Nikki oye a Mackenzie alardear de que Brandon la lleva a un baile de Halloween, se compromete a pasar esa noche en una fiesta infantil junto&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;h3&gt;Diario de Nikki, &lt;small&gt;Rachel Renée Russel&lt;/small&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img id="imgPrincipal" title="diario de nikki 1: cronicas de una vida muy poco glamurosa (ficci on kids)-rachel renee rusell-9788427200418" alt="diario de nikki 1: cronicas de una vida muy poco glamurosa (ficci on kids)-rachel renee rusell-9788427200418" src="http://image.casadellibro.com/libros/1/diario-de-nikki-1-cronicas-de-una-vida-muy-poco-glamurosa-ficci-on-kids-9788427200418.jpg"&gt;&lt;/p&gt;
-&lt;h4&gt;Resumen&lt;/h4&gt;
-
-&lt;p&gt;Cuando el padre de Nikki es contratado para encargarse de la desinfección de un instituto de alto standing, no sólo consigue un trabajo para todo el año sino que a su vez consigue una beca para su hija. Y es ahí donde empieza el sinvivir de Nikki que se encuentra perdida de repente entre un mundo desconocido para ella: el d el pijerío. Enseguida conocerá a MacKenzie, una chica que siempre va a la última y que lidera el grupo GPS (Guapas, Populares y Simpáticas). La guerra entre ella y MacKenzie para conseguir ser la número uno está servida. ...&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;h3&gt;Diario de Greg 7: Buscando plan, &lt;small&gt;Jeff Kinney&lt;/small&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img id="imgPrincipal" title="diario de greg 7: buscando plan-jeff kinney-9788427204164" alt="diario de greg 7: buscando plan-jeff kinney-9788427204164" src="http://image.casadellibro.com/libros/1/diario-de-greg-7-buscando-plan-9788427204164.jpg"&gt;&lt;/p&gt;
-&lt;h4&gt;Resumen&lt;/h4&gt;
-
-&lt;p&gt;El amor está en el aire... ¿pero qué significa eso para Greg Heffley? La fiesta de San Valentín ha puesto el colegio de Greg patas arriba. ¡Incluso él se ha lanzado a buscar plan! Aunque enseguida ha empezado a preocuparse por si se queda solo en el frío de la “gran” noche... Su mejor amigo, Rowley, tampoco tien e planes, pero eso no es más que un consuelo de pringao. Una sorpresa inesperada hará que Greg consiga acompañante para el baile y dejará a Rowley como el tercero en discordia. Sin embargo, en una noche tan especial, puede pasar de todo, y al final, nunca se sabe quién acabará siendo afortunado en el amor. ...&lt;/p&gt;
-&lt;hr&gt;
-
-&lt;h3&gt;Astérix y los Pictos, &lt;small&gt;R. Goscinny y A. Uderzo&lt;/small&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;img id="imgPrincipal" title="asterix y los pictos-rene goscinny-jean yves ferri-9788421679111" alt="asterix y los pictos-rene goscinny-jean yves ferri-9788421679111" src="http://image.casadellibro.com/libros/1/asterix-y-los-pictos-9788421679111.jpg"&gt;&lt;/p&gt;
-&lt;h4&gt;Resumen&lt;/h4&gt;
-
-&lt;p&gt;Astérix y los Pictos, de Rene Goscinny, creador de las aventuras de Astérix el Galo y autor de toda la saga (Los laureles del César, Astérix Gladiador,...) y Jean Yves Ferri, es el nuevo álbum de la colección clásica de Astérix con los personajes de siempre y muchos nuevos: ¡Varios clanes enteros, de hecho! En esta ocasión, Astérix y Obélix viajan a Caledonia, la Escocia romana.&lt;/p&gt;&lt;/div&gt;</description><category>Libros</category><guid>http://biblioln.es/posts/2013/12/novedades-diciembre-2013.html</guid><pubDate>Thu, 19 Dec 2013 18:44:46 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Guillermo de los Mozos Alventosa nació en Madrid en 1983. Tras estudiar periodismo, su vocación como escritor le llevó hasta Guatemala, en donde se encargaría de cubrir reportajes de impacto social para el diario El Periódico. A su vuelta a España comenzó los estudios de Administración y Dirección de Empresas, carrera que terminó hace dos años para posteriormente cursar un máster en Dirección de Comunicación y Relaciones Públicas. Actualmente, compagina su labor como monitor de escritura creativa  con la creación literaria, el desarrollo de su blog &lt;a title="www.gmozos.blogspot.com" href="http://www.gmozos.blogspot.com" target="_blank"&gt;www.gmozos.blogspot.com&lt;/a&gt; y la administración de los siguientes portales literarios: &lt;a title="www.diversidadliteraria.es" href="http://www.diversidadliteraria.es" target="_blank"&gt;www.diversidadliteraria.es&lt;/a&gt;, &lt;a title="www.universodelibros.com" href="http://www.universodelibros.com" target="_blank"&gt;www.universodelibros.com&lt;/a&gt; y &lt;a title="www.booktrailersweb.es" href="http://www.booktrailersweb.es" target="_blank"&gt;www.booktrailersweb.es&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><guid>http://biblioln.es/posts/2014/02/presentacion-del-libro-el-amuleto-de-abraxas-del-autor-guillermo-de-los-mozos-alventosa.html</guid><pubDate>Wed, 26 Feb 2014 10:26:05 GMT</pubDate></item></channel></rss>
