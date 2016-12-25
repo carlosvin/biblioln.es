@@ -1,7 +1,7 @@
 .. title: Actividades Navideñas
 .. slug: libros-premio-maria-moliner
 .. date: 2016-12-23 11:40:00
-.. tags: Novedades, Premios, Narrativa, Libros
+.. tags: novedades, Premios, Narrativa, Libros
 .. description: Ya hemos recibido los libros del premio Maria Moliner
 .. type: micro
 
@@ -12,4 +12,4 @@ Ya han llegado a la biblioteca los libros del premio María Moliner. Son 210 lib
     /galleries/2016/libros-premio-maria-moliner/libros-premio-maria-moliner.2.jpg
     /galleries/2016/libros-premio-maria-moliner/MMoliner-2016.jpg
 
-`Ver fotos <link://gallery/2016/navidad/libros-premio-maria-moliner>`_.
+`Ver fotos <link://gallery/2016/libros-premio-maria-moliner>`_.
