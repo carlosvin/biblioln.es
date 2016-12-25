@@ -4,7 +4,6 @@ services:
     build: .
     volumes:
     - .:/biblioln.es
-    - /C/Users/carlsa/.ssh:/root/.ssh
     command: bash
     stdin_open: true
     tty: true
