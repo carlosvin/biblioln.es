@@ -22,4 +22,4 @@ Estupenda la cena de Navidad de nuestro grupo del Taller de Literatura.
     /galleries/2016/navidad/cena-taller-literatura/taller-literatura-navidad.jpg
     /galleries/2016/navidad/cena-taller-literatura/taller-literatura-navidad.2.jpg
 
-`Ver fotos <link://gallery/2016/navidad/cena-taller-literatura>`_.
+`Ver fotos cena <link://gallery/2016/navidad/cena-taller-literatura>`_.

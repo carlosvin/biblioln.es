@@ -1,4 +1,2 @@
 Sitemap: http://biblioln.es/sitemapindex.xml
 
-User-Agent: *
-Host: biblioln.es
