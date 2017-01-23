@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Actividades)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/actividades.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Thu, 12 Jan 2017 18:05:48 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Día del Cuento</title><link>http://biblioln.es/posts/2017/01/dia-del-cuento.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Víspera de Reyes, tarde de cuentos en la biblioteca. Los niños han disfrutado con estos fantásticos cuentos, descubriendo la historia de el libro que duerme y averiguando como se puede comer un cerdito a un lobo.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (Actividades)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/actividades.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 23 Jan 2017 19:57:31 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Conferencia de Criminalística y Criminología</title><link>http://biblioln.es/posts/2017/01/conferencia-criminologia.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Tras la lectura del Libro &lt;a class="reference external" href="http://www.planetadelibros.com/libro-un-millon-de-gotas/118941"&gt;Un Millón de Gotas&lt;/a&gt; de &lt;a class="reference external" href="http://www.planetadelibros.com/autor/victor-del-arbol/000062120"&gt;Víctor del Árbol&lt;/a&gt; en el Taller de Literatura.&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;img alt="http://static9.planetadelibros.com/usuaris/libros/fotos/119/m_libros/un-millon-de-gotas_9788423348138.jpg" src="http://static9.planetadelibros.com/usuaris/libros/fotos/119/m_libros/un-millon-de-gotas_9788423348138.jpg"&gt;
+&lt;p class="caption"&gt;Un Millón de Gotas de Víctor del Árbol&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Presentamos la conferencia &lt;strong&gt;Criminalística y Criminología&lt;/strong&gt; que será impartida por &lt;strong&gt;Julio Sáez Martínez&lt;/strong&gt;, psicólogo del Departamento de Investigación Criminal de la Guardia Civil.&lt;/p&gt;
+&lt;p&gt;Tendrá lugar en La Biblioteca el 27 de Enero a las 6:00pm.&lt;/p&gt;
+
+&lt;div id="slides_6179580cfe9e4253a7dc31318727289a" class="carousel slide"&gt;
+    &lt;ol class="carousel-indicators"&gt;
+            &lt;li data-target="#slides_6179580cfe9e4253a7dc31318727289a" data-slide-to="0" class="active"&gt;
+    &lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="carousel-inner"&gt;
+                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/conferencia-criminologia.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia.html#slides_6179580cfe9e4253a7dc31318727289a" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia.html#slides_6179580cfe9e4253a7dc31318727289a" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/01/conferencia-criminologia.html</guid><pubDate>Mon, 23 Jan 2017 18:00:00 GMT</pubDate></item><item><title>Día del Cuento</title><link>http://biblioln.es/posts/2017/01/dia-del-cuento.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Víspera de Reyes, tarde de cuentos en la biblioteca. Los niños han disfrutado con estos fantásticos cuentos, descubriendo la historia de el libro que duerme y averiguando como se puede comer un cerdito a un lobo.&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
 &lt;img alt="http://www.loguezediciones.es/300/activos/imagen/wloge_producto_principal_1384producto-EvnNMlQCCMw1kmWs.jpg" src="http://www.loguezediciones.es/300/activos/imagen/wloge_producto_principal_1384producto-EvnNMlQCCMw1kmWs.jpg"&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="http://www.loguezediciones.es/libro/ver_libro_portada?id=299"&gt;El Libro que Duerme&lt;/a&gt;&lt;/p&gt;
@@ -165,19 +182,4 @@ Son unos cuentos muy dulces.&lt;/p&gt;
     &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/03/contando-cuentos-con-chocolate.html#slides_a4078677053e4b548640afcea5e974e7" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;!-- previewimage: /2016/02/cuentos-con-chocolate.png --&gt;&lt;/div&gt;</description><category>Actividades</category><category>Cuentos con Chocolate</category><guid>http://biblioln.es/posts/2016/03/contando-cuentos-con-chocolate.html</guid><pubDate>Tue, 08 Mar 2016 18:30:00 GMT</pubDate></item><item><title>Conferencia de Tratamientos Psiquiátricos y Psicológicos</title><link>http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El pasado 5 de Febrero tuvo lugar en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html"&gt;La Biblioteca&lt;/a&gt; la conferencia "Tratamientos Psiquiátricos y Psicológicos" impartida por Julio Sáez Martínez (Psicólogo del Dpto. Investigación Criminal de la Guardia Civil).&lt;/p&gt;
-
-&lt;div id="slides_a29227ee5be9468197dc062124d72748" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_a29227ee5be9468197dc062124d72748" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_a29227ee5be9468197dc062124d72748" data-slide-to="1"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2016/02/conferencia-tratamientos-psiquiatricos.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2016/02/conferencia-tratamientos-psiquiatricos.1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html#slides_a29227ee5be9468197dc062124d72748" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html#slides_a29227ee5be9468197dc062124d72748" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;!-- previewimage: /2016/02/conferencia-tratamientos-psiquiatricos.jpg --&gt;&lt;/div&gt;</description><category>Actividades</category><category>Conferencias</category><category>Eventos</category><guid>http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html</guid><pubDate>Fri, 12 Feb 2016 18:00:00 GMT</pubDate></item></channel></rss>
+&lt;!-- previewimage: /2016/02/cuentos-con-chocolate.png --&gt;&lt;/div&gt;</description><category>Actividades</category><category>Cuentos con Chocolate</category><guid>http://biblioln.es/posts/2016/03/contando-cuentos-con-chocolate.html</guid><pubDate>Tue, 08 Mar 2016 18:30:00 GMT</pubDate></item></channel></rss>
