@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2017-01-23T19:57:00Z</lastmod>
+  <lastmod>2017-01-29T18:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/agradecimientos.xml</loc>
@@ -35,7 +35,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/concursos.xml</loc>
-  <lastmod>2016-09-22T21:34:00Z</lastmod>
+  <lastmod>2017-01-29T18:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/conferencias.xml</loc>
@@ -151,7 +151,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
-  <lastmod>2017-01-23T19:57:00Z</lastmod>
+  <lastmod>2017-01-29T18:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller.xml</loc>
@@ -159,7 +159,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/talleres.xml</loc>
-  <lastmod>2017-01-23T19:57:00Z</lastmod>
+  <lastmod>2017-01-29T18:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/teatro.xml</loc>
@@ -275,10 +275,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2017-01-23T19:57:00Z</lastmod>
+  <lastmod>2017-01-29T18:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2017-01-23T19:57:00Z</lastmod>
+  <lastmod>2017-01-29T18:24:00Z</lastmod>
  </sitemap>
 </sitemapindex>
