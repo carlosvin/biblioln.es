@@ -8,7 +8,7 @@
 
 Encuentro con la escritora Almudena María Puebla, disfrutaremos con los poemas de amor de su libro "Páginas sueltas de un Libro de Amor".
 
-Tendrá lugar el días 10 de Febrero a las 17:30 en la Biblioteca. 
+Tendrá lugar el día 10 de Febrero a las 17:30 en la Biblioteca. 
 
 .. slides::
 
