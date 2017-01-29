@@ -1,6 +1,6 @@
 .. title: Concurso: Yo Leo Libros de la Biblioteca
 .. slug: concurso-yo-leo-en-la-biblioteca
-.. date: 2017-01-28 15:30
+.. date: 2017-01-28 16:30
 .. tags: Concursos, Actividades
 .. description: Concurso para adultos, jóvenes y niños
 .. type: text
