@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2017-01-29T18:24:00Z</lastmod>
+  <lastmod>2017-01-31T18:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/agradecimientos.xml</loc>
@@ -151,7 +151,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
-  <lastmod>2017-01-29T18:24:00Z</lastmod>
+  <lastmod>2017-01-31T18:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller.xml</loc>
@@ -159,7 +159,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/talleres.xml</loc>
-  <lastmod>2017-01-29T18:24:00Z</lastmod>
+  <lastmod>2017-01-31T18:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/teatro.xml</loc>
@@ -258,6 +258,14 @@
   <lastmod>2017-01-12T17:58:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2017/conferencia-criminologia/rss.xml</loc>
+  <lastmod>2017-01-31T18:35:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/galleries/2017/rss.xml</loc>
+  <lastmod>2017-01-31T18:35:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/La%20Biblioteca/rss.xml</loc>
   <lastmod>2017-01-12T17:58:00Z</lastmod>
  </sitemap>
@@ -275,10 +283,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2017-01-29T18:24:00Z</lastmod>
+  <lastmod>2017-01-31T18:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2017-01-29T18:24:00Z</lastmod>
+  <lastmod>2017-01-31T18:39:00Z</lastmod>
  </sitemap>
 </sitemapindex>

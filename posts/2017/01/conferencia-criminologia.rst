@@ -19,4 +19,4 @@ Tendrá lugar en La Biblioteca el 27 de Enero a las 6:00pm.
 
 .. slides::
 
-  /2017/conferencia-criminologia.png
+  /galleries/2017/conferencia-criminologia/conferencia-criminologia.cartel.png

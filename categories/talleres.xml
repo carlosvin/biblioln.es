@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (Talleres)</title><link>http://biblioln.es/</link><description></description><atom:link type="application/rss+xml" href="http://biblioln.es/categories/talleres.xml" rel="self"></atom:link><language>es</language><lastBuildDate>Sun, 29 Jan 2017 18:24:47 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Cita con mucho amor y poesía</title><link>http://biblioln.es/posts/2017/01/cita-con-mucho-amor.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Encuentro con la escritora Almudena María Puebla, disfrutaremos con los poemas de amor de su libro "Páginas sueltas de un Libro de Amor".&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Biblioteca Los Navalmorales (Talleres)</title><link>http://biblioln.es/</link><description></description><atom:link rel="self" type="application/rss+xml" href="http://biblioln.es/categories/talleres.xml"></atom:link><language>es</language><lastBuildDate>Tue, 31 Jan 2017 18:37:47 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Crónica de la Conferencia de Criminalística y Criminología</title><link>http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Estupendo lo que nos ha explicado Julio sobre los distintos rasgos de los personajes de "Un Millón de Gotas" (Víctor del Arbol).&lt;/p&gt;
+&lt;p&gt;Hemos podido debatir sobre la novela y aclarar nuestras dudas.&lt;/p&gt;
+&lt;p&gt;A continuación unas fotos.&lt;/p&gt;
+
+&lt;div id="slides_1e4554d3123b453e978e9b4a6bd3a466" class="carousel slide"&gt;
+    &lt;ol class="carousel-indicators"&gt;
+            &lt;li data-target="#slides_1e4554d3123b453e978e9b4a6bd3a466" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_1e4554d3123b453e978e9b4a6bd3a466" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_1e4554d3123b453e978e9b4a6bd3a466" data-slide-to="2"&gt;
+    &lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="carousel-inner"&gt;
+                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-criminologia/conferencia-criminologia.cartel.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-criminologia/conferencia-criminologia.1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-criminologia/conferencia-criminologia.2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica.html#slides_1e4554d3123b453e978e9b4a6bd3a466" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica.html#slides_1e4554d3123b453e978e9b4a6bd3a466" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica.html</guid><pubDate>Tue, 31 Jan 2017 18:00:00 GMT</pubDate></item><item><title>Cita con mucho amor y poesía</title><link>http://biblioln.es/posts/2017/01/cita-con-mucho-amor.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Encuentro con la escritora Almudena María Puebla, disfrutaremos con los poemas de amor de su libro "Páginas sueltas de un Libro de Amor".&lt;/p&gt;
 &lt;p&gt;Tendrá lugar el día 10 de Febrero a las 17:30 en la Biblioteca.&lt;/p&gt;
 
 &lt;div id="slides_00688ec60158459b9cd438f2cbb0dfcf" class="carousel slide"&gt;
@@ -11,7 +28,7 @@
     &lt;/div&gt;
     &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/01/cita-con-mucho-amor.html#slides_00688ec60158459b9cd438f2cbb0dfcf" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
     &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/01/cita-con-mucho-amor.html#slides_00688ec60158459b9cd438f2cbb0dfcf" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/01/cita-con-mucho-amor.html</guid><pubDate>Sun, 29 Jan 2017 16:00:00 GMT</pubDate></item><item><title>Conferencia de Criminalística y Criminología</title><link>http://biblioln.es/posts/2017/01/conferencia-criminologia.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Tras la lectura del Libro &lt;a class="reference external" href="http://www.planetadelibros.com/libro-un-millon-de-gotas/118941"&gt;Un Millón de Gotas&lt;/a&gt; de &lt;a class="reference external" href="http://www.planetadelibros.com/autor/victor-del-arbol/000062120"&gt;Víctor del Árbol&lt;/a&gt; en el Taller de Literatura.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/01/cita-con-mucho-amor.html</guid><pubDate>Sun, 29 Jan 2017 16:00:00 GMT</pubDate></item><item><title>Conferencia de Criminalística y Criminología</title><link>http://biblioln.es/posts/2017/01/conferencia-criminologia.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/2017/conferencia-criminologia.png"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Tras la lectura del Libro &lt;a class="reference external" href="http://www.planetadelibros.com/libro-un-millon-de-gotas/118941"&gt;Un Millón de Gotas&lt;/a&gt; de &lt;a class="reference external" href="http://www.planetadelibros.com/autor/victor-del-arbol/000062120"&gt;Víctor del Árbol&lt;/a&gt; en el Taller de Literatura.&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
 &lt;img alt="http://static9.planetadelibros.com/usuaris/libros/fotos/119/m_libros/un-millon-de-gotas_9788423348138.jpg" src="http://static9.planetadelibros.com/usuaris/libros/fotos/119/m_libros/un-millon-de-gotas_9788423348138.jpg"&gt;
 &lt;p class="caption"&gt;Un Millón de Gotas de Víctor del Árbol&lt;/p&gt;
@@ -19,15 +36,15 @@
 &lt;p&gt;Presentamos la conferencia &lt;strong&gt;Criminalística y Criminología&lt;/strong&gt; que será impartida por &lt;strong&gt;Julio Sáez Martínez&lt;/strong&gt;, psicólogo del Departamento de Investigación Criminal de la Guardia Civil.&lt;/p&gt;
 &lt;p&gt;Tendrá lugar en La Biblioteca el 27 de Enero a las 6:00pm.&lt;/p&gt;
 
-&lt;div id="slides_6179580cfe9e4253a7dc31318727289a" class="carousel slide"&gt;
+&lt;div id="slides_b14e196e73674eeeb92a06c502dc3219" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_6179580cfe9e4253a7dc31318727289a" data-slide-to="0" class="active"&gt;
+            &lt;li data-target="#slides_b14e196e73674eeeb92a06c502dc3219" data-slide-to="0" class="active"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/conferencia-criminologia.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-criminologia/conferencia-criminologia.cartel.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia.html#slides_6179580cfe9e4253a7dc31318727289a" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia.html#slides_6179580cfe9e4253a7dc31318727289a" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia.html#slides_b14e196e73674eeeb92a06c502dc3219" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia.html#slides_b14e196e73674eeeb92a06c502dc3219" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/01/conferencia-criminologia.html</guid><pubDate>Mon, 23 Jan 2017 18:00:00 GMT</pubDate></item><item><title>Día del Cuento</title><link>http://biblioln.es/posts/2017/01/dia-del-cuento.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Víspera de Reyes, tarde de cuentos en la biblioteca. Los niños han disfrutado con estos fantásticos cuentos, descubriendo la historia de el libro que duerme y averiguando como se puede comer un cerdito a un lobo.&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
 &lt;img alt="http://www.loguezediciones.es/300/activos/imagen/wloge_producto_principal_1384producto-EvnNMlQCCMw1kmWs.jpg" src="http://www.loguezediciones.es/300/activos/imagen/wloge_producto_principal_1384producto-EvnNMlQCCMw1kmWs.jpg"&gt;
@@ -78,23 +95,4 @@
 &lt;li&gt;Club de comprensión lectora. Con los niños de 1º y 2º de primaria, un grupo por curso.&lt;/li&gt;
 &lt;li&gt;Club de lectura con los cursos de 1º, 2º, 5º y 6º de primaria, uno por curso.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Ya iremos contando lo que vayamos leyendo.&lt;/p&gt;&lt;/div&gt;</description><category>Avisos</category><category>Talleres</category><guid>http://biblioln.es/posts/2016/10/clubes-lectura-infantiles.html</guid><pubDate>Tue, 25 Oct 2016 18:00:00 GMT</pubDate></item><item><title>Talleres para el próximo año</title><link>http://biblioln.es/posts/2016/10/talleres-proximo-anio.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;A continuación les expongo los talleres que va a haber este año en la biblioteca a partir del 18 de Octubre.&lt;/p&gt;
-&lt;dl class="docutils"&gt;
-&lt;dt&gt;Octubre&lt;/dt&gt;
-&lt;dd&gt;Taller de Halloween.&lt;/dd&gt;
-&lt;dt&gt;Noviembre&lt;/dt&gt;
-&lt;dd&gt;Cine en la biblioteca.&lt;/dd&gt;
-&lt;dt&gt;Diciembre&lt;/dt&gt;
-&lt;dd&gt;Taller de navidad.&lt;/dd&gt;
-&lt;dt&gt;Enero&lt;/dt&gt;
-&lt;dd&gt;Actividades sobre nuestras mascotas, los animales y sus cuidados.&lt;/dd&gt;
-&lt;dt&gt;Febrero&lt;/dt&gt;
-&lt;dd&gt;Talleres de carnavales.
-Aparte de estos talleres tendremos una actividad llamada: &lt;em&gt;Cita a Ciegas&lt;/em&gt;.&lt;/dd&gt;
-&lt;dt&gt;Marzo&lt;/dt&gt;
-&lt;dd&gt;Cine.&lt;/dd&gt;
-&lt;dt&gt;Abril&lt;/dt&gt;
-&lt;dd&gt;Taller de Teatro.&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;p&gt;Durante todo el curso habrá &lt;strong&gt;Clubes de Lectura Infantiles&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;¡Les esperamos!&lt;/p&gt;&lt;/div&gt;</description><category>Avisos</category><category>Talleres</category><guid>http://biblioln.es/posts/2016/10/talleres-proximo-anio.html</guid><pubDate>Mon, 03 Oct 2016 18:00:00 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Ya iremos contando lo que vayamos leyendo.&lt;/p&gt;&lt;/div&gt;</description><category>Avisos</category><category>Talleres</category><guid>http://biblioln.es/posts/2016/10/clubes-lectura-infantiles.html</guid><pubDate>Tue, 25 Oct 2016 18:00:00 GMT</pubDate></item></channel></rss>
