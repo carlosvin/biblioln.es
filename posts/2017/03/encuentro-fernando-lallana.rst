@@ -10,6 +10,7 @@ Tras la lectura del Libro `Si te dicen loco <http://www.editorialcelya.com/si-te
 
 .. figure:: http://www.editorialcelya.com/pics/contenido/A.%20PORTADA.%20web.%20SI%20TE%20DICEN%20LOCO.jpg
   :align: center
+  :figwidth: 400
 
   "Si te dicen loco" de Fernando Lallana
 
