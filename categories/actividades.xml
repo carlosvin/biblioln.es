@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (Actividades)</title><link>http://biblioln.es/</link><description></description><atom:link rel="self" type="application/rss+xml" href="http://biblioln.es/categories/actividades.xml"></atom:link><language>es</language><lastBuildDate>Mon, 27 Feb 2017 19:03:13 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Presentación del libro: El Estado de Valdepusa y Malpica</title><link>http://biblioln.es/posts/2017/02/presentacion-libro-arsenio-talavera.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El autor &lt;strong&gt;Arsenio Talavera Almendro&lt;/strong&gt; nos presentará su libro &lt;em&gt;El Estado de Valdepusa y Malpica&lt;/em&gt; en el que cuenta la historia de los pueblos de Valdepusa, entre ellos el nuestro, Los Navalmorales.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Actividades)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/actividades.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Tue, 21 Mar 2017 17:25:26 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Presentación del libro: El Estado de Valdepusa y Malpica</title><link>http://biblioln.es/posts/2017/02/presentacion-libro-arsenio-talavera.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El autor &lt;strong&gt;Arsenio Talavera Almendro&lt;/strong&gt; nos presentará su libro &lt;em&gt;El Estado de Valdepusa y Malpica&lt;/em&gt; en el que cuenta la historia de los pueblos de Valdepusa, entre ellos el nuestro, Los Navalmorales.&lt;/p&gt;
 &lt;p&gt;El evento tendrá lugar el &lt;strong&gt;3 de Marzo&lt;/strong&gt; a las &lt;strong&gt;18:00&lt;/strong&gt; en &lt;strong&gt;La Biblioteca&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;div id="slides_fbad9aa3b252448a94904296e9848d78" class="carousel slide"&gt;
+&lt;div id="slides_2b75c9d96e294ea089e345ac9333d8f7" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_fbad9aa3b252448a94904296e9848d78" data-slide-to="0" class="active"&gt;
+            &lt;li data-target="#slides_2b75c9d96e294ea089e345ac9333d8f7" data-slide-to="0" class="active"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/presentacion-libro-arsenio-talavera.jpeg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/02/presentacion-libro-arsenio-talavera.html#slides_fbad9aa3b252448a94904296e9848d78" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/02/presentacion-libro-arsenio-talavera.html#slides_fbad9aa3b252448a94904296e9848d78" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/02/presentacion-libro-arsenio-talavera.html#slides_2b75c9d96e294ea089e345ac9333d8f7" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/02/presentacion-libro-arsenio-talavera.html#slides_2b75c9d96e294ea089e345ac9333d8f7" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/02/presentacion-libro-arsenio-talavera.html</guid><pubDate>Mon, 27 Feb 2017 16:00:00 GMT</pubDate></item><item><title>Crónica del Encuentro con la escritora Almudena María Puebla</title><link>http://biblioln.es/posts/2017/01/cita-con-mucho-amor-cronica.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Ha sido estupendo tener  esta tarde en la biblioteca a Almudena Maria Puebla.&lt;/p&gt;
 &lt;p&gt;Los niños de los clubes de lectura infantiles han recitado algunos de los bonitos poemas de su libro: &lt;em&gt;Mi gato se ha subido&lt;/em&gt;...&lt;/p&gt;
 &lt;p&gt;El Taller de Literatura de  adultos ha recitado de su libro de poemas: &lt;em&gt;Páginas sueltas de un libro de amor&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Escuchar a la autora recitar sus poemas y hablarnos sobre ellos ha sido un placer. Muchas gracias Almudena.&lt;/p&gt;
 &lt;p&gt;A continuación unas fotos.&lt;/p&gt;
 
-&lt;div id="slides_7f17641564d84f129b6df7b9512f431c" class="carousel slide"&gt;
+&lt;div id="slides_1cbf55c6f3da4fa28de7b1650096cdd2" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_7f17641564d84f129b6df7b9512f431c" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_7f17641564d84f129b6df7b9512f431c" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_7f17641564d84f129b6df7b9512f431c" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_7f17641564d84f129b6df7b9512f431c" data-slide-to="3"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_7f17641564d84f129b6df7b9512f431c" data-slide-to="4"&gt;
+            &lt;li data-target="#slides_1cbf55c6f3da4fa28de7b1650096cdd2" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_1cbf55c6f3da4fa28de7b1650096cdd2" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_1cbf55c6f3da4fa28de7b1650096cdd2" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_1cbf55c6f3da4fa28de7b1650096cdd2" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_1cbf55c6f3da4fa28de7b1650096cdd2" data-slide-to="4"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/cita-con-mucho-amor-cronica/cita-con-mucho-amor-cronica1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
@@ -32,25 +32,25 @@
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/cita-con-mucho-amor-cronica/cita-con-mucho-amor-cronica4.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/cita-con-mucho-amor.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/01/cita-con-mucho-amor-cronica.html#slides_7f17641564d84f129b6df7b9512f431c" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/01/cita-con-mucho-amor-cronica.html#slides_7f17641564d84f129b6df7b9512f431c" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/01/cita-con-mucho-amor-cronica.html#slides_1cbf55c6f3da4fa28de7b1650096cdd2" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/01/cita-con-mucho-amor-cronica.html#slides_1cbf55c6f3da4fa28de7b1650096cdd2" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Crónica</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/01/cita-con-mucho-amor-cronica.html</guid><pubDate>Mon, 20 Feb 2017 17:00:00 GMT</pubDate></item><item><title>Crónica de la Conferencia de Criminalística y Criminología</title><link>http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Estupendo lo que nos ha explicado Julio sobre los distintos rasgos de los personajes de "Un Millón de Gotas" (Víctor del Arbol).&lt;/p&gt;
 &lt;p&gt;Hemos podido debatir sobre la novela y aclarar nuestras dudas.&lt;/p&gt;
 &lt;p&gt;A continuación unas fotos.&lt;/p&gt;
 
-&lt;div id="slides_1e4554d3123b453e978e9b4a6bd3a466" class="carousel slide"&gt;
+&lt;div id="slides_0e737fc3644a4681b00310ac9fbedbe5" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_1e4554d3123b453e978e9b4a6bd3a466" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_1e4554d3123b453e978e9b4a6bd3a466" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_1e4554d3123b453e978e9b4a6bd3a466" data-slide-to="2"&gt;
+            &lt;li data-target="#slides_0e737fc3644a4681b00310ac9fbedbe5" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_0e737fc3644a4681b00310ac9fbedbe5" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_0e737fc3644a4681b00310ac9fbedbe5" data-slide-to="2"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-criminologia/conferencia-criminologia.cartel.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-criminologia/conferencia-criminologia.1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-criminologia/conferencia-criminologia.2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica.html#slides_1e4554d3123b453e978e9b4a6bd3a466" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica.html#slides_1e4554d3123b453e978e9b4a6bd3a466" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica.html#slides_0e737fc3644a4681b00310ac9fbedbe5" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica.html#slides_0e737fc3644a4681b00310ac9fbedbe5" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica.html</guid><pubDate>Tue, 31 Jan 2017 18:00:00 GMT</pubDate></item><item><title>Concurso: Yo Leo Libros de la Biblioteca</title><link>http://biblioln.es/posts/2017/01/concurso-yo-leo-en-la-biblioteca.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;"Yo Leo Libros de la Biblioteca"&lt;/strong&gt;&lt;/p&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;Fecha&lt;/dt&gt;
@@ -73,15 +73,15 @@
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Concursos</category><guid>http://biblioln.es/posts/2017/01/concurso-yo-leo-en-la-biblioteca.html</guid><pubDate>Sun, 29 Jan 2017 16:30:00 GMT</pubDate></item><item><title>Cita con mucho amor y poesía</title><link>http://biblioln.es/posts/2017/01/cita-con-mucho-amor.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Encuentro con la escritora Almudena María Puebla, disfrutaremos con los poemas de amor de su libro "Páginas sueltas de un Libro de Amor".&lt;/p&gt;
 &lt;p&gt;Tendrá lugar el día 10 de Febrero a las 17:30 en la Biblioteca.&lt;/p&gt;
 
-&lt;div id="slides_00688ec60158459b9cd438f2cbb0dfcf" class="carousel slide"&gt;
+&lt;div id="slides_179691b495c24dedb026a2ec7bc988a9" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_00688ec60158459b9cd438f2cbb0dfcf" data-slide-to="0" class="active"&gt;
+            &lt;li data-target="#slides_179691b495c24dedb026a2ec7bc988a9" data-slide-to="0" class="active"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/cita-con-mucho-amor.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/01/cita-con-mucho-amor.html#slides_00688ec60158459b9cd438f2cbb0dfcf" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/01/cita-con-mucho-amor.html#slides_00688ec60158459b9cd438f2cbb0dfcf" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/01/cita-con-mucho-amor.html#slides_179691b495c24dedb026a2ec7bc988a9" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/01/cita-con-mucho-amor.html#slides_179691b495c24dedb026a2ec7bc988a9" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/01/cita-con-mucho-amor.html</guid><pubDate>Sun, 29 Jan 2017 16:00:00 GMT</pubDate></item><item><title>Cita interesante y divertida</title><link>http://biblioln.es/posts/2017/01/cita-interesante-divertida.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;p&gt;El día 14 desde las 10:00 hasta las 20:00, pásate por la Biblioteca y encontrarás tu cita.&lt;/p&gt;</description><category>Actividades</category><guid>http://biblioln.es/posts/2017/01/cita-interesante-divertida.html</guid><pubDate>Sun, 29 Jan 2017 15:30:00 GMT</pubDate></item><item><title>Conferencia de Criminalística y Criminología</title><link>http://biblioln.es/posts/2017/01/conferencia-criminologia.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/2017/conferencia-criminologia.png"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Tras la lectura del Libro &lt;a class="reference external" href="http://www.planetadelibros.com/libro-un-millon-de-gotas/118941"&gt;Un Millón de Gotas&lt;/a&gt; de &lt;a class="reference external" href="http://www.planetadelibros.com/autor/victor-del-arbol/000062120"&gt;Víctor del Árbol&lt;/a&gt; en el Taller de Literatura.&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
 &lt;img alt="http://static9.planetadelibros.com/usuaris/libros/fotos/119/m_libros/un-millon-de-gotas_9788423348138.jpg" src="http://static9.planetadelibros.com/usuaris/libros/fotos/119/m_libros/un-millon-de-gotas_9788423348138.jpg"&gt;
@@ -90,16 +90,32 @@
 &lt;p&gt;Presentamos la conferencia &lt;strong&gt;Criminalística y Criminología&lt;/strong&gt; que será impartida por &lt;strong&gt;Julio Sáez Martínez&lt;/strong&gt;, psicólogo del Departamento de Investigación Criminal de la Guardia Civil.&lt;/p&gt;
 &lt;p&gt;Tendrá lugar en La Biblioteca el 27 de Enero a las 6:00pm.&lt;/p&gt;
 
-&lt;div id="slides_b14e196e73674eeeb92a06c502dc3219" class="carousel slide"&gt;
+&lt;div id="slides_3d4ed013dd6d45d8ae4c800ab43bea03" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_b14e196e73674eeeb92a06c502dc3219" data-slide-to="0" class="active"&gt;
+            &lt;li data-target="#slides_3d4ed013dd6d45d8ae4c800ab43bea03" data-slide-to="0" class="active"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-criminologia/conferencia-criminologia.cartel.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia.html#slides_b14e196e73674eeeb92a06c502dc3219" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia.html#slides_b14e196e73674eeeb92a06c502dc3219" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/01/conferencia-criminologia.html</guid><pubDate>Mon, 23 Jan 2017 18:00:00 GMT</pubDate></item><item><title>Día del Cuento</title><link>http://biblioln.es/posts/2017/01/dia-del-cuento.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Víspera de Reyes, tarde de cuentos en la biblioteca. Los niños han disfrutado con estos fantásticos cuentos, descubriendo la historia de el libro que duerme y averiguando como se puede comer un cerdito a un lobo.&lt;/p&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia.html#slides_3d4ed013dd6d45d8ae4c800ab43bea03" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia.html#slides_3d4ed013dd6d45d8ae4c800ab43bea03" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/01/conferencia-criminologia.html</guid><pubDate>Mon, 23 Jan 2017 18:00:00 GMT</pubDate></item><item><title>Encuentro con el Autor Fernando Lallana</title><link>http://biblioln.es/posts/2017/03/encuentro-fernando-lallana.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Tras la lectura del Libro &lt;a class="reference external" href="http://www.editorialcelya.com/si-te-dicen-loco"&gt;Si te dicen loco&lt;/a&gt; de &lt;a class="reference external" href="https://twitter.com/flallanam"&gt;Fernando Lallana&lt;/a&gt; en el Taller de Literatura, realizaremos un encuentro con el autor.&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;img alt="http://www.editorialcelya.com/pics/contenido/A.%20PORTADA.%20web.%20SI%20TE%20DICEN%20LOCO.jpg" src="http://www.editorialcelya.com/pics/contenido/A.%20PORTADA.%20web.%20SI%20TE%20DICEN%20LOCO.jpg"&gt;
+&lt;p class="caption"&gt;"Si te dicen loco" de Fernando Lallana&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Tendrá lugar en La Biblioteca el 28 de Marzo a las 8:00pm.&lt;/p&gt;
+
+&lt;div id="slides_4e553c60a8e743a3adbbd6f4b64b28c8" class="carousel slide"&gt;
+    &lt;ol class="carousel-indicators"&gt;
+            &lt;li data-target="#slides_4e553c60a8e743a3adbbd6f4b64b28c8" data-slide-to="0" class="active"&gt;
+    &lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="carousel-inner"&gt;
+                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/encuentro.con.Fernando.Lallana.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/03/encuentro-fernando-lallana.html#slides_4e553c60a8e743a3adbbd6f4b64b28c8" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/03/encuentro-fernando-lallana.html#slides_4e553c60a8e743a3adbbd6f4b64b28c8" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/03/encuentro-fernando-lallana.html</guid><pubDate>Mon, 23 Jan 2017 18:00:00 GMT</pubDate></item><item><title>Día del Cuento</title><link>http://biblioln.es/posts/2017/01/dia-del-cuento.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Víspera de Reyes, tarde de cuentos en la biblioteca. Los niños han disfrutado con estos fantásticos cuentos, descubriendo la historia de el libro que duerme y averiguando como se puede comer un cerdito a un lobo.&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
 &lt;img alt="http://www.loguezediciones.es/300/activos/imagen/wloge_producto_principal_1384producto-EvnNMlQCCMw1kmWs.jpg" src="http://www.loguezediciones.es/300/activos/imagen/wloge_producto_principal_1384producto-EvnNMlQCCMw1kmWs.jpg"&gt;
 &lt;p class="caption"&gt;&lt;a class="reference external" href="http://www.loguezediciones.es/libro/ver_libro_portada?id=299"&gt;El Libro que Duerme&lt;/a&gt;&lt;/p&gt;
@@ -109,50 +125,35 @@
 &lt;p class="caption"&gt;&lt;a class="reference external" href="http://www.loguezediciones.es/libro/ver_libro_portada?id=303"&gt;Comer un Lobo&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/01/dia-del-cuento.html</guid><pubDate>Thu, 12 Jan 2017 09:30:00 GMT</pubDate></item><item><title>Actividades Navideñas</title><link>http://biblioln.es/posts/2016/12/navidad.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Ya hemos terminado los talleres de Navidad. Han participado mamás, papás, niñas y niños. En estás fotografías podéis ver lo bonito que ha quedado el árbol con los adorno que han hecho en los talleres.&lt;/p&gt;
 
-&lt;div id="slides_0e165d3c8c2046c2935a51fde8893db4" class="carousel slide"&gt;
+&lt;div id="slides_3ef38f3e08fb4081a275ab1b764ed058" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_0e165d3c8c2046c2935a51fde8893db4" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_0e165d3c8c2046c2935a51fde8893db4" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_0e165d3c8c2046c2935a51fde8893db4" data-slide-to="2"&gt;
+            &lt;li data-target="#slides_3ef38f3e08fb4081a275ab1b764ed058" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3ef38f3e08fb4081a275ab1b764ed058" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3ef38f3e08fb4081a275ab1b764ed058" data-slide-to="2"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2016/navidad/talleres/talleres.1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/navidad/talleres/talleres.2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/navidad/talleres/talleres.3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/12/navidad.html#slides_0e165d3c8c2046c2935a51fde8893db4" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/12/navidad.html#slides_0e165d3c8c2046c2935a51fde8893db4" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/12/navidad.html#slides_3ef38f3e08fb4081a275ab1b764ed058" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/12/navidad.html#slides_3ef38f3e08fb4081a275ab1b764ed058" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/galleries/2016/navidad/talleres/index.html"&gt;Ver fotos&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Estupenda la cena de Navidad de nuestro grupo del Taller de Literatura.&lt;/p&gt;
 
-&lt;div id="slides_ced5db7aad5f4cf0af6c64460b6164dc" class="carousel slide"&gt;
+&lt;div id="slides_3d119ff24ea94075b1b65c8e62f60313" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_ced5db7aad5f4cf0af6c64460b6164dc" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_ced5db7aad5f4cf0af6c64460b6164dc" data-slide-to="1"&gt;
+            &lt;li data-target="#slides_3d119ff24ea94075b1b65c8e62f60313" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3d119ff24ea94075b1b65c8e62f60313" data-slide-to="1"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2016/navidad/cena-taller-literatura/taller-literatura-navidad.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/navidad/cena-taller-literatura/taller-literatura-navidad.2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/12/navidad.html#slides_ced5db7aad5f4cf0af6c64460b6164dc" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/12/navidad.html#slides_ced5db7aad5f4cf0af6c64460b6164dc" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/12/navidad.html#slides_3d119ff24ea94075b1b65c8e62f60313" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/12/navidad.html#slides_3d119ff24ea94075b1b65c8e62f60313" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/galleries/2016/navidad/cena-taller-literatura/index.html"&gt;Ver fotos cena&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Actividades</category><guid>http://biblioln.es/posts/2016/12/navidad.html</guid><pubDate>Fri, 23 Dec 2016 10:30:00 GMT</pubDate></item><item><title>El Último Holocausto Europeo</title><link>http://biblioln.es/posts/2016/05/el-ultimo-holocausto-europeo.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El libro será presentado en La Biblioteca por su autora &lt;strong&gt;Susana Hidalgo Arenas&lt;/strong&gt;, periodista y experta en migraciones.&lt;/p&gt;
-&lt;p&gt;El evento tendrá lugar el 10 de Junio a las 20:00 h en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html"&gt;La Biblioteca&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div id="slides_81abc55860104e5dbe0b7ee20d02d9b9" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_81abc55860104e5dbe0b7ee20d02d9b9" data-slide-to="0" class="active"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2016/05/el_ultimo_holocausto_europeo.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/05/el-ultimo-holocausto-europeo.html#slides_81abc55860104e5dbe0b7ee20d02d9b9" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/05/el-ultimo-holocausto-europeo.html#slides_81abc55860104e5dbe0b7ee20d02d9b9" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/2016/05/el_ultimo_holocausto_europeo.pdf"&gt;El cartel en PDF&lt;/a&gt;.&lt;/p&gt;
-&lt;!-- previewimage: /2016/05/el_ultimo_holocausto_europeo.png --&gt;&lt;/div&gt;</description><category>Actividades</category><guid>http://biblioln.es/posts/2016/05/el-ultimo-holocausto-europeo.html</guid><pubDate>Tue, 24 May 2016 18:30:00 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/galleries/2016/navidad/cena-taller-literatura/index.html"&gt;Ver fotos cena&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Actividades</category><guid>http://biblioln.es/posts/2016/12/navidad.html</guid><pubDate>Fri, 23 Dec 2016 10:30:00 GMT</pubDate></item></channel></rss>

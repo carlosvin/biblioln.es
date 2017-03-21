@@ -1,213 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (Catálogo)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/catalogo.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Thu, 22 Sep 2016 21:37:04 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Nuevos libros en eBiblio-Castilla-La Mancha</title><link>http://biblioln.es/posts/2016/09/nuevos-libros-en-ebiblio-castilla-la-mancha.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;p&gt;Os informamos que ya están disponibles nuevos títulos de libros electrónicos en eBiblio Castilla-La Mancha, adquiridos por la Viceconsejería de Cultura. Podéis ampliar la información de esta noticia en el Portal de Bibliotecas: &lt;a class="reference external" href="http://reddebibliotecas.jccm.es/portal/index.php/actualidad/noticias/item/4829-nuevos-libros-en-ebiblio-castilla-la-mancha"&gt;http://reddebibliotecas.jccm.es/portal/index.php/actualidad/noticias/item/4829-nuevos-libros-en-ebiblio-castilla-la-mancha&lt;/a&gt;&lt;/p&gt;</description><category>Avisos</category><category>Catálogo</category><category>Enlaces</category><guid>http://biblioln.es/posts/2016/09/nuevos-libros-en-ebiblio-castilla-la-mancha.html</guid><pubDate>Thu, 22 Sep 2016 18:00:00 GMT</pubDate></item><item><title>Novedades Otoño 2015</title><link>http://biblioln.es/posts/2015/10/novedades-otonio-2015.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="book-figure"&gt;
-&lt;div class="book-figure-media"&gt;
-&lt;a class="book-figure-image" href="http://www.casadellibro.com/libro-numeros-saltarines/9788434863019/647643" target="_blank"&gt;
-&lt;img src="http://ecx.images-amazon.com/images/I/31B6ovKHSxL._BO1,204,203,200_.jpg" alt="NUMEROS SALTARINES - KATE LEE, comprar el libro"&gt;
-&lt;/a&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Catálogo)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/catalogo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Tue, 21 Mar 2017 17:25:29 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Nuevos libros en eBiblio-Castilla-La Mancha</title><link>http://biblioln.es/posts/2016/09/nuevos-libros-en-ebiblio-castilla-la-mancha.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;p&gt;Os informamos que ya están disponibles nuevos títulos de libros electrónicos en eBiblio Castilla-La Mancha, adquiridos por la Viceconsejería de Cultura. Podéis ampliar la información de esta noticia en el Portal de Bibliotecas: &lt;a class="reference external" href="http://reddebibliotecas.jccm.es/portal/index.php/actualidad/noticias/item/4829-nuevos-libros-en-ebiblio-castilla-la-mancha"&gt;http://reddebibliotecas.jccm.es/portal/index.php/actualidad/noticias/item/4829-nuevos-libros-en-ebiblio-castilla-la-mancha&lt;/a&gt;&lt;/p&gt;</description><category>Avisos</category><category>Catálogo</category><category>Enlaces</category><guid>http://biblioln.es/posts/2016/09/nuevos-libros-en-ebiblio-castilla-la-mancha.html</guid><pubDate>Thu, 22 Sep 2016 18:00:00 GMT</pubDate></item><item><title>Novedades Otoño 2015</title><link>http://biblioln.es/posts/2015/10/novedades-otonio-2015.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 2)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. book_figure:: NUMEROS SALTARINES - KATE LEE, comprar el libro
+    :class: book-figure
+    :url: http://www.casadellibro.com/libro-numeros-saltarines/9788434863019/647643
+    :isbn_13: 9788434863019
+    :image_url: http://ecx.images-amazon.com/images/I/31B6ovKHSxL._BO1,204,203,200_.jpg
+
+&lt;/pre&gt;
 &lt;/div&gt;
-&lt;div class="book-figure-content"&gt;
-&lt;a class="book-figure-title" href="http://www.casadellibro.com/libro-numeros-saltarines/9788434863019/647643" target="_blank"&gt;NUMEROS SALTARINES - KATE LEE, comprar el libro&lt;/a&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 8)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. book_figure:: ¿PUEDO MIRAR TU PAÑAL? - GUIDO VAN GENECHTEN, comprar &amp;lt;b&amp;gt;...&amp;lt;/b&amp;gt;
+    :class: book-figure
+    :url: http://www.casadellibro.com/libro-puedo-mirar-tu-panal/9788467530698/1247116
+    :isbn_13: 9788467530698
+    :image_url: http://ecx.images-amazon.com/images/I/91ejaHhGCEL.jpg
 
-&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;th&gt;ISBN-13:&lt;/th&gt;
-&lt;td&gt;9788434863019&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;/tbody&gt;&lt;/table&gt;
-
+&lt;/pre&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;div class="book-figure"&gt;
-&lt;div class="book-figure-media"&gt;
-&lt;a class="book-figure-image" href="http://www.casadellibro.com/libro-puedo-mirar-tu-panal/9788467530698/1247116" target="_blank"&gt;
-&lt;img src="http://ecx.images-amazon.com/images/I/91ejaHhGCEL.jpg" alt="¿PUEDO MIRAR TU PAÑAL? - GUIDO VAN GENECHTEN, comprar &amp;lt;b&amp;gt;...&amp;lt;/b&amp;gt;"&gt;
-&lt;/a&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 14)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. book_figure:: REGRESO A TU PIEL - LUZ GABAS, comprar libro
+    :class: book-figure
+    :url: http://m.casadellibro.com/libro-regreso-a-tu-piel/9788408125518/2254596
+    :isbn_13: 9788408125518
+    :image_url: http://image.casadellibro.com/a/l/t0/18/9788408125518.jpg
+
+&lt;/pre&gt;
 &lt;/div&gt;
-&lt;div class="book-figure-content"&gt;
-&lt;a class="book-figure-title" href="http://www.casadellibro.com/libro-puedo-mirar-tu-panal/9788467530698/1247116" target="_blank"&gt;¿PUEDO MIRAR TU PAÑAL? - GUIDO VAN GENECHTEN, comprar &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 20)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. book_figure:: JUNIE B. JONES DE VACACIONES 25 - BARBARA PARK, comprar &amp;lt;b&amp;gt;...&amp;lt;/b&amp;gt;
+    :class: book-figure
+    :url: http://www.casadellibro.com/libro-junie-b-jones-de-vacaciones-25/9788421689707/2086809
+    :isbn_13: 9788421689707
+    :image_url: http://image.casadellibro.com/a/l/t0/07/9788421689707.jpg
 
-&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;th&gt;ISBN-13:&lt;/th&gt;
-&lt;td&gt;9788467530698&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;/tbody&gt;&lt;/table&gt;
-
+&lt;/pre&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;div class="book-figure"&gt;
-&lt;div class="book-figure-media"&gt;
-&lt;a class="book-figure-image" href="http://m.casadellibro.com/libro-regreso-a-tu-piel/9788408125518/2254596" target="_blank"&gt;
-&lt;img src="http://image.casadellibro.com/a/l/t0/18/9788408125518.jpg" alt="REGRESO A TU PIEL - LUZ GABAS, comprar libro"&gt;
-&lt;/a&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 26)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. book_figure:: LA CHICA DEL TREN - PAULA HAWKINS, comprar el libro
+    :class: book-figure
+    :url: http://www.casadellibro.com/libro-la-chica-del-tren/9788408141471/2544161
+    :isbn_13: 9788408141471
+    :image_url: http://image.casadellibro.com/a/l/t0/71/9788408141471.jpg
+
+&lt;/pre&gt;
 &lt;/div&gt;
-&lt;div class="book-figure-content"&gt;
-&lt;a class="book-figure-title" href="http://m.casadellibro.com/libro-regreso-a-tu-piel/9788408125518/2254596" target="_blank"&gt;REGRESO A TU PIEL - LUZ GABAS, comprar libro&lt;/a&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 32)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. book_figure:: BUENAS NOCHES,PEPE Y MILA - YAYO KAWAMURA, comprar el &amp;lt;b&amp;gt;...&amp;lt;/b&amp;gt;
+    :class: book-figure
+    :url: http://www.casadellibro.com/libro-buenas-nochespepe-y-mila/9788467565478/2280969
+    :isbn_13: 9788467565478
+    :image_url: http://image.casadellibro.com/a/l/t0/78/9788467565478.jpg
 
-&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;th&gt;ISBN-13:&lt;/th&gt;
-&lt;td&gt;9788408125518&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;/tbody&gt;&lt;/table&gt;
-
+&lt;/pre&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;div class="book-figure"&gt;
-&lt;div class="book-figure-media"&gt;
-&lt;a class="book-figure-image" href="http://www.casadellibro.com/libro-junie-b-jones-de-vacaciones-25/9788421689707/2086809" target="_blank"&gt;
-&lt;img src="http://image.casadellibro.com/a/l/t0/07/9788421689707.jpg" alt="JUNIE B. JONES DE VACACIONES 25 - BARBARA PARK, comprar &amp;lt;b&amp;gt;...&amp;lt;/b&amp;gt;"&gt;
-&lt;/a&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 38)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. book_figure:: None
+    :class: book-figure
+    :url: None
+    :isbn_13: 9788408101472
+    :image_url: None
+
+&lt;/pre&gt;
 &lt;/div&gt;
-&lt;div class="book-figure-content"&gt;
-&lt;a class="book-figure-title" href="http://www.casadellibro.com/libro-junie-b-jones-de-vacaciones-25/9788421689707/2086809" target="_blank"&gt;JUNIE B. JONES DE VACACIONES 25 - BARBARA PARK, comprar &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 44)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. book_figure:: EL REGRESO DEL CATON - MATILDE ASENSI, comprar el libro
+    :class: book-figure
+    :url: http://www.casadellibro.com/libro-el-regreso-del-caton/9788408145820/2594968
+    :isbn_13: 9788408145820
+    :image_url: http://ecx.images-amazon.com/images/I/51h98T-OiQL._SX321_BO1,204,203,200_.jpg
 
-&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;th&gt;ISBN-13:&lt;/th&gt;
-&lt;td&gt;9788421689707&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;/tbody&gt;&lt;/table&gt;
-
+&lt;/pre&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;div class="book-figure"&gt;
-&lt;div class="book-figure-media"&gt;
-&lt;a class="book-figure-image" href="http://www.casadellibro.com/libro-la-chica-del-tren/9788408141471/2544161" target="_blank"&gt;
-&lt;img src="http://image.casadellibro.com/a/l/t0/71/9788408141471.jpg" alt="LA CHICA DEL TREN - PAULA HAWKINS, comprar el libro"&gt;
-&lt;/a&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 50)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. book_figure:: GREY - E.L. JAMES, comprar el libro - Casa del Libro
+    :class: book-figure
+    :url: http://www.casadellibro.com/libro-grey/9788425393815/2586429
+    :isbn_13: 9788425393815
+    :image_url: http://image.casadellibro.com/a/l/t0/15/9788425393815.jpg
+
+&lt;/pre&gt;
 &lt;/div&gt;
-&lt;div class="book-figure-content"&gt;
-&lt;a class="book-figure-title" href="http://www.casadellibro.com/libro-la-chica-del-tren/9788408141471/2544161" target="_blank"&gt;LA CHICA DEL TREN - PAULA HAWKINS, comprar el libro&lt;/a&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 56)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. book_figure:: EL LIBRO DE LOS CULITOS - GUIDO VAN GENECHFEN, comprar &amp;lt;b&amp;gt;...&amp;lt;/b&amp;gt;
+    :class: book-figure
+    :url: http://www.casadellibro.com/libro-el-libro-de-los-culitos/9788467507690/1089832
+    :isbn_13: 9788467507690
+    :image_url: http://image.casadellibro.com/a/l/t0/90/9788467507690.jpg
 
-&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;th&gt;ISBN-13:&lt;/th&gt;
-&lt;td&gt;9788408141471&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;/tbody&gt;&lt;/table&gt;
-
+&lt;/pre&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;div class="book-figure"&gt;
-&lt;div class="book-figure-media"&gt;
-&lt;a class="book-figure-image" href="http://www.casadellibro.com/libro-buenas-nochespepe-y-mila/9788467565478/2280969" target="_blank"&gt;
-&lt;img src="http://image.casadellibro.com/a/l/t0/78/9788467565478.jpg" alt="BUENAS NOCHES,PEPE Y MILA - YAYO KAWAMURA, comprar el &amp;lt;b&amp;gt;...&amp;lt;/b&amp;gt;"&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="book-figure-content"&gt;
-&lt;a class="book-figure-title" href="http://www.casadellibro.com/libro-buenas-nochespepe-y-mila/9788467565478/2280969" target="_blank"&gt;BUENAS NOCHES,PEPE Y MILA - YAYO KAWAMURA, comprar el &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 62)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. book_figure:: OFRENDA A LA TORMENTA - DOLORES REDONDO, comprar el libro
+    :class: book-figure
+    :url: http://www.casadellibro.com/libro-ofrenda-a-la-tormenta/9788423348688/2371940
+    :isbn_13: 9788423348688
+    :image_url: http://image.casadellibro.com/a/l/t0/88/9788423348688.jpg
 
-&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;th&gt;ISBN-13:&lt;/th&gt;
-&lt;td&gt;9788467565478&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;&lt;div class="book-figure"&gt;
-&lt;div class="book-figure-media"&gt;
-&lt;a class="book-figure-image" href="http://biblioln.es/posts/2015/10/None" target="_blank"&gt;
-&lt;img src="http://biblioln.es/posts/2015/10/None" alt="None"&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="book-figure-content"&gt;
-&lt;a class="book-figure-title" href="http://biblioln.es/posts/2015/10/None" target="_blank"&gt;None&lt;/a&gt;
-
-&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;th&gt;ISBN-13:&lt;/th&gt;
-&lt;td&gt;9788408101472&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;&lt;div class="book-figure"&gt;
-&lt;div class="book-figure-media"&gt;
-&lt;a class="book-figure-image" href="http://www.casadellibro.com/libro-el-regreso-del-caton/9788408145820/2594968" target="_blank"&gt;
-&lt;img src="http://ecx.images-amazon.com/images/I/51h98T-OiQL._SX321_BO1,204,203,200_.jpg" alt="EL REGRESO DEL CATON - MATILDE ASENSI, comprar el libro"&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="book-figure-content"&gt;
-&lt;a class="book-figure-title" href="http://www.casadellibro.com/libro-el-regreso-del-caton/9788408145820/2594968" target="_blank"&gt;EL REGRESO DEL CATON - MATILDE ASENSI, comprar el libro&lt;/a&gt;
-
-&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;th&gt;ISBN-13:&lt;/th&gt;
-&lt;td&gt;9788408145820&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;&lt;div class="book-figure"&gt;
-&lt;div class="book-figure-media"&gt;
-&lt;a class="book-figure-image" href="http://www.casadellibro.com/libro-grey/9788425393815/2586429" target="_blank"&gt;
-&lt;img src="http://image.casadellibro.com/a/l/t0/15/9788425393815.jpg" alt="GREY - E.L. JAMES, comprar el libro - Casa del Libro"&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="book-figure-content"&gt;
-&lt;a class="book-figure-title" href="http://www.casadellibro.com/libro-grey/9788425393815/2586429" target="_blank"&gt;GREY - E.L. JAMES, comprar el libro - Casa del Libro&lt;/a&gt;
-
-&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;th&gt;ISBN-13:&lt;/th&gt;
-&lt;td&gt;9788425393815&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;&lt;div class="book-figure"&gt;
-&lt;div class="book-figure-media"&gt;
-&lt;a class="book-figure-image" href="http://www.casadellibro.com/libro-el-libro-de-los-culitos/9788467507690/1089832" target="_blank"&gt;
-&lt;img src="http://image.casadellibro.com/a/l/t0/90/9788467507690.jpg" alt="EL LIBRO DE LOS CULITOS - GUIDO VAN GENECHFEN, comprar &amp;lt;b&amp;gt;...&amp;lt;/b&amp;gt;"&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="book-figure-content"&gt;
-&lt;a class="book-figure-title" href="http://www.casadellibro.com/libro-el-libro-de-los-culitos/9788467507690/1089832" target="_blank"&gt;EL LIBRO DE LOS CULITOS - GUIDO VAN GENECHFEN, comprar &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;
-
-&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;th&gt;ISBN-13:&lt;/th&gt;
-&lt;td&gt;9788467507690&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;&lt;div class="book-figure"&gt;
-&lt;div class="book-figure-media"&gt;
-&lt;a class="book-figure-image" href="http://www.casadellibro.com/libro-ofrenda-a-la-tormenta/9788423348688/2371940" target="_blank"&gt;
-&lt;img src="http://image.casadellibro.com/a/l/t0/88/9788423348688.jpg" alt="OFRENDA A LA TORMENTA - DOLORES REDONDO, comprar el libro"&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="book-figure-content"&gt;
-&lt;a class="book-figure-title" href="http://www.casadellibro.com/libro-ofrenda-a-la-tormenta/9788423348688/2371940" target="_blank"&gt;OFRENDA A LA TORMENTA - DOLORES REDONDO, comprar el libro&lt;/a&gt;
-
-&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
-&lt;tr&gt;
-&lt;th&gt;ISBN-13:&lt;/th&gt;
-&lt;td&gt;9788423348688&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;/tbody&gt;&lt;/table&gt;
-
-&lt;/div&gt;
+&lt;/pre&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Catálogo</category><category>Libros</category><category>novedades</category><guid>http://biblioln.es/posts/2015/10/novedades-otonio-2015.html</guid><pubDate>Mon, 26 Oct 2015 20:00:00 GMT</pubDate></item><item><title>Novedades Literatura Infantil</title><link>http://biblioln.es/posts/2015/04/novedades-literatura-infantil.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;a href="http://www.google.com/search?q=9788444169293"&gt;MY LITTLE PONY: PINKIE PIE Y LA FANTASTICA FIESTA &lt;b&gt;...&lt;/b&gt; - Agapea&lt;/a&gt;
 &lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788444169293"&gt;9788444169293&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://portadas.quorum.t2v.com/6/9/2/9/3/9788444169293.JPG" alt="" width="480"&gt;&lt;/p&gt;
