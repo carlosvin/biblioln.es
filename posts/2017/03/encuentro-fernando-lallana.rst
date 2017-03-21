@@ -1,6 +1,6 @@
 .. title: Encuentro con el Autor Fernando Lallana
 .. slug: encuentro-fernando-lallana
-.. date: 2017-01-23 19:00
+.. date: 2017-03-21 18:00
 .. tags: Talleres, Actividades, Taller de Literatura
 .. description: Encuentro con el Autor Fernando Lallana
 .. type: micro
