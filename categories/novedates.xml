@@ -1,141 +1,212 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Novedates)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/novedates.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Tue, 21 Mar 2017 17:25:30 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades</title><link>http://biblioln.es/posts/2016/04/novedades.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 1)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. book_figure:: La legión perdida
-        :class: book-figure
-        :url: http://www.agapea.com/libros/La-legion-perdida-9788408151081-i.htm
-        :author: Santiago Posteguillo
-        :author_url: http://www.santiagoposteguillo.es/
-        :isbn_13: 9788408151081
-        :image_url: http://www.santiagoposteguillo.es/img/libros/La-legion-perdida.jpg
-
-
-&lt;/pre&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (Novedates)</title><link>http://biblioln.es/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://biblioln.es/categories/novedates.xml"></atom:link><language>es</language><lastBuildDate>Thu, 22 Sep 2016 21:34:56 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades</title><link>http://biblioln.es/posts/2016/04/novedades.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.agapea.com/libros/La-legion-perdida-9788408151081-i.htm" target="_blank"&gt;
+&lt;img src="http://www.santiagoposteguillo.es/img/libros/La-legion-perdida.jpg" alt="La legión perdida"&gt;
+&lt;/a&gt;
 &lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 10)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. book_figure:: Cinco esquinas
-        :class: book-figure
-        :url: http://www.cervantes.com/libro/9788420418964/cinco-esquinas/
-        :author: Mario Vargas Llosa
-        :author_url: https://en.wikipedia.org/wiki/Mario_Vargas_Llosa
-        :isbn_13: 9788420418964
-        :image_url: http://www.serlib.com/imglibros/9788420418964.jpg
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.agapea.com/libros/La-legion-perdida-9788408151081-i.htm" target="_blank"&gt;La legión perdida&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by &lt;a href="http://www.santiagoposteguillo.es/" target="_blank"&gt;Santiago Posteguillo&lt;/a&gt;
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788408151081&lt;/td&gt;
+&lt;/tr&gt;
 
 
-&lt;/pre&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
 &lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 19)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. book_figure:: Las Crónicas De Fortuna 1. El Secreto Del Trapecista (Isla del Tiempo)
-        :class: book-figure
-        :url: http://www.iberlibro.com/9788408135654/Cr%C3%B3nicas-Fortuna-Secreto-Trapecista-Isla-8408135651/plp
-        :author: Javier Ruescas
-        :isbn_13: 9788408135654
-        :image_url: http://pictures.abebooks.com/isbn/9788408135654-es.jpg
-
-
-&lt;/pre&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.cervantes.com/libro/9788420418964/cinco-esquinas/" target="_blank"&gt;
+&lt;img src="http://www.serlib.com/imglibros/9788420418964.jpg" alt="Cinco esquinas"&gt;
+&lt;/a&gt;
 &lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 27)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. book_figure:: Capublicita roja
-        :class: book-figure
-        :url: http://www.abebooks.com/9788467554335/Capublicita-roja-Serres-Alain-8467554339/plp
-        :author: Alain Serres
-        :isbn_13: 9788467554335
-        :image_url: http://pictures.abebooks.com/isbn/9788467554335-us.jpg
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.cervantes.com/libro/9788420418964/cinco-esquinas/" target="_blank"&gt;Cinco esquinas&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by &lt;a href="https://en.wikipedia.org/wiki/Mario_Vargas_Llosa" target="_blank"&gt;Mario Vargas Llosa&lt;/a&gt;
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788420418964&lt;/td&gt;
+&lt;/tr&gt;
 
 
-&lt;/pre&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
 &lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 35)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. book_figure:: El bosque de los grumos
-        :class: book-figure
-        :url: http://www.agapea.com/libros/El-bosque-de-los-grumos-9788491221074-i.htm
-        :author: Carlo Frabetti ; Angeles Peinador
-        :isbn_13: 9788491221074
-        :image_url: http://www.agapea.com/Santillana-Educacion-S-L-/El-bosque-de-los-grumos-i1n13414804.jpg
-
-
-&lt;/pre&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.iberlibro.com/9788408135654/Cr%C3%B3nicas-Fortuna-Secreto-Trapecista-Isla-8408135651/plp" target="_blank"&gt;
+&lt;img src="http://pictures.abebooks.com/isbn/9788408135654-es.jpg" alt="Las Crónicas De Fortuna 1. El Secreto Del Trapecista (Isla del Tiempo)"&gt;
+&lt;/a&gt;
 &lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 43)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. book_figure:: Los lunares de Renata
-        :class: book-figure
-        :url: http://www.loqueleo.com/es/libro/los-lunares-de-renata
-        :author: Rafael Ordóñez
-        :isbn_13: 9788491220947
-        :image_url: https://d20eq91zdmkqd.cloudfront.net/assets/images/book/large/9788/4912/9788491220947.jpg
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.iberlibro.com/9788408135654/Cr%C3%B3nicas-Fortuna-Secreto-Trapecista-Isla-8408135651/plp" target="_blank"&gt;Las Crónicas De Fortuna 1. El Secreto Del Trapecista (Isla del Tiempo)&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Javier Ruescas
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788408135654&lt;/td&gt;
+&lt;/tr&gt;
 
 
-&lt;/pre&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
 &lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 51)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. book_figure:: La princesa bromista
-        :class: book-figure
-        :url: http://www.agapea.com/libros/La-princesa-bromista-9788491220879-i.htm
-        :author: Nicoletta Costa
-        :isbn_13: 9788491220879
-        :image_url: http://www.agapea.com/Santillana-Educacion-S-L-/La-princesa-bromista-i1n13414840.jpg
-
-
-&lt;/pre&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.abebooks.com/9788467554335/Capublicita-roja-Serres-Alain-8467554339/plp" target="_blank"&gt;
+&lt;img src="http://pictures.abebooks.com/isbn/9788467554335-us.jpg" alt="Capublicita roja"&gt;
+&lt;/a&gt;
 &lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 59)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. book_figure:: Un baúl lleno de dinosaurios
-        :class: book-figure
-        :url: http://www.cervantes.com/libro/9788491220855/un-baul-lleno-de-dinosaurios/
-        :author: Ana Rosetti; Alfonso Gómez (Ilustrador)
-        :isbn_13: 9788491220855
-        :image_url: http://www.serlib.com/imglibros/9788491220855.jpg
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.abebooks.com/9788467554335/Capublicita-roja-Serres-Alain-8467554339/plp" target="_blank"&gt;Capublicita roja&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Alain Serres
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788467554335&lt;/td&gt;
+&lt;/tr&gt;
 
 
-&lt;/pre&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+
 &lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 67)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. book_figure:: Claude ¡Luces! ¡Cámara! ¡Acción!
-        :class: book-figure
-        :url: http://www.cervantes.com/libro/9788468324012/claude-luces-camara-accion/
-        :author: Alex T. Smith
-        :isbn_13: 9788468324012
-        :image_url: http://www.serlib.com/imglibros/9788468324012.jpg
-
-
-&lt;/pre&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.agapea.com/libros/El-bosque-de-los-grumos-9788491221074-i.htm" target="_blank"&gt;
+&lt;img src="http://www.agapea.com/Santillana-Educacion-S-L-/El-bosque-de-los-grumos-i1n13414804.jpg" alt="El bosque de los grumos"&gt;
+&lt;/a&gt;
 &lt;/div&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 75)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "book_figure".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. book_figure:: Electro
-        :class: book-figure
-        :url: http://www.casadellibro.com/libro-electro/9788468316291/2616626
-        :author: Javier Ruescas; Manu Carbajo
-        :isbn_13: 9788468316291
-        :image_url: http://image.casadellibro.com/a/l/t1/91/9788468316291.jpg
-&lt;/pre&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.agapea.com/libros/El-bosque-de-los-grumos-9788491221074-i.htm" target="_blank"&gt;El bosque de los grumos&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Carlo Frabetti ; Angeles Peinador
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788491221074&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.loqueleo.com/es/libro/los-lunares-de-renata" target="_blank"&gt;
+&lt;img src="https://d20eq91zdmkqd.cloudfront.net/assets/images/book/large/9788/4912/9788491220947.jpg" alt="Los lunares de Renata"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.loqueleo.com/es/libro/los-lunares-de-renata" target="_blank"&gt;Los lunares de Renata&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Rafael Ordóñez
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788491220947&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.agapea.com/libros/La-princesa-bromista-9788491220879-i.htm" target="_blank"&gt;
+&lt;img src="http://www.agapea.com/Santillana-Educacion-S-L-/La-princesa-bromista-i1n13414840.jpg" alt="La princesa bromista"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.agapea.com/libros/La-princesa-bromista-9788491220879-i.htm" target="_blank"&gt;La princesa bromista&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Nicoletta Costa
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788491220879&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.cervantes.com/libro/9788491220855/un-baul-lleno-de-dinosaurios/" target="_blank"&gt;
+&lt;img src="http://www.serlib.com/imglibros/9788491220855.jpg" alt="Un baúl lleno de dinosaurios"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.cervantes.com/libro/9788491220855/un-baul-lleno-de-dinosaurios/" target="_blank"&gt;Un baúl lleno de dinosaurios&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Ana Rosetti; Alfonso Gómez (Ilustrador)
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788491220855&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.cervantes.com/libro/9788468324012/claude-luces-camara-accion/" target="_blank"&gt;
+&lt;img src="http://www.serlib.com/imglibros/9788468324012.jpg" alt="Claude ¡Luces! ¡Cámara! ¡Acción!"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.cervantes.com/libro/9788468324012/claude-luces-camara-accion/" target="_blank"&gt;Claude ¡Luces! ¡Cámara! ¡Acción!&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Alex T. Smith
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788468324012&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;&lt;div class="book-figure"&gt;
+&lt;div class="book-figure-media"&gt;
+&lt;a class="book-figure-image" href="http://www.casadellibro.com/libro-electro/9788468316291/2616626" target="_blank"&gt;
+&lt;img src="http://image.casadellibro.com/a/l/t1/91/9788468316291.jpg" alt="Electro"&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="book-figure-content"&gt;
+&lt;a class="book-figure-title" href="http://www.casadellibro.com/libro-electro/9788468316291/2616626" target="_blank"&gt;Electro&lt;/a&gt;
+&lt;p class="book-figure-author"&gt;
+by Javier Ruescas; Manu Carbajo
+&lt;/p&gt;
+&lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;ISBN-13:&lt;/th&gt;
+&lt;td&gt;9788468316291&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/tbody&gt;&lt;/table&gt;
+
+&lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Novedates</category><guid>http://biblioln.es/posts/2016/04/novedades.html</guid><pubDate>Sun, 03 Apr 2016 13:30:00 GMT</pubDate></item></channel></rss>
