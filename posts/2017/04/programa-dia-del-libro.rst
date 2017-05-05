@@ -28,6 +28,6 @@ A esta actividad asistirán los niños y niñas de primaria en dos grupos del Co
 6 de Mayo
 ---------
 
-Coro de profesores del IES Rosa Chacel. 
+**Coro de profesores del IES Rosa Chacel**. 
 
-A las 20:00 en el salón de actos de La Casa de la Cultura.
+A las **19:30** en el salón de actos de La Casa de la Cultura.
