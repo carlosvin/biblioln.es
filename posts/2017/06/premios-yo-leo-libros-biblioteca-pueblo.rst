@@ -76,6 +76,6 @@ Asistiendo al acto la concejala de educación, bienestar social y comunicación:
 Adultos
 -------
 
-1. PILAR ILLÁN: 8 Libros.
+1. PILAR ILLÁN: 9 Libros.
 2. YOLANDA SÁNCHEZ MUÑOZ: 7 Libros.
  
