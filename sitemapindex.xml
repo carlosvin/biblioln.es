@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2017-06-19T20:14:00Z</lastmod>
+  <lastmod>2017-06-24T09:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/agradecimientos.xml</loc>
@@ -27,11 +27,15 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/biblioteca.xml</loc>
-  <lastmod>2017-06-19T20:14:00Z</lastmod>
+  <lastmod>2017-06-24T10:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/catalogo.xml</loc>
   <lastmod>2017-06-19T18:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/categories/centro-de-internet.xml</loc>
+  <lastmod>2017-06-24T10:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/comprension-lectora.xml</loc>
@@ -110,6 +114,10 @@
   <lastmod>2017-06-19T18:00:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/categories/horarios.xml</loc>
+  <lastmod>2017-06-24T10:10:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/categories/informatica.xml</loc>
   <lastmod>2017-06-19T18:00:00Z</lastmod>
  </sitemap>
@@ -163,7 +171,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
-  <lastmod>2017-06-19T18:18:00Z</lastmod>
+  <lastmod>2017-06-24T09:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller.xml</loc>
@@ -171,7 +179,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/talleres.xml</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-06-24T09:54:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/teatro.xml</loc>
@@ -278,6 +286,10 @@
   <lastmod>2017-06-19T18:00:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2017/conferencia-larra/rss.xml</loc>
+  <lastmod>2017-06-24T09:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/2017/rss.xml</loc>
   <lastmod>2017-06-19T18:00:00Z</lastmod>
  </sitemap>
@@ -303,10 +315,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2017-06-19T20:14:00Z</lastmod>
+  <lastmod>2017-06-24T10:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2017-06-19T20:14:00Z</lastmod>
+  <lastmod>2017-06-24T10:10:00Z</lastmod>
  </sitemap>
 </sitemapindex>
