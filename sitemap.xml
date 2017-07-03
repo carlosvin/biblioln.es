@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://biblioln.es/2011/index.html</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/2012/index.html</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/2013/index.html</loc>
@@ -19,23 +19,23 @@
  </url>
  <url>
   <loc>http://biblioln.es/2014/index.html</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/2015/index.html</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/2016/index.html</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/2017/index.html</loc>
-  <lastmod>2017-06-24T10:10:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2017-06-24T10:07:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/actividades.html</loc>
@@ -59,11 +59,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/biblioteca.html</loc>
-  <lastmod>2017-06-24T10:10:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/catalogo.html</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/centro-de-internet.html</loc>
@@ -103,7 +103,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/cuentos.html</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/cursos.html</loc>
@@ -151,7 +151,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/index.html</loc>
-  <lastmod>2017-06-24T10:07:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/informatica.html</loc>
@@ -159,7 +159,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/la-biblioteca.html</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/la-hora-del-cuento.html</loc>
@@ -167,7 +167,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/libros.html</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/literatura.html</loc>
@@ -183,15 +183,19 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/narrativa.html</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/novedades.html</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/novedates.html</loc>
   <lastmod>2017-06-19T18:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/categories/peliculas.html</loc>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/poesia.html</loc>
@@ -199,7 +203,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/premios.html</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/seguridad.html</loc>
@@ -227,7 +231,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/video.html</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/visi.html</loc>
@@ -331,7 +335,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2017/index.html</loc>
-  <lastmod>2017-06-24T09:53:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/galleries/2017/novedades-verano/index.html</loc>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2017/xix-encuentro-clubes-lectura-toledo/index.html</loc>
@@ -355,11 +363,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-1.html</loc>
-  <lastmod>2017-06-24T09:48:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-10.html</loc>
-  <lastmod>2017-06-24T09:48:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-11.html</loc>
@@ -367,11 +375,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-12.html</loc>
-  <lastmod>2017-06-24T09:48:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-13.html</loc>
-  <lastmod>2017-06-24T09:48:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-14.html</loc>
@@ -383,31 +391,31 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-16.html</loc>
-  <lastmod>2017-06-24T09:48:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-17.html</loc>
-  <lastmod>2017-06-24T09:48:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-18.html</loc>
-  <lastmod>2017-06-24T10:07:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-2.html</loc>
-  <lastmod>2017-06-24T09:48:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-3.html</loc>
-  <lastmod>2017-06-24T09:48:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-4.html</loc>
-  <lastmod>2017-06-24T09:48:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-5.html</loc>
-  <lastmod>2017-06-24T09:48:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-6.html</loc>
@@ -427,7 +435,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index.html</loc>
-  <lastmod>2017-06-24T10:10:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/07/comenzamos-a-andar.html</loc>
@@ -435,7 +443,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/07/dime-quien-soy-julia-navarro.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/08/memoria-del-taller-de-literatura-2010-2011.html</loc>
@@ -447,15 +455,15 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/09/hijos-de-un-rey-godo-maria-gudin.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/09/la-tierra-de-las-cuevas-pintadas-jean-m-auel.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/09/prometeme-que-seras-libre-jorge-molist.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/10/informacion-de-la-biblioteca.html</loc>
@@ -467,11 +475,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/11/217.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/11/al-llegar-el-invierno-de-rafael-canadilla-saldana.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/11/biblioteca-cerrada-por-vacaciones.html</loc>
@@ -479,19 +487,19 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/11/la-casa-de-los-siete-pecados-mari-p-dominguez.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/11/las-huellas-imborrables-camilla-lackberg.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/11/perdona-si-te-llamo-amor-federico-moccia.html</loc>
-  <lastmod>2017-06-24T09:48:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/11/yo-el-rey-de-juan-antonio-vallejo-nagera.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/12/conferencia-de-jose-maria-bravo-profesor-de-enologia.html</loc>
@@ -507,11 +515,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/01/el-lector-de-cadaveres-antonio-garrido.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/01/el-puente-de-los-asesinos-arturo-perez-reverte.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/01/vuelta-de-vacaciones-de-navidad.html</loc>
@@ -555,7 +563,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/06/cancion-de-hielo-y-fuego-1-juego-de-tronos-de-george-martin.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/06/conferencia-impartida-por-ma-victoria-navas-sanchez-elez.html</loc>
@@ -563,19 +571,19 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/06/el-enredo-de-la-bolsa-y-la-vida-eduardo-mendoza.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/06/el-imperio-eres-tu-de-javier-moro.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/06/mis-amigos-tigger-pooh-para-todo-el-ano.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/06/tormenta-de-espadas-cancion-de-hielo-y-fuego-3-de-george-r-r-martin.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/06/visita-al-palacio-de-galiana.html</loc>
@@ -591,15 +599,15 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/09/novedades-infantil.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/09/novedades-libros-adultos-2.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/10/cuentos-para-disfrutar-y-jugar.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/10/novedades-para-adultos.html</loc>
@@ -607,7 +615,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/10/nuevas-peliculas-para-ver-en-familia-este-otono.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2012/11/horario-de-invierno.html</loc>
@@ -803,7 +811,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2014/08/nuevas-adquisiciones-2.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2014/09/taller-de-literatura-2014-2015.html</loc>
@@ -883,11 +891,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2015/04/novedades-literatura-adultos.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2015/04/novedades-literatura-infantil.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2015/04/teatro-en-la-biblioteca-con-el-grupo-adeltea.html</loc>
@@ -947,7 +955,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2015/10/novedades-otonio-2015.html</loc>
-  <lastmod>2017-06-24T09:49:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2015/11/actividades-taller-literatura-trimestre.html</loc>
@@ -1051,11 +1059,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2016/11/novedades-libros.html</loc>
-  <lastmod>2017-06-24T09:48:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2016/11/novedades-videos.html</loc>
-  <lastmod>2017-06-24T09:48:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2016/11/premio-maria-moliner.html</loc>
@@ -1075,7 +1083,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2016/12/libros-premio-maria-moliner.html</loc>
-  <lastmod>2017-06-24T09:48:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2016/12/navidad.html</loc>
@@ -1155,7 +1163,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2017/06/horario-verano.html</loc>
-  <lastmod>2017-06-24T10:10:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html</loc>
@@ -1164,6 +1172,10 @@
  <url>
   <loc>http://biblioln.es/posts/2017/06/xix-encuentro-clubes-lectura-toledo.html</loc>
   <lastmod>2017-06-24T09:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2017/07/novedades-verano.html</loc>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/stories/2011/07/44.html</loc>

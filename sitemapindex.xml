@@ -27,11 +27,11 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/biblioteca.xml</loc>
-  <lastmod>2017-06-24T10:10:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/catalogo.xml</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/centro-de-internet.xml</loc>
@@ -71,7 +71,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/cuentos.xml</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/cursos.xml</loc>
@@ -123,7 +123,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/la-biblioteca.xml</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/la-hora-del-cuento.xml</loc>
@@ -131,7 +131,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/libros.xml</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/literatura.xml</loc>
@@ -147,15 +147,19 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/narrativa.xml</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/novedades.xml</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/novedates.xml</loc>
   <lastmod>2017-06-19T18:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/categories/peliculas.xml</loc>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/poesia.xml</loc>
@@ -163,7 +167,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/premios.xml</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/seguridad.xml</loc>
@@ -191,7 +195,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/video.xml</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/visi.xml</loc>
@@ -290,6 +294,10 @@
   <lastmod>2017-06-24T09:53:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2017/novedades-verano/rss.xml</loc>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/2017/rss.xml</loc>
   <lastmod>2017-06-19T18:00:00Z</lastmod>
  </sitemap>
@@ -315,10 +323,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2017-06-24T10:10:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2017-06-24T10:10:00Z</lastmod>
+  <lastmod>2017-07-03T20:04:00Z</lastmod>
  </sitemap>
 </sitemapindex>

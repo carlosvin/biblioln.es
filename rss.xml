@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales</title><link>http://biblioln.es/</link><description>Biblioteca Pública Municipal de Los Navalmorales</description><atom:link href="http://biblioln.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Sat, 24 Jun 2017 10:10:07 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Horario de verano: Biblioteca y Centro de Internet</title><link>http://biblioln.es/posts/2017/06/horario-verano.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;table border="1" class="docutils"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales</title><link>http://biblioln.es/</link><description>Biblioteca Pública Municipal de Los Navalmorales</description><atom:link href="http://biblioln.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 03 Jul 2017 20:04:11 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades de Libros y Películas para este Verano</title><link>http://biblioln.es/posts/2017/07/novedades-verano.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div id="slides_02aa763020aa4f6a913aa9720018e28a" class="carousel slide"&gt;
+    &lt;ol class="carousel-indicators"&gt;
+            &lt;li data-target="#slides_02aa763020aa4f6a913aa9720018e28a" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_02aa763020aa4f6a913aa9720018e28a" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_02aa763020aa4f6a913aa9720018e28a" data-slide-to="2"&gt;
+    &lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="carousel-inner"&gt;
+                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/07/novedades-verano.html#slides_02aa763020aa4f6a913aa9720018e28a" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/07/novedades-verano.html#slides_02aa763020aa4f6a913aa9720018e28a" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;</description><category>Biblioteca</category><category>Libros</category><category>Novedades</category><category>Películas</category><guid>http://biblioln.es/posts/2017/07/novedades-verano.html</guid><pubDate>Mon, 03 Jul 2017 08:00:00 GMT</pubDate></item><item><title>Horario de verano: Biblioteca y Centro de Internet</title><link>http://biblioln.es/posts/2017/06/horario-verano.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="12%"&gt;
 &lt;col width="18%"&gt;
@@ -234,20 +247,4 @@ A esta actividad asistirán los niños y niñas de primaria en dos grupos del Co
 &lt;h2&gt;6 de Mayo&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Coro de profesores del IES Rosa Chacel&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;A las &lt;strong&gt;19:30&lt;/strong&gt; en el salón de actos de La Casa de la Cultura.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><guid>http://biblioln.es/posts/2017/04/programa-dia-del-libro-2017.html</guid><pubDate>Thu, 13 Apr 2017 15:30:00 GMT</pubDate></item><item><title>Encuentro con la escritora Carmen Posadas</title><link>http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El 31 de marzo hemos asistido en Talavera de la Reina, en la bonita Biblioteca Niveiro Alfar El Carmen, al encuentro con la escritora: Carmen Posadas.&lt;/p&gt;
-&lt;p&gt;Carmen Posadas nos presentó su último libro La Hija de Cayetana.&lt;/p&gt;
-
-&lt;div id="slides_6c3475fa7e63486fb4b27471121e4652" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_6c3475fa7e63486fb4b27471121e4652" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6c3475fa7e63486fb4b27471121e4652" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_6c3475fa7e63486fb4b27471121e4652" data-slide-to="2"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/encuentro-Carmen-Posadas/encuentro-Carmen-Posadas1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/encuentro-Carmen-Posadas/encuentro-Carmen-Posadas2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/encuentro-Carmen-Posadas/encuentro-Carmen-Posadas3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas.html#slides_6c3475fa7e63486fb4b27471121e4652" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas.html#slides_6c3475fa7e63486fb4b27471121e4652" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><category>Visitas</category><guid>http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas.html</guid><pubDate>Mon, 03 Apr 2017 17:30:00 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><guid>http://biblioln.es/posts/2017/04/programa-dia-del-libro-2017.html</guid><pubDate>Thu, 13 Apr 2017 15:30:00 GMT</pubDate></item></channel></rss>

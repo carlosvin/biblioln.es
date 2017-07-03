@@ -1,7 +1,7 @@
 .. title: Novedades libros
 .. slug: novedades-libros
 .. date: 2016-11-17 19:30:00
-.. tags: Narrativa, novedades
+.. tags: Narrativa, Novedades
 .. description: Novedades libros en noviembre
 .. type: micro
 
