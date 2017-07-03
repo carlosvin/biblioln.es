@@ -1,7 +1,7 @@
 .. title: Novedades Otoño 2015
 .. slug: novedades-otonio-2015
 .. date: 2015-10-26 21:00
-.. tags: Catálogo, novedades, Libros
+.. tags: Catálogo, Novedades, Libros
 .. description: Lista de nuevos libros recientemente adquiridos por la Biblioteca
 
 

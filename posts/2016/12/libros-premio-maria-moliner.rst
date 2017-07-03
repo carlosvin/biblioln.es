@@ -1,7 +1,7 @@
 .. title: Libros del Premio María Moliner
 .. slug: libros-premio-maria-moliner
 .. date: 2016-12-23 11:40:00
-.. tags: novedades, Premios, Narrativa, Libros
+.. tags: Novedades, Premios, Narrativa, Libros
 .. description: Ya hemos recibido los libros del premio Maria Moliner
 .. type: micro
 

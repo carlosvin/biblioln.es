@@ -1,7 +1,7 @@
 .. title: Novedades vídeos
 .. slug: novedades-videos
 .. date: 2016-11-17 19:30:00
-.. tags: Narrativa, novedades
+.. tags: Narrativa, Novedades
 .. description: Novedades vídeos en noviembre
 .. type: micro
 
