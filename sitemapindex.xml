@@ -91,7 +91,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/enlaces.xml</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-08-02T18:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/escritores.xml</loc>
@@ -168,6 +168,10 @@
  <sitemap>
   <loc>http://biblioln.es/categories/premios.xml</loc>
   <lastmod>2017-07-03T20:04:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/categories/revistas.xml</loc>
+  <lastmod>2017-08-02T18:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/seguridad.xml</loc>
@@ -323,10 +327,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2017-07-03T20:04:00Z</lastmod>
+  <lastmod>2017-08-02T18:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2017-07-03T20:04:00Z</lastmod>
+  <lastmod>2017-08-02T18:40:00Z</lastmod>
  </sitemap>
 </sitemapindex>

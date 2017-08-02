@@ -31,11 +31,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/2017/index.html</loc>
-  <lastmod>2017-07-03T20:04:00Z</lastmod>
+  <lastmod>2017-08-02T18:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2017-07-03T20:04:00Z</lastmod>
+  <lastmod>2017-08-02T18:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/actividades.html</loc>
@@ -123,7 +123,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/enlaces.html</loc>
-  <lastmod>2017-06-19T18:00:00Z</lastmod>
+  <lastmod>2017-08-02T18:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/escritores.html</loc>
@@ -151,7 +151,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/index.html</loc>
-  <lastmod>2017-07-03T20:04:00Z</lastmod>
+  <lastmod>2017-08-02T18:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/informatica.html</loc>
@@ -204,6 +204,10 @@
  <url>
   <loc>http://biblioln.es/categories/premios.html</loc>
   <lastmod>2017-07-03T20:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/categories/revistas.html</loc>
+  <lastmod>2017-08-02T18:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/seguridad.html</loc>
@@ -399,7 +403,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-18.html</loc>
-  <lastmod>2017-07-03T20:04:00Z</lastmod>
+  <lastmod>2017-08-02T18:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-2.html</loc>
@@ -435,7 +439,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index.html</loc>
-  <lastmod>2017-07-03T20:04:00Z</lastmod>
+  <lastmod>2017-08-02T18:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/07/comenzamos-a-andar.html</loc>
@@ -1175,7 +1179,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/posts/2017/07/novedades-verano.html</loc>
-  <lastmod>2017-07-03T20:04:00Z</lastmod>
+  <lastmod>2017-08-02T18:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2017/08/revista-forja-agosto.html</loc>
+  <lastmod>2017-08-02T18:40:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/stories/2011/07/44.html</loc>
