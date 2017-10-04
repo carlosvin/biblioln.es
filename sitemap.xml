@@ -31,19 +31,23 @@
  </url>
  <url>
   <loc>http://biblioln.es/2017/index.html</loc>
-  <lastmod>2017-10-04T18:44:00Z</lastmod>
+  <lastmod>2017-10-04T18:59:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2017-10-04T18:43:00Z</lastmod>
+  <lastmod>2017-10-04T18:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/actividades.html</loc>
-  <lastmod>2017-10-04T18:44:00Z</lastmod>
+  <lastmod>2017-10-04T18:59:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/agradecimientos.html</loc>
   <lastmod>2017-10-04T18:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/categories/animacion-a-la-lectura.html</loc>
+  <lastmod>2017-10-04T18:59:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/astrofisica.html</loc>
@@ -151,7 +155,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/index.html</loc>
-  <lastmod>2017-10-04T18:43:00Z</lastmod>
+  <lastmod>2017-10-04T18:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/informatica.html</loc>
@@ -223,7 +227,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/talleres.html</loc>
-  <lastmod>2017-10-04T18:44:00Z</lastmod>
+  <lastmod>2017-10-04T18:59:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/teatro.html</loc>
@@ -403,7 +407,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-18.html</loc>
-  <lastmod>2017-10-04T18:43:00Z</lastmod>
+  <lastmod>2017-10-04T18:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-2.html</loc>
@@ -439,7 +443,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index.html</loc>
-  <lastmod>2017-10-04T18:44:00Z</lastmod>
+  <lastmod>2017-10-04T18:59:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/07/comenzamos-a-andar.html</loc>
@@ -1190,8 +1194,12 @@
   <lastmod>2017-10-04T18:43:00Z</lastmod>
  </url>
  <url>
+  <loc>http://biblioln.es/posts/2017/10/actividades-animacion-lectura.html</loc>
+  <lastmod>2017-10-04T18:59:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://biblioln.es/posts/2017/10/la-merienda-de-cuentos.html</loc>
-  <lastmod>2017-10-04T18:44:00Z</lastmod>
+  <lastmod>2017-10-04T18:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/stories/2011/07/44.html</loc>
