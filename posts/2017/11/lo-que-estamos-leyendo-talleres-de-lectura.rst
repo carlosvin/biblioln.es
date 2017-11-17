@@ -1,6 +1,6 @@
 .. title: Libros que estamos leyendo en los Clubes de Lectura
 .. slug: lo-que-estamos-leyendo-talleres-de-lectura
-.. date: 2017-11-17 17:50
+.. date: 2017-11-17 17:20
 .. tags: Club de Lectura, Actividades
 .. description: Libros que estamos leyendo en los Clubes de Lectura
 .. type: micro
