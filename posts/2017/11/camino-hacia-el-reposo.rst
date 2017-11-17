@@ -5,11 +5,10 @@
 .. description: Presentación del libro "Camino hacia el reposo"
 .. previewimage: /galleries/2017/camino-hacia-el-reposo/hacia-el-reposo1.jpeg
 
-El 27 de Octubre a las 18:00 horas comenzó la presentación el libro "Camino hacia el reposo", la cual fue coordinada por María Victoria Navas y Jesús Bermejo. 
+A las 18:00 horas ha comenzado la presentación el libro, han coordinado y presentado el acto: María Victoria Navas y Jesús Bermejo. La presentación del libro la han hecho el escritor Ángel Muñoz Jimenez y el autor de las pinturas José Félix del Puerto Almazán. Los poemas los ha recitado el actor Paco Torres.
 
-El libro fue presentado por sus autores: el escritor Ángel Muñoz Jimenez y el autor de las pinturas José Félix del Puerto Almazán.
-
-Hemos disfrutado de una tarde realmente entrañable con la asistencia de unas 100 personas que han podido disfrutar de algunos de los poemas, recitados por el actor Paco Torres, y de las pinturas de José Félix del Puerto Almazán.
+Ha sido un acto lleno de poesía en la voz de Paco Torres y de arte con las
+pinturas de José Félix. Un placer para todos los asistentes. Desde el Taller de lectura de Los Navamorales: ¡Enhorabuena!
 
 .. slides::
 
