@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Actividades)</title><link>http://biblioln.es/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://biblioln.es/categories/actividades.xml"></atom:link><language>es</language><lastBuildDate>Fri, 17 Nov 2017 16:50:45 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Presentación del libro: "Camino Hacia el Reposo"</title><link>http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/galleries/2017/camino-hacia-el-reposo/hacia-el-reposo1.jpeg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;A las 18:00 horas ha comenzado la presentación el libro, han coordinado y presentado el acto: María Victoria Navas y Jesús Bermejo. La presentación del libro la han hecho el escritor Ángel Muñoz Jimenez y el autor de las pinturas José Félix del Puerto Almazán. Los poemas los ha recitado el actor Paco Torres.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Actividades)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/actividades.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Fri, 17 Nov 2017 17:43:43 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Libros que estamos leyendo en los Clubes de Lectura</title><link>http://biblioln.es/posts/2017/11/lo-que-estamos-leyendo-talleres-de-lectura.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="taller-de-lectura-adultos"&gt;
+&lt;h2&gt;Taller de Lectura Adultos&lt;/h2&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="https://historiadoreshistericos.files.wordpress.com/2010/06/extranjero.jpg" src="https://historiadoreshistericos.files.wordpress.com/2010/06/extranjero.jpg"&gt;
+&lt;p class="caption"&gt;El Extranjero - Albert Camus&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="clubes-de-lectura-infantiles"&gt;
+&lt;h2&gt;Clubes de Lectura Infantiles&lt;/h2&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="http://www.pepbruno.com/images/stories/libros/Escarabajo.jpg" src="http://www.pepbruno.com/images/stories/libros/Escarabajo.jpg"&gt;
+&lt;p class="caption"&gt;Escarabajo en Compañía&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="club-de-comprension-lectora"&gt;
+&lt;h2&gt;Club de Comprensión Lectora&lt;/h2&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="https://images-na.ssl-images-amazon.com/images/I/815wCsosGVL.jpg" src="https://images-na.ssl-images-amazon.com/images/I/815wCsosGVL.jpg"&gt;
+&lt;p class="caption"&gt;Chivos Chivones&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Club de Lectura</category><guid>http://biblioln.es/posts/2017/11/lo-que-estamos-leyendo-talleres-de-lectura.html</guid><pubDate>Fri, 17 Nov 2017 16:20:00 GMT</pubDate></item><item><title>Presentación del libro: "Camino Hacia el Reposo"</title><link>http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/galleries/2017/camino-hacia-el-reposo/hacia-el-reposo1.jpeg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;A las 18:00 horas ha comenzado la presentación el libro, han coordinado y presentado el acto: María Victoria Navas y Jesús Bermejo. La presentación del libro la han hecho el escritor Ángel Muñoz Jimenez y el autor de las pinturas José Félix del Puerto Almazán. Los poemas los ha recitado el actor Paco Torres.&lt;/p&gt;
 &lt;p&gt;Ha sido un acto lleno de poesía en la voz de Paco Torres y de arte con las
 pinturas de José Félix. Un placer para todos los asistentes. Desde el Taller de lectura de Los Navamorales: ¡Enhorabuena!&lt;/p&gt;
 
@@ -242,17 +262,4 @@ Gracias a las profesoras por su colaboración, sin su ayuda no habría sido posi
     &lt;/div&gt;
     &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro.html#slides_30b22c520362418f95128d2ce4545e79" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
     &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro.html#slides_30b22c520362418f95128d2ce4545e79" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Día del Libro</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro.html</guid><pubDate>Sun, 14 May 2017 09:00:00 GMT</pubDate></item><item><title>Cuentacuentos Félix Albo</title><link>http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Este año los alumnos de primaria del Colegio Publico San Francisco, en su visita a la biblioteca con motivo de la celebración del Día del Libro, han disfrutado con los cuentos que Felix Albo les ha contado. Han asistido 155 niños/niñas acompañados de sus profesores/profesoras. Ha sido un placer escuchar a Felix Albo.&lt;/p&gt;
-
-&lt;div id="slides_8342db2d270d404795d271491ada2038" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_8342db2d270d404795d271491ada2038" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_8342db2d270d404795d271491ada2038" data-slide-to="1"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/cuentacuentos-felix-albo/cuenta-cuentos-felix-albo1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/cuentacuentos-felix-albo/cuenta-cuentos-felix-albo2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo.html#slides_8342db2d270d404795d271491ada2038" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo.html#slides_8342db2d270d404795d271491ada2038" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Cuentacuentos</category><category>Día del Libro</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo.html</guid><pubDate>Sun, 14 May 2017 08:00:00 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Día del Libro</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro.html</guid><pubDate>Sun, 14 May 2017 09:00:00 GMT</pubDate></item></channel></rss>

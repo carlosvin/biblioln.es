@@ -2,7 +2,8 @@
 .. slug: premio-maria-moliner
 .. date: 2017-11-17 17:30
 .. tags: Premios
-.. description: Esta Biblioteca_ ha sido una de las galardonadas con el Premio María Moliner con el proyecto de animación a la lectura "Leer siempre es un placer, a todas las edades y en todos los lugares".
+.. description: Esta Biblioteca_ ha sido una de las galardonadas con el Premio María Moliner con el proyecto de animación a la lectura "La Biblioteca está a tú
+lado, si tu no puedes venir, nosotros te visitamos".
 .. previewimage: https://www.mecd.gob.es/dms/mecd/prensa-mecd/actualidad/2016/04/20160405-mm/mm.jpg
 .. type: micro
 
