@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Películas)</title><link>http://biblioln.es/</link><description></description><atom:link rel="self" href="http://biblioln.es/categories/peliculas.xml" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Fri, 17 Nov 2017 16:38:51 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades de Libros y Películas para este Verano</title><link>http://biblioln.es/posts/2017/07/novedades-verano.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div id="slides_faae915b280e465e83b6f02d59b74639" class="carousel slide"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Películas)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/peliculas.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Thu, 16 Nov 2017 19:56:43 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades de Libros y Películas para este Verano</title><link>http://biblioln.es/posts/2017/07/novedades-verano.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div id="slides_6155e88db2ce4a028f5246d5271b9916" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_faae915b280e465e83b6f02d59b74639" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_faae915b280e465e83b6f02d59b74639" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_faae915b280e465e83b6f02d59b74639" data-slide-to="2"&gt;
+            &lt;li data-target="#slides_6155e88db2ce4a028f5246d5271b9916" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_6155e88db2ce4a028f5246d5271b9916" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_6155e88db2ce4a028f5246d5271b9916" data-slide-to="2"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/07/novedades-verano.html#slides_faae915b280e465e83b6f02d59b74639" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/07/novedades-verano.html#slides_faae915b280e465e83b6f02d59b74639" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/07/novedades-verano.html#slides_6155e88db2ce4a028f5246d5271b9916" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/07/novedades-verano.html#slides_6155e88db2ce4a028f5246d5271b9916" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;</description><category>Biblioteca</category><category>Libros</category><category>Novedades</category><category>Películas</category><guid>http://biblioln.es/posts/2017/07/novedades-verano.html</guid><pubDate>Mon, 03 Jul 2017 08:00:00 GMT</pubDate></item></channel></rss>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Presentación Libro)</title><link>http://biblioln.es/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://biblioln.es/categories/presentacion-libro.xml"></atom:link><language>es</language><lastBuildDate>Fri, 17 Nov 2017 16:50:45 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Presentación del libro: "Camino Hacia el Reposo"</title><link>http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/galleries/2017/camino-hacia-el-reposo/hacia-el-reposo1.jpeg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;A las 18:00 horas ha comenzado la presentación el libro, han coordinado y presentado el acto: María Victoria Navas y Jesús Bermejo. La presentación del libro la han hecho el escritor Ángel Muñoz Jimenez y el autor de las pinturas José Félix del Puerto Almazán. Los poemas los ha recitado el actor Paco Torres.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Presentación Libro)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/presentacion-libro.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Tue, 28 Nov 2017 22:13:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Presentación del libro: "Camino Hacia el Reposo"</title><link>http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/galleries/2017/camino-hacia-el-reposo/hacia-el-reposo1.jpeg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;A las 18:00 horas comenzó la presentación del libro que fué coordinada por María Victoria Navas y Jesús Bermejo. El libro fue presentado por su escritor Ángel Muñoz Jimenez y el autor de las pinturas José Félix del Puerto Almazán. Los poemas los ha recitado el actor Paco Torres.&lt;/p&gt;
 &lt;p&gt;Ha sido un acto lleno de poesía en la voz de Paco Torres y de arte con las
 pinturas de José Félix. Un placer para todos los asistentes. Desde el Taller de lectura de Los Navamorales: ¡Enhorabuena!&lt;/p&gt;
 
-&lt;div id="slides_14445f6d62854e9abdc69b95b3e053eb" class="carousel slide"&gt;
+&lt;div id="slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_14445f6d62854e9abdc69b95b3e053eb" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_14445f6d62854e9abdc69b95b3e053eb" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_14445f6d62854e9abdc69b95b3e053eb" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_14445f6d62854e9abdc69b95b3e053eb" data-slide-to="3"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_14445f6d62854e9abdc69b95b3e053eb" data-slide-to="4"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_14445f6d62854e9abdc69b95b3e053eb" data-slide-to="5"&gt;
+            &lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="4"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="5"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/camino-hacia-el-reposo/camino-hacia-el-reposo1.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
@@ -20,6 +20,6 @@ pinturas de José Félix. Un placer para todos los asistentes. Desde el Taller d
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/camino-hacia-el-reposo/camino-hacia-el-reposo5.jpeg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/camino-hacia-el-reposo/camino-hacia-el-reposo6.jpeg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html#slides_14445f6d62854e9abdc69b95b3e053eb" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html#slides_14445f6d62854e9abdc69b95b3e053eb" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Presentación Libro</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html</guid><pubDate>Thu, 16 Nov 2017 19:30:00 GMT</pubDate></item></channel></rss>
