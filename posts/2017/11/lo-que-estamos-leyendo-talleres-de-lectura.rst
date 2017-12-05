@@ -22,7 +22,7 @@ Clubes de Lectura Infantiles
 
 
 Club de Comprensión Lectora
-===========================
+============================
 
 .. figure:: https://images-na.ssl-images-amazon.com/images/I/815wCsosGVL.jpg
 

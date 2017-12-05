@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Actividades)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/actividades.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Tue, 28 Nov 2017 22:13:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Libros que estamos leyendo en los Clubes de Lectura</title><link>http://biblioln.es/posts/2017/11/lo-que-estamos-leyendo-talleres-de-lectura.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="taller-de-lectura-adultos"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Actividades)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/actividades.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Tue, 05 Dec 2017 19:30:39 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Libros que estamos leyendo en los Clubes de Lectura</title><link>http://biblioln.es/posts/2017/11/lo-que-estamos-leyendo-talleres-de-lectura.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="taller-de-lectura-adultos"&gt;
 &lt;h2&gt;Taller de Lectura Adultos&lt;/h2&gt;
 &lt;div class="figure"&gt;
 &lt;img alt="https://historiadoreshistericos.files.wordpress.com/2010/06/extranjero.jpg" src="https://historiadoreshistericos.files.wordpress.com/2010/06/extranjero.jpg"&gt;
@@ -23,14 +23,14 @@
 &lt;p&gt;Ha sido un acto lleno de poesía en la voz de Paco Torres y de arte con las
 pinturas de José Félix. Un placer para todos los asistentes. Desde el Taller de lectura de Los Navamorales: ¡Enhorabuena!&lt;/p&gt;
 
-&lt;div id="slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" class="carousel slide"&gt;
+&lt;div id="slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="3"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="4"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="5"&gt;
+            &lt;li data-target="#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide-to="4"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide-to="5"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/camino-hacia-el-reposo/camino-hacia-el-reposo1.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
@@ -40,8 +40,8 @@ pinturas de José Félix. Un placer para todos los asistentes. Desde el Taller d
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/camino-hacia-el-reposo/camino-hacia-el-reposo5.jpeg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/camino-hacia-el-reposo/camino-hacia-el-reposo6.jpeg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Presentación Libro</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html</guid><pubDate>Thu, 16 Nov 2017 19:30:00 GMT</pubDate></item><item><title>Actividades de Animación a la Lectura (2017-2018)</title><link>http://biblioln.es/posts/2017/10/actividades-animacion-lectura.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="infantil"&gt;
 &lt;h2&gt;Infantil&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -103,19 +103,19 @@ pinturas de José Félix. Un placer para todos los asistentes. Desde el Taller d
 &lt;p&gt;Después de leer en el Taller de Literatura a Mariano José de Larra, contar con Antonio Arroyo Almaraz (profesor de literatura de la facultad de ciencias de la información de la UCM) ha sido un placer. Estupenda conferencia con la que hemos conocido más sobre este movimiento literario y uno de los grandes autores de la época.&lt;/p&gt;
 &lt;p&gt;Con este acto hemos cerrado este curso del Taller de Literatura. El mes de octubre comenzaremos el nuevo curso: 2017-2018.&lt;/p&gt;
 
-&lt;div id="slides_0227611528fc43e6bdb3083691d08035" class="carousel slide"&gt;
+&lt;div id="slides_b4c5a17c26b4456cbf61044899b03988" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_0227611528fc43e6bdb3083691d08035" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_0227611528fc43e6bdb3083691d08035" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_0227611528fc43e6bdb3083691d08035" data-slide-to="2"&gt;
+            &lt;li data-target="#slides_b4c5a17c26b4456cbf61044899b03988" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_b4c5a17c26b4456cbf61044899b03988" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_b4c5a17c26b4456cbf61044899b03988" data-slide-to="2"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-larra/la1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-larra/la2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-larra/la3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra.html#slides_0227611528fc43e6bdb3083691d08035" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra.html#slides_0227611528fc43e6bdb3083691d08035" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra.html#slides_b4c5a17c26b4456cbf61044899b03988" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra.html#slides_b4c5a17c26b4456cbf61044899b03988" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra.html</guid><pubDate>Fri, 23 Jun 2017 15:00:00 GMT</pubDate></item><item><title>Entrega Premios del Concurso: "Yo Leo Libros de la Biblioteca de mi Pueblo"</title><link>http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El día 9 de junio a las 19:00, tuvo lugar la entrega de los premios a los usuarios de La Biblioteca de los Navalmorales  que han participado en este concurso.&lt;/p&gt;
@@ -210,12 +210,12 @@ pinturas de José Félix. Un placer para todos los asistentes. Desde el Taller d
 &lt;p&gt;Ha sido un placer escuchar a la autora de esa historia con la que hemos debatido en nuestros clubes de lectura. Nos ha servido para conocer más su obra.&lt;/p&gt;
 &lt;p&gt;Desde el Taller de Lectura de Los Navalmorales queremos dar las gracias a la bibliotecaria Rosario y al pueblo de Dosbarrios por lo bien que nos han acogido.&lt;/p&gt;
 
-&lt;div id="slides_811f64ae0d474977a89f44cb770a2b5b" class="carousel slide"&gt;
+&lt;div id="slides_af508464a1b049a38d9590ebe277afe7" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_811f64ae0d474977a89f44cb770a2b5b" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_811f64ae0d474977a89f44cb770a2b5b" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_811f64ae0d474977a89f44cb770a2b5b" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_811f64ae0d474977a89f44cb770a2b5b" data-slide-to="3"&gt;
+            &lt;li data-target="#slides_af508464a1b049a38d9590ebe277afe7" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_af508464a1b049a38d9590ebe277afe7" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_af508464a1b049a38d9590ebe277afe7" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_af508464a1b049a38d9590ebe277afe7" data-slide-to="3"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/xix-encuentro-clubes-lectura-toledo/xix-encuentro-clubes-lectura-toledo1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
@@ -223,26 +223,26 @@ pinturas de José Félix. Un placer para todos los asistentes. Desde el Taller d
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/xix-encuentro-clubes-lectura-toledo/xix-encuentro-clubes-lectura-toledo3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/xix-encuentro-clubes-lectura-toledo/xix-encuentro-clubes-lectura-toledo4.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/06/xix-encuentro-clubes-lectura-toledo.html#slides_811f64ae0d474977a89f44cb770a2b5b" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/06/xix-encuentro-clubes-lectura-toledo.html#slides_811f64ae0d474977a89f44cb770a2b5b" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/06/xix-encuentro-clubes-lectura-toledo.html#slides_af508464a1b049a38d9590ebe277afe7" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/06/xix-encuentro-clubes-lectura-toledo.html#slides_af508464a1b049a38d9590ebe277afe7" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2017/06/xix-encuentro-clubes-lectura-toledo.html</guid><pubDate>Mon, 19 Jun 2017 15:00:00 GMT</pubDate></item><item><title>Coro de Voces del IES Rosa Chacel</title><link>http://biblioln.es/posts/2017/05/concierto-cierre-dia-del-libro.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Con el concierto del &lt;a class="reference external" href="https://www.facebook.com/Coro-de-Profesores-del-IES-Rosa-Chacel-182652961883206/"&gt;Coro de Profesores del IES Rosa Chacel de Colmenar Viejo&lt;/a&gt; hemos cerrado los actos de celebración del Día del Libro.&lt;/p&gt;
 &lt;p&gt;Como siempre ha sido un enriquecedor concierto de primavera, con la poesía y el cine como temas principales.&lt;/p&gt;
 &lt;p&gt;Hemos disfrutado mucho y os agradecemos que hayáis venido a Los Navalmorales una vez más.&lt;/p&gt;
 &lt;p&gt;A continuación &lt;a class="reference external" href="https://www.facebook.com/Coro-de-Profesores-del-IES-Rosa-Chacel-182652961883206/videos"&gt;algunos videos en su página de facebook&lt;/a&gt; y fotografías.&lt;/p&gt;
 
-&lt;div id="slides_b308f91a6efa4731baf643c23e979305" class="carousel slide"&gt;
+&lt;div id="slides_146528060e4d445ab78ac33301f4c4b6" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_b308f91a6efa4731baf643c23e979305" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_b308f91a6efa4731baf643c23e979305" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_b308f91a6efa4731baf643c23e979305" data-slide-to="2"&gt;
+            &lt;li data-target="#slides_146528060e4d445ab78ac33301f4c4b6" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_146528060e4d445ab78ac33301f4c4b6" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_146528060e4d445ab78ac33301f4c4b6" data-slide-to="2"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/concierto-cierre-dia-del-libro/concierto-cierre-dia-del-libro1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/concierto-cierre-dia-del-libro/concierto-cierre-dia-del-libro2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/concierto-cierre-dia-del-libro/concierto-cierre-dia-del-libro3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/concierto-cierre-dia-del-libro.html#slides_b308f91a6efa4731baf643c23e979305" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/concierto-cierre-dia-del-libro.html#slides_b308f91a6efa4731baf643c23e979305" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/concierto-cierre-dia-del-libro.html#slides_146528060e4d445ab78ac33301f4c4b6" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/concierto-cierre-dia-del-libro.html#slides_146528060e4d445ab78ac33301f4c4b6" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Día del Libro</category><guid>http://biblioln.es/posts/2017/05/concierto-cierre-dia-del-libro.html</guid><pubDate>Sun, 14 May 2017 11:30:00 GMT</pubDate></item><item><title>Visita de los alumnos de 2º de la ESO del IES Los Navalmorales</title><link>http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro-segundo-eso.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Una de las actividades con motivo de la celebración del Día del Libro, ha sido la visita de 75 niños/niñas de 1º de la ESO.&lt;/p&gt;
 &lt;p&gt;Previamente habían leído La Composición. La actividad que hemos hecho ha sido: TextoRoto.&lt;/p&gt;
 &lt;p&gt;Les he repartido fichas con trozos del texto, y ellos lo iban colocándose en orden para volver a componer la historia.&lt;/p&gt;
@@ -251,15 +251,15 @@ pinturas de José Félix. Un placer para todos los asistentes. Desde el Taller d
 Gracias a las profesoras por su colaboración, sin su ayuda no habría sido posible.&lt;/p&gt;
 &lt;p&gt;La Bibliotecaria&lt;/p&gt;
 
-&lt;div id="slides_c5583fb42caa42309ef9f133614d399f" class="carousel slide"&gt;
+&lt;div id="slides_30b22c520362418f95128d2ce4545e79" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_c5583fb42caa42309ef9f133614d399f" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_c5583fb42caa42309ef9f133614d399f" data-slide-to="1"&gt;
+            &lt;li data-target="#slides_30b22c520362418f95128d2ce4545e79" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_30b22c520362418f95128d2ce4545e79" data-slide-to="1"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/visita-escolar-dia-del-libro/visita-escolar-dia-del-libro1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/visita-escolar-dia-del-libro/visita-escolar-dia-del-libro2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro.html#slides_c5583fb42caa42309ef9f133614d399f" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro.html#slides_c5583fb42caa42309ef9f133614d399f" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro.html#slides_30b22c520362418f95128d2ce4545e79" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro.html#slides_30b22c520362418f95128d2ce4545e79" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Día del Libro</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro.html</guid><pubDate>Sun, 14 May 2017 09:00:00 GMT</pubDate></item></channel></rss>
