@@ -13,17 +13,17 @@ La presentación de este acto ha sido realizada por su hermano Jesús Bermejo pr
 
 .. container:: inline
 
-    .. figure:: /galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.1.jpg
+    .. thumbnail:: /galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.1.jpg
         :height: 300px
         :align: center
         :target: /galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.1.jpg
 
-    .. figure:: /galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.2.jpg
+    .. thumbnail:: /galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.2.jpg
         :height: 300px
         :align: center
         :target: /galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.2.jpg
 
-    .. figure:: /galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.png
+    .. thumbnail:: /galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.png
         :height: 400px
         :align: center
         :target: /galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.png
