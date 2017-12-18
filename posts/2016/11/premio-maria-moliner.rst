@@ -12,7 +12,7 @@ Extracto de la resolución:
   Seleccionados los 300 municipios premiados en la XVII Campaña de Animación a la Lectura María Moliner del Ministerio de Educación, Cultura y Deporte, la FEMP y la Fundación Coca-Cola.
   `Continuar leyendo en la página del Ministerio <http://www.mecd.gob.es/prensa-mecd/actualidad/2016/11/20161102-moliner.html>`_.
 
-.. figure:: http://www.mecd.gob.es/.imaging/mecd-imgmediana-jpg/dms/mecd/cultura-mecd/areas-cultura/libro/mc/pfl/campana-maria-moliner/presentacion/MMoliner-2016.jpg
+.. thumbnail:: http://www.mecd.gob.es/.imaging/mecd-imgmediana-jpg/dms/mecd/cultura-mecd/areas-cultura/libro/mc/pfl/campana-maria-moliner/presentacion/MMoliner-2016.jpg
   :alt:Premio María Moliner del Ministerio de Educación
 
 - `La noticia en ABC <http://www.abc.es/espana/castilla-la-mancha/toledo/abci-premian-17-bibliotecas-provincia-201611081302_noticia.html>`_.

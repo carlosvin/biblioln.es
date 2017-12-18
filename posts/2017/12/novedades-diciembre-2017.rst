@@ -10,22 +10,22 @@ Pásate por la Biblioteca a ver las novedades que tenemos.
 
 .. container:: inline
 
-    .. figure:: /2017/novedades/novedades.1.jpg
+    .. thumbnail:: /2017/novedades/novedades.1.jpg
         :height: 400px
         :align: center
         :target: /2017/novedades/novedades.1.jpg
 
-    .. figure:: /2017/novedades/novedades.2.jpg
+    .. thumbnail:: /2017/novedades/novedades.2.jpg
         :height: 400px
         :align: center
         :target: /2017/novedades/novedades.2.jpg
 
-    .. figure:: /2017/novedades/novedades.3.jpg
+    .. thumbnail:: /2017/novedades/novedades.3.jpg
         :height: 400px
         :align: center
         :target: /2017/novedades/novedades.3.jpg
 
-    .. figure:: /2017/novedades/novedades.4.jpg
+    .. thumbnail:: /2017/novedades/novedades.4.jpg
         :height: 400px
         :align: center
         :target: /2017/novedades/novedades.4.jpg

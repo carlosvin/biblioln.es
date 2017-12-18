@@ -8,7 +8,7 @@
 
 Tras la lectura del Libro `Un Millón de Gotas <http://www.planetadelibros.com/libro-un-millon-de-gotas/118941>`_ de `Víctor del Árbol <http://www.planetadelibros.com/autor/victor-del-arbol/000062120>`_ en el Taller de Literatura.
 
-.. figure:: http://static9.planetadelibros.com/usuaris/libros/fotos/119/m_libros/un-millon-de-gotas_9788423348138.jpg
+.. thumbnail:: http://static9.planetadelibros.com/usuaris/libros/fotos/119/m_libros/un-millon-de-gotas_9788423348138.jpg
   :align: center
 
   Un Millón de Gotas de Víctor del Árbol

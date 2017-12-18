@@ -8,7 +8,7 @@
 Taller de Lectura Adultos
 =========================
 
-.. figure:: https://historiadoreshistericos.files.wordpress.com/2010/06/extranjero.jpg
+.. thumbnail:: https://historiadoreshistericos.files.wordpress.com/2010/06/extranjero.jpg
 
   El Extranjero - Albert Camus
 
@@ -16,7 +16,7 @@ Taller de Lectura Adultos
 Clubes de Lectura Infantiles
 ============================
 
-.. figure:: http://www.pepbruno.com/images/stories/libros/Escarabajo.jpg
+.. thumbnail:: http://www.pepbruno.com/images/stories/libros/Escarabajo.jpg
 
   Escarabajo en Compañía
 
@@ -24,6 +24,6 @@ Clubes de Lectura Infantiles
 Club de Comprensión Lectora
 ============================
 
-.. figure:: https://images-na.ssl-images-amazon.com/images/I/815wCsosGVL.jpg
+.. thumbnail:: https://images-na.ssl-images-amazon.com/images/I/815wCsosGVL.jpg
 
   Chivos Chivones

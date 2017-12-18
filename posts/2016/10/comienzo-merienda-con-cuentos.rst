@@ -7,13 +7,13 @@
 
 Todos los lunes a las 5:30 tenemos nuestra merienda de cuentos, con los niños/niñas de infantil. Este lunes hemos trabajado con los siguientes cuentos:
 
-.. figure::  http://editorialkokinos.com/wp-content/uploads/no-duermes-osito_l.jpg
+.. thumbnail::  http://editorialkokinos.com/wp-content/uploads/no-duermes-osito_l.jpg
   :width: 600
   :alt: ¿No duermes, osito?
 
   ¿No duermes, osito?
 
-.. figure:: http://multimedia.fnac.com/multimedia/ES/images_produits/ES/ZoomPE/1/9/2/9788467524291.jpg
+.. thumbnail:: http://multimedia.fnac.com/multimedia/ES/images_produits/ES/ZoomPE/1/9/2/9788467524291.jpg
   :alt: La Cerdita Clea
   :width: 600
 

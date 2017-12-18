@@ -17,18 +17,18 @@ muchos más detalles en la página web oficial: http://www.estrellacervantes.es
 
 Más información en las redes `#YoEstrellaCervantes`_:
 
-.. figure:: https://g.twimg.com/dev/documentation/image/Twitter_logo_blue_16.png
+.. thumbnail:: https://g.twimg.com/dev/documentation/image/Twitter_logo_blue_16.png
 	:target: https://twitter.com/CervantesmuAra
 
 	`@CervantesmuAra`_
 
-.. figure:: http://www.clipartbest.com/cliparts/9cR/R9a/9cRR9ajgi.png
+.. thumbnail:: http://www.clipartbest.com/cliparts/9cR/R9a/9cRR9ajgi.png
 	:width: 16px
 	:target: https://www.facebook.com/CervantesmuAra
 
 	`facebook.com/CervantesmuAra`_
 
-	.. figure:: /2015/08/estrella-cervantes-banner.png
+	.. thumbnail:: /2015/08/estrella-cervantes-banner.png
 		:target: http://www.estrellacervantes.es
 
 --

@@ -11,7 +11,7 @@ Información del Evento
 
 Tras la lectura del Libro `Si te dicen loco <http://www.editorialcelya.com/si-te-dicen-loco>`_ de `Fernando Lallana <https://twitter.com/flallanam>`_ en el Taller de Literatura, realizaremos un encuentro con el autor.
 
-.. figure:: http://www.editorialcelya.com/pics/contenido/A.%20PORTADA.%20web.%20SI%20TE%20DICEN%20LOCO.jpg
+.. thumbnail:: http://www.editorialcelya.com/pics/contenido/A.%20PORTADA.%20web.%20SI%20TE%20DICEN%20LOCO.jpg
   :align: center
   :figwidth: 400
 
@@ -19,7 +19,7 @@ Tras la lectura del Libro `Si te dicen loco <http://www.editorialcelya.com/si-te
 
 Tendrá lugar en La Biblioteca el 28 de Marzo a las 8:00pm.
 
-.. figure:: /2017/encuentro.con.Fernando.Lallana/encuentro.con.Fernando.Lallana.png
+.. thumbnail:: /2017/encuentro.con.Fernando.Lallana/encuentro.con.Fernando.Lallana.png
   :align: center
   :figwidth: 800
 
