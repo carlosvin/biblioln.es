@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Eventos)</title><link>http://biblioln.es/</link><description></description><atom:link rel="self" href="http://biblioln.es/categories/eventos.xml" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Fri, 17 Nov 2017 16:38:43 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Conferencia de Tratamientos Psiquiátricos y Psicológicos</title><link>http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El pasado 5 de Febrero tuvo lugar en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html"&gt;La Biblioteca&lt;/a&gt; la conferencia "Tratamientos Psiquiátricos y Psicológicos" impartida por Julio Sáez Martínez (Psicólogo del Dpto. Investigación Criminal de la Guardia Civil).&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Eventos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/eventos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 18 Dec 2017 20:17:02 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Cuentos de Quita Y Pon</title><link>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo día &lt;strong&gt;22 de Diciembre a las 17:00&lt;/strong&gt; nos visitará el &lt;a class="reference external" href="https://juanmalabar.wordpress.com"&gt;Cuentacuentos Juan Malabar&lt;/a&gt; con sus &lt;a class="reference external" href="https://juanmalabar.wordpress.com/los-cuentos/"&gt;Cuentos de Quita y Pon&lt;/a&gt;, cuentos con objetos, títeres y cachivaches.&lt;/p&gt;
+&lt;div class="figure align-center"&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.png"&gt;&lt;img alt="/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.png" src="http://biblioln.es/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.png" style="height: 400px;"&gt;&lt;/a&gt;
+&lt;p class="caption"&gt;Cuentacuentos Juan Balabar. 22 de Diciembre a las 17:00 en la Biblioteca&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Cuentacuentos</category><category>Eventos</category><guid>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon.html</guid><pubDate>Mon, 18 Dec 2017 19:00:00 GMT</pubDate></item><item><title>Conferencia de Tratamientos Psiquiátricos y Psicológicos</title><link>http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El pasado 5 de Febrero tuvo lugar en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html"&gt;La Biblioteca&lt;/a&gt; la conferencia "Tratamientos Psiquiátricos y Psicológicos" impartida por Julio Sáez Martínez (Psicólogo del Dpto. Investigación Criminal de la Guardia Civil).&lt;/p&gt;
 
-&lt;div id="slides_65e2786070d248e281de2860ddf2cf7d" class="carousel slide"&gt;
+&lt;div id="slides_69cc7832e4164da5bd5e8fd141ab2782" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_65e2786070d248e281de2860ddf2cf7d" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_65e2786070d248e281de2860ddf2cf7d" data-slide-to="1"&gt;
+            &lt;li data-target="#slides_69cc7832e4164da5bd5e8fd141ab2782" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_69cc7832e4164da5bd5e8fd141ab2782" data-slide-to="1"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2016/02/conferencia-tratamientos-psiquiatricos.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2016/02/conferencia-tratamientos-psiquiatricos.1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html#slides_65e2786070d248e281de2860ddf2cf7d" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html#slides_65e2786070d248e281de2860ddf2cf7d" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html#slides_69cc7832e4164da5bd5e8fd141ab2782" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html#slides_69cc7832e4164da5bd5e8fd141ab2782" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;!-- previewimage: /2016/02/conferencia-tratamientos-psiquiatricos.jpg --&gt;&lt;/div&gt;</description><category>Actividades</category><category>Conferencias</category><category>Eventos</category><guid>http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html</guid><pubDate>Fri, 12 Feb 2016 18:00:00 GMT</pubDate></item><item><title>Encuentro con Nieves Herrero en Castillo de Bayuela</title><link>http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Los componentes del  Taller de Literatura, hemos asistido  a la presentación del último libro de Nieves Herrero, &lt;a class="reference external" href="http://www.esferalibros.com/libro/como-si-no-hubiera-un-manana/"&gt;Como si no hubiera un mañana&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;La presentación ha sido en &lt;a class="reference external" href="https://www.google.lu/maps/place/Castillo+de+Bayuela,+Toledo,+Spain/data=!4m2!3m1!1s0xd403c52c7262173:0x433e166af2a6ac58?sa=X&amp;amp;ved=0ahUKEwjhhoXH6KnJAhUE2RoKHagaBfEQ8gEIeDAN"&gt;Castillo de Bayuela&lt;/a&gt;, donde hemos pasado una tarde estupenda. En el pueblo nos han recibido muy bien, hemos visitado el mercado de artesanía.  Seguidamente hemos asistido a la presentación del libro, el acto ha estado muy bien, Nieves Herrero nos ha hablado de Luis Miguel Dominguin y Ava Gardner, que son los protagonistas de este libro.&lt;/p&gt;
 
-&lt;div id="slides_c79b2ef323db4c278bc686224a7a620a" class="carousel slide"&gt;
+&lt;div id="slides_ad737c2315884ab0b692486f49f3fe1d" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_c79b2ef323db4c278bc686224a7a620a" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_c79b2ef323db4c278bc686224a7a620a" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_c79b2ef323db4c278bc686224a7a620a" data-slide-to="2"&gt;
+            &lt;li data-target="#slides_ad737c2315884ab0b692486f49f3fe1d" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ad737c2315884ab0b692486f49f3fe1d" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_ad737c2315884ab0b692486f49f3fe1d" data-slide-to="2"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2015/12/encuentro-nieves-herrero.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2015/12/encuentro-nieves-herrero-2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2015/11/nieves_herrero.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html#slides_c79b2ef323db4c278bc686224a7a620a" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html#slides_c79b2ef323db4c278bc686224a7a620a" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html#slides_ad737c2315884ab0b692486f49f3fe1d" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html#slides_ad737c2315884ab0b692486f49f3fe1d" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;!-- previewimage: /2015/12/encuentro-nieves-herrero-2.jpg --&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html</guid><pubDate>Wed, 02 Dec 2015 19:00:00 GMT</pubDate></item><item><title>Actividades del Taller de Literatura para este Trimestre</title><link>http://biblioln.es/posts/2015/11/actividades-taller-literatura-trimestre.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="encuentro-con-nieves-herrero"&gt;
@@ -97,41 +101,4 @@
 &lt;p&gt;Estupendo Pep!!&lt;/p&gt;
 &lt;p&gt;Gracias por tus historias.&lt;/p&gt;
 &lt;p&gt;[gallery ids="1252,1253,1254"]&lt;/p&gt;
-&lt;p&gt;&lt;a title="Pep Bruno website" href="http://pepbruno.com/" target="_blank"&gt;Aquí la página de Pep Bruno: pepbruno.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Cuentacuentos</category><category>Día del Libro</category><category>Eventos</category><category>Visitas</category><guid>http://biblioln.es/posts/2015/04/cuentacuentos-pep-bruno.html</guid><pubDate>Fri, 17 Apr 2015 18:13:28 GMT</pubDate></item><item><title>Día del Libro 2015</title><link>http://biblioln.es/posts/2015/04/dia-del-libro-2015.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;a href="http://biblioln.es/wp-content/uploads/programa.pdf"&gt;Descargar Programa Dia del Libro 2015 (pdf)&lt;/a&gt;&lt;/p&gt;
-&lt;p style="text-align: right;"&gt;&lt;a href="http://reddebibliotecas.jccm.es/portal/index.php/actualidad/noticias/item/2713-manifiesto-dia-libro-roberto-santiago"&gt;Manifiesto del Día del Libro: leer o no leer, esa es la cuestión&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3&gt;17 DE ABRIL&lt;/h3&gt;
-
-&lt;h4&gt;A las 9 de la mañana Cuentacuentos&lt;/h4&gt;
-
-&lt;p&gt;En La Biblioteca Pública Municipal tendremos a Pep Bruno (cuentacuentos y escritor). Contará cuentos a los niños del Colegio Público San Francisco (4º, 5º y 6º de primaria)&lt;/p&gt;
-&lt;h3&gt;22 DE ABRIL&lt;/h3&gt;
-
-&lt;h4&gt;Cuentacuentos con Don Quijote de la Mancha para niños.&lt;/h4&gt;
-
-&lt;p&gt;Esta actividad es para los niños de infantil, que vendrán a La Biblioteca acompañados de sus profesores.&lt;/p&gt;
-&lt;h3&gt;23 DE ABRIL&lt;/h3&gt;
-
-&lt;h4&gt;9:30 Visita de los alumnos del I.E.S. de Los Navalmorales&lt;/h4&gt;
-
-&lt;p&gt;A las 9:30 vendrán los alumnos de primero de la ESO, haremos la actividad: Texto roto (con La Composición, libro que previamente han leído)&lt;/p&gt;
-&lt;h4&gt;17:30 concurso de frases celebres de Don Quijote de La Mancha&lt;/h4&gt;
-
-&lt;p&gt;Pueden traer sus frases los papás/mamás, abuelos/abuelas y niños/niñas.&lt;/p&gt;
-&lt;p&gt;El premio será un cuento para los niños y un libro para los adultos.&lt;/p&gt;
-&lt;p&gt;Podéis participar todos ¡Animaros a venir a vuestra biblioteca el día el libro!&lt;/p&gt;
-&lt;h3&gt;24 DE ABRIL&lt;/h3&gt;
-
-&lt;h4&gt;Viaje a Toledo con El Taller de literatura&lt;/h4&gt;
-
-&lt;p&gt;Haremos la ruta que aparece en el libro: Lo que Encontré Bajo el Sofá. Su autor Eloy Moreno nos recreara esta novela por las calles de Toledo.&lt;/p&gt;
-&lt;h3&gt;29 DE ABRIL&lt;/h3&gt;
-
-&lt;h4&gt;El combate, juego sobre el texto de El Quijote.&lt;/h4&gt;
-
-&lt;p&gt;En este juego participarán por equipos los niños del Colegio Publico San Francisco (Segundo ciclo de primaria).&lt;/p&gt;
-&lt;p style="text-align: right;"&gt;&lt;a href="http://reddebibliotecas.jccm.es/portal/index.php/actualidad/noticias/item/2713-manifiesto-dia-libro-roberto-santiago"&gt;Manifiesto del Día del Libro: leer o no leer, esa es la cuestión&lt;/a&gt;&lt;/p&gt;
-
-&lt;p style="text-align: right;"&gt;&lt;a href="http://biblioln.es/wp-content/uploads/programa.pdf"&gt;Descargar Programa Dia del Libro 2015 (pdf)&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Actividades</category><category>Día del Libro</category><category>Eventos</category><guid>http://biblioln.es/posts/2015/04/dia-del-libro-2015.html</guid><pubDate>Fri, 17 Apr 2015 14:15:06 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a title="Pep Bruno website" href="http://pepbruno.com/" target="_blank"&gt;Aquí la página de Pep Bruno: pepbruno.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Cuentacuentos</category><category>Día del Libro</category><category>Eventos</category><category>Visitas</category><guid>http://biblioln.es/posts/2015/04/cuentacuentos-pep-bruno.html</guid><pubDate>Fri, 17 Apr 2015 18:13:28 GMT</pubDate></item></channel></rss>
