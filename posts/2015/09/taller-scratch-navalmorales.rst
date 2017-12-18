@@ -10,7 +10,7 @@ El taller tendrá lugar el próximo viernes 25 de Septiembre de 10 a 14 horas en
 
 	Se trata de un taller en el que los Usuarios de los Centros con conocimientos básicos de informática e Internet que estén interesados en conocer las Tecnologías de la Información, Internet, Redes Sociales y los lenguajes de programación.
 
-.. figure:: /2015/09/cartel_taller_scratch_navalmorales.jpg
+.. thumbnail:: /2015/09/cartel_taller_scratch_navalmorales.jpg
 	:target: http://www.bilib.es/formacion/formacion-presencial/detalle-curso/ic/taller-de-seguridad-informatica-y-scratch/
 	:width: 600px
 	:align: center

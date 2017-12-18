@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2017-12-18T20:26:00Z</lastmod>
+  <lastmod>2017-12-18T20:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/agradecimientos.xml</loc>
@@ -19,11 +19,11 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/astrofisica.xml</loc>
-  <lastmod>2017-12-18T20:27:00Z</lastmod>
+  <lastmod>2017-12-18T20:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/avisos.xml</loc>
-  <lastmod>2017-11-16T19:56:00Z</lastmod>
+  <lastmod>2017-12-18T20:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/bebeteca.xml</loc>
@@ -35,7 +35,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/catalogo.xml</loc>
-  <lastmod>2017-12-18T20:07:00Z</lastmod>
+  <lastmod>2017-12-18T20:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/centro-de-internet.xml</loc>
@@ -43,7 +43,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/club-de-lectura.xml</loc>
-  <lastmod>2017-12-18T20:26:00Z</lastmod>
+  <lastmod>2017-12-18T20:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/comprension-lectora.xml</loc>
@@ -83,7 +83,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/cursos.xml</loc>
-  <lastmod>2017-11-16T19:56:00Z</lastmod>
+  <lastmod>2017-12-18T20:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/dia-del-libro.xml</loc>
@@ -127,7 +127,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/informatica.xml</loc>
-  <lastmod>2017-11-16T19:56:00Z</lastmod>
+  <lastmod>2017-12-18T20:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/la-biblioteca.xml</loc>
@@ -143,7 +143,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/literatura.xml</loc>
-  <lastmod>2017-12-18T20:27:00Z</lastmod>
+  <lastmod>2017-12-18T20:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/los-mayores-cuentan-cuentos.xml</loc>
@@ -159,7 +159,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/novedades.xml</loc>
-  <lastmod>2017-12-18T20:07:00Z</lastmod>
+  <lastmod>2017-12-18T20:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/novedates.xml</loc>
@@ -175,7 +175,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/premios.xml</loc>
-  <lastmod>2017-12-18T20:27:00Z</lastmod>
+  <lastmod>2017-12-18T20:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/presentacion-libro.xml</loc>
@@ -187,11 +187,11 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/seguridad.xml</loc>
-  <lastmod>2017-11-16T19:56:00Z</lastmod>
+  <lastmod>2017-12-18T20:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
-  <lastmod>2017-12-18T20:26:00Z</lastmod>
+  <lastmod>2017-12-18T20:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller.xml</loc>
@@ -199,7 +199,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/talleres.xml</loc>
-  <lastmod>2017-12-18T20:26:00Z</lastmod>
+  <lastmod>2017-12-18T20:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/teatro.xml</loc>
@@ -347,10 +347,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2017-12-18T20:27:00Z</lastmod>
+  <lastmod>2017-12-18T20:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2017-12-18T20:27:00Z</lastmod>
+  <lastmod>2017-12-18T20:31:00Z</lastmod>
  </sitemap>
 </sitemapindex>

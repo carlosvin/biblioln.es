@@ -39,7 +39,7 @@ El Árbol de los Deseos
 
 Estos días los niños que han visitado la biblioteca, han bajado a la entrada, y han colgado sus deseos  en el árbol de los deseos.
 
-.. figure:: /2016/01/navidad-arbol-de-deseos.jpg
+.. thumbnail:: /2016/01/navidad-arbol-de-deseos.jpg
 	:width: 280px
 	:align: center
 	:target: /2016/01/navidad-arbol-de-deseos.jpg
@@ -49,7 +49,7 @@ Club de Comprensión Lectora
 
 Los niños/niñas del  Club de Comprensión Lectora, han hecho un papá Noel como el señor Gaskitt , uno de los protagonistas  del libro que hemos leído( EL Hombre que se Puso Toda la Ropa).
 
-.. figure:: /2016/01/navidad-club-comprension-lectora.jpg
+.. thumbnail:: /2016/01/navidad-club-comprension-lectora.jpg
 	:width: 380px
 	:align: center
 	:target: /2016/01/navidad-club-comprension-lectora.jpg
