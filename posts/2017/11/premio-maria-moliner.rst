@@ -16,7 +16,7 @@ Algunas noticias relacionadas:
 
 - `Las mejores bibliotecas de la provincia (ABC) <http://www.abc.es/espana/castilla-la-mancha/toledo/abci-premian-17-bibliotecas-provincia-201611081302_noticia.html>`_.
 
-.. figure:: https://www.mecd.gob.es/dms/mecd/prensa-mecd/actualidad/2016/04/20160405-mm/mm.jpg
+.. thumbnail:: https://www.mecd.gob.es/dms/mecd/prensa-mecd/actualidad/2016/04/20160405-mm/mm.jpg
   :alt:Premio María Moliner del Ministerio de Educación
   
   `Listado completo de galardonados (PDF)`_.
