@@ -6922,4 +6922,5 @@ legend {
   flex-wrap: wrap;
   flex-flow: wrap;
   justify-content: center;
+  margin: 5px;
 }
