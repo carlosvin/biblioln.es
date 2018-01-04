@@ -1,6 +1,6 @@
 .. title: Cuentos de Quita Y Pon
 .. slug: cuentos-quita-y-pon
-.. date: 2017-12-22 20:00
+.. date: 2017-12-27 20:00
 .. tags: Eventos, Cuentacuentos, Actividades
 .. description: Nos visita el cuentacuentos Juan Malabar. Cuentos con objetos, títeres y cachivaches
 .. previewimage: /2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.png

@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2018-01-04T19:22:00Z</lastmod>
+  <lastmod>2018-01-04T19:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/agradecimientos.xml</loc>
@@ -71,7 +71,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/cuentacuentos.xml</loc>
-  <lastmod>2018-01-04T19:22:00Z</lastmod>
+  <lastmod>2018-01-04T19:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/cuentos-con-chocolate.xml</loc>
@@ -111,7 +111,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2018-01-04T19:22:00Z</lastmod>
+  <lastmod>2018-01-04T19:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/formacion.xml</loc>
@@ -347,10 +347,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2018-01-04T19:22:00Z</lastmod>
+  <lastmod>2018-01-04T19:30:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2018-01-04T19:22:00Z</lastmod>
+  <lastmod>2018-01-04T19:30:00Z</lastmod>
  </sitemap>
 </sitemapindex>
