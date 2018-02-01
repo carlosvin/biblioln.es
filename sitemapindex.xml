@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2018-01-04T19:30:00Z</lastmod>
+  <lastmod>2018-02-01T22:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/agradecimientos.xml</loc>
@@ -43,7 +43,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/club-de-lectura.xml</loc>
-  <lastmod>2017-12-26T20:29:00Z</lastmod>
+  <lastmod>2018-02-01T22:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/comprension-lectora.xml</loc>
@@ -59,7 +59,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/conferencias.xml</loc>
-  <lastmod>2017-12-26T20:29:00Z</lastmod>
+  <lastmod>2018-02-01T22:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/congresos.xml</loc>
@@ -111,7 +111,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2018-01-04T19:30:00Z</lastmod>
+  <lastmod>2018-02-01T22:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/formacion.xml</loc>
@@ -120,6 +120,10 @@
  <sitemap>
   <loc>http://biblioln.es/categories/fotos.xml</loc>
   <lastmod>2017-11-17T16:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/categories/hora-del-cuento.xml</loc>
+  <lastmod>2018-02-01T22:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/horarios.xml</loc>
@@ -191,7 +195,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
-  <lastmod>2017-12-26T20:29:00Z</lastmod>
+  <lastmod>2018-02-01T22:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller.xml</loc>
@@ -199,7 +203,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/talleres.xml</loc>
-  <lastmod>2017-12-26T20:29:00Z</lastmod>
+  <lastmod>2018-02-01T22:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/teatro.xml</loc>
@@ -330,6 +334,18 @@
   <lastmod>2018-01-04T18:52:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/rss.xml</loc>
+  <lastmod>2018-02-01T22:20:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/galleries/2018/hora-del-cuento/rss.xml</loc>
+  <lastmod>2018-02-01T22:20:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/galleries/2018/rss.xml</loc>
+  <lastmod>2018-02-01T22:03:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/La%20Biblioteca/rss.xml</loc>
   <lastmod>2018-01-04T18:52:00Z</lastmod>
  </sitemap>
@@ -347,10 +363,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2018-01-04T19:30:00Z</lastmod>
+  <lastmod>2018-02-01T22:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2018-01-04T19:30:00Z</lastmod>
+  <lastmod>2018-02-01T22:20:00Z</lastmod>
  </sitemap>
 </sitemapindex>
