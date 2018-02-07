@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2018-02-01T22:20:00Z</lastmod>
+  <lastmod>2018-02-07T17:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/agradecimientos.xml</loc>
@@ -102,6 +102,10 @@
   <lastmod>2017-11-17T16:38:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/categories/entrevistas.xml</loc>
+  <lastmod>2018-02-07T17:13:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/categories/escritores.xml</loc>
   <lastmod>2017-11-17T16:38:00Z</lastmod>
  </sitemap>
@@ -111,7 +115,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2018-02-01T22:20:00Z</lastmod>
+  <lastmod>2018-02-07T17:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/formacion.xml</loc>
@@ -184,6 +188,10 @@
  <sitemap>
   <loc>http://biblioln.es/categories/presentacion-libro.xml</loc>
   <lastmod>2017-12-05T19:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/categories/radio.xml</loc>
+  <lastmod>2018-02-07T17:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/revistas.xml</loc>
@@ -363,10 +371,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2018-02-01T22:20:00Z</lastmod>
+  <lastmod>2018-02-07T17:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2018-02-01T22:20:00Z</lastmod>
+  <lastmod>2018-02-07T17:14:00Z</lastmod>
  </sitemap>
 </sitemapindex>

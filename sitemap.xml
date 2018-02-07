@@ -35,15 +35,15 @@
  </url>
  <url>
   <loc>http://biblioln.es/2018/index.html</loc>
-  <lastmod>2018-02-01T22:20:00Z</lastmod>
+  <lastmod>2018-02-07T17:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2018-02-01T22:20:00Z</lastmod>
+  <lastmod>2018-02-07T17:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/actividades.html</loc>
-  <lastmod>2018-02-01T22:20:00Z</lastmod>
+  <lastmod>2018-02-07T17:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/agradecimientos.html</loc>
@@ -138,6 +138,10 @@
   <lastmod>2018-01-04T18:53:00Z</lastmod>
  </url>
  <url>
+  <loc>http://biblioln.es/categories/entrevistas.html</loc>
+  <lastmod>2018-02-07T17:13:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://biblioln.es/categories/escritores.html</loc>
   <lastmod>2018-01-04T18:53:00Z</lastmod>
  </url>
@@ -147,7 +151,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/eventos.html</loc>
-  <lastmod>2018-02-01T22:20:00Z</lastmod>
+  <lastmod>2018-02-07T17:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/formacion.html</loc>
@@ -167,7 +171,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/index.html</loc>
-  <lastmod>2018-02-01T22:20:00Z</lastmod>
+  <lastmod>2018-02-07T17:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/informatica.html</loc>
@@ -224,6 +228,10 @@
  <url>
   <loc>http://biblioln.es/categories/presentacion-libro.html</loc>
   <lastmod>2018-01-04T18:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/categories/radio.html</loc>
+  <lastmod>2018-02-07T17:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/revistas.html</loc>
@@ -447,7 +455,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-19.html</loc>
-  <lastmod>2018-02-01T22:20:00Z</lastmod>
+  <lastmod>2018-02-07T17:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-2.html</loc>
@@ -483,7 +491,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index.html</loc>
-  <lastmod>2018-02-01T22:20:00Z</lastmod>
+  <lastmod>2018-02-07T17:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/07/comenzamos-a-andar.html</loc>
@@ -1270,12 +1278,20 @@
   <lastmod>2018-01-04T18:53:00Z</lastmod>
  </url>
  <url>
+  <loc>http://biblioln.es/posts/2018/01/en-la-radio.html</loc>
+  <lastmod>2018-02-07T16:59:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://biblioln.es/posts/2018/01/encuentro-autor-jose-alberto-blanco-hernandez.html</loc>
-  <lastmod>2018-02-01T22:20:00Z</lastmod>
+  <lastmod>2018-02-07T17:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2018/01/hora-del-cuento.html</loc>
   <lastmod>2018-02-01T22:20:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2018/02/en-la-radio.html</loc>
+  <lastmod>2018-02-07T17:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/stories/2011/07/44.html</loc>
