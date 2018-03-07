@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Talleres)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/talleres.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Thu, 01 Feb 2018 22:06:49 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Encuentro con el Autor José Alberto Blanco Hernández</title><link>http://biblioln.es/posts/2018/01/encuentro-autor-jose-alberto-blanco-hernandez.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="https://imagessl0.casadellibro.com/a/l/t0/70/9788416005970.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;&lt;a class="reference external" href="http://ceip-sanfranciscolosnavalmorales.centros.castillalamancha.es/"&gt;El Colegio Público San Francisco&lt;/a&gt; y &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales.html"&gt;La Bilbioteca Pública de Los Navalmorales&lt;/a&gt;, hemos coordinado la siguiente actividad:&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Talleres)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/talleres.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 07 Mar 2018 18:29:36 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Encuentro con el Autor José Alberto Blanco Hernández</title><link>http://biblioln.es/posts/2018/01/encuentro-autor-jose-alberto-blanco-hernandez.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="https://imagessl0.casadellibro.com/a/l/t0/70/9788416005970.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;&lt;a class="reference external" href="http://ceip-sanfranciscolosnavalmorales.centros.castillalamancha.es/"&gt;El Colegio Público San Francisco&lt;/a&gt; y &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales.html"&gt;La Bilbioteca Pública de Los Navalmorales&lt;/a&gt;, hemos coordinado la siguiente actividad:&lt;/p&gt;
 &lt;p&gt;Con un lote de libros de la biblioteca los dos cursos de 6º de primaria han leído: Sofía y el Misterio del Águila Bicéfala (autor José Alberto Blanco Hernández).&lt;/p&gt;
 &lt;p&gt;El día 26 vino el autor al colegio. Los alumnos han tenido un encuentro con el. Tenían preparada una entrevista y habían adornado la sala del Colegio con  unos murales con los dibujos de los personajes de la historia y los distintos monumentos de Toledo que aparecen en este libro.&lt;/p&gt;
 &lt;p&gt;Los alumnos han debatido con el autor sobre las aventuras de Sofía y Miguel de las que tanto han disfrutado.&lt;/p&gt;
@@ -25,14 +25,14 @@
 &lt;p&gt;Ha sido un acto lleno de poesía en la voz de Paco Torres y de arte con las
 pinturas de José Félix. Un placer para todos los asistentes. Desde el Taller de lectura de Los Navamorales: ¡Enhorabuena!&lt;/p&gt;
 
-&lt;div id="slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" class="carousel slide"&gt;
+&lt;div id="slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide-to="3"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide-to="4"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide-to="5"&gt;
+            &lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="2"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="3"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="4"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide-to="5"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/camino-hacia-el-reposo/camino-hacia-el-reposo1.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
@@ -42,8 +42,8 @@ pinturas de José Félix. Un placer para todos los asistentes. Desde el Taller d
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/camino-hacia-el-reposo/camino-hacia-el-reposo5.jpeg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/camino-hacia-el-reposo/camino-hacia-el-reposo6.jpeg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html#slides_bf00e421b2c04a1aa9f2f4ed2d8fe302" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html#slides_90cbd25a4b4f4e4f99ae28d284d9bcf8" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Presentación Libro</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/11/camino-hacia-el-reposo.html</guid><pubDate>Thu, 16 Nov 2017 19:30:00 GMT</pubDate></item><item><title>Actividades de Animación a la Lectura (2017-2018)</title><link>http://biblioln.es/posts/2017/10/actividades-animacion-lectura.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="infantil"&gt;
 &lt;h2&gt;Infantil&lt;/h2&gt;
 &lt;ul class="simple"&gt;
@@ -105,19 +105,19 @@ pinturas de José Félix. Un placer para todos los asistentes. Desde el Taller d
 &lt;p&gt;Después de leer en el Taller de Literatura a Mariano José de Larra, contar con Antonio Arroyo Almaraz (profesor de literatura de la facultad de ciencias de la información de la UCM) ha sido un placer. Estupenda conferencia con la que hemos conocido más sobre este movimiento literario y uno de los grandes autores de la época.&lt;/p&gt;
 &lt;p&gt;Con este acto hemos cerrado este curso del Taller de Literatura. El mes de octubre comenzaremos el nuevo curso: 2017-2018.&lt;/p&gt;
 
-&lt;div id="slides_b4c5a17c26b4456cbf61044899b03988" class="carousel slide"&gt;
+&lt;div id="slides_0227611528fc43e6bdb3083691d08035" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_b4c5a17c26b4456cbf61044899b03988" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_b4c5a17c26b4456cbf61044899b03988" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_b4c5a17c26b4456cbf61044899b03988" data-slide-to="2"&gt;
+            &lt;li data-target="#slides_0227611528fc43e6bdb3083691d08035" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_0227611528fc43e6bdb3083691d08035" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_0227611528fc43e6bdb3083691d08035" data-slide-to="2"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-larra/la1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-larra/la2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-larra/la3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra.html#slides_b4c5a17c26b4456cbf61044899b03988" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra.html#slides_b4c5a17c26b4456cbf61044899b03988" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra.html#slides_0227611528fc43e6bdb3083691d08035" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra.html#slides_0227611528fc43e6bdb3083691d08035" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra.html</guid><pubDate>Fri, 23 Jun 2017 15:00:00 GMT</pubDate></item><item><title>Visita de los alumnos de 2º de la ESO del IES Los Navalmorales</title><link>http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro-segundo-eso.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Una de las actividades con motivo de la celebración del Día del Libro, ha sido la visita de 75 niños/niñas de 1º de la ESO.&lt;/p&gt;
@@ -128,44 +128,44 @@ pinturas de José Félix. Un placer para todos los asistentes. Desde el Taller d
 Gracias a las profesoras por su colaboración, sin su ayuda no habría sido posible.&lt;/p&gt;
 &lt;p&gt;La Bibliotecaria&lt;/p&gt;
 
-&lt;div id="slides_30b22c520362418f95128d2ce4545e79" class="carousel slide"&gt;
+&lt;div id="slides_c5583fb42caa42309ef9f133614d399f" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_30b22c520362418f95128d2ce4545e79" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_30b22c520362418f95128d2ce4545e79" data-slide-to="1"&gt;
+            &lt;li data-target="#slides_c5583fb42caa42309ef9f133614d399f" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_c5583fb42caa42309ef9f133614d399f" data-slide-to="1"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/visita-escolar-dia-del-libro/visita-escolar-dia-del-libro1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/visita-escolar-dia-del-libro/visita-escolar-dia-del-libro2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro.html#slides_30b22c520362418f95128d2ce4545e79" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro.html#slides_30b22c520362418f95128d2ce4545e79" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro.html#slides_c5583fb42caa42309ef9f133614d399f" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro.html#slides_c5583fb42caa42309ef9f133614d399f" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Día del Libro</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/05/visita-escolar-dia-del-libro.html</guid><pubDate>Sun, 14 May 2017 09:00:00 GMT</pubDate></item><item><title>Cuentacuentos Félix Albo</title><link>http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Este año los alumnos de primaria del Colegio Publico San Francisco, en su visita a la biblioteca con motivo de la celebración del Día del Libro, han disfrutado con los cuentos que Felix Albo les ha contado. Han asistido 155 niños/niñas acompañados de sus profesores/profesoras. Ha sido un placer escuchar a Felix Albo.&lt;/p&gt;
 
-&lt;div id="slides_8342db2d270d404795d271491ada2038" class="carousel slide"&gt;
+&lt;div id="slides_5a853724b7d84b13bcd9d5e34fbac133" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_8342db2d270d404795d271491ada2038" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_8342db2d270d404795d271491ada2038" data-slide-to="1"&gt;
+            &lt;li data-target="#slides_5a853724b7d84b13bcd9d5e34fbac133" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_5a853724b7d84b13bcd9d5e34fbac133" data-slide-to="1"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/cuentacuentos-felix-albo/cuenta-cuentos-felix-albo1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/cuentacuentos-felix-albo/cuenta-cuentos-felix-albo2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo.html#slides_8342db2d270d404795d271491ada2038" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo.html#slides_8342db2d270d404795d271491ada2038" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo.html#slides_5a853724b7d84b13bcd9d5e34fbac133" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo.html#slides_5a853724b7d84b13bcd9d5e34fbac133" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Cuentacuentos</category><category>Día del Libro</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo.html</guid><pubDate>Sun, 14 May 2017 08:00:00 GMT</pubDate></item><item><title>Encuentro con la escritora Carmen Posadas</title><link>http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El 31 de marzo hemos asistido en Talavera de la Reina, en la bonita Biblioteca Niveiro Alfar El Carmen, al encuentro con la escritora: Carmen Posadas.&lt;/p&gt;
 &lt;p&gt;Carmen Posadas nos presentó su último libro La Hija de Cayetana.&lt;/p&gt;
 
-&lt;div id="slides_cbfc621dcc5740d6adc4cea7afcc336d" class="carousel slide"&gt;
+&lt;div id="slides_046f6e1861564b899574a3073acc7e4e" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_cbfc621dcc5740d6adc4cea7afcc336d" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_cbfc621dcc5740d6adc4cea7afcc336d" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_cbfc621dcc5740d6adc4cea7afcc336d" data-slide-to="2"&gt;
+            &lt;li data-target="#slides_046f6e1861564b899574a3073acc7e4e" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_046f6e1861564b899574a3073acc7e4e" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_046f6e1861564b899574a3073acc7e4e" data-slide-to="2"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/encuentro-Carmen-Posadas/encuentro-Carmen-Posadas1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/encuentro-Carmen-Posadas/encuentro-Carmen-Posadas2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/encuentro-Carmen-Posadas/encuentro-Carmen-Posadas3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas.html#slides_cbfc621dcc5740d6adc4cea7afcc336d" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas.html#slides_cbfc621dcc5740d6adc4cea7afcc336d" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas.html#slides_046f6e1861564b899574a3073acc7e4e" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas.html#slides_046f6e1861564b899574a3073acc7e4e" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><category>Visitas</category><guid>http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas.html</guid><pubDate>Mon, 03 Apr 2017 17:30:00 GMT</pubDate></item></channel></rss>
