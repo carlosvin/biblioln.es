@@ -6,7 +6,7 @@
 .. type: micro
 .. previewimage: /2018/salir-de-un-hopper.png
 
-El próximo día 13 de Marzo a las 18:00 en `La Biblioteca <http://biblioln.es/stories/la-biblioteca-de-los-navalmorales.html#contacto>`_ un encuentro con la escritora **María Antonia Ricas Peces** para hablar de su libro *Salir de un Hopper*.
+El próximo día 13 de Marzo a las 18:00 en `La Biblioteca <http://biblioln.es/stories/la-biblioteca-de-los-navalmorales.html#contacto>`_ encuentro con la escritora **María Antonia Ricas Peces** para hablar de su libro *Salir de un Hopper*.
 
 .. thumbnail:: /2018/salir-de-un-hopper.png
     :height: 600px
@@ -15,4 +15,4 @@ El próximo día 13 de Marzo a las 18:00 en `La Biblioteca <http://biblioln.es/s
 
     13 de Marzo a las 18:00
     
-    Encuentro con la María antonia Ricas
+    Encuentro con María antonia Ricas
