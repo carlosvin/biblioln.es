@@ -15,4 +15,4 @@ El próximo día 13 de Marzo a las 18:00 en `La Biblioteca <http://biblioln.es/s
 
     13 de Marzo a las 18:00
     
-    Encuentro con María antonia Ricas
+    Encuentro con María Antonia Ricas
