@@ -6916,13 +6916,15 @@ legend {
 .figure > * > img {
   padding: 5px;
 }
+.inline > * > img {
+  padding: 5px;
+}
 .inline {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   flex-flow: wrap;
   justify-content: center;
-  margin: 5px;
 }
 
 /*

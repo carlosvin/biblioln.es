@@ -1,38 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Libros)</title><link>http://biblioln.es/</link><description></description><atom:link rel="self" href="http://biblioln.es/categories/libros.xml" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Sat, 10 Mar 2018 18:47:04 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Encuentro con la escritora Maria Antonia Ricas Peces</title><link>http://biblioln.es/posts/2018/02/encuentro-salir-de-un-hopper.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo día 13 de Marzo a las 18:00 en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales.html#contacto"&gt;La Biblioteca&lt;/a&gt; encuentro con la escritora &lt;strong&gt;María Antonia Ricas Peces&lt;/strong&gt; para hablar de su libro &lt;em&gt;Salir de un Hopper&lt;/em&gt;.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Libros)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/libros.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 26 Mar 2018 21:15:13 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Tarde de Poesía en la Biblioteca</title><link>http://biblioln.es/posts/2018/03/tarde-de-poesia.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.png"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Ha sido una tarde muy bonita. María Antonia Ricas nos ha leído sus
+poemas, que hacen referencia a los cuadros de Hopper y nos dan la
+visión de estos a través de su poesía. Su libro: &lt;strong&gt;Salir de un Hopper&lt;/strong&gt;
+nos ha servido para disfrutar de su poesía. Con su inspiración nos
+ha transmitido una visión de estas pinturas.&lt;/p&gt;
+&lt;p&gt;Muchas gracias a la poetisa María Antonia Ricas y al editor Joan
+Gonper (&lt;a class="reference external" href="http://www.editorialcelya.com/"&gt;editorial Celya&lt;/a&gt;).&lt;/p&gt;
+&lt;div class="inline docutils container"&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.jpg"&gt;&lt;img alt="/galleries/2018/salir-de-un-hopper/1.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/salir-de-un-hopper/2.jpg"&gt;&lt;img alt="/galleries/2018/salir-de-un-hopper/2.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/salir-de-un-hopper/2.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;div class="inline docutils container"&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.jpg"&gt;&lt;img alt="/galleries/2018/salir-de-un-hopper/3.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/salir-de-un-hopper/4.jpg"&gt;&lt;img alt="/galleries/2018/salir-de-un-hopper/4.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/salir-de-un-hopper/4.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><category>Poesía</category><guid>http://biblioln.es/posts/2018/03/tarde-de-poesia.html</guid><pubDate>Mon, 26 Mar 2018 20:00:00 GMT</pubDate></item><item><title>Encuentro con la escritora Maria Antonia Ricas Peces</title><link>http://biblioln.es/posts/2018/02/encuentro-salir-de-un-hopper.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo día 13 de Marzo a las 18:00 en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales.html#contacto"&gt;La Biblioteca&lt;/a&gt; encuentro con la escritora &lt;strong&gt;María Antonia Ricas Peces&lt;/strong&gt; para hablar de su libro &lt;em&gt;Salir de un Hopper&lt;/em&gt;.&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2018/salir-de-un-hopper.png"&gt;&lt;img alt="/2018/salir-de-un-hopper.thumbnail.png" src="http://biblioln.es/2018/salir-de-un-hopper.thumbnail.png" style="height: 600px;"&gt;&lt;/a&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.png"&gt;&lt;img alt="/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.thumbnail.png" src="http://biblioln.es/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.thumbnail.png" style="height: 600px;"&gt;&lt;/a&gt;
 &lt;p class="caption"&gt;13 de Marzo a las 18:00&lt;/p&gt;
 &lt;div class="legend"&gt;
 Encuentro con María Antonia Ricas&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><guid>http://biblioln.es/posts/2018/02/encuentro-salir-de-un-hopper.html</guid><pubDate>Wed, 07 Mar 2018 17:00:00 GMT</pubDate></item><item><title>Novedades de Libros y Películas para este Verano</title><link>http://biblioln.es/posts/2017/07/novedades-verano.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div id="slides_faae915b280e465e83b6f02d59b74639" class="carousel slide"&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><guid>http://biblioln.es/posts/2018/02/encuentro-salir-de-un-hopper.html</guid><pubDate>Wed, 07 Mar 2018 17:00:00 GMT</pubDate></item><item><title>Novedades de Libros y Películas para este Verano</title><link>http://biblioln.es/posts/2017/07/novedades-verano.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div id="slides_a7d0cc8d6fd944ee9cd8494479c0c5b6" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_faae915b280e465e83b6f02d59b74639" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_faae915b280e465e83b6f02d59b74639" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_faae915b280e465e83b6f02d59b74639" data-slide-to="2"&gt;
+            &lt;li data-target="#slides_a7d0cc8d6fd944ee9cd8494479c0c5b6" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_a7d0cc8d6fd944ee9cd8494479c0c5b6" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_a7d0cc8d6fd944ee9cd8494479c0c5b6" data-slide-to="2"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/07/novedades-verano.html#slides_faae915b280e465e83b6f02d59b74639" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/07/novedades-verano.html#slides_faae915b280e465e83b6f02d59b74639" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/07/novedades-verano.html#slides_a7d0cc8d6fd944ee9cd8494479c0c5b6" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/07/novedades-verano.html#slides_a7d0cc8d6fd944ee9cd8494479c0c5b6" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;</description><category>Biblioteca</category><category>Libros</category><category>Novedades</category><category>Películas</category><guid>http://biblioln.es/posts/2017/07/novedades-verano.html</guid><pubDate>Mon, 03 Jul 2017 08:00:00 GMT</pubDate></item><item><title>Libros del Premio María Moliner</title><link>http://biblioln.es/posts/2016/12/libros-premio-maria-moliner.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Ya han llegado a la biblioteca los libros del premio María Moliner. Son 210 libros, la mayoría son infantiles y juveniles, unos 50 son de adultos. Los cuentos son muy, muy bonitos, os están esperando en la Biblioteca.&lt;/p&gt;
 
-&lt;div id="slides_0dc65aced99b4864a98355d73e4d6dee" class="carousel slide"&gt;
+&lt;div id="slides_4b495a311d004c3ba72bded1474e6379" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_0dc65aced99b4864a98355d73e4d6dee" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_0dc65aced99b4864a98355d73e4d6dee" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_0dc65aced99b4864a98355d73e4d6dee" data-slide-to="2"&gt;
+            &lt;li data-target="#slides_4b495a311d004c3ba72bded1474e6379" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_4b495a311d004c3ba72bded1474e6379" data-slide-to="1"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_4b495a311d004c3ba72bded1474e6379" data-slide-to="2"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2016/libros-premio-maria-moliner/libros-premio-maria-moliner.1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/libros-premio-maria-moliner/libros-premio-maria-moliner.2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2016/libros-premio-maria-moliner/MMoliner-2016.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/12/libros-premio-maria-moliner.html#slides_0dc65aced99b4864a98355d73e4d6dee" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/12/libros-premio-maria-moliner.html#slides_0dc65aced99b4864a98355d73e4d6dee" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/12/libros-premio-maria-moliner.html#slides_4b495a311d004c3ba72bded1474e6379" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/12/libros-premio-maria-moliner.html#slides_4b495a311d004c3ba72bded1474e6379" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/galleries/2016/libros-premio-maria-moliner/index.html"&gt;Ver fotos&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Libros</category><category>Narrativa</category><category>Novedades</category><category>Premios</category><guid>http://biblioln.es/posts/2016/12/libros-premio-maria-moliner.html</guid><pubDate>Fri, 23 Dec 2016 10:40:00 GMT</pubDate></item><item><title>Novedades Otoño 2015</title><link>http://biblioln.es/posts/2015/10/novedades-otonio-2015.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="book-figure"&gt;
@@ -349,27 +363,4 @@ Encuentro con María Antonia Ricas&lt;/div&gt;
 &lt;p&gt;EL LEGADO&lt;/p&gt;
 &lt;p style="text-align: justify;"&gt;Un golpe del destino hará que Brigitte Nicholson abandone su tesis doctoral y se centre en la investigación sobre sus ancestros, donde descubrirá la apasionante historia de Wachiwi, una princesa india que cruzó el Atlántico por amor en pleno siglo XVIII. En menos de una semana, Brigitte Nicholson se queda sin novio, sin trabajo&lt;span id="sinopsis" class="expand-content expand-hide"&gt; y sin ganas de seguir con el libro que está escribiendo...&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Esta Web</category><category>Libros</category><guid>http://biblioln.es/posts/2014/11/novedades-2.html</guid><pubDate>Tue, 25 Nov 2014 16:37:29 GMT</pubDate></item><item><title>Día del Libro 2014</title><link>http://biblioln.es/posts/2014/04/dia-del-libro-2014.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;A partir del&lt;a title="23 de abril día del Libro" href="http://es.wikipedia.org/wiki/D%C3%ADa_Internacional_del_Libro" target="_blank"&gt; 23 de Abril&lt;/a&gt; realizaremos una serie de actos con motivo de la celebración del &lt;a title="Día del Libro" href="http://es.wikipedia.org/wiki/D%C3%ADa_Internacional_del_Libro" target="_blank"&gt;Día del Libro&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;h4&gt;23 de Abril&lt;/h4&gt;
-&lt;p&gt;Durante la mañana se desarrollaran distintas estrategias de animación a la lectura con los alumnos de 1º de la ESO del &lt;a title="I.E.S. Los Navalmorales" href="http://www.ieslosnavalmorales.net/" target="_blank"&gt;IES de los Navalmorales&lt;/a&gt;.&lt;/p&gt;
-&lt;ul&gt;
-
-    &lt;li&gt;A las 17:00 La Hora del Cuento, para niños de todas las edades.&lt;/li&gt;
-
-    &lt;li&gt;A partir de las 18:00 jornada de puertas abiertas, donde están todos invitados a conocer &lt;a title="La Biblioteca de Los Navalmorales" href="http://biblioln.es/la-biblioteca-de-los-navalmorales/" target="_blank"&gt;La Biblioteca de Los Navalmorales&lt;/a&gt;.&lt;/li&gt;
-
-&lt;/ul&gt;
-
-&lt;h4&gt;25 de Abril (&lt;a title="El Cretense" href="http://biblioln.es/2014/04/el-cretense/" target="_blank"&gt;+info&lt;/a&gt;)&lt;/h4&gt;
-
-&lt;p&gt;Nos visitará la escritora  &lt;a title="María Antoni Ricas Peces" href="http://www.mariantoniaricas.com/inicio.php?centro=paginas/biografia" target="_blank"&gt;María Antonia Ricas Peces&lt;/a&gt;, que vendrá a presentarnos su libro &lt;a title="El Cretense" href="http://biblioln.es/2014/04/el-cretense/" target="_blank"&gt;"El Cretense"&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://biblioln.es/wp-content/uploads/INVITACI%C3%93N-EL-CRETENSE.-Los-Navalmorales.-JPG.jpg"&gt;&lt;img class="aligncenter size-medium wp-image-919" alt="INVITACIÓN EL CRETENSE. Los Navalmorales" src="http://biblioln.es/wp-content/uploads/INVITACI%C3%93N-EL-CRETENSE.-Los-Navalmorales.-JPG-300x210.jpg" width="300" height="210"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h4&gt;28 de Abril&lt;/h4&gt;
-
-&lt;p&gt;Comienzan las visitas escolares de los niños del &lt;a title="Colegio Público San Francisco" href="http://edu.jccm.es/cp/sanfrancisco/" target="_blank"&gt;Colegio Público San Francisco&lt;/a&gt; con los que realizaremos distintas actividades de animación a la lectura.&lt;/p&gt;
-&lt;p&gt;Los cursos que nos van a visitar a lo largo de esta semana son: Infantil, 1º, 2º, 5º y 6º de primaria.&lt;/p&gt;
-&lt;h4&gt;7 de Mayo &lt;small&gt;(18:30)&lt;/small&gt;&lt;/h4&gt;
-
-&lt;p&gt;Tendremos la visita de la escritora y cuentacuentos &lt;a title="Margarita del Mazo" href="http://margaritadelmazo.blogspot.com.es/" target="_blank"&gt;Margarita del Mazo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.oqo.es/editora/es/content/camu%C3%B1"&gt;&lt;img alt="Camuñas  - Margarita del Mazo &amp;amp; Charlotte Pardi" src="http://www.oqo.es/editora/sites/default/files/imagecache/medium/libros/110_CAMUNIASesp.jpg" width="350" height="339"&gt;&lt;/a&gt; Camuñas - Margarita del Mazo &amp;amp; Charlotte Pardi&lt;/p&gt;
-&lt;p&gt;Estáis todos/as invitados/as, los cuentos no tienen edad.&lt;/p&gt;&lt;/div&gt;</description><category>Actividades</category><category>Cuentacuentos</category><category>Día del Libro</category><category>Eventos</category><category>La Hora del Cuento</category><category>Libros</category><guid>http://biblioln.es/posts/2014/04/dia-del-libro-2014.html</guid><pubDate>Mon, 14 Apr 2014 18:14:39 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Esta Web</category><category>Libros</category><guid>http://biblioln.es/posts/2014/11/novedades-2.html</guid><pubDate>Tue, 25 Nov 2014 16:37:29 GMT</pubDate></item></channel></rss>
