@@ -35,11 +35,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/2018/index.html</loc>
-  <lastmod>2018-03-26T21:15:00Z</lastmod>
+  <lastmod>2018-03-26T21:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2018-03-26T20:14:00Z</lastmod>
+  <lastmod>2018-03-26T21:30:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/actividades.html</loc>
@@ -171,7 +171,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/index.html</loc>
-  <lastmod>2018-03-26T20:19:00Z</lastmod>
+  <lastmod>2018-03-26T21:30:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/informatica.html</loc>
@@ -187,7 +187,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/libros.html</loc>
-  <lastmod>2018-03-26T21:15:00Z</lastmod>
+  <lastmod>2018-03-26T21:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/literatura.html</loc>
@@ -207,7 +207,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/novedades.html</loc>
-  <lastmod>2018-03-26T20:15:00Z</lastmod>
+  <lastmod>2018-03-26T21:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/novedates.html</loc>
@@ -395,7 +395,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2018/index.html</loc>
-  <lastmod>2018-03-26T20:49:00Z</lastmod>
+  <lastmod>2018-03-26T21:30:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/galleries/2018/novedades-primavera/index.html</loc>
+  <lastmod>2018-03-26T21:30:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2018/salir-de-un-hopper/index.html</loc>
@@ -467,7 +471,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-20.html</loc>
-  <lastmod>2018-03-26T20:15:00Z</lastmod>
+  <lastmod>2018-03-26T21:30:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-3.html</loc>
@@ -499,7 +503,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index.html</loc>
-  <lastmod>2018-03-26T21:15:00Z</lastmod>
+  <lastmod>2018-03-26T21:33:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2011/07/comenzamos-a-andar.html</loc>
@@ -1302,8 +1306,12 @@
   <lastmod>2018-03-26T21:14:00Z</lastmod>
  </url>
  <url>
+  <loc>http://biblioln.es/posts/2018/03/novedades-primavera.html</loc>
+  <lastmod>2018-03-26T21:33:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://biblioln.es/posts/2018/03/tarde-de-poesia.html</loc>
-  <lastmod>2018-03-26T21:15:00Z</lastmod>
+  <lastmod>2018-03-26T21:30:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/stories/2011/07/44.html</loc>
