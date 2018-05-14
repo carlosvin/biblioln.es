@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Taller de Literatura)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/taller-de-literatura.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Fri, 11 May 2018 16:39:09 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Encuentro con el Autor José Alberto Blanco Hernández</title><link>http://biblioln.es/posts/2018/01/encuentro-autor-jose-alberto-blanco-hernandez.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="https://imagessl0.casadellibro.com/a/l/t0/70/9788416005970.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;&lt;a class="reference external" href="http://ceip-sanfranciscolosnavalmorales.centros.castillalamancha.es/"&gt;El Colegio Público San Francisco&lt;/a&gt; y &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales.html"&gt;La Bilbioteca Pública de Los Navalmorales&lt;/a&gt;, hemos coordinado la siguiente actividad:&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Taller de Literatura)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/taller-de-literatura.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 14 May 2018 19:24:10 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Encuentro con el Autor José Alberto Blanco Hernández</title><link>http://biblioln.es/posts/2018/01/encuentro-autor-jose-alberto-blanco-hernandez/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="https://imagessl0.casadellibro.com/a/l/t0/70/9788416005970.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;&lt;a class="reference external" href="http://ceip-sanfranciscolosnavalmorales.centros.castillalamancha.es/"&gt;El Colegio Público San Francisco&lt;/a&gt; y &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales.html"&gt;La Bilbioteca Pública de Los Navalmorales&lt;/a&gt;, hemos coordinado la siguiente actividad:&lt;/p&gt;
 &lt;p&gt;Con un lote de libros de la biblioteca los dos cursos de 6º de primaria han leído: Sofía y el Misterio del Águila Bicéfala (autor José Alberto Blanco Hernández).&lt;/p&gt;
 &lt;p&gt;El día 26 vino el autor al colegio. Los alumnos han tenido un encuentro con el. Tenían preparada una entrevista y habían adornado la sala del Colegio con  unos murales con los dibujos de los personajes de la historia y los distintos monumentos de Toledo que aparecen en este libro.&lt;/p&gt;
 &lt;p&gt;Los alumnos han debatido con el autor sobre las aventuras de Sofía y Miguel de las que tanto han disfrutado.&lt;/p&gt;
@@ -7,21 +7,61 @@
 &lt;p&gt;Próximante harermos una ruta por Toledo, recorrermos las calles y los lugares donde sucede esta novela, guiados por su autor: José Alberto Blanco.&lt;/p&gt;
 &lt;p&gt;Dar las gracias a los profesores del Colegio Publico San Francisco por lo que han trabajado en esta actividad.&lt;/p&gt;
 &lt;p&gt;A continuación algunas fotografías:&lt;/p&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/2.jpg"&gt;&lt;img alt="/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/2.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/2.thumbnail.jpg" style="height: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/3.jpg"&gt;&lt;img alt="/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/3.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/3.thumbnail.jpg" style="height: 300px;"&gt;&lt;/a&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/5.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/5.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/4.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/4.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/2.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/2.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/3.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/3.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/4.jpg"&gt;&lt;img alt="/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/4.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/4.thumbnail.jpg" style="height: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/5.jpg"&gt;&lt;img alt="/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/5.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/5.thumbnail.jpg" style="height: 300px;"&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Club de Lectura</category><category>Conferencias</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2018/01/encuentro-autor-jose-alberto-blanco-hernandez.html</guid><pubDate>Thu, 01 Feb 2018 20:30:00 GMT</pubDate></item><item><title>Conferencia sobre ¨El Extranjero¨ - Albert Camus</title><link>http://biblioln.es/posts/2017/12/conferencia-el-extranjero-albert-camus.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El día 1 de diciembre Javier Bermejo profesor de lengua y literatura, ha impartido en la biblioteca de Los Navalmorales una conferencia sobre el libro: &lt;em&gt;El extranjero&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Actividades</category><category>Club de Lectura</category><category>Conferencias</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2018/01/encuentro-autor-jose-alberto-blanco-hernandez/</guid><pubDate>Thu, 01 Feb 2018 20:30:00 GMT</pubDate></item><item><title>Conferencia sobre ¨El Extranjero¨ - Albert Camus</title><link>http://biblioln.es/posts/2017/12/conferencia-el-extranjero-albert-camus/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El día 1 de diciembre Javier Bermejo profesor de lengua y literatura, ha impartido en la biblioteca de Los Navalmorales una conferencia sobre el libro: &lt;em&gt;El extranjero&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Previamente habíamos leído este libro en El Taller de Lectura. Desde este grupo de lectura damos las gracias a Javier por todo lo que nos ha aportado en su conferencia sobre los personajes y  el argumento. Ha ido desmenuzando esta novela de forma que hemos aclarado las dudas y nos dan ganas de volverla a leer.&lt;/p&gt;
 &lt;p&gt;La presentación de este acto ha sido realizada por su hermano Jesús Bermejo profesor de lengua y literatura, siempre dispuesto a colaborar con este grupo de lectura.&lt;/p&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.1.jpg"&gt;&lt;img alt="/galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.1.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.1.thumbnail.jpg" style="height: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.2.jpg"&gt;&lt;img alt="/galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.2.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.2.thumbnail.jpg" style="height: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.png"&gt;&lt;img alt="/galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.thumbnail.png" class="align-center" src="http://biblioln.es/galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.thumbnail.png" style="height: 400px;"&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Club de Lectura</category><category>Conferencias</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/12/conferencia-el-extranjero-albert-camus.html</guid><pubDate>Tue, 05 Dec 2017 20:30:00 GMT</pubDate></item><item><title>Conferencia sobre el Romanticismo (Larra)</title><link>http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Conferencia sobre el Romanticismo, impartida por &lt;strong&gt;Antonio Arroyo Almaraz&lt;/strong&gt;, profesor de literatura de la facultad de ciencias de la información de Universidad complutense&lt;/p&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.2.jpg" class="thumbnail image-reference" title="Conferencia el extranjero 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.2.thumbnail.jpg" alt="Conferencia el extranjero 2"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.1.jpg" class="thumbnail image-reference" title="Conferencia el extranjero 1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.1.thumbnail.jpg" alt="Conferencia el extranjero 1"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.png" class="thumbnail image-reference" title="Conferencia el extranjero"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.thumbnail.png" alt="Conferencia el extranjero"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Actividades</category><category>Club de Lectura</category><category>Conferencias</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/12/conferencia-el-extranjero-albert-camus/</guid><pubDate>Tue, 05 Dec 2017 20:30:00 GMT</pubDate></item><item><title>Conferencia sobre el Romanticismo (Larra)</title><link>http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Conferencia sobre el Romanticismo, impartida por &lt;strong&gt;Antonio Arroyo Almaraz&lt;/strong&gt;, profesor de literatura de la facultad de ciencias de la información de Universidad complutense&lt;/p&gt;
 &lt;p&gt;Tendrá lugar el día &lt;strong&gt;26 de Mayo&lt;/strong&gt; a las &lt;strong&gt;19:30&lt;/strong&gt; en la Biblioteca.&lt;/p&gt;
 &lt;div class="figure"&gt;
 &lt;a class="reference external image-reference" href="http://biblioln.es/2017/conferencia-romanticismo-larra.png"&gt;&lt;img alt="/2017/conferencia-romanticismo-larra.thumbnail.png" src="http://biblioln.es/2017/conferencia-romanticismo-larra.thumbnail.png"&gt;&lt;/a&gt;
@@ -31,78 +71,59 @@
 &lt;h2&gt;Crónica&lt;/h2&gt;
 &lt;p&gt;Después de leer en el Taller de Literatura a Mariano José de Larra, contar con Antonio Arroyo Almaraz (profesor de literatura de la facultad de ciencias de la información de la UCM) ha sido un placer. Estupenda conferencia con la que hemos conocido más sobre este movimiento literario y uno de los grandes autores de la época.&lt;/p&gt;
 &lt;p&gt;Con este acto hemos cerrado este curso del Taller de Literatura. El mes de octubre comenzaremos el nuevo curso: 2017-2018.&lt;/p&gt;
-
-&lt;div id="slides_a968808ad7ec446c9378e9d7811ced93" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_a968808ad7ec446c9378e9d7811ced93" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_a968808ad7ec446c9378e9d7811ced93" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_a968808ad7ec446c9378e9d7811ced93" data-slide-to="2"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-larra/la1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-larra/la2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-larra/la3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra.html#slides_a968808ad7ec446c9378e9d7811ced93" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra.html#slides_a968808ad7ec446c9378e9d7811ced93" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 16)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. slides::
+  /galleries/2017/conferencia-larra/la1.jpg
+  /galleries/2017/conferencia-larra/la2.jpg
+  /galleries/2017/conferencia-larra/la3.jpg
+&lt;/pre&gt;
 &lt;/div&gt;
-
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra.html</guid><pubDate>Fri, 23 Jun 2017 15:00:00 GMT</pubDate></item><item><title>XIX Encuentro de Clubes de Lectura de La Provincia de Toledo</title><link>http://biblioln.es/posts/2017/06/xix-encuentro-clubes-lectura-toledo.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Este año nos hemos reunido en Dosbarrios, 600 lector@s, con la escritora &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Dolores_Redondo"&gt;Dolores Redondo&lt;/a&gt;. Previamente hemos leído su libro: &lt;strong&gt;Todo esto te daré&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/05/conferencia-romanticismo-larra/</guid><pubDate>Fri, 23 Jun 2017 15:00:00 GMT</pubDate></item><item><title>XIX Encuentro de Clubes de Lectura de La Provincia de Toledo</title><link>http://biblioln.es/posts/2017/06/xix-encuentro-clubes-lectura-toledo/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Este año nos hemos reunido en Dosbarrios, 600 lector@s, con la escritora &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Dolores_Redondo"&gt;Dolores Redondo&lt;/a&gt;. Previamente hemos leído su libro: &lt;strong&gt;Todo esto te daré&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Ha sido un placer escuchar a la autora de esa historia con la que hemos debatido en nuestros clubes de lectura. Nos ha servido para conocer más su obra.&lt;/p&gt;
 &lt;p&gt;Desde el Taller de Lectura de Los Navalmorales queremos dar las gracias a la bibliotecaria Rosario y al pueblo de Dosbarrios por lo bien que nos han acogido.&lt;/p&gt;
-
-&lt;div id="slides_99a79bb914944a75a7f474c8616de159" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_99a79bb914944a75a7f474c8616de159" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_99a79bb914944a75a7f474c8616de159" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_99a79bb914944a75a7f474c8616de159" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_99a79bb914944a75a7f474c8616de159" data-slide-to="3"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/xix-encuentro-clubes-lectura-toledo/xix-encuentro-clubes-lectura-toledo1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/xix-encuentro-clubes-lectura-toledo/xix-encuentro-clubes-lectura-toledo2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/xix-encuentro-clubes-lectura-toledo/xix-encuentro-clubes-lectura-toledo3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/xix-encuentro-clubes-lectura-toledo/xix-encuentro-clubes-lectura-toledo4.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/06/xix-encuentro-clubes-lectura-toledo.html#slides_99a79bb914944a75a7f474c8616de159" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/06/xix-encuentro-clubes-lectura-toledo.html#slides_99a79bb914944a75a7f474c8616de159" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2017/06/xix-encuentro-clubes-lectura-toledo.html</guid><pubDate>Mon, 19 Jun 2017 15:00:00 GMT</pubDate></item><item><title>Encuentro con la escritora Carmen Posadas</title><link>http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El 31 de marzo hemos asistido en Talavera de la Reina, en la bonita Biblioteca Niveiro Alfar El Carmen, al encuentro con la escritora: Carmen Posadas.&lt;/p&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 7)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. slides::
+  /galleries/2017/xix-encuentro-clubes-lectura-toledo/xix-encuentro-clubes-lectura-toledo1.jpg
+  /galleries/2017/xix-encuentro-clubes-lectura-toledo/xix-encuentro-clubes-lectura-toledo2.jpg
+  /galleries/2017/xix-encuentro-clubes-lectura-toledo/xix-encuentro-clubes-lectura-toledo3.jpg
+  /galleries/2017/xix-encuentro-clubes-lectura-toledo/xix-encuentro-clubes-lectura-toledo4.jpg
+&lt;/pre&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2017/06/xix-encuentro-clubes-lectura-toledo/</guid><pubDate>Mon, 19 Jun 2017 15:00:00 GMT</pubDate></item><item><title>Encuentro con la escritora Carmen Posadas</title><link>http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El 31 de marzo hemos asistido en Talavera de la Reina, en la bonita Biblioteca Niveiro Alfar El Carmen, al encuentro con la escritora: Carmen Posadas.&lt;/p&gt;
 &lt;p&gt;Carmen Posadas nos presentó su último libro La Hija de Cayetana.&lt;/p&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 5)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. slides::
 
-&lt;div id="slides_3a8a13f0e86e436582d572fe068441ad" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_3a8a13f0e86e436582d572fe068441ad" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_3a8a13f0e86e436582d572fe068441ad" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_3a8a13f0e86e436582d572fe068441ad" data-slide-to="2"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/encuentro-Carmen-Posadas/encuentro-Carmen-Posadas1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/encuentro-Carmen-Posadas/encuentro-Carmen-Posadas2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/encuentro-Carmen-Posadas/encuentro-Carmen-Posadas3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas.html#slides_3a8a13f0e86e436582d572fe068441ad" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas.html#slides_3a8a13f0e86e436582d572fe068441ad" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><category>Visitas</category><guid>http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas.html</guid><pubDate>Mon, 03 Apr 2017 17:30:00 GMT</pubDate></item><item><title>El Madrid de Cervantes</title><link>http://biblioln.es/posts/2017/04/el-madrid-de-cervantes.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Ruta: El Madrid de Cervantes.
+  /2017/encuentro-Carmen-Posadas/encuentro-Carmen-Posadas1.jpg
+  /2017/encuentro-Carmen-Posadas/encuentro-Carmen-Posadas2.jpg
+  /2017/encuentro-Carmen-Posadas/encuentro-Carmen-Posadas3.jpg
+&lt;/pre&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><category>Visitas</category><guid>http://biblioln.es/posts/2017/04/encuentro-con-carmen-posadas/</guid><pubDate>Mon, 03 Apr 2017 17:30:00 GMT</pubDate></item><item><title>El Madrid de Cervantes</title><link>http://biblioln.es/posts/2017/04/el-madrid-de-cervantes/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Ruta: El Madrid de Cervantes.
 Guía: Jesús Bermejo Bermejo.&lt;/p&gt;
 &lt;p&gt;Recorrer el Madrid de Cervantes escuchando a Jesús, ha sido muy interesante porque hemos aprendido más cosas sobre la vida de Cervantes en Madrid, retrocediendo a el Madrid de la época en que vivió Cervantes.&lt;/p&gt;
 &lt;p&gt;Agradecemos  a Jesús su trabajo y esfuerzo para que pudiéramos hacer esta ruta.&lt;/p&gt;
 &lt;p&gt;Por la tarde fuimos al teatro, vimos: La Cena de Los Idiotas.&lt;/p&gt;
 &lt;p&gt;Este Domingo ha sido un bonito día para recordar.&lt;/p&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 12)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. slides::
 
-&lt;div id="slides_9aa652ed7e604cb4b9ab87e09d8a7afc" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_9aa652ed7e604cb4b9ab87e09d8a7afc" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_9aa652ed7e604cb4b9ab87e09d8a7afc" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_9aa652ed7e604cb4b9ab87e09d8a7afc" data-slide-to="2"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/el-Madrid-de-Cervantes/el-Madrid-de-Cervantes1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/el-Madrid-de-Cervantes/el-Madrid-de-Cervantes2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/el-Madrid-de-Cervantes/el-Madrid-de-Cervantes3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/04/el-madrid-de-cervantes.html#slides_9aa652ed7e604cb4b9ab87e09d8a7afc" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/04/el-madrid-de-cervantes.html#slides_9aa652ed7e604cb4b9ab87e09d8a7afc" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><category>Visitas</category><guid>http://biblioln.es/posts/2017/04/el-madrid-de-cervantes.html</guid><pubDate>Mon, 03 Apr 2017 17:00:00 GMT</pubDate></item><item><title>Encuentro con el Autor Fernando Lallana</title><link>http://biblioln.es/posts/2017/04/encuentro-fernando-lallana.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/2017/encuentro.con.Fernando.Lallana.png"&gt;&lt;/figure&gt; &lt;div&gt;&lt;div class="section" id="informacion-del-evento"&gt;
+  /2017/el-Madrid-de-Cervantes/el-Madrid-de-Cervantes1.jpg
+  /2017/el-Madrid-de-Cervantes/el-Madrid-de-Cervantes2.jpg
+  /2017/el-Madrid-de-Cervantes/el-Madrid-de-Cervantes3.jpg
+
+&lt;/pre&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><category>Visitas</category><guid>http://biblioln.es/posts/2017/04/el-madrid-de-cervantes/</guid><pubDate>Mon, 03 Apr 2017 17:00:00 GMT</pubDate></item><item><title>Encuentro con el Autor Fernando Lallana</title><link>http://biblioln.es/posts/2017/04/encuentro-fernando-lallana/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/2017/encuentro.con.Fernando.Lallana.png"&gt;&lt;/figure&gt; &lt;div&gt;&lt;div class="section" id="informacion-del-evento"&gt;
 &lt;h2&gt;Información del Evento&lt;/h2&gt;
 &lt;p&gt;Tras la lectura del Libro &lt;a class="reference external" href="http://www.editorialcelya.com/si-te-dicen-loco"&gt;Si te dicen loco&lt;/a&gt; de &lt;a class="reference external" href="https://twitter.com/flallanam"&gt;Fernando Lallana&lt;/a&gt; en el Taller de Literatura, realizaremos un encuentro con el autor.&lt;/p&gt;
 &lt;div class="figure align-center" style="width: 400px"&gt;
@@ -116,97 +137,76 @@ Guía: Jesús Bermejo Bermejo.&lt;/p&gt;
 &lt;h2&gt;Crónica del Evento&lt;/h2&gt;
 &lt;p&gt;La pasada tarde del 28 de Marzo, en La Biblioteca de Los Navalmorales, hemos contado con el escritor Fernando Lallana con el que hemos podido hablar sobre los personajes y otros datos de su libro: &lt;a class="reference external" href="http://www.editorialcelya.com/si-te-dicen-loco"&gt;Si te dicen loco&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Muchas gracias Fernando.&lt;/p&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 26)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. slides::
 
-&lt;div id="slides_0c98f270dc664612a73d4e9f01091cad" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_0c98f270dc664612a73d4e9f01091cad" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_0c98f270dc664612a73d4e9f01091cad" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_0c98f270dc664612a73d4e9f01091cad" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_0c98f270dc664612a73d4e9f01091cad" data-slide-to="3"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/encuentro.con.Fernando.Lallana/encuentro.con.Fernando.Lallana1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/encuentro.con.Fernando.Lallana/encuentro.con.Fernando.Lallana2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/encuentro.con.Fernando.Lallana/encuentro.con.Fernando.Lallana3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/encuentro.con.Fernando.Lallana/encuentro.con.Fernando.Lallana4.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/04/encuentro-fernando-lallana.html#slides_0c98f270dc664612a73d4e9f01091cad" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/04/encuentro-fernando-lallana.html#slides_0c98f270dc664612a73d4e9f01091cad" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+  /2017/encuentro.con.Fernando.Lallana/encuentro.con.Fernando.Lallana1.jpg
+  /2017/encuentro.con.Fernando.Lallana/encuentro.con.Fernando.Lallana2.jpg
+  /2017/encuentro.con.Fernando.Lallana/encuentro.con.Fernando.Lallana3.jpg
+  /2017/encuentro.con.Fernando.Lallana/encuentro.con.Fernando.Lallana4.jpg
+&lt;/pre&gt;
 &lt;/div&gt;
-
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/04/encuentro-fernando-lallana.html</guid><pubDate>Mon, 03 Apr 2017 16:00:00 GMT</pubDate></item><item><title>Presentación del libro: El Estado de Valdepusa y Malpica</title><link>http://biblioln.es/posts/2017/04/presentacion-libro-arsenio-talavera.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="informacion-del-evento"&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/04/encuentro-fernando-lallana/</guid><pubDate>Mon, 03 Apr 2017 16:00:00 GMT</pubDate></item><item><title>Presentación del libro: El Estado de Valdepusa y Malpica</title><link>http://biblioln.es/posts/2017/04/presentacion-libro-arsenio-talavera/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="informacion-del-evento"&gt;
 &lt;h2&gt;Información del evento&lt;/h2&gt;
 &lt;p&gt;El autor &lt;strong&gt;Arsenio Talavera Almendro&lt;/strong&gt; nos presentará su libro &lt;em&gt;El Estado de Valdepusa y Malpica&lt;/em&gt; en el que cuenta la historia de los pueblos de Valdepusa, entre ellos el nuestro, Los Navalmorales.&lt;/p&gt;
 &lt;p&gt;El evento tendrá lugar el &lt;strong&gt;3 de Marzo&lt;/strong&gt; a las &lt;strong&gt;18:00&lt;/strong&gt; en &lt;strong&gt;La Biblioteca&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 7)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. slides::
 
-&lt;div id="slides_9d859d93815947e8800fd95dc89bbf04" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_9d859d93815947e8800fd95dc89bbf04" data-slide-to="0" class="active"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/presentacion-libro-arsenio-talavera.jpeg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/04/presentacion-libro-arsenio-talavera.html#slides_9d859d93815947e8800fd95dc89bbf04" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/04/presentacion-libro-arsenio-talavera.html#slides_9d859d93815947e8800fd95dc89bbf04" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+  /2017/presentacion-libro-arsenio-talavera.jpeg
+
+&lt;/pre&gt;
 &lt;/div&gt;
-
 &lt;/div&gt;
 &lt;div class="section" id="cronica-del-evento"&gt;
 &lt;h2&gt;Crónica del evento&lt;/h2&gt;
 &lt;p&gt;Ha sido una tarde en la que hemos indagado en la historia de los pueblos que pertenecieron al marquesado de Malpica con la ayuda del autor del libro: &lt;strong&gt;Arsenio Talavera Almendro&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Muchas gracias, hemos descubierto más cosas sobre la historia de Los Navalmorales.&lt;/p&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 19)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. slides::
 
-&lt;div id="slides_3ea23b1fb6884db9b596d35868a37a99" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_3ea23b1fb6884db9b596d35868a37a99" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_3ea23b1fb6884db9b596d35868a37a99" data-slide-to="1"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/el-estado-de-valdepusa-y-malpica1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/el-estado-de-valdepusa-y-malpica2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/04/presentacion-libro-arsenio-talavera.html#slides_3ea23b1fb6884db9b596d35868a37a99" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/04/presentacion-libro-arsenio-talavera.html#slides_3ea23b1fb6884db9b596d35868a37a99" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+  /2017/el-estado-de-valdepusa-y-malpica1.jpg
+  /2017/el-estado-de-valdepusa-y-malpica2.jpg
+
+&lt;/pre&gt;
 &lt;/div&gt;
-
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/04/presentacion-libro-arsenio-talavera.html</guid><pubDate>Mon, 03 Apr 2017 15:00:00 GMT</pubDate></item><item><title>Crónica del Encuentro con la escritora Almudena María Puebla</title><link>http://biblioln.es/posts/2017/01/cita-con-mucho-amor-cronica.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Ha sido estupendo tener  esta tarde en la biblioteca a Almudena Maria Puebla.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/04/presentacion-libro-arsenio-talavera/</guid><pubDate>Mon, 03 Apr 2017 15:00:00 GMT</pubDate></item><item><title>Crónica del Encuentro con la escritora Almudena María Puebla </title><link>http://biblioln.es/posts/2017/01/cita-con-mucho-amor-cronica/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Ha sido estupendo tener  esta tarde en la biblioteca a Almudena Maria Puebla.&lt;/p&gt;
 &lt;p&gt;Los niños de los clubes de lectura infantiles han recitado algunos de los bonitos poemas de su libro: &lt;em&gt;Mi gato se ha subido&lt;/em&gt;...&lt;/p&gt;
 &lt;p&gt;El Taller de Literatura de  adultos ha recitado de su libro de poemas: &lt;em&gt;Páginas sueltas de un libro de amor&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;Escuchar a la autora recitar sus poemas y hablarnos sobre ellos ha sido un placer. Muchas gracias Almudena.&lt;/p&gt;
 &lt;p&gt;A continuación unas fotos.&lt;/p&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 11)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. slides::
 
-&lt;div id="slides_7fc4dabdddf147a098ae901fade432dd" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_7fc4dabdddf147a098ae901fade432dd" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_7fc4dabdddf147a098ae901fade432dd" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_7fc4dabdddf147a098ae901fade432dd" data-slide-to="2"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_7fc4dabdddf147a098ae901fade432dd" data-slide-to="3"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_7fc4dabdddf147a098ae901fade432dd" data-slide-to="4"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/cita-con-mucho-amor-cronica/cita-con-mucho-amor-cronica1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/cita-con-mucho-amor-cronica/cita-con-mucho-amor-cronica2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/cita-con-mucho-amor-cronica/cita-con-mucho-amor-cronica3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/cita-con-mucho-amor-cronica/cita-con-mucho-amor-cronica4.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/cita-con-mucho-amor.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/01/cita-con-mucho-amor-cronica.html#slides_7fc4dabdddf147a098ae901fade432dd" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/01/cita-con-mucho-amor-cronica.html#slides_7fc4dabdddf147a098ae901fade432dd" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Crónica</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/01/cita-con-mucho-amor-cronica.html</guid><pubDate>Mon, 20 Feb 2017 17:00:00 GMT</pubDate></item><item><title>Crónica de la Conferencia de Criminalística y Criminología</title><link>http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Estupendo lo que nos ha explicado Julio sobre los distintos rasgos de los personajes de "Un Millón de Gotas" (Víctor del Arbol).&lt;/p&gt;
+  /galleries/2017/cita-con-mucho-amor-cronica/cita-con-mucho-amor-cronica1.jpg
+  /galleries/2017/cita-con-mucho-amor-cronica/cita-con-mucho-amor-cronica2.jpg
+  /galleries/2017/cita-con-mucho-amor-cronica/cita-con-mucho-amor-cronica3.jpg
+  /galleries/2017/cita-con-mucho-amor-cronica/cita-con-mucho-amor-cronica4.jpg
+  /2017/cita-con-mucho-amor.png
+&lt;/pre&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Crónica</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/01/cita-con-mucho-amor-cronica/</guid><pubDate>Mon, 20 Feb 2017 17:00:00 GMT</pubDate></item><item><title>Crónica de la Conferencia de Criminalística y Criminología</title><link>http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Estupendo lo que nos ha explicado Julio sobre los distintos rasgos de los personajes de "Un Millón de Gotas" (Víctor del Arbol).&lt;/p&gt;
 &lt;p&gt;Hemos podido debatir sobre la novela y aclarar nuestras dudas.&lt;/p&gt;
 &lt;p&gt;A continuación unas fotos.&lt;/p&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 7)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. slides::
 
-&lt;div id="slides_5790b7e341de402abbe18220420ff3d4" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_5790b7e341de402abbe18220420ff3d4" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_5790b7e341de402abbe18220420ff3d4" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_5790b7e341de402abbe18220420ff3d4" data-slide-to="2"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-criminologia/conferencia-criminologia.cartel.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-criminologia/conferencia-criminologia.1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/conferencia-criminologia/conferencia-criminologia.2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica.html#slides_5790b7e341de402abbe18220420ff3d4" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica.html#slides_5790b7e341de402abbe18220420ff3d4" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica.html</guid><pubDate>Tue, 31 Jan 2017 18:00:00 GMT</pubDate></item></channel></rss>
+  /galleries/2017/conferencia-criminologia/conferencia-criminologia.cartel.png
+  /galleries/2017/conferencia-criminologia/conferencia-criminologia.1.jpg
+  /galleries/2017/conferencia-criminologia/conferencia-criminologia.2.jpg
+&lt;/pre&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/01/conferencia-criminologia-cronica/</guid><pubDate>Tue, 31 Jan 2017 18:00:00 GMT</pubDate></item></channel></rss>

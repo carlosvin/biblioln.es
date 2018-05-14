@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Biblioteca)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/biblioteca.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Fri, 11 May 2018 16:39:10 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades de Libros y Películas para este Verano</title><link>http://biblioln.es/posts/2017/07/novedades-verano.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div id="slides_a7d0cc8d6fd944ee9cd8494479c0c5b6" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_a7d0cc8d6fd944ee9cd8494479c0c5b6" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_a7d0cc8d6fd944ee9cd8494479c0c5b6" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_a7d0cc8d6fd944ee9cd8494479c0c5b6" data-slide-to="2"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano3.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/07/novedades-verano.html#slides_a7d0cc8d6fd944ee9cd8494479c0c5b6" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/07/novedades-verano.html#slides_a7d0cc8d6fd944ee9cd8494479c0c5b6" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;</description><category>Biblioteca</category><category>Libros</category><category>Novedades</category><category>Películas</category><guid>http://biblioln.es/posts/2017/07/novedades-verano.html</guid><pubDate>Mon, 03 Jul 2017 08:00:00 GMT</pubDate></item><item><title>Horario de verano: Biblioteca y Centro de Internet</title><link>http://biblioln.es/posts/2017/06/horario-verano.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;table border="1" class="docutils"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Biblioteca)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/biblioteca.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 14 May 2018 18:40:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades de Libros y Películas para este Verano</title><link>http://biblioln.es/posts/2017/07/novedades-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 2)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. slides::
+    /galleries/2017/novedades-verano/novedades-verano1.jpg
+    /galleries/2017/novedades-verano/novedades-verano2.jpg
+    /galleries/2017/novedades-verano/novedades-verano3.jpg
+&lt;/pre&gt;
+&lt;/div&gt;</description><category>Biblioteca</category><category>Libros</category><category>Novedades</category><category>Películas</category><guid>http://biblioln.es/posts/2017/07/novedades-verano/</guid><pubDate>Mon, 03 Jul 2017 08:00:00 GMT</pubDate></item><item><title>Horario de verano: Biblioteca y Centro de Internet</title><link>http://biblioln.es/posts/2017/06/horario-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="12%"&gt;
 &lt;col width="18%"&gt;
@@ -44,31 +40,31 @@
 &lt;td&gt;Cerrado&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description><category>Biblioteca</category><category>Centro de Internet</category><category>Horarios</category><guid>http://biblioln.es/posts/2017/06/horario-verano.html</guid><pubDate>Sat, 24 Jun 2017 08:00:00 GMT</pubDate></item><item><title>Entrega Premios del Concurso: "Yo Leo Libros de la Biblioteca de mi Pueblo"</title><link>http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El día 9 de junio a las 19:00, tuvo lugar la entrega de los premios a los usuarios de La Biblioteca de los Navalmorales  que han participado en este concurso.&lt;/p&gt;
+&lt;/table&gt;</description><category>Biblioteca</category><category>Centro de Internet</category><category>Horarios</category><guid>http://biblioln.es/posts/2017/06/horario-verano/</guid><pubDate>Sat, 24 Jun 2017 08:00:00 GMT</pubDate></item><item><title>Entrega Premios del Concurso: "Yo Leo Libros de la Biblioteca de mi Pueblo"</title><link>http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El día 9 de junio a las 19:00, tuvo lugar la entrega de los premios a los usuarios de La Biblioteca de los Navalmorales  que han participado en este concurso.&lt;/p&gt;
 &lt;p&gt;Asistiendo al acto la concejala de educación, bienestar social y comunicación: Dª Miriam Márquez Recuero, que efectuó la entrega de premios.&lt;/p&gt;
 &lt;div class="contents topic" id="premios"&gt;
 &lt;p class="topic-title first"&gt;Premios&lt;/p&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#o-de-infantil" id="id6"&gt;1º de Infantil&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#id1" id="id7"&gt;3º de Infantil&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#o-de-primaria" id="id8"&gt;1º de Primaria&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#id2" id="id9"&gt;2º de Primaria&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#id3" id="id10"&gt;3º de Primaria&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#id4" id="id11"&gt;5º de Primaria&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#id5" id="id12"&gt;6º de Primaria&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#o-de-eso" id="id13"&gt;1º de ESO&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#adultos" id="id14"&gt;Adultos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#o-de-infantil" id="id6"&gt;1º de Infantil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#id1" id="id7"&gt;3º de Infantil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#o-de-primaria" id="id8"&gt;1º de Primaria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#id2" id="id9"&gt;2º de Primaria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#id3" id="id10"&gt;3º de Primaria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#id4" id="id11"&gt;5º de Primaria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#id5" id="id12"&gt;6º de Primaria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#o-de-eso" id="id13"&gt;1º de ESO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#adultos" id="id14"&gt;Adultos&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="o-de-infantil"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#id6"&gt;1º de Infantil&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#id6"&gt;1º de Infantil&lt;/a&gt;&lt;/h2&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;VICTOR GARCÍA GÓMEZ AREVALILLO:  25 Libros.&lt;/li&gt;
 &lt;li&gt;CARLOS GARCÍA RIVERA:            13 Libros.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;div class="section" id="id1"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#id7"&gt;3º de Infantil&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#id7"&gt;3º de Infantil&lt;/a&gt;&lt;/h2&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;Primeros premios:&lt;ul&gt;
 &lt;li&gt;KARLA RODRIGUEZ EXPÓSITO: 67 Libros.&lt;/li&gt;
@@ -81,7 +77,7 @@
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;div class="section" id="o-de-primaria"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#id8"&gt;1º de Primaria&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#id8"&gt;1º de Primaria&lt;/a&gt;&lt;/h2&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;ANDREI MARIN GAMAYO: 23 Libros.&lt;/li&gt;
 &lt;li&gt;USUE GARCÍA CUPIDO: 18 Libros.&lt;/li&gt;
@@ -90,7 +86,7 @@
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;div class="section" id="id2"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#id9"&gt;2º de Primaria&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#id9"&gt;2º de Primaria&lt;/a&gt;&lt;/h2&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;SANTIAGO ESPINOSA ARRIERO: 18 Libros.&lt;/li&gt;
 &lt;li&gt;LUCÍA HONTANAR MARÍN: 8 Libros.&lt;/li&gt;
@@ -98,13 +94,13 @@
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;div class="section" id="id3"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#id10"&gt;3º de Primaria&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#id10"&gt;3º de Primaria&lt;/a&gt;&lt;/h2&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;MARCOS FERNÁNDEZ SÁNCHEZ: 8 Libros.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;div class="section" id="id4"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#id11"&gt;5º de Primaria&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#id11"&gt;5º de Primaria&lt;/a&gt;&lt;/h2&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;GLORIAS GARCÍA CORREJIDOR: 6 Libros.&lt;/li&gt;
 &lt;li&gt;Segundos premios:&lt;ul&gt;
@@ -115,21 +111,21 @@
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;div class="section" id="id5"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#id12"&gt;6º de Primaria&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#id12"&gt;6º de Primaria&lt;/a&gt;&lt;/h2&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;SARA LÓPEZ SIERRA: 7 Libros.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;div class="section" id="o-de-eso"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#id13"&gt;1º de ESO&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#id13"&gt;1º de ESO&lt;/a&gt;&lt;/h2&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;ÁNGELA LÓPEZ TOLKA: 5 Libros.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 &lt;div class="section" id="adultos"&gt;
-&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html#id14"&gt;Adultos&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/#id14"&gt;Adultos&lt;/a&gt;&lt;/h2&gt;
 &lt;ol class="arabic simple"&gt;
 &lt;li&gt;PILAR ILLÁN: 9 Libros.&lt;/li&gt;
 &lt;li&gt;YOLANDA SÁNCHEZ MUÑOZ: 7 Libros.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Biblioteca</category><category>Concurso</category><guid>http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo.html</guid><pubDate>Mon, 19 Jun 2017 16:00:00 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Biblioteca</category><category>Concurso</category><guid>http://biblioln.es/posts/2017/06/premios-yo-leo-libros-biblioteca-pueblo/</guid><pubDate>Mon, 19 Jun 2017 16:00:00 GMT</pubDate></item></channel></rss>

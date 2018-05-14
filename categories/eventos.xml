@@ -1,85 +1,143 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Eventos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/eventos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Fri, 11 May 2018 16:39:09 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Tarde de Poesía en la Biblioteca</title><link>http://biblioln.es/posts/2018/03/tarde-de-poesia.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.png"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Ha sido una tarde muy bonita. María Antonia Ricas nos ha leído sus
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Eventos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/eventos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 14 May 2018 19:24:45 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Tarde de Poesía en la Biblioteca</title><link>http://biblioln.es/posts/2018/03/tarde-de-poesia/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Ha sido una tarde muy bonita. María Antonia Ricas nos ha leído sus
 poemas, que hacen referencia a los cuadros de Hopper y nos dan la
 visión de estos a través de su poesía. Su libro: &lt;strong&gt;Salir de un Hopper&lt;/strong&gt;
 nos ha servido para disfrutar de su poesía. Con su inspiración nos
 ha transmitido una visión de estas pinturas.&lt;/p&gt;
 &lt;p&gt;Muchas gracias a la poetisa María Antonia Ricas y al editor Joan
 Gonper (&lt;a class="reference external" href="http://www.editorialcelya.com/"&gt;editorial Celya&lt;/a&gt;).&lt;/p&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.jpg"&gt;&lt;img alt="/galleries/2018/salir-de-un-hopper/1.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/salir-de-un-hopper/2.jpg"&gt;&lt;img alt="/galleries/2018/salir-de-un-hopper/2.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/salir-de-un-hopper/2.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/4.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/4.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/2.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/2.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.png" class="thumbnail image-reference" title="Salir de un hopper"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.thumbnail.png" alt="Salir de un hopper"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.jpg"&gt;&lt;img alt="/galleries/2018/salir-de-un-hopper/3.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/salir-de-un-hopper/4.jpg"&gt;&lt;img alt="/galleries/2018/salir-de-un-hopper/4.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/salir-de-un-hopper/4.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><category>Poesía</category><guid>http://biblioln.es/posts/2018/03/tarde-de-poesia.html</guid><pubDate>Mon, 26 Mar 2018 20:00:00 GMT</pubDate></item><item><title>Encuentro con la escritora Maria Antonia Ricas Peces</title><link>http://biblioln.es/posts/2018/02/encuentro-salir-de-un-hopper.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo día 13 de Marzo a las 18:00 en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales.html#contacto"&gt;La Biblioteca&lt;/a&gt; encuentro con la escritora &lt;strong&gt;María Antonia Ricas Peces&lt;/strong&gt; para hablar de su libro &lt;em&gt;Salir de un Hopper&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><category>Poesía</category><guid>http://biblioln.es/posts/2018/03/tarde-de-poesia/</guid><pubDate>Mon, 26 Mar 2018 20:00:00 GMT</pubDate></item><item><title>Encuentro con la escritora Maria Antonia Ricas Peces</title><link>http://biblioln.es/posts/2018/02/encuentro-salir-de-un-hopper/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo día 13 de Marzo a las 18:00 en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales.html#contacto"&gt;La Biblioteca&lt;/a&gt; encuentro con la escritora &lt;strong&gt;María Antonia Ricas Peces&lt;/strong&gt; para hablar de su libro &lt;em&gt;Salir de un Hopper&lt;/em&gt;.&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
 &lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.png"&gt;&lt;img alt="/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.thumbnail.png" src="http://biblioln.es/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.thumbnail.png" style="height: 600px;"&gt;&lt;/a&gt;
 &lt;p class="caption"&gt;13 de Marzo a las 18:00&lt;/p&gt;
 &lt;div class="legend"&gt;
 Encuentro con María Antonia Ricas&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><guid>http://biblioln.es/posts/2018/02/encuentro-salir-de-un-hopper.html</guid><pubDate>Wed, 07 Mar 2018 17:00:00 GMT</pubDate></item><item><title>La Biblioteca en CCM Radio</title><link>http://biblioln.es/posts/2018/02/en-la-radio.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Hace ya casi un mes nos entrevistaron en CCM radio, podéis leer más sobre la entrevista en &lt;a class="reference external" href="http://tierraoral.blogspot.lu/2018/01/esta-semana-en-cmm-radio_16.html?m=1"&gt;el blog de Pep Bruno&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><guid>http://biblioln.es/posts/2018/02/encuentro-salir-de-un-hopper/</guid><pubDate>Wed, 07 Mar 2018 17:00:00 GMT</pubDate></item><item><title>La Biblioteca en CCM Radio</title><link>http://biblioln.es/posts/2018/02/en-la-radio/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Hace ya casi un mes nos entrevistaron en CCM radio, podéis leer más sobre la entrevista en &lt;a class="reference external" href="http://tierraoral.blogspot.lu/2018/01/esta-semana-en-cmm-radio_16.html?m=1"&gt;el blog de Pep Bruno&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;También podéis escuchar el programa &lt;a class="reference external" href="http://www.ivoox.com/23159866"&gt;directamente en ivoox&lt;/a&gt;.&lt;/p&gt;
-&lt;iframe id="audio_23159866" frameborder="0" allowfullscreen="" scrolling="no" height="200" style="border:1px solid #EEE; box-sizing:border-box; width:100%;" src="https://www.ivoox.com/player_ej_23159866_4_1.html?c1=ff6600"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><category>Actividades</category><category>Entrevistas</category><category>Eventos</category><category>Radio</category><guid>http://biblioln.es/posts/2018/02/en-la-radio.html</guid><pubDate>Wed, 07 Feb 2018 17:00:00 GMT</pubDate></item><item><title>Hora del Cuento</title><link>http://biblioln.es/posts/2018/01/hora-del-cuento.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="https://imagessl9.casadellibro.com/a/l/t0/79/9788426134479.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Este martes les he contado a los niños/niñas de La Hora del Cuento: &lt;a class="reference external" href="http://www.editorialjuventud.es/3447.html"&gt;Por Cuatro Esquinitas de Nada (Jerome Ruillier)&lt;/a&gt;.
+&lt;iframe id="audio_23159866" frameborder="0" allowfullscreen="" scrolling="no" height="200" style="border:1px solid #EEE; box-sizing:border-box; width:100%;" src="https://www.ivoox.com/player_ej_23159866_4_1.html?c1=ff6600"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><category>Actividades</category><category>Entrevistas</category><category>Eventos</category><category>Radio</category><guid>http://biblioln.es/posts/2018/02/en-la-radio/</guid><pubDate>Wed, 07 Feb 2018 17:00:00 GMT</pubDate></item><item><title>Hora del Cuento</title><link>http://biblioln.es/posts/2018/01/hora-del-cuento/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="https://imagessl9.casadellibro.com/a/l/t0/79/9788426134479.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Este martes les he contado a los niños/niñas de La Hora del Cuento: &lt;a class="reference external" href="http://www.editorialjuventud.es/3447.html"&gt;Por Cuatro Esquinitas de Nada (Jerome Ruillier)&lt;/a&gt;.
 Cómo cuadradito quiere jugar con los redonditos dentro de la casa y no puede pasar, hay que cortar la puerta.
 Después de la lectura, los niños han hecho unas casitas con los redonditos, cortando las puertas para que pueda pasar cudradito.
 Muchas gracias a las mamás que asisten a la sesión de cuentos y colaboran con la actividad.&lt;/p&gt;
 &lt;p&gt;Aquí teneis las casitas:&lt;/p&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/hora-del-cuento/1.jpg"&gt;&lt;img alt="/galleries/2018/hora-del-cuento/1.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/hora-del-cuento/1.thumbnail.jpg" style="height: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/hora-del-cuento/2.jpg"&gt;&lt;img alt="/galleries/2018/hora-del-cuento/2.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/hora-del-cuento/2.thumbnail.jpg" style="height: 300px;"&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Hora del Cuento</category><guid>http://biblioln.es/posts/2018/01/hora-del-cuento.html</guid><pubDate>Thu, 01 Feb 2018 20:00:00 GMT</pubDate></item><item><title>Cuentos de Quita Y Pon</title><link>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="cronica-del-evento"&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/hora-del-cuento/2.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/hora-del-cuento/2.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/hora-del-cuento/1.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/hora-del-cuento/1.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Hora del Cuento</category><guid>http://biblioln.es/posts/2018/01/hora-del-cuento/</guid><pubDate>Thu, 01 Feb 2018 20:00:00 GMT</pubDate></item><item><title>Cuentos de Quita Y Pon</title><link>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="cronica-del-evento"&gt;
 &lt;h2&gt;Crónica del Evento&lt;/h2&gt;
 &lt;p&gt;Una tarde de cuentos y actuaciones navideñas en la biblioteca. En primer lugar niños y mayores han disfrutado escuchando a Juan Malabar con sus cuentos de quita y pon.
 A continuación han cantado villancicos loa niños de la hora del cuento, el club de lectura de primero de primaria, el de segundo de primaria y los niños de la bebeteca con su monitora Susana. Muchas gracias a todos, a Susana, y a las mamás porque siempre están dispuestas a colaborar con la biblioteca.&lt;/p&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2017/cuentos-quita-y-pon/cuentacuentos.1.jpg"&gt;&lt;img alt="/2017/cuentos-quita-y-pon/cuentacuentos.1.thumbnail.jpg" class="align-center" src="http://biblioln.es/2017/cuentos-quita-y-pon/cuentacuentos.1.thumbnail.jpg" style="width: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2017/cuentos-quita-y-pon/cuentacuentos.2.jpg"&gt;&lt;img alt="/2017/cuentos-quita-y-pon/cuentacuentos.2.thumbnail.jpg" class="align-center" src="http://biblioln.es/2017/cuentos-quita-y-pon/cuentacuentos.2.thumbnail.jpg" style="width: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2017/cuentos-quita-y-pon/cuentacuentos.3.jpg"&gt;&lt;img alt="/2017/cuentos-quita-y-pon/cuentacuentos.3.thumbnail.jpg" class="align-center" src="http://biblioln.es/2017/cuentos-quita-y-pon/cuentacuentos.3.thumbnail.jpg" style="width: 300px;"&gt;&lt;/a&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.png" class="thumbnail image-reference" title="Cuentos de quita y pon"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.thumbnail.png" alt="Cuentos de quita y pon"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.2.jpg" class="thumbnail image-reference" title="Cuentacuentos 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.2.thumbnail.jpg" alt="Cuentacuentos 2"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.3.jpg" class="thumbnail image-reference" title="Cuentacuentos 3"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.3.thumbnail.jpg" alt="Cuentacuentos 3"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.1.jpg" class="thumbnail image-reference" title="Cuentacuentos 1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.1.thumbnail.jpg" alt="Cuentacuentos 1"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="informacion-del-evento"&gt;
 &lt;h2&gt;Información del Evento&lt;/h2&gt;
 &lt;p&gt;El próximo día &lt;strong&gt;22 de Diciembre a las 17:00&lt;/strong&gt; nos visitará el &lt;a class="reference external" href="https://juanmalabar.wordpress.com"&gt;Cuentacuentos Juan Malabar&lt;/a&gt; con sus &lt;a class="reference external" href="https://juanmalabar.wordpress.com/los-cuentos/"&gt;Cuentos de Quita y Pon&lt;/a&gt;, cuentos con objetos, títeres y cachivaches.&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.png"&gt;&lt;img alt="/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.thumbnail.png" src="http://biblioln.es/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.thumbnail.png" style="height: 400px;"&gt;&lt;/a&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.png"&gt;&lt;img alt="/galleries/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.thumbnail.png" src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.thumbnail.png" style="height: 400px;"&gt;&lt;/a&gt;
 &lt;p class="caption"&gt;Cuentacuentos Juan Balabar. 22 de Diciembre a las 17:00 en la Biblioteca&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Cuentacuentos</category><category>Eventos</category><guid>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon.html</guid><pubDate>Wed, 27 Dec 2017 19:00:00 GMT</pubDate></item><item><title>Conferencia de Tratamientos Psiquiátricos y Psicológicos</title><link>http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El pasado 5 de Febrero tuvo lugar en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html"&gt;La Biblioteca&lt;/a&gt; la conferencia "Tratamientos Psiquiátricos y Psicológicos" impartida por Julio Sáez Martínez (Psicólogo del Dpto. Investigación Criminal de la Guardia Civil).&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Cuentacuentos</category><category>Eventos</category><guid>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon/</guid><pubDate>Wed, 27 Dec 2017 19:00:00 GMT</pubDate></item><item><title>Conferencia de Tratamientos Psiquiátricos y Psicológicos</title><link>http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El pasado 5 de Febrero tuvo lugar en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html"&gt;La Biblioteca&lt;/a&gt; la conferencia "Tratamientos Psiquiátricos y Psicológicos" impartida por Julio Sáez Martínez (Psicólogo del Dpto. Investigación Criminal de la Guardia Civil).&lt;/p&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 3)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. slides::
 
-&lt;div id="slides_08921f2a9760477092a445b1365f1658" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_08921f2a9760477092a445b1365f1658" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_08921f2a9760477092a445b1365f1658" data-slide-to="1"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2016/02/conferencia-tratamientos-psiquiatricos.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2016/02/conferencia-tratamientos-psiquiatricos.1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html#slides_08921f2a9760477092a445b1365f1658" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html#slides_08921f2a9760477092a445b1365f1658" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+  /2016/02/conferencia-tratamientos-psiquiatricos.jpg
+  /2016/02/conferencia-tratamientos-psiquiatricos.1.jpg
+
+&lt;/pre&gt;
 &lt;/div&gt;
-
-&lt;!-- previewimage: /2016/02/conferencia-tratamientos-psiquiatricos.jpg --&gt;&lt;/div&gt;</description><category>Actividades</category><category>Conferencias</category><category>Eventos</category><guid>http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos.html</guid><pubDate>Fri, 12 Feb 2016 18:00:00 GMT</pubDate></item><item><title>Encuentro con Nieves Herrero en Castillo de Bayuela</title><link>http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Los componentes del  Taller de Literatura, hemos asistido  a la presentación del último libro de Nieves Herrero, &lt;a class="reference external" href="http://www.esferalibros.com/libro/como-si-no-hubiera-un-manana/"&gt;Como si no hubiera un mañana&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- previewimage: /2016/02/conferencia-tratamientos-psiquiatricos.jpg --&gt;&lt;/div&gt;</description><category>Actividades</category><category>Conferencias</category><category>Eventos</category><guid>http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos/</guid><pubDate>Fri, 12 Feb 2016 18:00:00 GMT</pubDate></item><item><title>Encuentro con Nieves Herrero en Castillo de Bayuela</title><link>http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Los componentes del  Taller de Literatura, hemos asistido  a la presentación del último libro de Nieves Herrero, &lt;a class="reference external" href="http://www.esferalibros.com/libro/como-si-no-hubiera-un-manana/"&gt;Como si no hubiera un mañana&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;La presentación ha sido en &lt;a class="reference external" href="https://www.google.lu/maps/place/Castillo+de+Bayuela,+Toledo,+Spain/data=!4m2!3m1!1s0xd403c52c7262173:0x433e166af2a6ac58?sa=X&amp;amp;ved=0ahUKEwjhhoXH6KnJAhUE2RoKHagaBfEQ8gEIeDAN"&gt;Castillo de Bayuela&lt;/a&gt;, donde hemos pasado una tarde estupenda. En el pueblo nos han recibido muy bien, hemos visitado el mercado de artesanía.  Seguidamente hemos asistido a la presentación del libro, el acto ha estado muy bien, Nieves Herrero nos ha hablado de Luis Miguel Dominguin y Ava Gardner, que son los protagonistas de este libro.&lt;/p&gt;
+&lt;div class="system-message"&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 5)&lt;/p&gt;
+&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+.. slides::
 
-&lt;div id="slides_c2538f728c604aed975bd19197091321" class="carousel slide"&gt;
-    &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_c2538f728c604aed975bd19197091321" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_c2538f728c604aed975bd19197091321" data-slide-to="1"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_c2538f728c604aed975bd19197091321" data-slide-to="2"&gt;
-    &lt;/li&gt;&lt;/ol&gt;
-    &lt;div class="carousel-inner"&gt;
-                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2015/12/encuentro-nieves-herrero.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2015/12/encuentro-nieves-herrero-2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2015/11/nieves_herrero.png" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html#slides_c2538f728c604aed975bd19197091321" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html#slides_c2538f728c604aed975bd19197091321" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+  /2015/12/encuentro-nieves-herrero.jpg
+  /2015/12/encuentro-nieves-herrero-2.jpg
+  /2015/11/nieves_herrero.png
+
+&lt;/pre&gt;
 &lt;/div&gt;
-
-&lt;!-- previewimage: /2015/12/encuentro-nieves-herrero-2.jpg --&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela.html</guid><pubDate>Wed, 02 Dec 2015 19:00:00 GMT</pubDate></item><item><title>Actividades del Taller de Literatura para este Trimestre</title><link>http://biblioln.es/posts/2015/11/actividades-taller-literatura-trimestre.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="encuentro-con-nieves-herrero"&gt;
+&lt;!-- previewimage: /2015/12/encuentro-nieves-herrero-2.jpg --&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela/</guid><pubDate>Wed, 02 Dec 2015 19:00:00 GMT</pubDate></item><item><title>Actividades del Taller de Literatura para este Trimestre</title><link>http://biblioln.es/posts/2015/11/actividades-taller-literatura-trimestre/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="encuentro-con-nieves-herrero"&gt;
 &lt;h2&gt;Encuentro con Nieves Herrero&lt;/h2&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;El día 28 de Noviembre vamos a Castillo de Bayuela.&lt;/li&gt;
@@ -94,10 +152,10 @@ A continuación han cantado villancicos loa niños de la hora del cuento, el clu
 &lt;h2&gt;El Lago de los Cisnes&lt;/h2&gt;
 &lt;p&gt;El día 19 de Diciembre iremos a Toledo a ver la obra &lt;a class="reference external" href="https://es.wikipedia.org/wiki/El_lago_de_los_cisnes"&gt;El Lago de los Cisnes&lt;/a&gt;, que será interpretada por el &lt;a class="reference external" href="http://www.batalov-ballet.ru/"&gt;Ballet Clásico de St. Petersburgo&lt;/a&gt;, compañía fundada por el solista principal de Mariinskiy Ballet, Andrey Batalov (Director Artístico y Coreógrafo) y por Andrey Sharaev (Director General).&lt;/p&gt;
 &lt;p&gt;Este espectáculo es en &lt;a class="reference external" href="http://www.pctoledo.es/es/contacto.html"&gt;El Palacio de Congresos El Greco de Toledo&lt;/a&gt;, a las 20 horas.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2015/11/actividades-taller-literatura-trimestre.html</guid><pubDate>Tue, 24 Nov 2015 19:00:00 GMT</pubDate></item><item><title>La Luz de Cervantes Ilumina Nuevos Mundos</title><link>http://biblioln.es/posts/2015/11/cronica-conferencia-estrella-cervantes.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Javier Gorgas (astrofísico, catedrático del &lt;a class="reference external" href="http://pendientedemigracion.ucm.es/info/Astrof/"&gt;Departamento de Astrofísica de la Universidad Complutense de Madrid&lt;/a&gt; y presidente de la &lt;a class="reference external" href="http://www.sea-astronomia.es/"&gt;Sociedad Española de Astronomía&lt;/a&gt;), impartió el pasado viernes una conferencia sobre la &lt;a class="reference external" href="http://estrellacervantes.es"&gt;Estrella Cervantes&lt;/a&gt; a la que tituló: “La Luz de Cervantes Ilumina Nuevos Mundos”.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2015/11/actividades-taller-literatura-trimestre/</guid><pubDate>Tue, 24 Nov 2015 19:00:00 GMT</pubDate></item><item><title>La Luz de Cervantes Ilumina Nuevos Mundos</title><link>http://biblioln.es/posts/2015/11/cronica-conferencia-estrella-cervantes/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Javier Gorgas (astrofísico, catedrático del &lt;a class="reference external" href="http://pendientedemigracion.ucm.es/info/Astrof/"&gt;Departamento de Astrofísica de la Universidad Complutense de Madrid&lt;/a&gt; y presidente de la &lt;a class="reference external" href="http://www.sea-astronomia.es/"&gt;Sociedad Española de Astronomía&lt;/a&gt;), impartió el pasado viernes una conferencia sobre la &lt;a class="reference external" href="http://estrellacervantes.es"&gt;Estrella Cervantes&lt;/a&gt; a la que tituló: “La Luz de Cervantes Ilumina Nuevos Mundos”.&lt;/p&gt;
 &lt;p&gt;Nos ha hablado sobre planetas, galaxias y estrellas, centrándonos en una estrella descubierta recientemente a la que nos gustaria que llamasen estrella Cervantes, como nuestro gran escritor.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/posts/2015/08/estrella-cervantes.html"&gt;Mas información sobre como votar&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Asistieron 90 personas, todo un éxito.&lt;/p&gt;&lt;/div&gt;</description><category>Actividades</category><category>Conferencias</category><category>Eventos</category><guid>http://biblioln.es/posts/2015/11/cronica-conferencia-estrella-cervantes.html</guid><pubDate>Wed, 11 Nov 2015 11:00:00 GMT</pubDate></item><item><title>Conferencia sobre La Estrella Cervantes</title><link>http://biblioln.es/posts/2015/10/conferencia-estrella-cervantes.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Conferencia impartida por nuestro paisano, el astrofísico Javier Gorgas, catedrático del &lt;a class="reference external" href="http://pendientedemigracion.ucm.es/info/Astrof/"&gt;Departamento de Astrofísica de la Universidad Complutense de Madrid&lt;/a&gt; y presidente de la &lt;a class="reference external" href="http://www.sea-astronomia.es/"&gt;Sociedad Española de Astronomía&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Asistieron 90 personas, todo un éxito.&lt;/p&gt;&lt;/div&gt;</description><category>Actividades</category><category>Conferencias</category><category>Eventos</category><guid>http://biblioln.es/posts/2015/11/cronica-conferencia-estrella-cervantes/</guid><pubDate>Wed, 11 Nov 2015 11:00:00 GMT</pubDate></item><item><title>Conferencia sobre La Estrella Cervantes</title><link>http://biblioln.es/posts/2015/10/conferencia-estrella-cervantes/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Conferencia impartida por nuestro paisano, el astrofísico Javier Gorgas, catedrático del &lt;a class="reference external" href="http://pendientedemigracion.ucm.es/info/Astrof/"&gt;Departamento de Astrofísica de la Universidad Complutense de Madrid&lt;/a&gt; y presidente de la &lt;a class="reference external" href="http://www.sea-astronomia.es/"&gt;Sociedad Española de Astronomía&lt;/a&gt;.&lt;/p&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;Día&lt;/dt&gt;
 &lt;dd&gt;Viernes 30 de Octubre&lt;/dd&gt;
@@ -107,4 +165,4 @@ A continuación han cantado villancicos loa niños de la hora del cuento, el clu
 &lt;dd&gt;&lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html"&gt;Biblioteca Pública Municipal&lt;/a&gt;&lt;/dd&gt;
 &lt;/dl&gt;
 &lt;p&gt;¡Están todos invitados, es muy interesante escuchar como se descubren las estrellas, esos mundos que vemos tan lejanos!&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/posts/2015/08/estrella-cervantes.html"&gt;Más información sobre La Estrella Cervantes&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Actividades</category><category>Conferencias</category><category>Eventos</category><guid>http://biblioln.es/posts/2015/10/conferencia-estrella-cervantes.html</guid><pubDate>Wed, 28 Oct 2015 19:00:00 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/posts/2015/08/estrella-cervantes.html"&gt;Más información sobre La Estrella Cervantes&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;</description><category>Actividades</category><category>Conferencias</category><category>Eventos</category><guid>http://biblioln.es/posts/2015/10/conferencia-estrella-cervantes/</guid><pubDate>Wed, 28 Oct 2015 19:00:00 GMT</pubDate></item></channel></rss>

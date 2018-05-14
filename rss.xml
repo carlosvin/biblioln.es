@@ -1,73 +1,192 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales</title><link>http://biblioln.es/</link><description>Biblioteca Pública Municipal de Los Navalmorales</description><atom:link href="http://biblioln.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Fri, 11 May 2018 16:44:46 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Paseo Literario por Toledo con Fernando Lallana</title><link>http://biblioln.es/posts/2018/05/paseo-literario-por-toledo-fernando-lallana.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Conociendo más la historia de Florentius por la ciudad de Toledo. Estupendo paseo guiado por Fernando Lallana.
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales</title><link>http://biblioln.es/</link><description>Biblioteca Pública Municipal de Los Navalmorales</description><atom:link href="http://biblioln.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 14 May 2018 19:27:07 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Paseo Literario por Toledo con Fernando Lallana</title><link>http://biblioln.es/posts/2018/05/paseo-literario-por-toledo-fernando-lallana/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Conociendo más la historia de Florentius por la ciudad de Toledo. Estupendo paseo guiado por Fernando Lallana.
 Muchas gracias Fernando por enseñarnos un poco más sobre la historia de Toledo, en la época que se
 desarrolla la novela.&lt;/p&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-1.jpg"&gt;&lt;img alt="/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-1.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-1.thumbnail.jpg" style="width: 400px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-2.jpg"&gt;&lt;img alt="/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-2.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-2.thumbnail.jpg" style="width: 400px;"&gt;&lt;/a&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-3.jpg" class="thumbnail image-reference" title="Paseo literario por toledo fernando lallana 3"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-3.thumbnail.jpg" alt="Paseo literario por toledo fernando lallana 3"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-8.jpg" class="thumbnail image-reference" title="Paseo literario por toledo fernando lallana 8"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-8.thumbnail.jpg" alt="Paseo literario por toledo fernando lallana 8"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-5.jpg" class="thumbnail image-reference" title="Paseo literario por toledo fernando lallana 5"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-5.thumbnail.jpg" alt="Paseo literario por toledo fernando lallana 5"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-7.jpg" class="thumbnail image-reference" title="Paseo literario por toledo fernando lallana 7"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-7.thumbnail.jpg" alt="Paseo literario por toledo fernando lallana 7"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-6.jpg" class="thumbnail image-reference" title="Paseo literario por toledo fernando lallana 6"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-6.thumbnail.jpg" alt="Paseo literario por toledo fernando lallana 6"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-1.jpg" class="thumbnail image-reference" title="Paseo literario por toledo fernando lallana 1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-1.thumbnail.jpg" alt="Paseo literario por toledo fernando lallana 1"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-2.jpg" class="thumbnail image-reference" title="Paseo literario por toledo fernando lallana 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-2.thumbnail.jpg" alt="Paseo literario por toledo fernando lallana 2"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-4.jpg" class="thumbnail image-reference" title="Paseo literario por toledo fernando lallana 4"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-4.thumbnail.jpg" alt="Paseo literario por toledo fernando lallana 4"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-4.jpg"&gt;&lt;img alt="/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-4.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-4.thumbnail.jpg" style="width: 400px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-7.jpg"&gt;&lt;img alt="/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-7.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-7.thumbnail.jpg" style="width: 400px;"&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-3.jpg"&gt;&lt;img alt="/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-3.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-3.thumbnail.jpg" style="width: 400px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-5.jpg"&gt;&lt;img alt="/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-5.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-5.thumbnail.jpg" style="width: 400px;"&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-6.jpg"&gt;&lt;img alt="/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-6.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-6.thumbnail.jpg" style="width: 400px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-8.jpg"&gt;&lt;img alt="/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-8.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/paseo-literario-por-toledo-fernando-lallana-8.thumbnail.jpg" style="width: 400px;"&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Lectura</category><guid>http://biblioln.es/posts/2018/05/paseo-literario-por-toledo-fernando-lallana.html</guid><pubDate>Fri, 11 May 2018 16:00:00 GMT</pubDate></item><item><title>Ruta por Toledo con el Club de Lectura de 6 de Primaria</title><link>http://biblioln.es/posts/2018/05/ruta-toledo-club-lectura-primaria.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Un grupo de niños del club de lectura de 6º de primaria han viajado a Toledo para hacer una ruta sobre el libro que previamente habían leído: Sofía y el Misterio del Águila Bicéfala.&lt;/p&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Lectura</category><guid>http://biblioln.es/posts/2018/05/paseo-literario-por-toledo-fernando-lallana/</guid><pubDate>Fri, 11 May 2018 16:00:00 GMT</pubDate></item><item><title>Ruta por Toledo con el Club de Lectura de 6 de Primaria</title><link>http://biblioln.es/posts/2018/05/ruta-toledo-club-lectura-primaria/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Un grupo de niños del club de lectura de 6º de primaria han viajado a Toledo para hacer una ruta sobre el libro que previamente habían leído: Sofía y el Misterio del Águila Bicéfala.&lt;/p&gt;
 &lt;p&gt;Nos estaba esperando su autor José Alberto Blanco en la puerta del ayuntamiento, de ahí partimos a visitar los lugares de Toledo por los que habían vivido su aventura Sofía y Miguel buscando las llaves del Águila Bicéfala.&lt;/p&gt;
 &lt;p&gt;Los niños en esta ruta han podido conocer la historia de las puertas de Toledo, del circo romano, y demás lugares de los que José Alberto Blanco les ha ido explicando su historia.&lt;/p&gt;
 &lt;p&gt;Desde el Club de Lectura de 6º de Los Navalmorales te damos las gracias. Ha sido un día estupendo y una ruta muy bonita.&lt;/p&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2018/fotografia-grupo-sexto-primaria-ruta-toledo.jpg"&gt;&lt;img alt="/2018/fotografia-grupo-sexto-primaria-ruta-toledo.thumbnail.jpg" class="align-center" src="http://biblioln.es/2018/fotografia-grupo-sexto-primaria-ruta-toledo.thumbnail.jpg" style="width: 640px;"&gt;&lt;/a&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Lectura</category><guid>http://biblioln.es/posts/2018/05/ruta-toledo-club-lectura-primaria.html</guid><pubDate>Thu, 10 May 2018 18:00:00 GMT</pubDate></item><item><title>Ruta por el Madrid Medieval</title><link>http://biblioln.es/posts/2018/05/ruta-madrid-medieval.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El día 29 de abril el Taller de Lectura ha hecho una ruta por el Madrid Medieval. Nuestro guía ha sido Jesús Bermejo (profesor de literatura). Desde este grupo de lectura queremos dar un aplauso muy grande a este profesor que siempre está dispuesto a enseñarnos lugares e historias sobre Madrid. En esta ocasión nos ha guiado durante tres horas por el Madrid Medieval desafiando a las inclemencias del tiempo.&lt;/p&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/2018/fotografia-grupo-sexto-primaria-ruta-toledo.jpg"&gt;&lt;img alt="/2018/fotografia-grupo-sexto-primaria-ruta-toledo.thumbnail.jpg" class="align-center" src="http://biblioln.es/2018/fotografia-grupo-sexto-primaria-ruta-toledo.thumbnail.jpg" style="width: 640px;"&gt;&lt;/a&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Lectura</category><guid>http://biblioln.es/posts/2018/05/ruta-toledo-club-lectura-primaria/</guid><pubDate>Thu, 10 May 2018 18:00:00 GMT</pubDate></item><item><title>Ruta por el Madrid Medieval</title><link>http://biblioln.es/posts/2018/05/ruta-madrid-medieval/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El día 29 de abril el Taller de Lectura ha hecho una ruta por el Madrid Medieval. Nuestro guía ha sido Jesús Bermejo (profesor de literatura). Desde este grupo de lectura queremos dar un aplauso muy grande a este profesor que siempre está dispuesto a enseñarnos lugares e historias sobre Madrid. En esta ocasión nos ha guiado durante tres horas por el Madrid Medieval desafiando a las inclemencias del tiempo.&lt;/p&gt;
 &lt;p&gt;Muchas gracias Jesús.&lt;/p&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-1.jpg"&gt;&lt;img alt="/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-1.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-1.thumbnail.jpg" style="width: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-2.jpg"&gt;&lt;img alt="/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-2.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-2.thumbnail.jpg" style="width: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-3.jpg"&gt;&lt;img alt="/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-3.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-3.thumbnail.jpg" style="width: 300px;"&gt;&lt;/a&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-9.jpg" class="thumbnail image-reference" title="Ruta madrid medieval 9"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-9.thumbnail.jpg" alt="Ruta madrid medieval 9"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-5.jpg" class="thumbnail image-reference" title="Ruta madrid medieval 5"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-5.thumbnail.jpg" alt="Ruta madrid medieval 5"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-8.jpg" class="thumbnail image-reference" title="Ruta madrid medieval 8"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-8.thumbnail.jpg" alt="Ruta madrid medieval 8"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-4.jpg" class="thumbnail image-reference" title="Ruta madrid medieval 4"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-4.thumbnail.jpg" alt="Ruta madrid medieval 4"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-1.jpg" class="thumbnail image-reference" title="Ruta madrid medieval 1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-1.thumbnail.jpg" alt="Ruta madrid medieval 1"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-3.jpg" class="thumbnail image-reference" title="Ruta madrid medieval 3"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-3.thumbnail.jpg" alt="Ruta madrid medieval 3"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-6.jpg" class="thumbnail image-reference" title="Ruta madrid medieval 6"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-6.thumbnail.jpg" alt="Ruta madrid medieval 6"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-2.jpg" class="thumbnail image-reference" title="Ruta madrid medieval 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-2.thumbnail.jpg" alt="Ruta madrid medieval 2"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-7.jpg" class="thumbnail image-reference" title="Ruta madrid medieval 7"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-7.thumbnail.jpg" alt="Ruta madrid medieval 7"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-4.jpg"&gt;&lt;img alt="/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-4.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-4.thumbnail.jpg" style="width: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-5.jpg"&gt;&lt;img alt="/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-5.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-5.thumbnail.jpg" style="width: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-6.jpg"&gt;&lt;img alt="/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-6.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-6.thumbnail.jpg" style="width: 300px;"&gt;&lt;/a&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Lectura</category><guid>http://biblioln.es/posts/2018/05/ruta-madrid-medieval/</guid><pubDate>Tue, 08 May 2018 17:00:00 GMT</pubDate></item><item><title>Novedades Primavera</title><link>http://biblioln.es/posts/2018/03/novedades-primavera/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Esta primavera un montón de novedades en la biblioteca para niños y adultos.&lt;/p&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/novedades-primavera/3.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/novedades-primavera/3.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/novedades-primavera/1.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/novedades-primavera/1.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/novedades-primavera/4.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/novedades-primavera/4.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/novedades-primavera/2.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/novedades-primavera/2.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-7.jpg"&gt;&lt;img alt="/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-7.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-7.thumbnail.jpg" style="width: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-8.jpg"&gt;&lt;img alt="/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-8.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-8.thumbnail.jpg" style="width: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-9.jpg"&gt;&lt;img alt="/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-9.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/ruta-madrid-medieval/ruta-madrid-medieval-9.thumbnail.jpg" style="width: 300px;"&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Taller de Lectura</category><guid>http://biblioln.es/posts/2018/05/ruta-madrid-medieval.html</guid><pubDate>Tue, 08 May 2018 17:00:00 GMT</pubDate></item><item><title>Novedades Primavera</title><link>http://biblioln.es/posts/2018/03/novedades-primavera.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Esta primavera un montón de novedades en la biblioteca para niños y adultos.&lt;/p&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/novedades-primavera/1.jpg"&gt;&lt;img alt="/galleries/2018/novedades-primavera/1.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/novedades-primavera/1.thumbnail.jpg" style="width: 400px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/novedades-primavera/2.jpg"&gt;&lt;img alt="/galleries/2018/novedades-primavera/2.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/novedades-primavera/2.thumbnail.jpg" style="width: 400px;"&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/novedades-primavera/3.jpg"&gt;&lt;img alt="/galleries/2018/novedades-primavera/3.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/novedades-primavera/3.thumbnail.jpg" style="width: 400px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/novedades-primavera/4.jpg"&gt;&lt;img alt="/galleries/2018/novedades-primavera/4.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/novedades-primavera/4.thumbnail.jpg" style="width: 400px;"&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Libros</category><category>Novedades</category><guid>http://biblioln.es/posts/2018/03/novedades-primavera.html</guid><pubDate>Mon, 26 Mar 2018 20:05:00 GMT</pubDate></item><item><title>Tarde de Poesía en la Biblioteca</title><link>http://biblioln.es/posts/2018/03/tarde-de-poesia.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.png"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Ha sido una tarde muy bonita. María Antonia Ricas nos ha leído sus
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Libros</category><category>Novedades</category><guid>http://biblioln.es/posts/2018/03/novedades-primavera/</guid><pubDate>Mon, 26 Mar 2018 20:05:00 GMT</pubDate></item><item><title>Tarde de Poesía en la Biblioteca</title><link>http://biblioln.es/posts/2018/03/tarde-de-poesia/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Ha sido una tarde muy bonita. María Antonia Ricas nos ha leído sus
 poemas, que hacen referencia a los cuadros de Hopper y nos dan la
 visión de estos a través de su poesía. Su libro: &lt;strong&gt;Salir de un Hopper&lt;/strong&gt;
 nos ha servido para disfrutar de su poesía. Con su inspiración nos
 ha transmitido una visión de estas pinturas.&lt;/p&gt;
 &lt;p&gt;Muchas gracias a la poetisa María Antonia Ricas y al editor Joan
 Gonper (&lt;a class="reference external" href="http://www.editorialcelya.com/"&gt;editorial Celya&lt;/a&gt;).&lt;/p&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.jpg"&gt;&lt;img alt="/galleries/2018/salir-de-un-hopper/1.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/salir-de-un-hopper/2.jpg"&gt;&lt;img alt="/galleries/2018/salir-de-un-hopper/2.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/salir-de-un-hopper/2.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/4.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/4.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/2.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/2.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.png" class="thumbnail image-reference" title="Salir de un hopper"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.thumbnail.png" alt="Salir de un hopper"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.jpg"&gt;&lt;img alt="/galleries/2018/salir-de-un-hopper/3.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/salir-de-un-hopper/4.jpg"&gt;&lt;img alt="/galleries/2018/salir-de-un-hopper/4.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/salir-de-un-hopper/4.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><category>Poesía</category><guid>http://biblioln.es/posts/2018/03/tarde-de-poesia.html</guid><pubDate>Mon, 26 Mar 2018 20:00:00 GMT</pubDate></item><item><title>Encuentro con la escritora Maria Antonia Ricas Peces</title><link>http://biblioln.es/posts/2018/02/encuentro-salir-de-un-hopper.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo día 13 de Marzo a las 18:00 en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales.html#contacto"&gt;La Biblioteca&lt;/a&gt; encuentro con la escritora &lt;strong&gt;María Antonia Ricas Peces&lt;/strong&gt; para hablar de su libro &lt;em&gt;Salir de un Hopper&lt;/em&gt;.&lt;/p&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><category>Poesía</category><guid>http://biblioln.es/posts/2018/03/tarde-de-poesia/</guid><pubDate>Mon, 26 Mar 2018 20:00:00 GMT</pubDate></item><item><title>Encuentro con la escritora Maria Antonia Ricas Peces</title><link>http://biblioln.es/posts/2018/02/encuentro-salir-de-un-hopper/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo día 13 de Marzo a las 18:00 en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales.html#contacto"&gt;La Biblioteca&lt;/a&gt; encuentro con la escritora &lt;strong&gt;María Antonia Ricas Peces&lt;/strong&gt; para hablar de su libro &lt;em&gt;Salir de un Hopper&lt;/em&gt;.&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
 &lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.png"&gt;&lt;img alt="/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.thumbnail.png" src="http://biblioln.es/galleries/2018/salir-de-un-hopper/salir-de-un-hopper.thumbnail.png" style="height: 600px;"&gt;&lt;/a&gt;
 &lt;p class="caption"&gt;13 de Marzo a las 18:00&lt;/p&gt;
 &lt;div class="legend"&gt;
 Encuentro con María Antonia Ricas&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><guid>http://biblioln.es/posts/2018/02/encuentro-salir-de-un-hopper.html</guid><pubDate>Wed, 07 Mar 2018 17:00:00 GMT</pubDate></item><item><title>La Biblioteca en CCM Radio</title><link>http://biblioln.es/posts/2018/02/en-la-radio.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Hace ya casi un mes nos entrevistaron en CCM radio, podéis leer más sobre la entrevista en &lt;a class="reference external" href="http://tierraoral.blogspot.lu/2018/01/esta-semana-en-cmm-radio_16.html?m=1"&gt;el blog de Pep Bruno&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><guid>http://biblioln.es/posts/2018/02/encuentro-salir-de-un-hopper/</guid><pubDate>Wed, 07 Mar 2018 17:00:00 GMT</pubDate></item><item><title>La Biblioteca en CCM Radio</title><link>http://biblioln.es/posts/2018/02/en-la-radio/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Hace ya casi un mes nos entrevistaron en CCM radio, podéis leer más sobre la entrevista en &lt;a class="reference external" href="http://tierraoral.blogspot.lu/2018/01/esta-semana-en-cmm-radio_16.html?m=1"&gt;el blog de Pep Bruno&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;También podéis escuchar el programa &lt;a class="reference external" href="http://www.ivoox.com/23159866"&gt;directamente en ivoox&lt;/a&gt;.&lt;/p&gt;
-&lt;iframe id="audio_23159866" frameborder="0" allowfullscreen="" scrolling="no" height="200" style="border:1px solid #EEE; box-sizing:border-box; width:100%;" src="https://www.ivoox.com/player_ej_23159866_4_1.html?c1=ff6600"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><category>Actividades</category><category>Entrevistas</category><category>Eventos</category><category>Radio</category><guid>http://biblioln.es/posts/2018/02/en-la-radio.html</guid><pubDate>Wed, 07 Feb 2018 17:00:00 GMT</pubDate></item><item><title>Encuentro con el Autor José Alberto Blanco Hernández</title><link>http://biblioln.es/posts/2018/01/encuentro-autor-jose-alberto-blanco-hernandez.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="https://imagessl0.casadellibro.com/a/l/t0/70/9788416005970.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;&lt;a class="reference external" href="http://ceip-sanfranciscolosnavalmorales.centros.castillalamancha.es/"&gt;El Colegio Público San Francisco&lt;/a&gt; y &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales.html"&gt;La Bilbioteca Pública de Los Navalmorales&lt;/a&gt;, hemos coordinado la siguiente actividad:&lt;/p&gt;
+&lt;iframe id="audio_23159866" frameborder="0" allowfullscreen="" scrolling="no" height="200" style="border:1px solid #EEE; box-sizing:border-box; width:100%;" src="https://www.ivoox.com/player_ej_23159866_4_1.html?c1=ff6600"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><category>Actividades</category><category>Entrevistas</category><category>Eventos</category><category>Radio</category><guid>http://biblioln.es/posts/2018/02/en-la-radio/</guid><pubDate>Wed, 07 Feb 2018 17:00:00 GMT</pubDate></item><item><title>Encuentro con el Autor José Alberto Blanco Hernández</title><link>http://biblioln.es/posts/2018/01/encuentro-autor-jose-alberto-blanco-hernandez/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="https://imagessl0.casadellibro.com/a/l/t0/70/9788416005970.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;&lt;a class="reference external" href="http://ceip-sanfranciscolosnavalmorales.centros.castillalamancha.es/"&gt;El Colegio Público San Francisco&lt;/a&gt; y &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales.html"&gt;La Bilbioteca Pública de Los Navalmorales&lt;/a&gt;, hemos coordinado la siguiente actividad:&lt;/p&gt;
 &lt;p&gt;Con un lote de libros de la biblioteca los dos cursos de 6º de primaria han leído: Sofía y el Misterio del Águila Bicéfala (autor José Alberto Blanco Hernández).&lt;/p&gt;
 &lt;p&gt;El día 26 vino el autor al colegio. Los alumnos han tenido un encuentro con el. Tenían preparada una entrevista y habían adornado la sala del Colegio con  unos murales con los dibujos de los personajes de la historia y los distintos monumentos de Toledo que aparecen en este libro.&lt;/p&gt;
 &lt;p&gt;Los alumnos han debatido con el autor sobre las aventuras de Sofía y Miguel de las que tanto han disfrutado.&lt;/p&gt;
@@ -75,36 +194,96 @@ Encuentro con María Antonia Ricas&lt;/div&gt;
 &lt;p&gt;Próximante harermos una ruta por Toledo, recorrermos las calles y los lugares donde sucede esta novela, guiados por su autor: José Alberto Blanco.&lt;/p&gt;
 &lt;p&gt;Dar las gracias a los profesores del Colegio Publico San Francisco por lo que han trabajado en esta actividad.&lt;/p&gt;
 &lt;p&gt;A continuación algunas fotografías:&lt;/p&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/2.jpg"&gt;&lt;img alt="/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/2.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/2.thumbnail.jpg" style="height: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/3.jpg"&gt;&lt;img alt="/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/3.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/3.thumbnail.jpg" style="height: 300px;"&gt;&lt;/a&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/5.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/5.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/4.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/4.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/2.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/2.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/3.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/3.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/4.jpg"&gt;&lt;img alt="/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/4.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/4.thumbnail.jpg" style="height: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/5.jpg"&gt;&lt;img alt="/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/5.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/5.thumbnail.jpg" style="height: 300px;"&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Club de Lectura</category><category>Conferencias</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2018/01/encuentro-autor-jose-alberto-blanco-hernandez.html</guid><pubDate>Thu, 01 Feb 2018 20:30:00 GMT</pubDate></item><item><title>Hora del Cuento</title><link>http://biblioln.es/posts/2018/01/hora-del-cuento.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="https://imagessl9.casadellibro.com/a/l/t0/79/9788426134479.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Este martes les he contado a los niños/niñas de La Hora del Cuento: &lt;a class="reference external" href="http://www.editorialjuventud.es/3447.html"&gt;Por Cuatro Esquinitas de Nada (Jerome Ruillier)&lt;/a&gt;.
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Actividades</category><category>Club de Lectura</category><category>Conferencias</category><category>Taller de Literatura</category><category>Talleres</category><guid>http://biblioln.es/posts/2018/01/encuentro-autor-jose-alberto-blanco-hernandez/</guid><pubDate>Thu, 01 Feb 2018 20:30:00 GMT</pubDate></item><item><title>Hora del Cuento</title><link>http://biblioln.es/posts/2018/01/hora-del-cuento/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="https://imagessl9.casadellibro.com/a/l/t0/79/9788426134479.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Este martes les he contado a los niños/niñas de La Hora del Cuento: &lt;a class="reference external" href="http://www.editorialjuventud.es/3447.html"&gt;Por Cuatro Esquinitas de Nada (Jerome Ruillier)&lt;/a&gt;.
 Cómo cuadradito quiere jugar con los redonditos dentro de la casa y no puede pasar, hay que cortar la puerta.
 Después de la lectura, los niños han hecho unas casitas con los redonditos, cortando las puertas para que pueda pasar cudradito.
 Muchas gracias a las mamás que asisten a la sesión de cuentos y colaboran con la actividad.&lt;/p&gt;
 &lt;p&gt;Aquí teneis las casitas:&lt;/p&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/hora-del-cuento/1.jpg"&gt;&lt;img alt="/galleries/2018/hora-del-cuento/1.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/hora-del-cuento/1.thumbnail.jpg" style="height: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2018/hora-del-cuento/2.jpg"&gt;&lt;img alt="/galleries/2018/hora-del-cuento/2.thumbnail.jpg" class="align-center" src="http://biblioln.es/galleries/2018/hora-del-cuento/2.thumbnail.jpg" style="height: 300px;"&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Hora del Cuento</category><guid>http://biblioln.es/posts/2018/01/hora-del-cuento.html</guid><pubDate>Thu, 01 Feb 2018 20:00:00 GMT</pubDate></item><item><title>Cuentos de Quita Y Pon</title><link>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="cronica-del-evento"&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/hora-del-cuento/2.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/hora-del-cuento/2.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/hora-del-cuento/1.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/hora-del-cuento/1.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Hora del Cuento</category><guid>http://biblioln.es/posts/2018/01/hora-del-cuento/</guid><pubDate>Thu, 01 Feb 2018 20:00:00 GMT</pubDate></item><item><title>Cuentos de Quita Y Pon</title><link>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="cronica-del-evento"&gt;
 &lt;h2&gt;Crónica del Evento&lt;/h2&gt;
 &lt;p&gt;Una tarde de cuentos y actuaciones navideñas en la biblioteca. En primer lugar niños y mayores han disfrutado escuchando a Juan Malabar con sus cuentos de quita y pon.
 A continuación han cantado villancicos loa niños de la hora del cuento, el club de lectura de primero de primaria, el de segundo de primaria y los niños de la bebeteca con su monitora Susana. Muchas gracias a todos, a Susana, y a las mamás porque siempre están dispuestas a colaborar con la biblioteca.&lt;/p&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2017/cuentos-quita-y-pon/cuentacuentos.1.jpg"&gt;&lt;img alt="/2017/cuentos-quita-y-pon/cuentacuentos.1.thumbnail.jpg" class="align-center" src="http://biblioln.es/2017/cuentos-quita-y-pon/cuentacuentos.1.thumbnail.jpg" style="width: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2017/cuentos-quita-y-pon/cuentacuentos.2.jpg"&gt;&lt;img alt="/2017/cuentos-quita-y-pon/cuentacuentos.2.thumbnail.jpg" class="align-center" src="http://biblioln.es/2017/cuentos-quita-y-pon/cuentacuentos.2.thumbnail.jpg" style="width: 300px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2017/cuentos-quita-y-pon/cuentacuentos.3.jpg"&gt;&lt;img alt="/2017/cuentos-quita-y-pon/cuentacuentos.3.thumbnail.jpg" class="align-center" src="http://biblioln.es/2017/cuentos-quita-y-pon/cuentacuentos.3.thumbnail.jpg" style="width: 300px;"&gt;&lt;/a&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.png" class="thumbnail image-reference" title="Cuentos de quita y pon"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.thumbnail.png" alt="Cuentos de quita y pon"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.2.jpg" class="thumbnail image-reference" title="Cuentacuentos 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.2.thumbnail.jpg" alt="Cuentacuentos 2"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.3.jpg" class="thumbnail image-reference" title="Cuentacuentos 3"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.3.thumbnail.jpg" alt="Cuentacuentos 3"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.1.jpg" class="thumbnail image-reference" title="Cuentacuentos 1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.1.thumbnail.jpg" alt="Cuentacuentos 1"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;
 &lt;/div&gt;
 &lt;div class="section" id="informacion-del-evento"&gt;
 &lt;h2&gt;Información del Evento&lt;/h2&gt;
 &lt;p&gt;El próximo día &lt;strong&gt;22 de Diciembre a las 17:00&lt;/strong&gt; nos visitará el &lt;a class="reference external" href="https://juanmalabar.wordpress.com"&gt;Cuentacuentos Juan Malabar&lt;/a&gt; con sus &lt;a class="reference external" href="https://juanmalabar.wordpress.com/los-cuentos/"&gt;Cuentos de Quita y Pon&lt;/a&gt;, cuentos con objetos, títeres y cachivaches.&lt;/p&gt;
 &lt;div class="figure align-center"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.png"&gt;&lt;img alt="/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.thumbnail.png" src="http://biblioln.es/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.thumbnail.png" style="height: 400px;"&gt;&lt;/a&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.png"&gt;&lt;img alt="/galleries/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.thumbnail.png" src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentos-de-quita-y-pon.thumbnail.png" style="height: 400px;"&gt;&lt;/a&gt;
 &lt;p class="caption"&gt;Cuentacuentos Juan Balabar. 22 de Diciembre a las 17:00 en la Biblioteca&lt;/p&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Cuentacuentos</category><category>Eventos</category><guid>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon.html</guid><pubDate>Wed, 27 Dec 2017 19:00:00 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Cuentacuentos</category><category>Eventos</category><guid>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon/</guid><pubDate>Wed, 27 Dec 2017 19:00:00 GMT</pubDate></item></channel></rss>

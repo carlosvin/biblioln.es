@@ -1,11 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Catálogo)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/catalogo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Fri, 11 May 2018 16:39:09 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades de Diciembre</title><link>http://biblioln.es/posts/2017/12/novedades-diciembre-2017.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/images/novedades/novedades.1.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Pásate por la Biblioteca a ver las novedades que tenemos.&lt;/p&gt;
-&lt;div class="inline docutils container"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2017/novedades/novedades.1.jpg"&gt;&lt;img alt="/2017/novedades/novedades.1.thumbnail.jpg" class="align-center" src="http://biblioln.es/2017/novedades/novedades.1.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2017/novedades/novedades.2.jpg"&gt;&lt;img alt="/2017/novedades/novedades.2.thumbnail.jpg" class="align-center" src="http://biblioln.es/2017/novedades/novedades.2.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2017/novedades/novedades.3.jpg"&gt;&lt;img alt="/2017/novedades/novedades.3.thumbnail.jpg" class="align-center" src="http://biblioln.es/2017/novedades/novedades.3.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2017/novedades/novedades.4.jpg"&gt;&lt;img alt="/2017/novedades/novedades.4.thumbnail.jpg" class="align-center" src="http://biblioln.es/2017/novedades/novedades.4.thumbnail.jpg" style="height: 400px;"&gt;&lt;/a&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Catálogo</category><category>Novedades</category><guid>http://biblioln.es/posts/2017/12/novedades-diciembre-2017.html</guid><pubDate>Tue, 05 Dec 2017 19:00:00 GMT</pubDate></item><item><title>Nuevos libros en eBiblio-Castilla-La Mancha</title><link>http://biblioln.es/posts/2016/09/nuevos-libros-en-ebiblio-castilla-la-mancha.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;p&gt;Os informamos que ya están disponibles nuevos títulos de libros electrónicos en eBiblio Castilla-La Mancha, adquiridos por la Viceconsejería de Cultura. Podéis ampliar la información de esta noticia en el Portal de Bibliotecas: &lt;a class="reference external" href="http://reddebibliotecas.jccm.es/portal/index.php/actualidad/noticias/item/4829-nuevos-libros-en-ebiblio-castilla-la-mancha"&gt;http://reddebibliotecas.jccm.es/portal/index.php/actualidad/noticias/item/4829-nuevos-libros-en-ebiblio-castilla-la-mancha&lt;/a&gt;&lt;/p&gt;</description><category>Avisos</category><category>Catálogo</category><category>Enlaces</category><guid>http://biblioln.es/posts/2016/09/nuevos-libros-en-ebiblio-castilla-la-mancha.html</guid><pubDate>Thu, 22 Sep 2016 18:00:00 GMT</pubDate></item><item><title>Novedades Otoño 2015</title><link>http://biblioln.es/posts/2015/10/novedades-otonio-2015.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="book-figure"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Catálogo)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/catalogo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 14 May 2018 19:27:07 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades de Diciembre</title><link>http://biblioln.es/posts/2017/12/novedades-diciembre-2017/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Pásate por la Biblioteca a ver las novedades que tenemos.&lt;/p&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/novedades/novedades.2.jpg" class="thumbnail image-reference" title="Novedades 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/novedades/novedades.2.thumbnail.jpg" alt="Novedades 2"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/novedades/novedades.1.jpg" class="thumbnail image-reference" title="Novedades 1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/novedades/novedades.1.thumbnail.jpg" alt="Novedades 1"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/novedades/novedades.4.jpg" class="thumbnail image-reference" title="Novedades 4"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/novedades/novedades.4.thumbnail.jpg" alt="Novedades 4"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/novedades/novedades.3.jpg" class="thumbnail image-reference" title="Novedades 3"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/novedades/novedades.3.thumbnail.jpg" alt="Novedades 3"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Catálogo</category><category>Novedades</category><guid>http://biblioln.es/posts/2017/12/novedades-diciembre-2017/</guid><pubDate>Tue, 05 Dec 2017 19:00:00 GMT</pubDate></item><item><title>Nuevos libros en eBiblio-Castilla-La Mancha</title><link>http://biblioln.es/posts/2016/09/nuevos-libros-en-ebiblio-castilla-la-mancha/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;p&gt;Os informamos que ya están disponibles nuevos títulos de libros electrónicos en eBiblio Castilla-La Mancha, adquiridos por la Viceconsejería de Cultura. Podéis ampliar la información de esta noticia en el Portal de Bibliotecas: &lt;a class="reference external" href="http://reddebibliotecas.jccm.es/portal/index.php/actualidad/noticias/item/4829-nuevos-libros-en-ebiblio-castilla-la-mancha"&gt;http://reddebibliotecas.jccm.es/portal/index.php/actualidad/noticias/item/4829-nuevos-libros-en-ebiblio-castilla-la-mancha&lt;/a&gt;&lt;/p&gt;</description><category>Avisos</category><category>Catálogo</category><category>Enlaces</category><guid>http://biblioln.es/posts/2016/09/nuevos-libros-en-ebiblio-castilla-la-mancha/</guid><pubDate>Thu, 22 Sep 2016 18:00:00 GMT</pubDate></item><item><title>Novedades Otoño 2015</title><link>http://biblioln.es/posts/2015/10/novedades-otonio-2015/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="book-figure"&gt;
 &lt;div class="book-figure-media"&gt;
 &lt;a class="book-figure-image" href="http://www.casadellibro.com/libro-numeros-saltarines/9788434863019/647643" target="_blank"&gt;
 &lt;img src="http://ecx.images-amazon.com/images/I/31B6ovKHSxL._BO1,204,203,200_.jpg" alt="NUMEROS SALTARINES - KATE LEE, comprar el libro"&gt;
@@ -121,12 +144,12 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;div class="book-figure"&gt;
 &lt;div class="book-figure-media"&gt;
-&lt;a class="book-figure-image" href="http://biblioln.es/posts/2015/10/None" target="_blank"&gt;
-&lt;img src="http://biblioln.es/posts/2015/10/None" alt="None"&gt;
+&lt;a class="book-figure-image" href="http://biblioln.es/posts/2015/10/novedades-otonio-2015/None" target="_blank"&gt;
+&lt;img src="http://biblioln.es/posts/2015/10/novedades-otonio-2015/None" alt="None"&gt;
 &lt;/a&gt;
 &lt;/div&gt;
 &lt;div class="book-figure-content"&gt;
-&lt;a class="book-figure-title" href="http://biblioln.es/posts/2015/10/None" target="_blank"&gt;None&lt;/a&gt;
+&lt;a class="book-figure-title" href="http://biblioln.es/posts/2015/10/novedades-otonio-2015/None" target="_blank"&gt;None&lt;/a&gt;
 
 &lt;table class="book-figure-book-number"&gt;&lt;tbody&gt;
 &lt;tr&gt;
@@ -214,7 +237,7 @@
 &lt;/tbody&gt;&lt;/table&gt;
 
 &lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Catálogo</category><category>Libros</category><category>Novedades</category><guid>http://biblioln.es/posts/2015/10/novedades-otonio-2015.html</guid><pubDate>Mon, 26 Oct 2015 20:00:00 GMT</pubDate></item><item><title>Novedades Literatura Infantil</title><link>http://biblioln.es/posts/2015/04/novedades-literatura-infantil.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;a href="http://www.google.com/search?q=9788444169293"&gt;MY LITTLE PONY: PINKIE PIE Y LA FANTASTICA FIESTA &lt;b&gt;...&lt;/b&gt; - Agapea&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Catálogo</category><category>Libros</category><category>Novedades</category><guid>http://biblioln.es/posts/2015/10/novedades-otonio-2015/</guid><pubDate>Mon, 26 Oct 2015 20:00:00 GMT</pubDate></item><item><title>Novedades Literatura Infantil</title><link>http://biblioln.es/posts/2015/04/novedades-literatura-infantil/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;a href="http://www.google.com/search?q=9788444169293"&gt;MY LITTLE PONY: PINKIE PIE Y LA FANTASTICA FIESTA &lt;b&gt;...&lt;/b&gt; - Agapea&lt;/a&gt;
 &lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788444169293"&gt;9788444169293&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="http://portadas.quorum.t2v.com/6/9/2/9/3/9788444169293.JPG" alt="" width="480"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.google.com/search?q=9788444169286"&gt;MY LITTLE PONY : TWILIGHT SPARKLE Y EL HECHIZO DEL &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
@@ -272,9 +295,9 @@
 &lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/17/9788468309217.jpg" alt="" width="480"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.google.com/search?q=9788420417974"&gt;EL MISTERIO DE LAS MASCARAS VENECIANAS(EL PEQUEÑO &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788420417974"&gt;9788420417974&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/74/9788420417974.jpg" alt="" width="480"&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Catálogo</category><category>Novedades</category><guid>http://biblioln.es/posts/2015/04/novedades-literatura-infantil.html</guid><pubDate>Thu, 23 Apr 2015 22:45:54 GMT</pubDate></item><item><title>eBiblio: Préstamo de Libros Electrónicos</title><link>http://biblioln.es/posts/2014/10/ebiblio-prestamo-de-libros-electronicos.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;a title="eBiblio Castilla-LaMancha" href="http://castillalamancha.ebiblio.es/"&gt;eBiblio Castilla-LaMancha&lt;/a&gt; es un servicio de préstamo de libros electrónicos.
+&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/74/9788420417974.jpg" alt="" width="480"&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Catálogo</category><category>Novedades</category><guid>http://biblioln.es/posts/2015/04/novedades-literatura-infantil/</guid><pubDate>Thu, 23 Apr 2015 22:45:54 GMT</pubDate></item><item><title>eBiblio: Préstamo de Libros Electrónicos</title><link>http://biblioln.es/posts/2014/10/ebiblio-prestamo-de-libros-electronicos/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;a title="eBiblio Castilla-LaMancha" href="http://castillalamancha.ebiblio.es/"&gt;eBiblio Castilla-LaMancha&lt;/a&gt; es un servicio de préstamo de libros electrónicos.
 &lt;p&gt;&lt;a href="http://biblioln.es/wp-content/uploads/como-usar-ebiblio.pdf"&gt;Manual de cómo usar ebiblio (PDF)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://biblioln.es/wp-content/uploads/cartel_ebiblio_a4-page-001.jpg" target="_blank"&gt;&lt;img class="aligncenter wp-image-1037 size-medium" src="http://biblioln.es/wp-content/uploads/cartel_ebiblio_a4-page-001-212x300.jpg" alt="cartel_ebiblio_a4-page-001" width="212" height="300"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Catálogo</category><guid>http://biblioln.es/posts/2014/10/ebiblio-prestamo-de-libros-electronicos.html</guid><pubDate>Wed, 15 Oct 2014 13:04:29 GMT</pubDate></item><item><title>Nuevas Adquisiciones</title><link>http://biblioln.es/posts/2014/08/nuevas-adquisiciones-2.html</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;h4&gt;JUEGOS DEL HAMBRE 3: SINSAJO&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://biblioln.es/wp-content/uploads/cartel_ebiblio_a4-page-001.jpg" target="_blank"&gt;&lt;img class="aligncenter wp-image-1037 size-medium" src="http://biblioln.es/wp-content/uploads/cartel_ebiblio_a4-page-001-212x300.jpg" alt="cartel_ebiblio_a4-page-001" width="212" height="300"&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Catálogo</category><guid>http://biblioln.es/posts/2014/10/ebiblio-prestamo-de-libros-electronicos/</guid><pubDate>Wed, 15 Oct 2014 13:04:29 GMT</pubDate></item><item><title>Nuevas Adquisiciones</title><link>http://biblioln.es/posts/2014/08/nuevas-adquisiciones-2/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;h4&gt;JUEGOS DEL HAMBRE 3: SINSAJO&lt;/h4&gt;
 &lt;h5&gt;SUZANNE COLLINS&lt;/h5&gt;
 
 &lt;p&gt;&lt;img class="img-shadow" title="JUEGOS DEL HAMBRE 3: SINSAJO SUZANNE COLLINS" src="http://image.casadellibro.com/a/l/t3/46/9788427202146.jpg" alt="JUEGOS DEL HAMBRE 3: SINSAJO SUZANNE COLLINS" width="75" height="115"&gt;&lt;/p&gt;
@@ -395,4 +418,4 @@
 &lt;h5&gt;CAMILLA LACKBERG&lt;/h5&gt;
 
 &lt;p&gt;&lt;img class="mrg_r" src="http://multimedia.fnac.com/multimedia/ES/images_produits/ES/Grandes90_100/7/8/3/9788415893387.gif" alt="La mirada de los ángeles"&gt;&lt;/p&gt;
-&lt;p&gt;Cuando ya lo has perdido todo, puede que alguien quiera destruirte también a ti.Tras la muerte accidental de su hijo pequeño, Ebba y Mårten se trasladan a la isla de Valö para rehacer su vida...&lt;/p&gt;&lt;/div&gt;</description><category>Catálogo</category><category>La Biblioteca</category><category>Novedades</category><guid>http://biblioln.es/posts/2014/08/nuevas-adquisiciones-2.html</guid><pubDate>Wed, 06 Aug 2014 12:37:19 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Cuando ya lo has perdido todo, puede que alguien quiera destruirte también a ti.Tras la muerte accidental de su hijo pequeño, Ebba y Mårten se trasladan a la isla de Valö para rehacer su vida...&lt;/p&gt;&lt;/div&gt;</description><category>Catálogo</category><category>La Biblioteca</category><category>Novedades</category><guid>http://biblioln.es/posts/2014/08/nuevas-adquisiciones-2/</guid><pubDate>Wed, 06 Aug 2014 12:37:19 GMT</pubDate></item></channel></rss>
