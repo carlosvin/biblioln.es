@@ -579,7 +579,7 @@ CONTENT_FOOTER_FORMATS = {
 # systems.  The following comment systems are supported by Nikola:
 #   disqus, facebook, googleplus, intensedebate, isso, livefyre, muut
 # You can leave this option blank to disable comments.
-COMMENT_SYSTEM = "facebook"
+# COMMENT_SYSTEM = "facebook"
 # And you also need to add your COMMENT_SYSTEM_ID which
 # depends on what comment system you use. The default is
 # "nikolademo" which is a test account for Disqus. More information
@@ -708,7 +708,8 @@ COMMENT_SYSTEM_ID = "biblioln"
 # <script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f7088a56bb93798"></script>
 # <!-- End of social buttons -->
 # """
-SOCIAL_BUTTONS_CODE = """<!-- Go to www.addthis.com/dashboard to customize your tools -->
+SOCIAL_BUTTONS_CODE = """
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ec7029a5c9222a6" async="async"></script>
 """
 
