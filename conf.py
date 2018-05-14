@@ -88,7 +88,7 @@ NAVIGATION_LINKS = {
 
 
 # Name of the theme to use.
-THEME = "def"
+THEME = "bootblog4"
 
 # Below this point, everything is optional
 
@@ -427,7 +427,7 @@ REDIRECTIONS = [["2014/04/dia-del-libro-2014/index.html", "/posts/2014/04/dia-de
 # More gallery options:
 # THUMBNAIL_SIZE = 180
 # MAX_IMAGE_SIZE = 1280
-# USE_FILENAME_AS_TITLE = True
+USE_FILENAME_AS_TITLE = True
 # EXTRA_IMAGE_EXTENSIONS = []
 #
 # If set to False, it will sort by filename instead. Defaults to True
@@ -769,9 +769,6 @@ SEARCH_FORM = """
 <div class="form-group">
 <input type="text" name="q" class="form-control" placeholder="Search"/>
 </div>
-<button type="submit" class="btn btn-primary">
-	<span class="glyphicon glyphicon-search"></span>
-</button>
 <input type="hidden" name="sitesearch" value="%s"/>
 </form>
 """ % SITE_URL
@@ -833,7 +830,7 @@ alt="shopify site analytics"></a></div></noscript>
 
 # If you hate "Filenames with Capital Letters and Spaces.md", you should
 # set this to true.
-UNSLUGIFY_TITLES = True
+FILE_METADATA_UNSLUGIFY_TITLES = True
 
 # Additional metadata that is added to a post when creating a new_post
 # ADDITIONAL_METADATA = {}

@@ -13,15 +13,4 @@ Muchas gracias a las mamás que asisten a la sesión de cuentos y colaboran con 
 
 Aquí teneis las casitas:
 
-
-.. container:: inline
-
-    .. thumbnail:: /galleries/2018/hora-del-cuento/1.jpg
-        :height: 300px
-        :align: center
-        :target: /galleries/2018/hora-del-cuento/1.jpg
-
-    .. thumbnail:: /galleries/2018/hora-del-cuento/2.jpg
-        :height: 300px
-        :align: center
-        :target: /galleries/2018/hora-del-cuento/2.jpg
+.. gallery:: 2018/hora-del-cuento

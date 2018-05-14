@@ -11,20 +11,4 @@ Previamente habíamos leído este libro en El Taller de Lectura. Desde este grup
 
 La presentación de este acto ha sido realizada por su hermano Jesús Bermejo profesor de lengua y literatura, siempre dispuesto a colaborar con este grupo de lectura.
 
-.. container:: inline
-
-    .. thumbnail:: /galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.1.jpg
-        :height: 300px
-        :align: center
-        :target: /galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.1.jpg
-
-    .. thumbnail:: /galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.2.jpg
-        :height: 300px
-        :align: center
-        :target: /galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.2.jpg
-
-    .. thumbnail:: /galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.png
-        :height: 400px
-        :align: center
-        :target: /galleries/2017/conferencia-el-extranjero/conferencia-el-extranjero.png
-
+.. gallery:: 2017/conferencia-el-extranjero

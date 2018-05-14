@@ -15,26 +15,4 @@ ha transmitido una visión de estas pinturas.
 Muchas gracias a la poetisa María Antonia Ricas y al editor Joan
 Gonper (`editorial Celya <http://www.editorialcelya.com/>`_).
 
-.. container:: inline
-
-    .. thumbnail:: /galleries/2018/salir-de-un-hopper/1.jpg
-        :height: 400px
-        :align: center
-        :target: /galleries/2018/salir-de-un-hopper/1.jpg
-
-    .. thumbnail:: /galleries/2018/salir-de-un-hopper/2.jpg
-        :height: 400px
-        :align: center
-        :target: /galleries/2018/salir-de-un-hopper/2.jpg
-
-.. container:: inline
-
-    .. thumbnail:: /galleries/2018/salir-de-un-hopper/3.jpg
-        :height: 400px
-        :align: center
-        :target: /galleries/2018/salir-de-un-hopper/3.jpg
-
-    .. thumbnail:: /galleries/2018/salir-de-un-hopper/4.jpg
-        :height: 400px
-        :align: center
-        :target: /galleries/2018/salir-de-un-hopper/4.jpg
+.. gallery:: 2018/salir-de-un-hopper

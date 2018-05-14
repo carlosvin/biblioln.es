@@ -21,27 +21,4 @@ Dar las gracias a los profesores del Colegio Publico San Francisco por lo que ha
 
 A continuación algunas fotografías:
 
-
-.. container:: inline
-
-    .. thumbnail:: /galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/2.jpg
-        :height: 300px
-        :align: center
-        :target: /galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/2.jpg
-
-    .. thumbnail:: /galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/3.jpg
-        :height: 300px
-        :align: center
-        :target: /galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/3.jpg
-
-.. container:: inline
-
-    .. thumbnail:: /galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/4.jpg
-        :height: 300px
-        :align: center
-        :target: /galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/4.jpg
-
-    .. thumbnail:: /galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/5.jpg
-        :height: 300px
-        :align: center
-        :target: /galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/5.jpg
+.. gallery:: 2018/encuentro-autor-jose-alberto-blanco-hernandez
