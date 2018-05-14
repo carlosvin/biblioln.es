@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Cuentacuentos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/cuentacuentos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 14 May 2018 19:20:10 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Cuentos de Quita Y Pon</title><link>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="cronica-del-evento"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Cuentacuentos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/cuentacuentos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 14 May 2018 20:39:50 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Cuentos de Quita Y Pon</title><link>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="cronica-del-evento"&gt;
 &lt;h2&gt;Crónica del Evento&lt;/h2&gt;
 &lt;p&gt;Una tarde de cuentos y actuaciones navideñas en la biblioteca. En primer lugar niños y mayores han disfrutado escuchando a Juan Malabar con sus cuentos de quita y pon.
 A continuación han cantado villancicos loa niños de la hora del cuento, el club de lectura de primero de primaria, el de segundo de primaria y los niños de la bebeteca con su monitora Susana. Muchas gracias a todos, a Susana, y a las mamás porque siempre están dispuestas a colaborar con la biblioteca.&lt;/p&gt;
@@ -13,11 +13,6 @@ A continuación han cantado villancicos loa niños de la hora del cuento, el clu
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.2.jpg" class="thumbnail image-reference" title="Cuentacuentos 2"&gt;
-            &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.2.thumbnail.jpg" alt="Cuentacuentos 2"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.3.jpg" class="thumbnail image-reference" title="Cuentacuentos 3"&gt;
             &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.3.thumbnail.jpg" alt="Cuentacuentos 3"&gt;
         &lt;/a&gt;
@@ -25,6 +20,11 @@ A continuación han cantado villancicos loa niños de la hora del cuento, el clu
     &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.1.jpg" class="thumbnail image-reference" title="Cuentacuentos 1"&gt;
             &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.1.thumbnail.jpg" alt="Cuentacuentos 1"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.2.jpg" class="thumbnail image-reference" title="Cuentacuentos 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.2.thumbnail.jpg" alt="Cuentacuentos 2"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;

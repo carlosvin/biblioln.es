@@ -1,0 +1,9 @@
+ul.thumbnails {
+  display: none;
+}
+
+.thumbnail > img {
+  padding: 0.2em;
+  margin: 0.4em;
+  border: 1px #ccc solid;
+}
