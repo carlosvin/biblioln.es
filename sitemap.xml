@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://biblioln.es/</loc>
-  <lastmod>2018-05-14T20:39:00Z</lastmod>
+  <lastmod>2018-05-14T21:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/2011/</loc>
@@ -559,7 +559,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2018-05-14T21:10:00Z</lastmod>
+  <lastmod>2018-05-31T21:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/</loc>
@@ -802,10 +802,6 @@
   <lastmod>2018-05-14T20:39:00Z</lastmod>
  </url>
  <url>
-  <loc>http://biblioln.es/descarga.html</loc>
-  <lastmod>2018-03-26T17:08:00Z</lastmod>
- </url>
- <url>
   <loc>http://biblioln.es/galleries/</loc>
   <lastmod>2018-05-14T20:39:00Z</lastmod>
  </url>
@@ -1015,7 +1011,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-20.html</loc>
-  <lastmod>2018-05-14T21:10:00Z</lastmod>
+  <lastmod>2018-05-31T21:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-3.html</loc>
@@ -1868,6 +1864,10 @@
  <url>
   <loc>http://biblioln.es/posts/2018/03/tarde-de-poesia/</loc>
   <lastmod>2018-05-14T20:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2018/05/horario-durante-vacaciones/</loc>
+  <lastmod>2018-05-31T21:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2018/05/paseo-literario-por-toledo-fernando-lallana/</loc>
