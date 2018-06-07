@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2018-05-14T20:39:00Z</lastmod>
+  <lastmod>2018-06-07T19:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/agradecimientos.xml</loc>
@@ -115,7 +115,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2018-06-02T17:06:00Z</lastmod>
+  <lastmod>2018-06-07T19:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/formacion.xml</loc>
@@ -203,7 +203,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-lectura.xml</loc>
-  <lastmod>2018-05-14T20:39:00Z</lastmod>
+  <lastmod>2018-06-07T19:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
@@ -366,6 +366,10 @@
   <lastmod>2018-05-14T21:10:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2018/la-lechuza-detective/rss.xml</loc>
+  <lastmod>2018-06-07T19:19:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/2018/novedades-primavera/rss.xml</loc>
   <lastmod>2018-05-14T21:10:00Z</lastmod>
  </sitemap>
@@ -403,10 +407,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2018-06-02T17:06:00Z</lastmod>
+  <lastmod>2018-06-07T19:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2018-06-02T17:06:00Z</lastmod>
+  <lastmod>2018-06-07T19:19:00Z</lastmod>
  </sitemap>
 </sitemapindex>
