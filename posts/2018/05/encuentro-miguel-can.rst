@@ -8,5 +8,5 @@
 
 Los niños de primaria del `Colegio Público San Francisco <http://ceip-sanfranciscolosnavalmorales.centros.castillalamancha.es/>`_ han leído el libro de `La Lechuza Detective <https://blog.anayainfantilyjuvenil.es/wp1/?tag=lechuza-detective>`_. El día 5 de junio van a poder preguntar a `Miguel Can <https://blog.anayainfantilyjuvenil.es/wp1/?tag=miguel-can>`_ más cosas sobre Carla Ventura la mejor detective mundial.
 
-.. thumbnail:: /galleries/2018/la-lechuza-detective.png
+.. thumbnail:: /galleries/2018/la-lechuza-detective/la-lechuza-detective.png
    :align: center
