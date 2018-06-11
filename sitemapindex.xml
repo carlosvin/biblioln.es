@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2018-06-07T19:23:00Z</lastmod>
+  <lastmod>2018-06-11T19:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/agradecimientos.xml</loc>
@@ -87,7 +87,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/dia-del-libro.xml</loc>
-  <lastmod>2018-05-14T20:39:00Z</lastmod>
+  <lastmod>2018-06-11T19:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/dibujos.xml</loc>
@@ -115,7 +115,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2018-06-07T19:21:00Z</lastmod>
+  <lastmod>2018-06-11T19:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/formacion.xml</loc>
@@ -203,7 +203,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-lectura.xml</loc>
-  <lastmod>2018-06-07T19:23:00Z</lastmod>
+  <lastmod>2018-06-11T19:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
@@ -358,6 +358,10 @@
   <lastmod>2018-06-07T19:24:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2018/dia-del-libro/rss.xml</loc>
+  <lastmod>2018-06-11T19:21:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/rss.xml</loc>
   <lastmod>2018-06-07T19:24:00Z</lastmod>
  </sitemap>
@@ -407,10 +411,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2018-06-07T19:23:00Z</lastmod>
+  <lastmod>2018-06-11T19:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2018-06-07T19:24:00Z</lastmod>
+  <lastmod>2018-06-11T19:21:00Z</lastmod>
  </sitemap>
 </sitemapindex>

@@ -559,7 +559,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2018-06-07T19:24:00Z</lastmod>
+  <lastmod>2018-06-11T19:21:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/</loc>
@@ -923,7 +923,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2018/</loc>
-  <lastmod>2018-06-07T19:19:00Z</lastmod>
+  <lastmod>2018-06-11T19:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/galleries/2018/dia-del-libro/</loc>
+  <lastmod>2018-06-11T19:21:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/</loc>
@@ -1015,7 +1019,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-20.html</loc>
-  <lastmod>2018-06-07T19:24:00Z</lastmod>
+  <lastmod>2018-06-11T19:21:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-3.html</loc>
@@ -1888,6 +1892,10 @@
  <url>
   <loc>http://biblioln.es/posts/2018/05/ruta-toledo-club-lectura-primaria/</loc>
   <lastmod>2018-05-14T20:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2018/06/dia-del-libro/</loc>
+  <lastmod>2018-06-11T19:21:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2018/06/encuentro-miguel-can-cronica/</loc>
