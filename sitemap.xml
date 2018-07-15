@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://biblioln.es/</loc>
-  <lastmod>2018-05-14T21:20:00Z</lastmod>
+  <lastmod>2018-07-15T18:27:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/2011/</loc>
@@ -555,11 +555,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/2018/</loc>
-  <lastmod>2018-06-07T19:23:00Z</lastmod>
+  <lastmod>2018-07-15T18:26:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2018-07-04T17:34:00Z</lastmod>
+  <lastmod>2018-07-15T18:27:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/</loc>
@@ -1019,7 +1019,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-20.html</loc>
-  <lastmod>2018-07-04T17:34:00Z</lastmod>
+  <lastmod>2018-07-15T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/index-21.html</loc>
+  <lastmod>2018-07-15T18:27:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-3.html</loc>
@@ -1900,6 +1904,10 @@
  <url>
   <loc>http://biblioln.es/posts/2018/06/encuentro-miguel-can-cronica/</loc>
   <lastmod>2018-06-07T19:19:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2018/07/este-verano-contamos-cuentos/</loc>
+  <lastmod>2018-07-15T18:26:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2018/07/horario-verano/</loc>

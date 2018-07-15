@@ -31,7 +31,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/biblioteca.xml</loc>
-  <lastmod>2018-07-04T17:34:00Z</lastmod>
+  <lastmod>2018-07-04T17:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/catalogo.xml</loc>
@@ -39,7 +39,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/centro-de-internet.xml</loc>
-  <lastmod>2018-07-04T17:34:00Z</lastmod>
+  <lastmod>2018-07-04T17:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/club-de-lectura.xml</loc>
@@ -115,7 +115,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2018-06-11T19:24:00Z</lastmod>
+  <lastmod>2018-07-15T18:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/formacion.xml</loc>
@@ -131,7 +131,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/horarios.xml</loc>
-  <lastmod>2018-07-04T17:34:00Z</lastmod>
+  <lastmod>2018-07-04T17:43:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/informatica.xml</loc>
@@ -411,10 +411,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2018-07-04T17:34:00Z</lastmod>
+  <lastmod>2018-07-15T18:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2018-07-04T17:34:00Z</lastmod>
+  <lastmod>2018-07-15T18:27:00Z</lastmod>
  </sitemap>
 </sitemapindex>
