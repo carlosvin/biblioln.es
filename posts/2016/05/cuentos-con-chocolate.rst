@@ -8,9 +8,8 @@ El libro será presentado en La Biblioteca por su autora **Susana Hidalgo Arenas
 
 El evento tendrá lugar el 10 de Junio a las 20:00 h en `La Biblioteca`_.
 
-.. slides::
-
-   /2016/05/el_ultimo_holocausto_europeo.png
+.. thumbnail:: /2016/05/el_ultimo_holocausto_europeo.png
+    :align: center
 
 
 `El cartel en PDF`_.

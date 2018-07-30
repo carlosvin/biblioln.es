@@ -18,9 +18,4 @@ Han asistido 45 niñ@s.
 
 A continuación `algunas fotografías de las actividades <link://gallery/2016/dia-del-libro>`_:
 
-.. slides::
-
-   /galleries/2016/dia-del-libro/dia_del_libro_2016_1.jpg
-   /galleries/2016/dia-del-libro/dia_del_libro_2016_2.jpg
-   /galleries/2016/dia-del-libro/dia_del_libro_2016_3.jpg
-   /galleries/2016/dia-del-libro/dia_del_libro_2016_5.jpg
+.. gallery:: 2016/dia-del-libro

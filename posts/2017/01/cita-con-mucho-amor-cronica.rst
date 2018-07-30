@@ -1,10 +1,10 @@
-.. title: Crónica del Encuentro con la escritora Almudena María Puebla 
+.. title: Crónica del Encuentro con la escritora Almudena María Puebla
 .. slug: cita-con-mucho-amor-cronica
 .. date: 2017-02-20 18:00
 .. tags: Talleres, Actividades, Taller de Literatura, Crónica
 .. description: Crónica del Encuentro con la escritora Almudena María Puebla 
 .. type: micro
-.. previewimage: /2017/cita-con-mucho-amor.png
+.. previewimage: /galleries/2017/cita-con-mucho-amor.png
 
 Ha sido estupendo tener  esta tarde en la biblioteca a Almudena Maria Puebla. 
 
@@ -16,10 +16,4 @@ Escuchar a la autora recitar sus poemas y hablarnos sobre ellos ha sido un place
 
 A continuación unas fotos.
 
-.. slides::
-
-  /galleries/2017/cita-con-mucho-amor-cronica/cita-con-mucho-amor-cronica1.jpg
-  /galleries/2017/cita-con-mucho-amor-cronica/cita-con-mucho-amor-cronica2.jpg
-  /galleries/2017/cita-con-mucho-amor-cronica/cita-con-mucho-amor-cronica3.jpg
-  /galleries/2017/cita-con-mucho-amor-cronica/cita-con-mucho-amor-cronica4.jpg
-  /2017/cita-con-mucho-amor.png
+.. gallery:: 2017/cita-con-mucho-amor-cronica

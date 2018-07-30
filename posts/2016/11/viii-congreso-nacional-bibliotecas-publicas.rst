@@ -9,8 +9,4 @@ Los días 16 y 17 de octubre ha tenido lugar en Toledo el VIII Congreso Nacional
 
 `Algunas fotografías <link://gallery/2016/viii-congreso-nacional-bibliotecas-publicas>`_.
 
-.. slides::
-
-  /galleries/2016/viii-congreso-nacional-bibliotecas-publicas/viii-congreso-nacional-bibliotecas-publicas.1.jpg
-  /galleries/2016/viii-congreso-nacional-bibliotecas-publicas/viii-congreso-nacional-bibliotecas-publicas.2.jpg
-  /galleries/2016/viii-congreso-nacional-bibliotecas-publicas/viii-congreso-nacional-bibliotecas-publicas.3.jpg
+.. gallery:: 2016/viii-congreso-nacional-bibliotecas-publicas

@@ -17,6 +17,6 @@ Presentamos la conferencia **Criminalística y Criminología** que será imparti
 
 Tendrá lugar en La Biblioteca el 27 de Enero a las 6:00pm.
 
-.. slides::
-
-  /galleries/2017/conferencia-criminologia/conferencia-criminologia.cartel.png
+.. thumbnail:: /galleries/2017/conferencia-criminologia/conferencia-criminologia.cartel.png
+  :align: center
+  

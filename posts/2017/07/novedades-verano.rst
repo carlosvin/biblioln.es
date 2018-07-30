@@ -6,7 +6,4 @@
 .. type: micro
 
 
-.. slides::
-    /galleries/2017/novedades-verano/novedades-verano1.jpg
-    /galleries/2017/novedades-verano/novedades-verano2.jpg
-    /galleries/2017/novedades-verano/novedades-verano3.jpg
+.. gallery:: 2017/novedades-verano

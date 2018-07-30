@@ -11,10 +11,9 @@ El próximo día 22 de Diciembre en la Biblioteca a las 18 horas, se hará entre
 - Están participando en esta actividad 20 niños de educación primaria, tenemos 20 cofres con las fichas de los libros  que han ido leyendo.
 - El día 22 las contaremos y el que más haya leído se llevará el premio, que será un juego educativo.
 
-.. slides::
+.. thumbnail:: /2015/12/premio-al-mejor-lector.jpg
 
-  /2015/12/premio-al-mejor-lector.jpg
-  /2015/10/mejor-lector-2015.png
+.. thumbnail::  /2015/10/mejor-lector-2015.png
 
 .. previewimage: /2015/10/mejor-lector-2015.png
 

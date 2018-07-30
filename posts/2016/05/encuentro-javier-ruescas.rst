@@ -9,10 +9,4 @@ Hemos ido, de Los Navalmorales, 19 niñ@s de los  3 clubes de lectura que tenemo
 
 A continuación `algunas fotografías <link://gallery/2016/encuentro-javier-ruescas>`_:
 
-.. slides::
-
-   /galleries/2016/encuentro-javier-ruescas/javier_ruescas1.jpg
-   /galleries/2016/encuentro-javier-ruescas/javier_ruescas2.jpg
-   /galleries/2016/encuentro-javier-ruescas/javier_ruescas3.jpg
-   /galleries/2016/encuentro-javier-ruescas/javier_ruescas4.jpg
-   /galleries/2016/encuentro-javier-ruescas/javier_ruescas5.jpg
+.. gallery:: 2016/encuentro-javier-ruescas

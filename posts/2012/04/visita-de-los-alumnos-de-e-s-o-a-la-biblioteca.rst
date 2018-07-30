@@ -4,12 +4,4 @@
 .. tags: Fotos,La Biblioteca,Visitas
 .. description: Visita de los Alumnos de ESO a la Biblioteca
 
-.. slides::
-
-	/galleries/2012/Visita de los alumnos de la ESO/P3020699.JPG
-	/galleries/2012/Visita de los alumnos de la ESO/P3020701.JPG
-	/galleries/2012/Visita de los alumnos de la ESO/P3050705.JPG
-	/galleries/2012/Visita de los alumnos de la ESO/P3090710.JPG
-	/galleries/2012/Visita de los alumnos de la ESO/P3020700.JPG
-	/galleries/2012/Visita de los alumnos de la ESO/P3020702.JPG
-	/galleries/2012/Visita de los alumnos de la ESO/P3050706.JPG
+.. gallery:: 2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca
