@@ -10,6 +10,5 @@ Encuentro con la escritora Almudena María Puebla, disfrutaremos con los poemas 
 
 Tendrá lugar el día 10 de Febrero a las 17:30 en la Biblioteca. 
 
-.. slides::
-
-  /2017/cita-con-mucho-amor.png
+.. thumbnail:: /2017/cita-con-mucho-amor.png
+  :align: center

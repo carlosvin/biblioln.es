@@ -21,7 +21,4 @@ Después de leer en el Taller de Literatura a Mariano José de Larra, contar con
 
 Con este acto hemos cerrado este curso del Taller de Literatura. El mes de octubre comenzaremos el nuevo curso: 2017-2018.
 
-.. slides::
-  /galleries/2017/conferencia-larra/la1.jpg  
-  /galleries/2017/conferencia-larra/la2.jpg  
-  /galleries/2017/conferencia-larra/la3.jpg
+.. gallery:: 2017/conferencia-larra

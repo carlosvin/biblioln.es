@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Eventos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/eventos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Sun, 15 Jul 2018 18:27:21 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Este verano contamos cuentos</title><link>http://biblioln.es/posts/2018/07/este-verano-contamos-cuentos/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Este verano, en la Biblioteca, los Martes a las 20:00 contamos cuentos.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Eventos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/eventos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 30 Jul 2018 20:30:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Este verano contamos cuentos</title><link>http://biblioln.es/posts/2018/07/este-verano-contamos-cuentos/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Este verano, en la Biblioteca, los Martes a las 20:00 contamos cuentos.&lt;/p&gt;
 &lt;p&gt;Esta actividad esta dirigida a niñas y niños de 3 a 6 años.&lt;/p&gt;
 &lt;a class="reference external image-reference" href="http://biblioln.es/2018/este-verano-contamos-cuentos.png"&gt;&lt;img alt='Poster sobre el evento "Este verano contamos cuentos"' class="align-center" src="http://biblioln.es/2018/este-verano-contamos-cuentos.thumbnail.png"&gt;&lt;/a&gt;&lt;/div&gt;</description><category>Eventos</category><guid>http://biblioln.es/posts/2018/07/este-verano-contamos-cuentos/</guid><pubDate>Sun, 15 Jul 2018 17:00:00 GMT</pubDate></item><item><title>Crónica de la celebracion del Dia del Libro 2018</title><link>http://biblioln.es/posts/2018/06/dia-del-libro/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Este año durante el mes de abril y mayo ha habido diferentes actos con motivo de la celebración del Día del Libro.
 Visitas escolares, tanto del &lt;a class="reference external" href="http://ceip-sanfranciscolosnavalmorales.centros.castillalamancha.es/"&gt;Colegio Público San Francisco&lt;/a&gt;, como del &lt;a class="reference external" href="http://ies-losnavalmorales.centros.castillalamancha.es/"&gt;IES de Los Navalmorales&lt;/a&gt;.
@@ -158,29 +158,44 @@ A continuación han cantado villancicos loa niños de la hora del cuento, el clu
 &lt;p class="caption"&gt;Cuentacuentos Juan Balabar. 22 de Diciembre a las 17:00 en la Biblioteca&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Cuentacuentos</category><category>Eventos</category><guid>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon/</guid><pubDate>Wed, 27 Dec 2017 19:00:00 GMT</pubDate></item><item><title>Conferencia de Tratamientos Psiquiátricos y Psicológicos</title><link>http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El pasado 5 de Febrero tuvo lugar en &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales/contacto.html"&gt;La Biblioteca&lt;/a&gt; la conferencia "Tratamientos Psiquiátricos y Psicológicos" impartida por Julio Sáez Martínez (Psicólogo del Dpto. Investigación Criminal de la Guardia Civil).&lt;/p&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 3)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. slides::
 
-  /2016/02/conferencia-tratamientos-psiquiatricos.jpg
-  /2016/02/conferencia-tratamientos-psiquiatricos.1.jpg
-
-&lt;/pre&gt;
+&lt;div id="slides_3ede0d0f82bc403389910450813fcff0" class="carousel slide"&gt;
+    &lt;ol class="carousel-indicators"&gt;
+            &lt;li data-target="#slides_3ede0d0f82bc403389910450813fcff0" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_3ede0d0f82bc403389910450813fcff0" data-slide-to="1"&gt;
+    &lt;/li&gt;&lt;/ol&gt;
+    &lt;div class="carousel-inner"&gt;
+                &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2016/02/conferencia-tratamientos-psiquiatricos.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+                &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2016/02/conferencia-tratamientos-psiquiatricos.1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos/#slides_3ede0d0f82bc403389910450813fcff0" data-slide="prev"&gt;‹&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos/#slides_3ede0d0f82bc403389910450813fcff0" data-slide="next"&gt;›&lt;/a&gt;
 &lt;/div&gt;
+
 &lt;!-- previewimage: /2016/02/conferencia-tratamientos-psiquiatricos.jpg --&gt;&lt;/div&gt;</description><category>Actividades</category><category>Conferencias</category><category>Eventos</category><guid>http://biblioln.es/posts/2016/02/conferencia-tratamientos-psiquiatricos-psicologicos/</guid><pubDate>Fri, 12 Feb 2016 18:00:00 GMT</pubDate></item><item><title>Encuentro con Nieves Herrero en Castillo de Bayuela</title><link>http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Los componentes del  Taller de Literatura, hemos asistido  a la presentación del último libro de Nieves Herrero, &lt;a class="reference external" href="http://www.esferalibros.com/libro/como-si-no-hubiera-un-manana/"&gt;Como si no hubiera un mañana&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;La presentación ha sido en &lt;a class="reference external" href="https://www.google.lu/maps/place/Castillo+de+Bayuela,+Toledo,+Spain/data=!4m2!3m1!1s0xd403c52c7262173:0x433e166af2a6ac58?sa=X&amp;amp;ved=0ahUKEwjhhoXH6KnJAhUE2RoKHagaBfEQ8gEIeDAN"&gt;Castillo de Bayuela&lt;/a&gt;, donde hemos pasado una tarde estupenda. En el pueblo nos han recibido muy bien, hemos visitado el mercado de artesanía.  Seguidamente hemos asistido a la presentación del libro, el acto ha estado muy bien, Nieves Herrero nos ha hablado de Luis Miguel Dominguin y Ava Gardner, que son los protagonistas de este libro.&lt;/p&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 5)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. slides::
 
-  /2015/12/encuentro-nieves-herrero.jpg
-  /2015/12/encuentro-nieves-herrero-2.jpg
-  /2015/11/nieves_herrero.png
 
-&lt;/pre&gt;
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2015/encuentro-nieves-herrero/encuentro-nieves-herrero-2.jpg" class="thumbnail image-reference" title="Encuentro nieves herrero 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2015/encuentro-nieves-herrero/encuentro-nieves-herrero-2.thumbnail.jpg" alt="Encuentro nieves herrero 2"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2015/encuentro-nieves-herrero/premio-al-mejor-lector.jpg" class="thumbnail image-reference" title="Premio al mejor lector"&gt;
+            &lt;img src="http://biblioln.es/galleries/2015/encuentro-nieves-herrero/premio-al-mejor-lector.thumbnail.jpg" alt="Premio al mejor lector"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2015/encuentro-nieves-herrero/encuentro-nieves-herrero.jpg" class="thumbnail image-reference" title="Encuentro nieves herrero"&gt;
+            &lt;img src="http://biblioln.es/galleries/2015/encuentro-nieves-herrero/encuentro-nieves-herrero.thumbnail.jpg" alt="Encuentro nieves herrero"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
-&lt;!-- previewimage: /2015/12/encuentro-nieves-herrero-2.jpg --&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela/</guid><pubDate>Wed, 02 Dec 2015 19:00:00 GMT</pubDate></item></channel></rss>
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;
+&lt;!-- previewimage: galleries/2015/encuentro-nieves-herrero/encuentro-nieves-herrero-2.jpg --&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2015/12/encuentro-nieves-herrero-castillo-bayuela/</guid><pubDate>Wed, 02 Dec 2015 19:00:00 GMT</pubDate></item></channel></rss>

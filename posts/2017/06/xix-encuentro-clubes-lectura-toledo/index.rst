@@ -12,8 +12,4 @@ Ha sido un placer escuchar a la autora de esa historia con la que hemos debatido
 
 Desde el Taller de Lectura de Los Navalmorales queremos dar las gracias a la bibliotecaria Rosario y al pueblo de Dosbarrios por lo bien que nos han acogido.
 
-.. slides::
-  /galleries/2017/xix-encuentro-clubes-lectura-toledo/xix-encuentro-clubes-lectura-toledo1.jpg
-  /galleries/2017/xix-encuentro-clubes-lectura-toledo/xix-encuentro-clubes-lectura-toledo2.jpg
-  /galleries/2017/xix-encuentro-clubes-lectura-toledo/xix-encuentro-clubes-lectura-toledo3.jpg
-  /galleries/2017/xix-encuentro-clubes-lectura-toledo/xix-encuentro-clubes-lectura-toledo4.jpg
+.. gallery:: 2017/xix-encuentro-clubes-lectura-toledo

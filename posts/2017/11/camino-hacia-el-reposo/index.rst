@@ -10,11 +10,4 @@ A las 18:00 horas comenzó la presentación del libro que fué coordinada por Ma
 Ha sido un acto lleno de poesía en la voz de Paco Torres y de arte con las
 pinturas de José Félix. Un placer para todos los asistentes. Desde el Taller de lectura de Los Navamorales: ¡Enhorabuena!
 
-.. slides::
-
-    /galleries/2017/camino-hacia-el-reposo/camino-hacia-el-reposo1.png
-    /galleries/2017/camino-hacia-el-reposo/camino-hacia-el-reposo2.jpeg
-    /galleries/2017/camino-hacia-el-reposo/camino-hacia-el-reposo3.jpeg
-    /galleries/2017/camino-hacia-el-reposo/camino-hacia-el-reposo4.jpeg
-    /galleries/2017/camino-hacia-el-reposo/camino-hacia-el-reposo5.jpeg
-    /galleries/2017/camino-hacia-el-reposo/camino-hacia-el-reposo6.jpeg
+.. gallery:: 2017/camino-hacia-el-reposo

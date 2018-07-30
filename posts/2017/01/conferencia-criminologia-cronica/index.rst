@@ -12,8 +12,4 @@ Hemos podido debatir sobre la novela y aclarar nuestras dudas.
 
 A continuación unas fotos.
 
-.. slides::
-
-  /galleries/2017/conferencia-criminologia/conferencia-criminologia.cartel.png
-  /galleries/2017/conferencia-criminologia/conferencia-criminologia.1.jpg
-  /galleries/2017/conferencia-criminologia/conferencia-criminologia.2.jpg
+.. gallery:: 2017/conferencia-criminologia

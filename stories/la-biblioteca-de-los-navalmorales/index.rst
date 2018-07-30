@@ -30,11 +30,7 @@ Ha cambiado varias veces de sede, primero estuvo ubicada en la caseta verde del 
 
 Las instalaciones actuales son muy amplias, con mucha luz y en un entorno muy bonito, ya que por una de las puertas se sale al Parque Municipal.
 
-.. slides::
-
-	/galleries/La Biblioteca/P1010302.JPG  	
-	/galleries/La Biblioteca/P1010304.JPG  
-	/galleries/La Biblioteca/P1010305.JPG
+.. gallery:: la-biblioteca
 
 El centro de Internet está instalado dentro de la biblioteca, hay 12 ordenadores al servicio de los usuarios, para buscar información y realizar cualquier gestión o trámite por Internet.
 

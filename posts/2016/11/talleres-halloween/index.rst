@@ -7,7 +7,4 @@
 
 `Algunas fotografías <link://gallery/2016/halloween>`_ de lo que hicimos en el taller de Halloween, manualidades de brujas y fantasmas.
 
-.. slides::
-
-   /galleries/2016/halloween/brujas.jpg
-   /galleries/2016/halloween/fantasmas.jpg
+.. gallery:: 2016/halloween

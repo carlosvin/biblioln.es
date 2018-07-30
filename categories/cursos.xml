@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Cursos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/cursos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 14 May 2018 20:39:52 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Talleres de Formación</title><link>http://biblioln.es/posts/2016/11/talleres-formaci%C3%B3n/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Próximamente en el Centro de Internet de &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales"&gt;La Biblioteca de Los Navalmorales&lt;/a&gt; se van a impartir los siguientes &lt;a class="reference external" href="http://biblioln.es/galleries/2016/talleres/"&gt;talleres&lt;/a&gt;:&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Cursos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/cursos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 30 Jul 2018 20:30:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Talleres de Formación</title><link>http://biblioln.es/posts/2016/11/talleres-formaci%C3%B3n/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Próximamente en el Centro de Internet de &lt;a class="reference external" href="http://biblioln.es/stories/la-biblioteca-de-los-navalmorales"&gt;La Biblioteca de Los Navalmorales&lt;/a&gt; se van a impartir los siguientes &lt;a class="reference external" href="http://biblioln.es/galleries/2016/talleres/"&gt;talleres&lt;/a&gt;:&lt;/p&gt;
 &lt;div class="figure"&gt;
 &lt;a class="reference external image-reference" href="http://biblioln.es/galleries/2016/talleres/cartel_taller_android_creacionAPPs_navalmorales.jpg"&gt;&lt;img alt="/galleries/2016/talleres/cartel_taller_android_creacionAPPs_navalmorales.thumbnail.jpg" src="http://biblioln.es/galleries/2016/talleres/cartel_taller_android_creacionAPPs_navalmorales.thumbnail.jpg"&gt;&lt;/a&gt;
 &lt;p class="caption"&gt;Taller de Creación de Aplicaciones Android&lt;/p&gt;
@@ -52,34 +52,15 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 13)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. slides::
-
-        /2016/01/navidad-5-6.jpg
-        /2016/01/navidad-5-6.2.jpg
-
-&lt;/pre&gt;
-&lt;/div&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/2016/01/navidad-5-6.jpg"&gt;&lt;img alt="/2016/01/navidad-5-6.thumbnail.jpg" class="align-center" src="http://biblioln.es/2016/01/navidad-5-6.thumbnail.jpg"&gt;&lt;/a&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/2016/01/navidad-5-6.2.jpg"&gt;&lt;img alt="/2016/01/navidad-5-6.2.thumbnail.jpg" class="align-center" src="http://biblioln.es/2016/01/navidad-5-6.2.thumbnail.jpg"&gt;&lt;/a&gt;
 &lt;p&gt;Han hecho la entrega de premios: Mº Paz Gallego Muñoz Gallego Muñoz (concejala de cultura), y José Antonio Ruíz Luque(profesor).&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class="section" id="decoramos-la-biblioteca"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2016/01/llega-la-navidad-a-la-biblioteca-con-actividades/#id2"&gt;Decoramos la Biblioteca&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Un grupo de mamás y niños/niñas, han hecho adornos de papel reciclable y cartón. Un millón de gracias para todos por colaborar con su trabajo para dejar la  biblioteca más bonita estos días.&lt;/p&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 25)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. slides::
-
-        /2016/01/navidad-bibliodeco.jpg
-        /2016/01/navidad-bibliodeco.2.jpg
-
-
-&lt;/pre&gt;
-&lt;/div&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/2016/01/navidad-bibliodeco.jpg"&gt;&lt;img alt="/2016/01/navidad-bibliodeco.thumbnail.jpg" class="align-center" src="http://biblioln.es/2016/01/navidad-bibliodeco.thumbnail.jpg"&gt;&lt;/a&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/2016/01/navidad-bibliodeco.2.jpg"&gt;&lt;img alt="/2016/01/navidad-bibliodeco.2.thumbnail.jpg" class="align-center" src="http://biblioln.es/2016/01/navidad-bibliodeco.2.thumbnail.jpg"&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;div class="section" id="el-arbol-de-los-deseos"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2016/01/llega-la-navidad-a-la-biblioteca-con-actividades/#id3"&gt;El Árbol de los Deseos&lt;/a&gt;&lt;/h2&gt;
@@ -94,36 +75,16 @@
 &lt;div class="section" id="la-bebeteca-en-navidad"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2016/01/llega-la-navidad-a-la-biblioteca-con-actividades/#id5"&gt;La Bebeteca en Navidad&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Susana. la monitora de La Bebeteca, que hay todos los viernes en la Biblioteca, ha hecho con los niños/niñas de La Bebeteca estos bonitos Papá Noel.&lt;/p&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 56)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. slides::
-
-        /2016/01/navidad-bebeteca.jpg
-        /2016/01/bebeteca.jpg
-        /2016/01/bebeteca2.jpg
-
-
-&lt;/pre&gt;
-&lt;/div&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/2016/01/navidad-bebeteca.jpg"&gt;&lt;img alt="/2016/01/navidad-bebeteca.thumbnail.jpg" class="align-center" src="http://biblioln.es/2016/01/navidad-bebeteca.thumbnail.jpg"&gt;&lt;/a&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/2016/01/bebeteca.jpg"&gt;&lt;img alt="/2016/01/bebeteca.thumbnail.jpg" class="align-center" src="http://biblioln.es/2016/01/bebeteca.thumbnail.jpg"&gt;&lt;/a&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/2016/01/bebeteca2.jpg"&gt;&lt;img alt="/2016/01/bebeteca2.thumbnail.jpg" class="align-center" src="http://biblioln.es/2016/01/bebeteca2.thumbnail.jpg"&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;div class="section" id="taller-de-literatura"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2016/01/llega-la-navidad-a-la-biblioteca-con-actividades/#id6"&gt;Taller de Literatura&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;El día 19 de Diciembre hemos ido los componentes de   El Taller de Literatura a Toledo para  ver el ballet: El Lago de Los Cisnes.&lt;/p&gt;
 &lt;p&gt;Hemos visitado el Belén de Valparaiso, el primer premio de Belenes en Toledo.&lt;/p&gt;
-&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 70)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. slides::
-
-        /2016/01/navidad-taller-literatura.jpg
-        /2016/01/navidad-taller-literatura.2.jpg
-
-
-&lt;/pre&gt;
-&lt;/div&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/2016/01/navidad-taller-literatura.jpg"&gt;&lt;img alt="/2016/01/navidad-taller-literatura.thumbnail.jpg" class="align-center" src="http://biblioln.es/2016/01/navidad-taller-literatura.thumbnail.jpg"&gt;&lt;/a&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/2016/01/navidad-taller-literatura.2.jpg"&gt;&lt;img alt="/2016/01/navidad-taller-literatura.2.thumbnail.jpg" class="align-center" src="http://biblioln.es/2016/01/navidad-taller-literatura.2.thumbnail.jpg"&gt;&lt;/a&gt;
 &lt;/div&gt;
 &lt;div class="section" id="feliz-navidad"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://biblioln.es/posts/2016/01/llega-la-navidad-a-la-biblioteca-con-actividades/#id7"&gt;Feliz Navidad&lt;/a&gt;&lt;/h2&gt;

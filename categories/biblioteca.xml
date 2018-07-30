@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Biblioteca)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/biblioteca.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 04 Jul 2018 17:43:20 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Horario de verano: Biblioteca y Centro de Internet</title><link>http://biblioln.es/posts/2018/07/horario-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;table border="1" class="docutils"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Biblioteca)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/biblioteca.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 30 Jul 2018 21:08:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Horario de verano: Biblioteca y Centro de Internet</title><link>http://biblioln.es/posts/2018/07/horario-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="12%"&gt;
 &lt;col width="18%"&gt;
@@ -33,16 +33,28 @@
 &lt;td&gt;Cerrado&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description><category>Biblioteca</category><category>Centro de Internet</category><category>Horarios</category><guid>http://biblioln.es/posts/2018/07/horario-verano/</guid><pubDate>Tue, 03 Jul 2018 08:00:00 GMT</pubDate></item><item><title>Novedades de Libros y Películas para este Verano</title><link>http://biblioln.es/posts/2017/07/novedades-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div class="system-message"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;tt class="docutils"&gt;&amp;lt;string&amp;gt;&lt;/tt&gt;, line 2)&lt;/p&gt;
-&lt;p&gt;Unknown directive type "slides".&lt;/p&gt;
-&lt;pre class="literal-block"&gt;
-.. slides::
-    /galleries/2017/novedades-verano/novedades-verano1.jpg
-    /galleries/2017/novedades-verano/novedades-verano2.jpg
-    /galleries/2017/novedades-verano/novedades-verano3.jpg
-&lt;/pre&gt;
-&lt;/div&gt;</description><category>Biblioteca</category><category>Libros</category><category>Novedades</category><category>Películas</category><guid>http://biblioln.es/posts/2017/07/novedades-verano/</guid><pubDate>Mon, 03 Jul 2017 08:00:00 GMT</pubDate></item><item><title>Horario de verano: Biblioteca y Centro de Internet</title><link>http://biblioln.es/posts/2017/06/horario-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;table border="1" class="docutils"&gt;
+&lt;/table&gt;</description><category>Biblioteca</category><category>Centro de Internet</category><category>Horarios</category><guid>http://biblioln.es/posts/2018/07/horario-verano/</guid><pubDate>Tue, 03 Jul 2018 08:00:00 GMT</pubDate></item><item><title>Novedades de Libros y Películas para este Verano</title><link>http://biblioln.es/posts/2017/07/novedades-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano1.jpg" class="thumbnail image-reference" title="Novedades verano1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano1.thumbnail.jpg" alt="Novedades verano1"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano2.jpg" class="thumbnail image-reference" title="Novedades verano2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano2.thumbnail.jpg" alt="Novedades verano2"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano3.jpg" class="thumbnail image-reference" title="Novedades verano3"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano3.thumbnail.jpg" alt="Novedades verano3"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Biblioteca</category><category>Libros</category><category>Novedades</category><category>Películas</category><guid>http://biblioln.es/posts/2017/07/novedades-verano/</guid><pubDate>Mon, 03 Jul 2017 08:00:00 GMT</pubDate></item><item><title>Horario de verano: Biblioteca y Centro de Internet</title><link>http://biblioln.es/posts/2017/06/horario-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="12%"&gt;
 &lt;col width="18%"&gt;

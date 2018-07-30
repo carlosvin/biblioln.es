@@ -16,10 +16,11 @@ Primer    Marcos  Fernández Sánchez    David Rodríguez     Aitana Rodríguez
 Segundo   Héctor  Gómez Avellan        Rocío Gómez Jara    Ángela López toca
 =======  ===========================  ==================  ===================
 
-.. slides::
+.. thumbnail:: /2016/01/navidad-5-6.jpg
+	:align: center
 
-	/2016/01/navidad-5-6.jpg
-	/2016/01/navidad-5-6.2.jpg
+.. thumbnail:: /2016/01/navidad-5-6.2.jpg
+	:align: center
 
 Han hecho la entrega de premios: Mº Paz Gallego Muñoz Gallego Muñoz (concejala de cultura), y José Antonio Ruíz Luque(profesor).
 
@@ -28,10 +29,11 @@ Decoramos la Biblioteca
 
 Un grupo de mamás y niños/niñas, han hecho adornos de papel reciclable y cartón. Un millón de gracias para todos por colaborar con su trabajo para dejar la  biblioteca más bonita estos días.
 
-.. slides::
+.. thumbnail:: /2016/01/navidad-bibliodeco.jpg
+	:align: center
 
-	/2016/01/navidad-bibliodeco.jpg
-	/2016/01/navidad-bibliodeco.2.jpg
+.. thumbnail:: /2016/01/navidad-bibliodeco.2.jpg
+	:align: center
 
 
 El Árbol de los Deseos
@@ -59,11 +61,14 @@ La Bebeteca en Navidad
 
 Susana. la monitora de La Bebeteca, que hay todos los viernes en la Biblioteca, ha hecho con los niños/niñas de La Bebeteca estos bonitos Papá Noel.
 
-.. slides::
+.. thumbnail:: /2016/01/navidad-bebeteca.jpg
+	:align: center
 
-	/2016/01/navidad-bebeteca.jpg
-	/2016/01/bebeteca.jpg
-	/2016/01/bebeteca2.jpg
+.. thumbnail:: /2016/01/bebeteca.jpg
+	:align: center
+
+.. thumbnail:: /2016/01/bebeteca2.jpg
+	:align: center
 
 
 Taller de Literatura
@@ -73,10 +78,11 @@ El día 19 de Diciembre hemos ido los componentes de   El Taller de Literatura a
 
 Hemos visitado el Belén de Valparaiso, el primer premio de Belenes en Toledo.
 
-.. slides::
+.. thumbnail:: /2016/01/navidad-taller-literatura.jpg
+	:align: center
 
-	/2016/01/navidad-taller-literatura.jpg
-	/2016/01/navidad-taller-literatura.2.jpg
+.. thumbnail:: /2016/01/navidad-taller-literatura.2.jpg
+	:align: center
 
 
 Feliz Navidad

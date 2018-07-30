@@ -14,9 +14,8 @@ Son unos cuentos muy dulces.
 .. slides::
 
 	/2016/03/cuentos_con_chocolate.1.jpg
-  /2016/03/cuentos_con_chocolate.2.jpg
+    /2016/03/cuentos_con_chocolate.2.jpg
 	/2016/02/cuentos-con-chocolate.png
-
 
 .. previewimage: /2016/02/cuentos-con-chocolate.png
 
