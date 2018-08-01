@@ -551,7 +551,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/2017/</loc>
-  <lastmod>2018-05-14T20:39:00Z</lastmod>
+  <lastmod>2018-07-30T21:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/2018/</loc>
@@ -559,7 +559,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2018-07-15T18:27:00Z</lastmod>
+  <lastmod>2018-08-01T15:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/</loc>
@@ -810,10 +810,6 @@
   <lastmod>2018-07-30T20:12:00Z</lastmod>
  </url>
  <url>
-  <loc>http://biblioln.es/galleries/2012/Visita%20de%20los%20alumnos%20de%20la%20ESO/</loc>
-  <lastmod>2018-05-14T20:39:00Z</lastmod>
- </url>
- <url>
   <loc>http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/</loc>
   <lastmod>2018-07-30T20:12:00Z</lastmod>
  </url>
@@ -935,7 +931,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2018/</loc>
-  <lastmod>2018-06-11T19:21:00Z</lastmod>
+  <lastmod>2018-08-01T15:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2018/dia-del-libro/</loc>
@@ -958,6 +954,10 @@
   <lastmod>2018-05-14T20:39:00Z</lastmod>
  </url>
  <url>
+  <loc>http://biblioln.es/galleries/2018/novedades-verano/</loc>
+  <lastmod>2018-08-01T15:49:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/</loc>
   <lastmod>2018-05-14T20:39:00Z</lastmod>
  </url>
@@ -967,14 +967,6 @@
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2018/salir-de-un-hopper/</loc>
-  <lastmod>2018-05-14T20:39:00Z</lastmod>
- </url>
- <url>
-  <loc>http://biblioln.es/galleries/La%20Biblioteca/</loc>
-  <lastmod>2018-05-14T20:39:00Z</lastmod>
- </url>
- <url>
-  <loc>http://biblioln.es/galleries/XVII%20Encuentro%20Provincial%20de%20Clubes%20de%20Lectura/</loc>
   <lastmod>2018-05-14T20:39:00Z</lastmod>
  </url>
  <url>
@@ -1043,7 +1035,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-21.html</loc>
-  <lastmod>2018-07-30T20:30:00Z</lastmod>
+  <lastmod>2018-08-01T15:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-3.html</loc>
@@ -1932,6 +1924,10 @@
  <url>
   <loc>http://biblioln.es/posts/2018/07/horario-verano/</loc>
   <lastmod>2018-07-04T17:34:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2018/08/novedades-verano/</loc>
+  <lastmod>2018-08-01T15:49:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/stories/2011/07/44/</loc>

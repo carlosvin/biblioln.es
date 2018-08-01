@@ -147,7 +147,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/libros.xml</loc>
-  <lastmod>2018-07-30T21:08:00Z</lastmod>
+  <lastmod>2018-08-01T15:49:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/literatura.xml</loc>
@@ -167,7 +167,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/novedades.xml</loc>
-  <lastmod>2018-07-30T21:08:00Z</lastmod>
+  <lastmod>2018-08-01T15:49:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/novedates.xml</loc>
@@ -175,7 +175,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/peliculas.xml</loc>
-  <lastmod>2018-07-30T21:08:00Z</lastmod>
+  <lastmod>2018-08-01T15:49:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/poesia.xml</loc>
@@ -240,10 +240,6 @@
  <sitemap>
   <loc>http://biblioln.es/categories/zarzuela.xml</loc>
   <lastmod>2018-07-30T20:30:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://biblioln.es/galleries/2012/Visita%20de%20los%20alumnos%20de%20la%20ESO/rss.xml</loc>
-  <lastmod>2018-06-07T19:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2012/rss.xml</loc>
@@ -390,6 +386,10 @@
   <lastmod>2018-06-07T19:24:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2018/novedades-verano/rss.xml</loc>
+  <lastmod>2018-08-01T15:49:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/rss.xml</loc>
   <lastmod>2018-06-07T19:24:00Z</lastmod>
  </sitemap>
@@ -403,14 +403,6 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/salir-de-un-hopper/rss.xml</loc>
-  <lastmod>2018-06-07T19:24:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://biblioln.es/galleries/La%20Biblioteca/rss.xml</loc>
-  <lastmod>2018-06-07T19:24:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://biblioln.es/galleries/XVII%20Encuentro%20Provincial%20de%20Clubes%20de%20Lectura/rss.xml</loc>
   <lastmod>2018-06-07T19:24:00Z</lastmod>
  </sitemap>
  <sitemap>
@@ -431,10 +423,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2018-07-30T21:11:00Z</lastmod>
+  <lastmod>2018-08-01T15:49:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2018-07-30T21:11:00Z</lastmod>
+  <lastmod>2018-08-01T15:49:00Z</lastmod>
  </sitemap>
 </sitemapindex>
