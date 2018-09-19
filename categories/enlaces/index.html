@@ -91,13 +91,13 @@
 
     </header><ul class="postlist">
 <li>
-<time class="listdate" datetime="2017-08-22T18:00:00+02:00" title="22-08-2017">22-08-2017</time><a href="../../posts/2017/08/vacaciones-verano/" class="listtitle">Cerrado por Vacaciones</a><a></a>
+<time class="listdate" datetime="2017-08-22T18:00:00+02:00" title="2017-08-22 18:00">2017-08-22 18:00</time><a href="../../posts/2017/08/vacaciones-verano/" class="listtitle">Cerrado por Vacaciones</a><a></a>
 </li>
             <li>
-<time class="listdate" datetime="2017-08-02T18:00:00+02:00" title="02-08-2017">02-08-2017</time><a href="../../posts/2017/08/revista-forja-agosto/" class="listtitle">Revista Forja Agosto</a><a></a>
+<time class="listdate" datetime="2017-08-02T18:00:00+02:00" title="2017-08-02 18:00">2017-08-02 18:00</time><a href="../../posts/2017/08/revista-forja-agosto/" class="listtitle">Revista Forja Agosto</a><a></a>
 </li>
             <li>
-<time class="listdate" datetime="2016-09-22T20:00:00+02:00" title="22-09-2016">22-09-2016</time><a href="../../posts/2016/09/nuevos-libros-en-ebiblio-castilla-la-mancha/" class="listtitle">Nuevos libros en eBiblio-Castilla-La Mancha</a><a></a>
+<time class="listdate" datetime="2016-09-22T20:00:00+02:00" title="2016-09-22 20:00">2016-09-22 20:00</time><a href="../../posts/2016/09/nuevos-libros-en-ebiblio-castilla-la-mancha/" class="listtitle">Nuevos libros en eBiblio-Castilla-La Mancha</a><a></a>
 </li>
         </ul></article><!--End of body content--><footer id="footer">
             Contents © 2018         <a href="mailto:carlosvin@gmail.com">Biblioteca de Los Navalmorales</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a><br></footer>
@@ -107,15 +107,12 @@
 
         <script src="../../assets/js/all-nocdn.js"></script><!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ec7029a5c9222a6" async="async"></script><!-- fancy dates --><script>
     moment.locale("es");
-    fancydates(0, "DD-MM-YYYY");
+    fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script>
-    baguetteBox.run('a.reference:not(.islink)', {
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
-    }});
-    baguetteBox.run('img:not(.islink)', {
-        captions: function(element) {
-            return element.alt;
     }});
     </script><!-- Start of StatCounter Code for Default Guide --><script type="text/javascript">
 var sc_project=7089865;

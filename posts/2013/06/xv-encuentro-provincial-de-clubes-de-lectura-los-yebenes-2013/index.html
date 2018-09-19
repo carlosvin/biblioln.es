@@ -107,7 +107,10 @@ Junto con ">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                     Biblioteca de Los Navalmorales
             </span></p>
-            <p class="dateline"><a href="." rel="bookmark"><time class="published dt-published" datetime="2013-06-19T21:43:55+02:00" itemprop="datePublished" title="19-06-2013">19-06-2013</time></a></p>
+            <p class="dateline">
+            <a href="." rel="bookmark">
+            <time class="published dt-published" datetime="2013-06-19T21:43:55+02:00" itemprop="datePublished" title="2013-06-19 21:43">2013-06-19 21:43</time></a>
+            </p>
                 <p class="commentline">
         
     <a href="#disqus_thread" data-disqus-identifier="cache/posts/2013/06/xv-encuentro-provincial-de-clubes-de-lectura-los-yebenes-2013.html">Comments</a>
@@ -187,15 +190,12 @@ Junto con ">
 
         <script src="../../../../assets/js/all-nocdn.js"></script><!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ec7029a5c9222a6" async="async"></script><!-- fancy dates --><script>
     moment.locale("es");
-    fancydates(0, "DD-MM-YYYY");
+    fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script>
-    baguetteBox.run('a.reference:not(.islink)', {
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
-    }});
-    baguetteBox.run('img:not(.islink)', {
-        captions: function(element) {
-            return element.alt;
     }});
     </script><!-- Start of StatCounter Code for Default Guide --><script type="text/javascript">
 var sc_project=7089865;

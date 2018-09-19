@@ -91,7 +91,7 @@
 
     </header><ul class="postlist">
 <li>
-<time class="listdate" datetime="2014-11-06T22:57:32+01:00" title="06-11-2014">06-11-2014</time><a href="../../posts/2014/11/bebeteca-2014/" class="listtitle">Bebeteca 2014</a><a></a>
+<time class="listdate" datetime="2014-11-06T22:57:32+01:00" title="2014-11-06 22:57">2014-11-06 22:57</time><a href="../../posts/2014/11/bebeteca-2014/" class="listtitle">Bebeteca 2014</a><a></a>
 </li>
         </ul></article><!--End of body content--><footer id="footer">
             Contents © 2018         <a href="mailto:carlosvin@gmail.com">Biblioteca de Los Navalmorales</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a>         <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a><br></footer>
@@ -101,15 +101,12 @@
 
         <script src="../../assets/js/all-nocdn.js"></script><!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ec7029a5c9222a6" async="async"></script><!-- fancy dates --><script>
     moment.locale("es");
-    fancydates(0, "DD-MM-YYYY");
+    fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script>
-    baguetteBox.run('a.reference:not(.islink)', {
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
-    }});
-    baguetteBox.run('img:not(.islink)', {
-        captions: function(element) {
-            return element.alt;
     }});
     </script><!-- Start of StatCounter Code for Default Guide --><script type="text/javascript">
 var sc_project=7089865;

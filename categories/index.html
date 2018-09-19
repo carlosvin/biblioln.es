@@ -81,6 +81,7 @@
 <h1>Etiquetas</h1>
     <ul class="list-inline">
 <li class="list-inline-item"><a class="reference badge badge-secondary" href="actividades/">Actividades</a></li>
+            <li class="list-inline-item"><a class="reference badge badge-secondary" href="actividates/">Actividates</a></li>
             <li class="list-inline-item"><a class="reference badge badge-secondary" href="agradecimientos/">Agradecimientos</a></li>
             <li class="list-inline-item"><a class="reference badge badge-secondary" href="animacion-a-la-lectura/">Animación a la Lectura</a></li>
             <li class="list-inline-item"><a class="reference badge badge-secondary" href="astrofisica/">Astrofísica</a></li>
@@ -148,15 +149,12 @@
 
         <script src="../assets/js/all-nocdn.js"></script><!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ec7029a5c9222a6" async="async"></script><!-- fancy dates --><script>
     moment.locale("es");
-    fancydates(0, "DD-MM-YYYY");
+    fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script>
-    baguetteBox.run('a.reference:not(.islink)', {
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
-    }});
-    baguetteBox.run('img:not(.islink)', {
-        captions: function(element) {
-            return element.alt;
     }});
     </script><!-- Start of StatCounter Code for Default Guide --><script type="text/javascript">
 var sc_project=7089865;

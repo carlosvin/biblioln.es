@@ -96,36 +96,36 @@
 <noscript>
 <ul class="thumbnails">
 <li>
-<a href="la-lechuza-detective-2.jpg" class="thumbnail image-reference" title="La lechuza detective 2">
-            <img src="la-lechuza-detective-2.thumbnail.jpg" alt="La lechuza detective 2"></a>
-        </li>
-<li>
-<a href="la-lechuza-detective-3.jpg" class="thumbnail image-reference" title="La lechuza detective 3">
-            <img src="la-lechuza-detective-3.thumbnail.jpg" alt="La lechuza detective 3"></a>
-        </li>
-<li>
-<a href="la-lechuza-detective-7.jpg" class="thumbnail image-reference" title="La lechuza detective 7">
-            <img src="la-lechuza-detective-7.thumbnail.jpg" alt="La lechuza detective 7"></a>
-        </li>
-<li>
-<a href="la-lechuza-detective-4.jpg" class="thumbnail image-reference" title="La lechuza detective 4">
-            <img src="la-lechuza-detective-4.thumbnail.jpg" alt="La lechuza detective 4"></a>
+<a href="la-lechuza-detective.png" class="thumbnail image-reference" title="La lechuza detective">
+            <img src="la-lechuza-detective.thumbnail.png" alt="La lechuza detective"></a>
         </li>
 <li>
 <a href="la-lechuza-detective-6.jpg" class="thumbnail image-reference" title="La lechuza detective 6">
             <img src="la-lechuza-detective-6.thumbnail.jpg" alt="La lechuza detective 6"></a>
         </li>
 <li>
+<a href="la-lechuza-detective-3.jpg" class="thumbnail image-reference" title="La lechuza detective 3">
+            <img src="la-lechuza-detective-3.thumbnail.jpg" alt="La lechuza detective 3"></a>
+        </li>
+<li>
+<a href="la-lechuza-detective-4.jpg" class="thumbnail image-reference" title="La lechuza detective 4">
+            <img src="la-lechuza-detective-4.thumbnail.jpg" alt="La lechuza detective 4"></a>
+        </li>
+<li>
+<a href="la-lechuza-detective-7.jpg" class="thumbnail image-reference" title="La lechuza detective 7">
+            <img src="la-lechuza-detective-7.thumbnail.jpg" alt="La lechuza detective 7"></a>
+        </li>
+<li>
 <a href="la-lechuza-detective-5.jpg" class="thumbnail image-reference" title="La lechuza detective 5">
             <img src="la-lechuza-detective-5.thumbnail.jpg" alt="La lechuza detective 5"></a>
         </li>
 <li>
-<a href="la-lechuza-detective.png" class="thumbnail image-reference" title="La lechuza detective">
-            <img src="la-lechuza-detective.thumbnail.png" alt="La lechuza detective"></a>
-        </li>
-<li>
 <a href="la-lechuza-detective-1.jpg" class="thumbnail image-reference" title="La lechuza detective 1">
             <img src="la-lechuza-detective-1.thumbnail.jpg" alt="La lechuza detective 1"></a>
+        </li>
+<li>
+<a href="la-lechuza-detective-2.jpg" class="thumbnail image-reference" title="La lechuza detective 2">
+            <img src="la-lechuza-detective-2.thumbnail.jpg" alt="La lechuza detective 2"></a>
 </li>
 </ul>
 </noscript>
@@ -140,55 +140,17 @@
 
         <script src="../../../assets/js/all-nocdn.js"></script><!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ec7029a5c9222a6" async="async"></script><!-- fancy dates --><script>
     moment.locale("es");
-    fancydates(0, "DD-MM-YYYY");
-    </script><!-- end fancy dates --><script src="../../../assets/js/justified-layout.min.js"></script><script>
-var jsonContent = [{"height": 135, "size": {"h": 135, "w": 180}, "title": "La lechuza detective 2", "url": "la-lechuza-detective-2.jpg", "url_thumb": "la-lechuza-detective-2.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "La lechuza detective 3", "url": "la-lechuza-detective-3.jpg", "url_thumb": "la-lechuza-detective-3.thumbnail.jpg", "width": 180}, {"height": 95, "size": {"h": 95, "w": 180}, "title": "La lechuza detective 7", "url": "la-lechuza-detective-7.jpg", "url_thumb": "la-lechuza-detective-7.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "La lechuza detective 4", "url": "la-lechuza-detective-4.jpg", "url_thumb": "la-lechuza-detective-4.thumbnail.jpg", "width": 180}, {"height": 98, "size": {"h": 98, "w": 180}, "title": "La lechuza detective 6", "url": "la-lechuza-detective-6.jpg", "url_thumb": "la-lechuza-detective-6.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "La lechuza detective 5", "url": "la-lechuza-detective-5.jpg", "url_thumb": "la-lechuza-detective-5.thumbnail.jpg", "width": 180}, {"height": 180, "size": {"h": 180, "w": 127}, "title": "La lechuza detective", "url": "la-lechuza-detective.png", "url_thumb": "la-lechuza-detective.thumbnail.png", "width": 127}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "La lechuza detective 1", "url": "la-lechuza-detective-1.jpg", "url_thumb": "la-lechuza-detective-1.thumbnail.jpg", "width": 180}];
-
-function renderGallery() {
-    var container = document.getElementById("gallery_container");
-    container.innerHTML = '';
-    var layoutGeometry = require('justified-layout')(jsonContent, {
-    "containerWidth": container.offsetWidth,
-    "targetRowHeight": 180*.6,
-    "boxSpacing": 5});
-    container.style.height = layoutGeometry.containerHeight + 'px';
-    var boxes = layoutGeometry.boxes;
-    for (var i = 0; i < boxes.length; i++) {
-        var img = document.createElement("img");
-        img.setAttribute('src', jsonContent[i].url_thumb);
-        img.setAttribute('alt', jsonContent[i].title);
-        img.style.width = boxes[i].width + 'px';
-        img.style.height = boxes[i].height + 'px';
-        link = document.createElement("a");
-        link.setAttribute('href', jsonContent[i].url);
-        link.setAttribute('class', 'image-reference');
-        div = document.createElement("div");
-        div.setAttribute('class', 'image-block');
-        div.setAttribute('title', jsonContent[i].title);
-        div.setAttribute('data-toggle', "tooltip")
-        div.style.width = boxes[i].width + 'px';
-        div.style.height = boxes[i].height + 'px';
-        div.style.top = boxes[i].top + 'px';
-        div.style.left = boxes[i].left + 'px';
-        link.append(img);
-        div.append(link);
-        container.append(div);
-    }
-    baguetteBox.run('#gallery_container', {
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
-}
-renderGallery();
+    fancydates(0, "YYYY-MM-DD HH:mm");
+    </script><!-- end fancy dates --><script src="../../../assets/js/justified-layout.min.js"></script><script src="../../../assets/js/gallery.min.js"></script><script>
+var jsonContent = [{"height": 180, "size": {"h": 180, "w": 127}, "title": "La lechuza detective", "url": "la-lechuza-detective.png", "url_thumb": "la-lechuza-detective.thumbnail.png", "width": 127}, {"height": 98, "size": {"h": 98, "w": 180}, "title": "La lechuza detective 6", "url": "la-lechuza-detective-6.jpg", "url_thumb": "la-lechuza-detective-6.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "La lechuza detective 3", "url": "la-lechuza-detective-3.jpg", "url_thumb": "la-lechuza-detective-3.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "La lechuza detective 4", "url": "la-lechuza-detective-4.jpg", "url_thumb": "la-lechuza-detective-4.thumbnail.jpg", "width": 180}, {"height": 95, "size": {"h": 95, "w": 180}, "title": "La lechuza detective 7", "url": "la-lechuza-detective-7.jpg", "url_thumb": "la-lechuza-detective-7.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "La lechuza detective 5", "url": "la-lechuza-detective-5.jpg", "url_thumb": "la-lechuza-detective-5.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "La lechuza detective 1", "url": "la-lechuza-detective-1.jpg", "url_thumb": "la-lechuza-detective-1.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "La lechuza detective 2", "url": "la-lechuza-detective-2.jpg", "url_thumb": "la-lechuza-detective-2.thumbnail.jpg", "width": 180}];
+var thumbnailSize = 180;
+renderGallery(jsonContent, thumbnailSize);
 window.addEventListener('resize', renderGallery);
 </script><script>
-    baguetteBox.run('a.reference:not(.islink)', {
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
-    }});
-    baguetteBox.run('img:not(.islink)', {
-        captions: function(element) {
-            return element.alt;
     }});
     </script><!-- Start of StatCounter Code for Default Guide --><script type="text/javascript">
 var sc_project=7089865;

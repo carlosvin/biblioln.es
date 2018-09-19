@@ -97,36 +97,36 @@
 <noscript>
 <ul class="thumbnails">
 <li>
-<a href="image04.jpg" class="thumbnail image-reference" title="Image04">
-            <img src="image04.thumbnail.jpg" alt="Image04"></a>
-        </li>
-<li>
-<a href="image03.jpg" class="thumbnail image-reference" title="Image03">
-            <img src="image03.thumbnail.jpg" alt="Image03"></a>
-        </li>
-<li>
 <a href="image01.jpg" class="thumbnail image-reference" title="Image01">
             <img src="image01.thumbnail.jpg" alt="Image01"></a>
-        </li>
-<li>
-<a href="image06.jpg" class="thumbnail image-reference" title="Image06">
-            <img src="image06.thumbnail.jpg" alt="Image06"></a>
-        </li>
-<li>
-<a href="image02.jpg" class="thumbnail image-reference" title="Image02">
-            <img src="image02.thumbnail.jpg" alt="Image02"></a>
         </li>
 <li>
 <a href="image00.jpg" class="thumbnail image-reference" title="Image00">
             <img src="image00.thumbnail.jpg" alt="Image00"></a>
         </li>
 <li>
-<a href="image07.jpg" class="thumbnail image-reference" title="Image07">
-            <img src="image07.thumbnail.jpg" alt="Image07"></a>
+<a href="image02.jpg" class="thumbnail image-reference" title="Image02">
+            <img src="image02.thumbnail.jpg" alt="Image02"></a>
+        </li>
+<li>
+<a href="image04.jpg" class="thumbnail image-reference" title="Image04">
+            <img src="image04.thumbnail.jpg" alt="Image04"></a>
         </li>
 <li>
 <a href="image05.jpg" class="thumbnail image-reference" title="Image05">
             <img src="image05.thumbnail.jpg" alt="Image05"></a>
+        </li>
+<li>
+<a href="image07.jpg" class="thumbnail image-reference" title="Image07">
+            <img src="image07.thumbnail.jpg" alt="Image07"></a>
+        </li>
+<li>
+<a href="image03.jpg" class="thumbnail image-reference" title="Image03">
+            <img src="image03.thumbnail.jpg" alt="Image03"></a>
+        </li>
+<li>
+<a href="image06.jpg" class="thumbnail image-reference" title="Image06">
+            <img src="image06.thumbnail.jpg" alt="Image06"></a>
 </li>
 </ul>
 </noscript>
@@ -141,55 +141,17 @@
 
         <script src="../../../../assets/js/all-nocdn.js"></script><!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ec7029a5c9222a6" async="async"></script><!-- fancy dates --><script>
     moment.locale("es");
-    fancydates(0, "DD-MM-YYYY");
-    </script><!-- end fancy dates --><script src="../../../../assets/js/justified-layout.min.js"></script><script>
-var jsonContent = [{"height": 150, "size": {"h": 150, "w": 105}, "title": "Image04", "url": "image04.jpg", "url_thumb": "image04.thumbnail.jpg", "width": 105}, {"height": 150, "size": {"h": 150, "w": 105}, "title": "Image03", "url": "image03.jpg", "url_thumb": "image03.thumbnail.jpg", "width": 105}, {"height": 150, "size": {"h": 150, "w": 105}, "title": "Image01", "url": "image01.jpg", "url_thumb": "image01.thumbnail.jpg", "width": 105}, {"height": 150, "size": {"h": 150, "w": 105}, "title": "Image06", "url": "image06.jpg", "url_thumb": "image06.thumbnail.jpg", "width": 105}, {"height": 150, "size": {"h": 150, "w": 105}, "title": "Image02", "url": "image02.jpg", "url_thumb": "image02.thumbnail.jpg", "width": 105}, {"height": 150, "size": {"h": 150, "w": 105}, "title": "Image00", "url": "image00.jpg", "url_thumb": "image00.thumbnail.jpg", "width": 105}, {"height": 150, "size": {"h": 150, "w": 105}, "title": "Image07", "url": "image07.jpg", "url_thumb": "image07.thumbnail.jpg", "width": 105}, {"height": 150, "size": {"h": 150, "w": 105}, "title": "Image05", "url": "image05.jpg", "url_thumb": "image05.thumbnail.jpg", "width": 105}];
-
-function renderGallery() {
-    var container = document.getElementById("gallery_container");
-    container.innerHTML = '';
-    var layoutGeometry = require('justified-layout')(jsonContent, {
-    "containerWidth": container.offsetWidth,
-    "targetRowHeight": 180*.6,
-    "boxSpacing": 5});
-    container.style.height = layoutGeometry.containerHeight + 'px';
-    var boxes = layoutGeometry.boxes;
-    for (var i = 0; i < boxes.length; i++) {
-        var img = document.createElement("img");
-        img.setAttribute('src', jsonContent[i].url_thumb);
-        img.setAttribute('alt', jsonContent[i].title);
-        img.style.width = boxes[i].width + 'px';
-        img.style.height = boxes[i].height + 'px';
-        link = document.createElement("a");
-        link.setAttribute('href', jsonContent[i].url);
-        link.setAttribute('class', 'image-reference');
-        div = document.createElement("div");
-        div.setAttribute('class', 'image-block');
-        div.setAttribute('title', jsonContent[i].title);
-        div.setAttribute('data-toggle', "tooltip")
-        div.style.width = boxes[i].width + 'px';
-        div.style.height = boxes[i].height + 'px';
-        div.style.top = boxes[i].top + 'px';
-        div.style.left = boxes[i].left + 'px';
-        link.append(img);
-        div.append(link);
-        container.append(div);
-    }
-    baguetteBox.run('#gallery_container', {
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
-}
-renderGallery();
+    fancydates(0, "YYYY-MM-DD HH:mm");
+    </script><!-- end fancy dates --><script src="../../../../assets/js/justified-layout.min.js"></script><script src="../../../../assets/js/gallery.min.js"></script><script>
+var jsonContent = [{"height": 150, "size": {"h": 150, "w": 105}, "title": "Image01", "url": "image01.jpg", "url_thumb": "image01.thumbnail.jpg", "width": 105}, {"height": 150, "size": {"h": 150, "w": 105}, "title": "Image00", "url": "image00.jpg", "url_thumb": "image00.thumbnail.jpg", "width": 105}, {"height": 150, "size": {"h": 150, "w": 105}, "title": "Image02", "url": "image02.jpg", "url_thumb": "image02.thumbnail.jpg", "width": 105}, {"height": 150, "size": {"h": 150, "w": 105}, "title": "Image04", "url": "image04.jpg", "url_thumb": "image04.thumbnail.jpg", "width": 105}, {"height": 150, "size": {"h": 150, "w": 105}, "title": "Image05", "url": "image05.jpg", "url_thumb": "image05.thumbnail.jpg", "width": 105}, {"height": 150, "size": {"h": 150, "w": 105}, "title": "Image07", "url": "image07.jpg", "url_thumb": "image07.thumbnail.jpg", "width": 105}, {"height": 150, "size": {"h": 150, "w": 105}, "title": "Image03", "url": "image03.jpg", "url_thumb": "image03.thumbnail.jpg", "width": 105}, {"height": 150, "size": {"h": 150, "w": 105}, "title": "Image06", "url": "image06.jpg", "url_thumb": "image06.thumbnail.jpg", "width": 105}];
+var thumbnailSize = 180;
+renderGallery(jsonContent, thumbnailSize);
 window.addEventListener('resize', renderGallery);
 </script><script>
-    baguetteBox.run('a.reference:not(.islink)', {
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
-    }});
-    baguetteBox.run('img:not(.islink)', {
-        captions: function(element) {
-            return element.alt;
     }});
     </script><!-- Start of StatCounter Code for Default Guide --><script type="text/javascript">
 var sc_project=7089865;
