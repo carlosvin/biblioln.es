@@ -108,11 +108,11 @@ TIMEZONE = 'Europe/Madrid'
 
 # Date format used to display post dates.
 # (str used by datetime.datetime.strftime)
-DATE_FORMAT = '%d-%m-%Y'
+#DATE_FORMAT = '%d-%m-%Y'
 
 # Date format used to display post dates, if local dates are used.
 # (str used by moment.js)
-JS_DATE_FORMAT = 'DD-MM-YYYY'
+#JS_DATE_FORMAT = 'DD-MM-YYYY'
 
 # Date fanciness.
 #
