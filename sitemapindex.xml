@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2018-09-19T18:21:00Z</lastmod>
+  <lastmod>2018-09-20T16:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/actividates.xml</loc>
@@ -30,12 +30,24 @@
   <lastmod>2018-09-19T17:33:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/categories/ayudas.xml</loc>
+  <lastmod>2018-09-20T17:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/categories/bebeteca.xml</loc>
   <lastmod>2018-09-19T17:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/biblioteca.xml</loc>
   <lastmod>2018-09-19T17:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/categories/bibliotecas.xml</loc>
+  <lastmod>2018-09-20T17:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/categories/biblotecas.xml</loc>
+  <lastmod>2018-09-20T17:15:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/catalogo.xml</loc>
@@ -98,6 +110,10 @@
   <lastmod>2018-09-19T17:33:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/categories/donaciones.xml</loc>
+  <lastmod>2018-09-20T17:38:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/categories/encuentros.xml</loc>
   <lastmod>2018-09-19T17:33:00Z</lastmod>
  </sitemap>
@@ -119,7 +135,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2018-09-19T18:21:00Z</lastmod>
+  <lastmod>2018-09-20T16:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/formacion.xml</loc>
@@ -131,7 +147,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/hora-del-cuento.xml</loc>
-  <lastmod>2018-09-19T18:21:00Z</lastmod>
+  <lastmod>2018-09-20T16:59:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/horarios.xml</loc>
@@ -151,7 +167,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/libros.xml</loc>
-  <lastmod>2018-09-19T18:21:00Z</lastmod>
+  <lastmod>2018-09-20T17:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/literatura.xml</loc>
@@ -171,7 +187,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/novedades.xml</loc>
-  <lastmod>2018-09-19T18:21:00Z</lastmod>
+  <lastmod>2018-09-20T17:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/novedates.xml</loc>
@@ -179,7 +195,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/peliculas.xml</loc>
-  <lastmod>2018-09-19T18:21:00Z</lastmod>
+  <lastmod>2018-09-20T17:06:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/poesia.xml</loc>
@@ -244,10 +260,6 @@
  <sitemap>
   <loc>http://biblioln.es/categories/zarzuela.xml</loc>
   <lastmod>2018-09-19T17:33:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://biblioln.es/galleries/2012/Visita%20de%20los%20alumnos%20de%20la%20ESO/rss.xml</loc>
-  <lastmod>2018-05-08T17:34:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2012/rss.xml</loc>
@@ -414,14 +426,6 @@
   <lastmod>2018-09-19T17:32:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://biblioln.es/galleries/La%20Biblioteca/rss.xml</loc>
-  <lastmod>2018-05-08T17:34:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://biblioln.es/galleries/XVII%20Encuentro%20Provincial%20de%20Clubes%20de%20Lectura/rss.xml</loc>
-  <lastmod>2018-05-08T17:34:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://biblioln.es/galleries/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez/rss.xml</loc>
   <lastmod>2018-09-19T17:32:00Z</lastmod>
  </sitemap>
@@ -439,10 +443,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2018-09-19T18:21:00Z</lastmod>
+  <lastmod>2018-09-20T17:38:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2018-09-19T18:21:00Z</lastmod>
+  <lastmod>2018-09-20T17:38:00Z</lastmod>
  </sitemap>
 </sitemapindex>

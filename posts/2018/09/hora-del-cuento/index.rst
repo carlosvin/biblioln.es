@@ -13,3 +13,4 @@ Puedes apuntarte en la Biblioteca **desde el 18 al 28 de Septiembre**.
 ¡Para todas las niñas y niños!
 
 .. thumbnail:: /2018/hora-del-cuento-2018.png
+    :align: center
