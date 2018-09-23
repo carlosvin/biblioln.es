@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Cuentacuentos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/cuentacuentos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 19 Sep 2018 17:33:23 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Cuentos de Quita Y Pon</title><link>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="cronica-del-evento"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Cuentacuentos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/cuentacuentos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Sun, 23 Sep 2018 17:16:42 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Cuentos de Quita Y Pon</title><link>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="section" id="cronica-del-evento"&gt;
 &lt;h2&gt;Crónica del Evento&lt;/h2&gt;
 &lt;p&gt;Una tarde de cuentos y actuaciones navideñas en la biblioteca. En primer lugar niños y mayores han disfrutado escuchando a Juan Malabar con sus cuentos de quita y pon.
 A continuación han cantado villancicos loa niños de la hora del cuento, el club de lectura de primero de primaria, el de segundo de primaria y los niños de la bebeteca con su monitora Susana. Muchas gracias a todos, a Susana, y a las mamás porque siempre están dispuestas a colaborar con la biblioteca.&lt;/p&gt;
@@ -7,11 +7,6 @@ A continuación han cantado villancicos loa niños de la hora del cuento, el clu
 
 &lt;div id="gallery_container"&gt;&lt;/div&gt;
 &lt;div class="row"&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.3.jpg" class="thumbnail image-reference" title="Cuentacuentos 3"&gt;
-            &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.3.thumbnail.jpg" alt="Cuentacuentos 3"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.2.jpg" class="thumbnail image-reference" title="Cuentacuentos 2"&gt;
             &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.2.thumbnail.jpg" alt="Cuentacuentos 2"&gt;
@@ -25,6 +20,11 @@ A continuación han cantado villancicos loa niños de la hora del cuento, el clu
     &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.1.jpg" class="thumbnail image-reference" title="Cuentacuentos 1"&gt;
             &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.1.thumbnail.jpg" alt="Cuentacuentos 1"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.3.jpg" class="thumbnail image-reference" title="Cuentacuentos 3"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/cuentos-quita-y-pon/cuentacuentos.3.thumbnail.jpg" alt="Cuentacuentos 3"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -42,17 +42,17 @@ A continuación han cantado villancicos loa niños de la hora del cuento, el clu
 &lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Cuentacuentos</category><category>Eventos</category><guid>http://biblioln.es/posts/2017/12/cuentos-quita-y-pon/</guid><pubDate>Wed, 27 Dec 2017 19:00:00 GMT</pubDate></item><item><title>Cuentacuentos Félix Albo</title><link>http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Este año los alumnos de primaria del Colegio Publico San Francisco, en su visita a la biblioteca con motivo de la celebración del Día del Libro, han disfrutado con los cuentos que Felix Albo les ha contado. Han asistido 155 niños/niñas acompañados de sus profesores/profesoras. Ha sido un placer escuchar a Felix Albo.&lt;/p&gt;
 
-&lt;div id="slides_5a853724b7d84b13bcd9d5e34fbac133" class="carousel slide"&gt;
+&lt;div id="slides_36c9e11538cb4163ac87fce03c6bc9ca" class="carousel slide"&gt;
     &lt;ol class="carousel-indicators"&gt;
-            &lt;li data-target="#slides_5a853724b7d84b13bcd9d5e34fbac133" data-slide-to="0" class="active"&gt;
-            &lt;/li&gt;&lt;li data-target="#slides_5a853724b7d84b13bcd9d5e34fbac133" data-slide-to="1"&gt;
+            &lt;li data-target="#slides_36c9e11538cb4163ac87fce03c6bc9ca" data-slide-to="0" class="active"&gt;
+            &lt;/li&gt;&lt;li data-target="#slides_36c9e11538cb4163ac87fce03c6bc9ca" data-slide-to="1"&gt;
     &lt;/li&gt;&lt;/ol&gt;
     &lt;div class="carousel-inner"&gt;
                 &lt;div class="item active"&gt;&lt;img src="http://biblioln.es/2017/cuentacuentos-felix-albo/cuenta-cuentos-felix-albo1.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
                 &lt;div class="item"&gt;&lt;img src="http://biblioln.es/2017/cuentacuentos-felix-albo/cuenta-cuentos-felix-albo2.jpg" alt="" style="margin: 0 auto 0 auto;"&gt;&lt;/div&gt;
     &lt;/div&gt;
-    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo/#slides_5a853724b7d84b13bcd9d5e34fbac133" data-slide="prev"&gt;&lt;span class="icon-prev"&gt;&lt;/span&gt;&lt;/a&gt;
-    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo/#slides_5a853724b7d84b13bcd9d5e34fbac133" data-slide="next"&gt;&lt;span class="icon-next"&gt;&lt;/span&gt;&lt;/a&gt;
+    &lt;a class="left carousel-control" href="http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo/#slides_36c9e11538cb4163ac87fce03c6bc9ca" data-slide="prev"&gt;‹&lt;/a&gt;
+    &lt;a class="right carousel-control" href="http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo/#slides_36c9e11538cb4163ac87fce03c6bc9ca" data-slide="next"&gt;›&lt;/a&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Cuentacuentos</category><category>Día del Libro</category><category>Talleres</category><guid>http://biblioln.es/posts/2017/05/cuentacuentos-felix-albo/</guid><pubDate>Sun, 14 May 2017 08:00:00 GMT</pubDate></item><item><title>Cuentacuentos: Pep Bruno</title><link>http://biblioln.es/posts/2015/04/cuentacuentos-pep-bruno/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;A las 9 de la mañana en la casa de la cultura de Los Navalmorales, con motivo de las &lt;a title="Día del Libro 2015" href="http://biblioln.es/2015/04/dia-del-libro-2015/" target="_blank"&gt;actividades del Día del Libro 2015&lt;/a&gt;,  de ha comenzado la sesión de cuentos con Pep Bruno.&lt;/p&gt;
 &lt;p&gt;Como público alrededor de 70 niños y niñas de segundo ciclo de primaria del Colegio público San Francisco acompañados de sus profesoras.&lt;/p&gt;
 &lt;p&gt;Han disfrutado escuchando a &lt;a title="Pep Bruno website" href="http://pepbruno.com/" target="_blank"&gt;Pep Bruno&lt;/a&gt;, acompañándole por ese camino que no pasaba nadie, por el valle profundo hasta la casa de su abuela... Han terminado metiéndose en la historia.&lt;/p&gt;

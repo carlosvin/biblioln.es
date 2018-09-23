@@ -11,7 +11,7 @@ También queremos expresar nuestro agradecimiento desde El Taller de Literatura,
 
 Ellos han colaborado cantando para nosotros La Habanera "Mi Pueblo" (autora Mª Antonia Ricas Peces, música de Rafael Cabrera), que aparece en el libro. Hemos cerrado el acto de una forma muy bonita, siempre es un placer escucharles.
 
-.. galleries:: cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez
+.. gallery:: cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez
 
 Entrada anterior: `Conferencia Impartida por María Victoria Navas Sánchez-Élez`_.
 
