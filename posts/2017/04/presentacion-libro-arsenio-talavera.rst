@@ -4,7 +4,7 @@
 .. tags: Talleres, Actividades, Taller de Literatura
 .. description: La historia de los pueblos de Valdepusa, entre ellos el nuestro, Los Navalmorales
 .. type: micro
-.. previewimage: /2017/presentacion-libro-arsenio-talavera.jpeg
+.. previewimage: /galleries/2017/el-estado-de-valdepusa/presentacion-libro-arsenio-talavera.jpeg
 
 Información del evento
 ======================
@@ -12,9 +12,8 @@ El autor **Arsenio Talavera Almendro** nos presentará su libro *El Estado de Va
 
 El evento tendrá lugar el **3 de Marzo** a las **18:00** en **La Biblioteca**.
 
-.. slides::
-
-  /2017/presentacion-libro-arsenio-talavera.jpeg
+.. thumbnail:: /galleries/2017/el-estado-de-valdepusa/presentacion-libro-arsenio-talavera.jpeg
+    :align: center
 
 Crónica del evento
 ==================
@@ -23,9 +22,4 @@ Ha sido una tarde en la que hemos indagado en la historia de los pueblos que per
 
 Muchas gracias, hemos descubierto más cosas sobre la historia de Los Navalmorales.
 
-
-.. slides::
-
-  /2017/el-estado-de-valdepusa-y-malpica1.jpg
-  /2017/el-estado-de-valdepusa-y-malpica2.jpg
-
+.. gallery:: 2017/el-estado-de-valdepusa

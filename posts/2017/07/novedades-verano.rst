@@ -5,5 +5,4 @@
 .. description: Novedades de Libros y Películas para este Verano
 .. type: micro
 
-
 .. gallery:: 2017/novedades-verano
