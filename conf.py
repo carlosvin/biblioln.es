@@ -710,7 +710,7 @@ COMMENT_SYSTEM_ID = "biblioln"
 # """
 SOCIAL_BUTTONS_CODE = """
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ec7029a5c9222a6" async="async"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ec7029a5c9222a6"></script>
 """
 
 # Show link to source for the posts?
