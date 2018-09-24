@@ -1,7 +1,7 @@
 .. title: Comienza el Club de Lectura
 .. slug: club-de-lectura
 .. date: 2018-09-24 17:00
-.. tags: Actividades, Hora del Cuento, Eventos
+.. tags: Actividades, Club de Lectura, Eventos
 .. description: Está abierto el plazo de inscripción, pásate por la Biblioteca
 .. previewImage: /2018/club-de-lectura.png
 .. type: micro
