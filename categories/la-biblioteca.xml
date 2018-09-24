@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre La Biblioteca)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/la-biblioteca.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Sun, 23 Sep 2018 17:17:13 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Horario durante Vacaciones</title><link>http://biblioln.es/posts/2018/05/horario-durante-vacaciones/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;A partir del día 14 de Junio hasta el día 29 de Junio la Biblioteca solo abrirá al público con el siguiente horario:&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre La Biblioteca)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/la-biblioteca.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 19 Sep 2018 17:33:23 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Horario durante Vacaciones</title><link>http://biblioln.es/posts/2018/05/horario-durante-vacaciones/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;A partir del día 14 de Junio hasta el día 29 de Junio la Biblioteca solo abrirá al público con el siguiente horario:&lt;/p&gt;
 &lt;p&gt;De lunes a viernes  por las tardes de las 18:00 horas a las 20:00 horas.&lt;/p&gt;
 &lt;p&gt;Por las mañanas permanecerá cerrada.&lt;/p&gt;&lt;/div&gt;</description><category>Horarios</category><category>La Biblioteca</category><guid>http://biblioln.es/posts/2018/05/horario-durante-vacaciones/</guid><pubDate>Thu, 31 May 2018 18:00:00 GMT</pubDate></item><item><title>Ya estamos de Navidad!</title><link>http://biblioln.es/posts/2017/12/navidad/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Ya estamos en Navidad. La biblioteca ha quedado muy bonita con los adornos navideños que han hecho las mamás y los niñ@s en el Taller  de Navidad.
 Feliz Navidad para todos y próspero año nuevo.&lt;/p&gt;
@@ -8,6 +8,11 @@ Feliz Navidad para todos y próspero año nuevo.&lt;/p&gt;
 &lt;div id="gallery_container"&gt;&lt;/div&gt;
 &lt;div class="row"&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/navidad/navidad.3.jpg" class="thumbnail image-reference" title="Navidad 3"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/navidad/navidad.3.thumbnail.jpg" alt="Navidad 3"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2017/navidad/navidad.2.jpg" class="thumbnail image-reference" title="Navidad 2"&gt;
             &lt;img src="http://biblioln.es/galleries/2017/navidad/navidad.2.thumbnail.jpg" alt="Navidad 2"&gt;
         &lt;/a&gt;
@@ -15,11 +20,6 @@ Feliz Navidad para todos y próspero año nuevo.&lt;/p&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2017/navidad/navidad.4.jpg" class="thumbnail image-reference" title="Navidad 4"&gt;
             &lt;img src="http://biblioln.es/galleries/2017/navidad/navidad.4.thumbnail.jpg" alt="Navidad 4"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2017/navidad/navidad.3.jpg" class="thumbnail image-reference" title="Navidad 3"&gt;
-            &lt;img src="http://biblioln.es/galleries/2017/navidad/navidad.3.thumbnail.jpg" alt="Navidad 3"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
