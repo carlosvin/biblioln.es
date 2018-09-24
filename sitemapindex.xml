@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2018-09-24T18:58:00Z</lastmod>
+  <lastmod>2018-09-24T19:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/actividates.xml</loc>
@@ -127,7 +127,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2018-09-24T18:58:00Z</lastmod>
+  <lastmod>2018-09-24T19:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/formacion.xml</loc>
@@ -139,7 +139,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/hora-del-cuento.xml</loc>
-  <lastmod>2018-09-24T18:58:00Z</lastmod>
+  <lastmod>2018-09-24T19:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/horarios.xml</loc>
@@ -439,10 +439,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2018-09-24T18:58:00Z</lastmod>
+  <lastmod>2018-09-24T19:36:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2018-09-24T18:58:00Z</lastmod>
+  <lastmod>2018-09-24T19:36:00Z</lastmod>
  </sitemap>
 </sitemapindex>
