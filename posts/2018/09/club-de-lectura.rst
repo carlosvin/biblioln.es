@@ -1,8 +1,8 @@
-.. title: Comienza la Hora del Cuento
+.. title: Comienza el Club de Lectura
 .. slug: club-de-lectura
 .. date: 2018-09-24 17:00
 .. tags: Actividades, Hora del Cuento, Eventos
-.. description: Comienza la Hora del Cuento, ven a apuntarte a la Biblioteca
+.. description: Está abierto el plazo de inscripción, pásate por la Biblioteca
 .. previewImage: /2018/club-de-lectura.png
 .. type: micro
 
