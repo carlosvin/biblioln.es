@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Eventos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/eventos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 24 Sep 2018 20:32:30 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Comienza el Club de Lectura</title><link>http://biblioln.es/posts/2018/09/club-de-lectura/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El día &lt;strong&gt;1 de Octubre&lt;/strong&gt; comienza el Club de Lectura, está abierto el plazo de inscripción.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Eventos)</title><link>http://biblioln.es/</link><description></description><atom:link type="application/rss+xml" href="http://biblioln.es/categories/eventos.xml" rel="self"></atom:link><language>es</language><lastBuildDate>Fri, 05 Oct 2018 16:41:10 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Presentación del libro Estuario de Invierno</title><link>http://biblioln.es/posts/2018/10/presentacion-libro-estuario-de-invierno/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Presentación del libro Estuario de Invierno el 26 de Octubre a las 18:00 en La Biblioteca.&lt;/p&gt;
+&lt;dl class="docutils"&gt;
+&lt;dt&gt;Escritor&lt;/dt&gt;
+&lt;dd&gt;Francisco del Puerto&lt;/dd&gt;
+&lt;dt&gt;Prólogo&lt;/dt&gt;
+&lt;dd&gt;Jesús Cobo&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;En la presentación contaremos con la colaboración de Jesús Bermejo (profesor de literatura) y Germán Pinto (escritor).&lt;/p&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/2018/presentacion-libro-estuario-de-invierno.png"&gt;&lt;img alt="/2018/presentacion-libro-estuario-de-invierno.thumbnail.png" class="align-center" src="http://biblioln.es/2018/presentacion-libro-estuario-de-invierno.thumbnail.png"&gt;&lt;/a&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Taller de Lectura</category><guid>http://biblioln.es/posts/2018/10/presentacion-libro-estuario-de-invierno/</guid><pubDate>Thu, 04 Oct 2018 15:00:00 GMT</pubDate></item><item><title>Comienza el Club de Lectura</title><link>http://biblioln.es/posts/2018/09/club-de-lectura/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El día &lt;strong&gt;1 de Octubre&lt;/strong&gt; comienza el Club de Lectura, está abierto el plazo de inscripción.&lt;/p&gt;
 &lt;p&gt;Cualquier persona interesada puede pasar a informarse por la Biblioteca.&lt;/p&gt;
 &lt;a class="reference external image-reference" href="http://biblioln.es/2018/club-de-lectura.png"&gt;&lt;img alt="Abierta inscripción al Club de Lectura 2018" class="align-center" src="http://biblioln.es/2018/club-de-lectura.thumbnail.png"&gt;&lt;/a&gt;&lt;/div&gt;</description><category>Actividades</category><category>Club de Lectura</category><category>Eventos</category><guid>http://biblioln.es/posts/2018/09/club-de-lectura/</guid><pubDate>Mon, 24 Sep 2018 15:00:00 GMT</pubDate></item><item><title>Comienza la Hora del Cuento</title><link>http://biblioln.es/posts/2018/09/hora-del-cuento/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Comienza la Hora del Cuento.&lt;/p&gt;
 &lt;p&gt;Puedes apuntarte en la Biblioteca &lt;strong&gt;desde el 18 al 28 de Septiembre&lt;/strong&gt;.&lt;/p&gt;
@@ -23,8 +31,8 @@ En estas visitas hemos hecho las siguientes actividades:&lt;/p&gt;
 &lt;div id="gallery_container"&gt;&lt;/div&gt;
 &lt;div class="row"&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-2.jpg" class="thumbnail image-reference" title="Dia del libro 2"&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-2.thumbnail.jpg" alt="Dia del libro 2"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-5.jpg" class="thumbnail image-reference" title="Dia del libro 5"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-5.thumbnail.jpg" alt="Dia del libro 5"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
@@ -33,18 +41,18 @@ En estas visitas hemos hecho las siguientes actividades:&lt;/p&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-4.jpg" class="thumbnail image-reference" title="Dia del libro 4"&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-4.thumbnail.jpg" alt="Dia del libro 4"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-5.jpg" class="thumbnail image-reference" title="Dia del libro 5"&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-5.thumbnail.jpg" alt="Dia del libro 5"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-3.jpg" class="thumbnail image-reference" title="Dia del libro 3"&gt;
             &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-3.thumbnail.jpg" alt="Dia del libro 3"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-2.jpg" class="thumbnail image-reference" title="Dia del libro 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-2.thumbnail.jpg" alt="Dia del libro 2"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-4.jpg" class="thumbnail image-reference" title="Dia del libro 4"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-4.thumbnail.jpg" alt="Dia del libro 4"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -69,8 +77,8 @@ Gonper (&lt;a class="reference external" href="http://www.editorialcelya.com/"&g
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.jpg" class="thumbnail image-reference" title=""&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.thumbnail.jpg" alt=""&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.thumbnail.jpg" alt=""&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
@@ -79,13 +87,13 @@ Gonper (&lt;a class="reference external" href="http://www.editorialcelya.com/"&g
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.jpg" class="thumbnail image-reference" title=""&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.thumbnail.jpg" alt=""&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/2.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/2.thumbnail.jpg" alt=""&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/2.jpg" class="thumbnail image-reference" title=""&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/2.thumbnail.jpg" alt=""&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.thumbnail.jpg" alt=""&gt;
         &lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -100,27 +108,4 @@ Gonper (&lt;a class="reference external" href="http://www.editorialcelya.com/"&g
 Encuentro con María Antonia Ricas&lt;/div&gt;
 &lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><guid>http://biblioln.es/posts/2018/02/encuentro-salir-de-un-hopper/</guid><pubDate>Wed, 07 Mar 2018 17:00:00 GMT</pubDate></item><item><title>La Biblioteca en CCM Radio</title><link>http://biblioln.es/posts/2018/02/en-la-radio/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Hace ya casi un mes nos entrevistaron en CCM radio, podéis leer más sobre la entrevista en &lt;a class="reference external" href="http://tierraoral.blogspot.lu/2018/01/esta-semana-en-cmm-radio_16.html?m=1"&gt;el blog de Pep Bruno&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;También podéis escuchar el programa &lt;a class="reference external" href="http://www.ivoox.com/23159866"&gt;directamente en ivoox&lt;/a&gt;.&lt;/p&gt;
-&lt;iframe id="audio_23159866" frameborder="0" allowfullscreen="" scrolling="no" height="200" style="border:1px solid #EEE; box-sizing:border-box; width:100%;" src="https://www.ivoox.com/player_ej_23159866_4_1.html?c1=ff6600"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><category>Actividades</category><category>Entrevistas</category><category>Eventos</category><category>Radio</category><guid>http://biblioln.es/posts/2018/02/en-la-radio/</guid><pubDate>Wed, 07 Feb 2018 17:00:00 GMT</pubDate></item><item><title>Hora del Cuento</title><link>http://biblioln.es/posts/2018/01/hora-del-cuento/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="https://imagessl9.casadellibro.com/a/l/t0/79/9788426134479.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Este martes les he contado a los niños/niñas de La Hora del Cuento: &lt;a class="reference external" href="http://www.editorialjuventud.es/3447.html"&gt;Por Cuatro Esquinitas de Nada (Jerome Ruillier)&lt;/a&gt;.
-Cómo cuadradito quiere jugar con los redonditos dentro de la casa y no puede pasar, hay que cortar la puerta.
-Después de la lectura, los niños han hecho unas casitas con los redonditos, cortando las puertas para que pueda pasar cudradito.
-Muchas gracias a las mamás que asisten a la sesión de cuentos y colaboran con la actividad.&lt;/p&gt;
-&lt;p&gt;Aquí teneis las casitas:&lt;/p&gt;
-
-
-&lt;div id="gallery_container"&gt;&lt;/div&gt;
-&lt;div class="row"&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/hora-del-cuento/2.jpg" class="thumbnail image-reference" title=""&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/hora-del-cuento/2.thumbnail.jpg" alt=""&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/hora-del-cuento/1.jpg" class="thumbnail image-reference" title=""&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/hora-del-cuento/1.thumbnail.jpg" alt=""&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;ul class="thumbnails"&gt;
-        &lt;li&gt;
-&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Hora del Cuento</category><guid>http://biblioln.es/posts/2018/01/hora-del-cuento/</guid><pubDate>Thu, 01 Feb 2018 20:00:00 GMT</pubDate></item></channel></rss>
+&lt;iframe id="audio_23159866" frameborder="0" allowfullscreen="" scrolling="no" height="200" style="border:1px solid #EEE; box-sizing:border-box; width:100%;" src="https://www.ivoox.com/player_ej_23159866_4_1.html?c1=ff6600"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><category>Actividades</category><category>Entrevistas</category><category>Eventos</category><category>Radio</category><guid>http://biblioln.es/posts/2018/02/en-la-radio/</guid><pubDate>Wed, 07 Feb 2018 17:00:00 GMT</pubDate></item></channel></rss>

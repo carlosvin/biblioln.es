@@ -5,13 +5,20 @@
 <meta name="description" content="La Biblioteca estará cerrada desde el 1 al 17 de Septiembre.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Cerrado por Vacaciones | Biblioteca Los Navalmorales</title>
-<link href="../../../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/custom.css" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="../../../../rss.xml">
 <link rel="canonical" href="http://biblioln.es/posts/2017/08/vacaciones-verano/">
-<!--[if lt IE 9]><script src="../../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Biblioteca de Los Navalmorales">
+<!--[if lt IE 9]><script src="../../../../assets/js/html5.js"></script><![endif]--><meta name="description" itemprop="description" content="La Biblioteca estará cerrada desde el 1 al 17 de Septiembre.">
+<meta name="author" content="Biblioteca de Los Navalmorales">
 <link rel="prev" href="../revista-forja-agosto/" title="Revista Forja Agosto" type="text/html">
 <link rel="next" href="../../10/la-merienda-de-cuentos/" title="La Merienda de Cuentos" type="text/html">
 <meta property="og:site_name" content="Biblioteca Los Navalmorales">
@@ -104,10 +111,7 @@
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                     Biblioteca de Los Navalmorales
             </span></p>
-            <p class="dateline">
-            <a href="." rel="bookmark">
-            <time class="published dt-published" datetime="2017-08-22T18:00:00+02:00" itemprop="datePublished" title="2017-08-22 18:00">2017-08-22 18:00</time></a>
-            </p>
+            <p class="dateline"><a href="." rel="bookmark"><time class="published dt-published" datetime="2017-08-22T18:00:00+02:00" itemprop="datePublished" title="2017-08-22 18:00">2017-08-22 18:00</time></a></p>
                 <p class="commentline">
         
     <a href="#disqus_thread" data-disqus-identifier="cache/posts/2017/08/vacaciones-verano.html">Comments</a>
@@ -162,14 +166,17 @@
 </div>
 
 
-        <script src="../../../../assets/js/all-nocdn.js"></script><!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ec7029a5c9222a6"></script><!-- fancy dates --><script>
+            <script src="../../../../assets/js/jquery.min.js"></script><script src="../../../../assets/js/popper.min.js"></script><script src="../../../../assets/js/bootstrap.min.js"></script><script src="../../../../assets/js/baguetteBox.min.js"></script><script src="../../../../assets/js/moment-with-locales.min.js"></script><script src="../../../../assets/js/fancydates.js"></script><!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ec7029a5c9222a6"></script><!-- fancy dates --><script>
     moment.locale("es");
     fancydates(0, "YYYY-MM-DD HH:mm");
     </script><!-- end fancy dates --><script>
-    baguetteBox.run('div#content', {
-        ignoreClass: 'islink',
+    baguetteBox.run('a.reference:not(.islink)', {
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
+    }});
+    baguetteBox.run('img:not(.islink)', {
+        captions: function(element) {
+            return element.alt;
     }});
     </script><!-- Start of StatCounter Code for Default Guide --><script type="text/javascript">
 var sc_project=7089865;
