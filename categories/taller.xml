@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Taller)</title><link>http://biblioln.es/</link><description></description><atom:link rel="self" type="application/rss+xml" href="http://biblioln.es/categories/taller.xml"></atom:link><language>es</language><lastBuildDate>Fri, 05 Oct 2018 16:34:08 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>XVIII Encuentro Provincial de Clubes de Lectura</title><link>http://biblioln.es/posts/2016/08/xviii-encuentro-provincial-clubes-lectura/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El encuentro ha sido con Santiago Posteguillo en Talavera de la Reina, han asistido 500 personas. Experto en novela histórica, impartió una conferencia  sobre: "Novela histórica y literatura novelada". Ha sido un placer escucharle.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Taller)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/taller.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Thu, 11 Oct 2018 18:27:55 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>XVIII Encuentro Provincial de Clubes de Lectura</title><link>http://biblioln.es/posts/2016/08/xviii-encuentro-provincial-clubes-lectura/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El encuentro ha sido con Santiago Posteguillo en Talavera de la Reina, han asistido 500 personas. Experto en novela histórica, impartió una conferencia  sobre: "Novela histórica y literatura novelada". Ha sido un placer escucharle.&lt;/p&gt;
 
 
 &lt;div id="gallery_container"&gt;&lt;/div&gt;
 &lt;div class="row"&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2016/xviii-encuentro-provincial-clubes-lectura/xviii-encuentro-provincial-clubes-lectura.1.jpg" class="thumbnail image-reference" title="Xviii encuentro provincial clubes lectura 1"&gt;
-            &lt;img src="http://biblioln.es/galleries/2016/xviii-encuentro-provincial-clubes-lectura/xviii-encuentro-provincial-clubes-lectura.1.thumbnail.jpg" alt="Xviii encuentro provincial clubes lectura 1"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2016/xviii-encuentro-provincial-clubes-lectura/xviii-encuentro-provincial-clubes-lectura.2.jpg" class="thumbnail image-reference" title="Xviii encuentro provincial clubes lectura 2"&gt;
             &lt;img src="http://biblioln.es/galleries/2016/xviii-encuentro-provincial-clubes-lectura/xviii-encuentro-provincial-clubes-lectura.2.thumbnail.jpg" alt="Xviii encuentro provincial clubes lectura 2"&gt;
@@ -17,6 +12,11 @@
     &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2016/xviii-encuentro-provincial-clubes-lectura/xviii-encuentro-provincial-clubes-lectura.3.jpg" class="thumbnail image-reference" title="Xviii encuentro provincial clubes lectura 3"&gt;
             &lt;img src="http://biblioln.es/galleries/2016/xviii-encuentro-provincial-clubes-lectura/xviii-encuentro-provincial-clubes-lectura.3.thumbnail.jpg" alt="Xviii encuentro provincial clubes lectura 3"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2016/xviii-encuentro-provincial-clubes-lectura/xviii-encuentro-provincial-clubes-lectura.1.jpg" class="thumbnail image-reference" title="Xviii encuentro provincial clubes lectura 1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2016/xviii-encuentro-provincial-clubes-lectura/xviii-encuentro-provincial-clubes-lectura.1.thumbnail.jpg" alt="Xviii encuentro provincial clubes lectura 1"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;

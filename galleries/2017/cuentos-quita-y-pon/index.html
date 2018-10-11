@@ -4,13 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>cuentos-quita-y-pon | Biblioteca Los Navalmorales</title>
-<link href="../../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="../../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
-<link href="../../../assets/css/rst.css" rel="stylesheet" type="text/css">
-<link href="../../../assets/css/code.css" rel="stylesheet" type="text/css">
-<link href="../../../assets/css/theme.css" rel="stylesheet" type="text/css">
-<link href="../../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
-<link href="../../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
@@ -102,20 +96,20 @@
 <noscript>
 <ul class="thumbnails">
 <li>
-<a href="cuentacuentos.3.jpg" class="thumbnail image-reference" title="Cuentacuentos 3">
-            <img src="cuentacuentos.3.thumbnail.jpg" alt="Cuentacuentos 3"></a>
+<a href="cuentacuentos.1.jpg" class="thumbnail image-reference" title="Cuentacuentos 1">
+            <img src="cuentacuentos.1.thumbnail.jpg" alt="Cuentacuentos 1"></a>
         </li>
 <li>
-<a href="cuentos-de-quita-y-pon.png" class="thumbnail image-reference" title="Cuentos de quita y pon">
-            <img src="cuentos-de-quita-y-pon.thumbnail.png" alt="Cuentos de quita y pon"></a>
+<a href="cuentacuentos.3.jpg" class="thumbnail image-reference" title="Cuentacuentos 3">
+            <img src="cuentacuentos.3.thumbnail.jpg" alt="Cuentacuentos 3"></a>
         </li>
 <li>
 <a href="cuentacuentos.2.jpg" class="thumbnail image-reference" title="Cuentacuentos 2">
             <img src="cuentacuentos.2.thumbnail.jpg" alt="Cuentacuentos 2"></a>
         </li>
 <li>
-<a href="cuentacuentos.1.jpg" class="thumbnail image-reference" title="Cuentacuentos 1">
-            <img src="cuentacuentos.1.thumbnail.jpg" alt="Cuentacuentos 1"></a>
+<a href="cuentos-de-quita-y-pon.png" class="thumbnail image-reference" title="Cuentos de quita y pon">
+            <img src="cuentos-de-quita-y-pon.thumbnail.png" alt="Cuentos de quita y pon"></a>
 </li>
 </ul>
 </noscript>
@@ -128,57 +122,19 @@
 </div>
 
 
-            <script src="../../../assets/js/jquery.min.js"></script><script src="../../../assets/js/popper.min.js"></script><script src="../../../assets/js/bootstrap.min.js"></script><script src="../../../assets/js/baguetteBox.min.js"></script><script src="../../../assets/js/moment-with-locales.min.js"></script><script src="../../../assets/js/fancydates.js"></script><!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ec7029a5c9222a6"></script><!-- fancy dates --><script>
+        <script src="../../../assets/js/all-nocdn.js"></script><!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4ec7029a5c9222a6"></script><!-- fancy dates --><script>
     moment.locale("es");
     fancydates(0, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates --><script src="../../../assets/js/justified-layout.min.js"></script><script>
-var jsonContent = [{"height": 135, "size": {"h": 135, "w": 180}, "title": "Cuentacuentos 3", "url": "cuentacuentos.3.jpg", "url_thumb": "cuentacuentos.3.thumbnail.jpg", "width": 180}, {"height": 180, "size": {"h": 180, "w": 127}, "title": "Cuentos de quita y pon", "url": "cuentos-de-quita-y-pon.png", "url_thumb": "cuentos-de-quita-y-pon.thumbnail.png", "width": 127}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Cuentacuentos 2", "url": "cuentacuentos.2.jpg", "url_thumb": "cuentacuentos.2.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Cuentacuentos 1", "url": "cuentacuentos.1.jpg", "url_thumb": "cuentacuentos.1.thumbnail.jpg", "width": 180}];
-
-function renderGallery() {
-    var container = document.getElementById("gallery_container");
-    container.innerHTML = '';
-    var layoutGeometry = require('justified-layout')(jsonContent, {
-    "containerWidth": container.offsetWidth,
-    "targetRowHeight": 180*.6,
-    "boxSpacing": 5});
-    container.style.height = layoutGeometry.containerHeight + 'px';
-    var boxes = layoutGeometry.boxes;
-    for (var i = 0; i < boxes.length; i++) {
-        var img = document.createElement("img");
-        img.setAttribute('src', jsonContent[i].url_thumb);
-        img.setAttribute('alt', jsonContent[i].title);
-        img.style.width = boxes[i].width + 'px';
-        img.style.height = boxes[i].height + 'px';
-        link = document.createElement("a");
-        link.setAttribute('href', jsonContent[i].url);
-        link.setAttribute('class', 'image-reference');
-        div = document.createElement("div");
-        div.setAttribute('class', 'image-block');
-        div.setAttribute('title', jsonContent[i].title);
-        div.setAttribute('data-toggle', "tooltip")
-        div.style.width = boxes[i].width + 'px';
-        div.style.height = boxes[i].height + 'px';
-        div.style.top = boxes[i].top + 'px';
-        div.style.left = boxes[i].left + 'px';
-        link.append(img);
-        div.append(link);
-        container.append(div);
-    }
-    baguetteBox.run('#gallery_container', {
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
-}
-renderGallery();
+    </script><!-- end fancy dates --><script src="../../../assets/js/justified-layout.min.js"></script><script src="../../../assets/js/gallery.min.js"></script><script>
+var jsonContent = [{"height": 135, "size": {"h": 135, "w": 180}, "title": "Cuentacuentos 1", "url": "cuentacuentos.1.jpg", "url_thumb": "cuentacuentos.1.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Cuentacuentos 3", "url": "cuentacuentos.3.jpg", "url_thumb": "cuentacuentos.3.thumbnail.jpg", "width": 180}, {"height": 135, "size": {"h": 135, "w": 180}, "title": "Cuentacuentos 2", "url": "cuentacuentos.2.jpg", "url_thumb": "cuentacuentos.2.thumbnail.jpg", "width": 180}, {"height": 180, "size": {"h": 180, "w": 127}, "title": "Cuentos de quita y pon", "url": "cuentos-de-quita-y-pon.png", "url_thumb": "cuentos-de-quita-y-pon.thumbnail.png", "width": 127}];
+var thumbnailSize = 180;
+renderGallery(jsonContent, thumbnailSize);
 window.addEventListener('resize', renderGallery);
 </script><script>
-    baguetteBox.run('a.reference:not(.islink)', {
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
-    }});
-    baguetteBox.run('img:not(.islink)', {
-        captions: function(element) {
-            return element.alt;
     }});
     </script><!-- Start of StatCounter Code for Default Guide --><script type="text/javascript">
 var sc_project=7089865;

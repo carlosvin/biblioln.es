@@ -6,7 +6,7 @@
 .. previewImage: /2018/presentacion-libro-estuario-de-invierno.png
 .. type: micro
 
-Presentación del libro Estuario de Invierno el 26 de Octubre a las 18:00 en La Biblioteca.
+Presentación del libro *Estuario de Invierno* el 26 de Octubre a las 18:00 en La Biblioteca.
 
 Escritor
     Francisco del Puerto
