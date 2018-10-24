@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Eventos)</title><link>http://biblioln.es/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://biblioln.es/categories/eventos.xml"></atom:link><language>es</language><lastBuildDate>Thu, 11 Oct 2018 18:32:21 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Presentación del libro Estuario de Invierno</title><link>http://biblioln.es/posts/2018/10/presentacion-libro-estuario-de-invierno/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Presentación del libro &lt;em&gt;Estuario de Invierno&lt;/em&gt; el 26 de Octubre a las 18:00 en La Biblioteca.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Eventos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/eventos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 24 Oct 2018 18:57:02 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Encuentro con Consolación González Rico</title><link>http://biblioln.es/posts/2018/10/encuentro-consolacion-gonzalez-rico./</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo día 16 de Noviembre a las 17:00 en la Biblioteca, tendrá lugar un encuentro con la escritora &lt;strong&gt;Gonsolación González Rico&lt;/strong&gt; con su libro &lt;em&gt;La Vida que Perdimos&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;¡Estáis todos y todas invitados!&lt;/p&gt;
+&lt;a class="reference external image-reference" href="http://biblioln.es/2018/encuentro-consolacion-gonzalez-rico.png"&gt;&lt;img alt="/2018/encuentro-consolacion-gonzalez-rico.thumbnail.png" class="align-center" src="http://biblioln.es/2018/encuentro-consolacion-gonzalez-rico.thumbnail.png"&gt;&lt;/a&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Taller de Lectura</category><guid>http://biblioln.es/posts/2018/10/encuentro-consolacion-gonzalez-rico./</guid><pubDate>Wed, 24 Oct 2018 15:00:00 GMT</pubDate></item><item><title>Presentación del libro Estuario de Invierno</title><link>http://biblioln.es/posts/2018/10/presentacion-libro-estuario-de-invierno/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Presentación del libro &lt;em&gt;Estuario de Invierno&lt;/em&gt; el 26 de Octubre a las 18:00 en La Biblioteca.&lt;/p&gt;
 &lt;dl class="docutils"&gt;
 &lt;dt&gt;Escritor&lt;/dt&gt;
 &lt;dd&gt;Francisco del Puerto&lt;/dd&gt;
@@ -31,13 +33,8 @@ En estas visitas hemos hecho las siguientes actividades:&lt;/p&gt;
 &lt;div id="gallery_container"&gt;&lt;/div&gt;
 &lt;div class="row"&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-3.jpg" class="thumbnail image-reference" title="Dia del libro 3"&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-3.thumbnail.jpg" alt="Dia del libro 3"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-5.jpg" class="thumbnail image-reference" title="Dia del libro 5"&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-5.thumbnail.jpg" alt="Dia del libro 5"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-2.jpg" class="thumbnail image-reference" title="Dia del libro 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-2.thumbnail.jpg" alt="Dia del libro 2"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
@@ -51,8 +48,13 @@ En estas visitas hemos hecho las siguientes actividades:&lt;/p&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-2.jpg" class="thumbnail image-reference" title="Dia del libro 2"&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-2.thumbnail.jpg" alt="Dia del libro 2"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-5.jpg" class="thumbnail image-reference" title="Dia del libro 5"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-5.thumbnail.jpg" alt="Dia del libro 5"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-3.jpg" class="thumbnail image-reference" title="Dia del libro 3"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-3.thumbnail.jpg" alt="Dia del libro 3"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -77,11 +79,6 @@ Gonper (&lt;a class="reference external" href="http://www.editorialcelya.com/"&g
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.jpg" class="thumbnail image-reference" title=""&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.thumbnail.jpg" alt=""&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.jpg" class="thumbnail image-reference" title=""&gt;
             &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.thumbnail.jpg" alt=""&gt;
         &lt;/a&gt;
@@ -89,6 +86,11 @@ Gonper (&lt;a class="reference external" href="http://www.editorialcelya.com/"&g
     &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/4.jpg" class="thumbnail image-reference" title=""&gt;
             &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/4.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.thumbnail.jpg" alt=""&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
@@ -106,6 +108,4 @@ Gonper (&lt;a class="reference external" href="http://www.editorialcelya.com/"&g
 &lt;p class="caption"&gt;13 de Marzo a las 18:00&lt;/p&gt;
 &lt;div class="legend"&gt;
 Encuentro con María Antonia Ricas&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><guid>http://biblioln.es/posts/2018/02/encuentro-salir-de-un-hopper/</guid><pubDate>Wed, 07 Mar 2018 17:00:00 GMT</pubDate></item><item><title>La Biblioteca en CCM Radio</title><link>http://biblioln.es/posts/2018/02/en-la-radio/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Hace ya casi un mes nos entrevistaron en CCM radio, podéis leer más sobre la entrevista en &lt;a class="reference external" href="http://tierraoral.blogspot.lu/2018/01/esta-semana-en-cmm-radio_16.html?m=1"&gt;el blog de Pep Bruno&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;También podéis escuchar el programa &lt;a class="reference external" href="http://www.ivoox.com/23159866"&gt;directamente en ivoox&lt;/a&gt;.&lt;/p&gt;
-&lt;iframe id="audio_23159866" frameborder="0" allowfullscreen="" scrolling="no" height="200" style="border:1px solid #EEE; box-sizing:border-box; width:100%;" src="https://www.ivoox.com/player_ej_23159866_4_1.html?c1=ff6600"&gt;&lt;/iframe&gt;&lt;/div&gt;</description><category>Actividades</category><category>Entrevistas</category><category>Eventos</category><category>Radio</category><guid>http://biblioln.es/posts/2018/02/en-la-radio/</guid><pubDate>Wed, 07 Feb 2018 17:00:00 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Libros</category><guid>http://biblioln.es/posts/2018/02/encuentro-salir-de-un-hopper/</guid><pubDate>Wed, 07 Mar 2018 17:00:00 GMT</pubDate></item></channel></rss>

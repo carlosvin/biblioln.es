@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Fotos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/fotos.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Thu, 11 Oct 2018 18:28:10 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>VIII Congreso Nacional de Bibliotecas Públicas</title><link>http://biblioln.es/posts/2016/11/viii-congreso-nacional-bibliotecas-publicas/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Los días 16 y 17 de octubre ha tenido lugar en Toledo el VIII Congreso Nacional de Bibliotecas Públicas. Han sido unas jornadas enriquecedoras  en las que hemos compartido ideas y experiencias.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Fotos)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/fotos.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 19 Sep 2018 17:33:22 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>VIII Congreso Nacional de Bibliotecas Públicas</title><link>http://biblioln.es/posts/2016/11/viii-congreso-nacional-bibliotecas-publicas/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Los días 16 y 17 de octubre ha tenido lugar en Toledo el VIII Congreso Nacional de Bibliotecas Públicas. Han sido unas jornadas enriquecedoras  en las que hemos compartido ideas y experiencias.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://biblioln.es/galleries/2016/viii-congreso-nacional-bibliotecas-publicas/"&gt;Algunas fotografías&lt;/a&gt;.&lt;/p&gt;
 
 
@@ -11,13 +11,13 @@
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2016/viii-congreso-nacional-bibliotecas-publicas/viii-congreso-nacional-bibliotecas-publicas.1.jpg" class="thumbnail image-reference" title="Viii congreso nacional bibliotecas publicas 1"&gt;
-            &lt;img src="http://biblioln.es/galleries/2016/viii-congreso-nacional-bibliotecas-publicas/viii-congreso-nacional-bibliotecas-publicas.1.thumbnail.jpg" alt="Viii congreso nacional bibliotecas publicas 1"&gt;
+        &lt;a href="http://biblioln.es/galleries/2016/viii-congreso-nacional-bibliotecas-publicas/viii-congreso-nacional-bibliotecas-publicas.3.jpg" class="thumbnail image-reference" title="Viii congreso nacional bibliotecas publicas 3"&gt;
+            &lt;img src="http://biblioln.es/galleries/2016/viii-congreso-nacional-bibliotecas-publicas/viii-congreso-nacional-bibliotecas-publicas.3.thumbnail.jpg" alt="Viii congreso nacional bibliotecas publicas 3"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2016/viii-congreso-nacional-bibliotecas-publicas/viii-congreso-nacional-bibliotecas-publicas.3.jpg" class="thumbnail image-reference" title="Viii congreso nacional bibliotecas publicas 3"&gt;
-            &lt;img src="http://biblioln.es/galleries/2016/viii-congreso-nacional-bibliotecas-publicas/viii-congreso-nacional-bibliotecas-publicas.3.thumbnail.jpg" alt="Viii congreso nacional bibliotecas publicas 3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2016/viii-congreso-nacional-bibliotecas-publicas/viii-congreso-nacional-bibliotecas-publicas.1.jpg" class="thumbnail image-reference" title="Viii congreso nacional bibliotecas publicas 1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2016/viii-congreso-nacional-bibliotecas-publicas/viii-congreso-nacional-bibliotecas-publicas.1.thumbnail.jpg" alt="Viii congreso nacional bibliotecas publicas 1"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -30,13 +30,13 @@
 &lt;div id="gallery_container"&gt;&lt;/div&gt;
 &lt;div class="row"&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2016/halloween/fantasmas.jpg" class="thumbnail image-reference" title="Fantasmas"&gt;
-            &lt;img src="http://biblioln.es/galleries/2016/halloween/fantasmas.thumbnail.jpg" alt="Fantasmas"&gt;
+        &lt;a href="http://biblioln.es/galleries/2016/halloween/brujas.jpg" class="thumbnail image-reference" title="Brujas"&gt;
+            &lt;img src="http://biblioln.es/galleries/2016/halloween/brujas.thumbnail.jpg" alt="Brujas"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2016/halloween/brujas.jpg" class="thumbnail image-reference" title="Brujas"&gt;
-            &lt;img src="http://biblioln.es/galleries/2016/halloween/brujas.thumbnail.jpg" alt="Brujas"&gt;
+        &lt;a href="http://biblioln.es/galleries/2016/halloween/fantasmas.jpg" class="thumbnail image-reference" title="Fantasmas"&gt;
+            &lt;img src="http://biblioln.es/galleries/2016/halloween/fantasmas.thumbnail.jpg" alt="Fantasmas"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -76,28 +76,13 @@
 &lt;p&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Agradecimientos</category><category>Eventos</category><category>Fotos</category><category>Taller de Literatura</category><guid>http://biblioln.es/posts/2012/04/encuentro-con-el-actor-y-autor-paco-torres/</guid><pubDate>Wed, 04 Apr 2012 10:32:44 GMT</pubDate></item><item><title>Visita de los Alumnos de E.S.O. a la Biblioteca</title><link>http://biblioln.es/posts/2012/04/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div id="gallery_container"&gt;&lt;/div&gt;
 &lt;div class="row"&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3050705.JPG" class="thumbnail image-reference" title="P3050705"&gt;
-            &lt;img src="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3050705.thumbnail.JPG" alt="P3050705"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3090710.JPG" class="thumbnail image-reference" title="P3090710"&gt;
-            &lt;img src="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3090710.thumbnail.JPG" alt="P3090710"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3020701.JPG" class="thumbnail image-reference" title="P3020701"&gt;
-            &lt;img src="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3020701.thumbnail.JPG" alt="P3020701"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3020702.JPG" class="thumbnail image-reference" title="P3020702"&gt;
             &lt;img src="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3020702.thumbnail.JPG" alt="P3020702"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3050706.JPG" class="thumbnail image-reference" title="P3050706"&gt;
-            &lt;img src="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3050706.thumbnail.JPG" alt="P3050706"&gt;
+        &lt;a href="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3020700.JPG" class="thumbnail image-reference" title="P3020700"&gt;
+            &lt;img src="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3020700.thumbnail.JPG" alt="P3020700"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
@@ -106,8 +91,23 @@
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3020700.JPG" class="thumbnail image-reference" title="P3020700"&gt;
-            &lt;img src="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3020700.thumbnail.JPG" alt="P3020700"&gt;
+        &lt;a href="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3050705.JPG" class="thumbnail image-reference" title="P3050705"&gt;
+            &lt;img src="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3050705.thumbnail.JPG" alt="P3050705"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3020701.JPG" class="thumbnail image-reference" title="P3020701"&gt;
+            &lt;img src="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3020701.thumbnail.JPG" alt="P3020701"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3090710.JPG" class="thumbnail image-reference" title="P3090710"&gt;
+            &lt;img src="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3090710.thumbnail.JPG" alt="P3090710"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3050706.JPG" class="thumbnail image-reference" title="P3050706"&gt;
+            &lt;img src="http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/P3050706.thumbnail.JPG" alt="P3050706"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -136,11 +136,11 @@
 &lt;p&gt;[gallery link="file" order="DESC" columns="1"]&lt;/p&gt;
 &lt;p&gt;Podéis encontrar más información en:&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;/ul&gt;&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;gt&lt;/span&gt;&lt;span class="o"&gt;;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"Más información en EuropaPress"&lt;/span&gt; &lt;span class="nt"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"http://www.europapress.es/castilla-lamancha/noticia-26-bibliotecas-participan-jueves-xiii-encuentro-clubes-lectura-provincia-toledo-20110608202725.html"&lt;/span&gt; &lt;span class="nt"&gt;target&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"_blank"&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;gt&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;&lt;span class="nt"&gt;Noticia&lt;/span&gt; &lt;span class="nt"&gt;del&lt;/span&gt; &lt;span class="nt"&gt;encuentro&lt;/span&gt; &lt;span class="nt"&gt;en&lt;/span&gt; &lt;span class="nt"&gt;Europapress&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;;/&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;gt&lt;/span&gt;&lt;span class="o"&gt;;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;;/&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;gt&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+&lt;/ul&gt;&lt;pre class="code literal-block"&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;title=&lt;/span&gt;&lt;span class="s"&gt;"Más información en EuropaPress"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"http://www.europapress.es/castilla-lamancha/noticia-26-bibliotecas-participan-jueves-xiii-encuentro-clubes-lectura-provincia-toledo-20110608202725.html"&lt;/span&gt; &lt;span class="na"&gt;target=&lt;/span&gt;&lt;span class="s"&gt;"_blank"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Noticia del encuentro en Europapress&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
 
-&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;gt&lt;/span&gt;&lt;span class="o"&gt;;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"Más información del encuentro en la Web Oficial de Matilde Asensi"&lt;/span&gt; &lt;span class="nt"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"http://www.matildeasensi.net/noticias/xiii-encuentro-de-los-clubes-de-lectura-de-la-provincia-de-toledo"&lt;/span&gt; &lt;span class="nt"&gt;target&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"_blank"&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;gt&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;&lt;span class="nt"&gt;Noticia&lt;/span&gt; &lt;span class="nt"&gt;en&lt;/span&gt; &lt;span class="nt"&gt;la&lt;/span&gt; &lt;span class="nt"&gt;Web&lt;/span&gt; &lt;span class="nt"&gt;de&lt;/span&gt; &lt;span class="nt"&gt;Matilde&lt;/span&gt; &lt;span class="nt"&gt;Asensi&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;;/&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;gt&lt;/span&gt;&lt;span class="o"&gt;;:&lt;/span&gt; &lt;span class="nt"&gt;Hay&lt;/span&gt; &lt;span class="nt"&gt;un&lt;/span&gt; &lt;span class="nt"&gt;vídeo&lt;/span&gt; &lt;span class="nt"&gt;al&lt;/span&gt; &lt;span class="nt"&gt;pié&lt;/span&gt; &lt;span class="nt"&gt;de&lt;/span&gt; &lt;span class="nt"&gt;la&lt;/span&gt; &lt;span class="nt"&gt;noticia&lt;/span&gt; &lt;span class="nt"&gt;en&lt;/span&gt; &lt;span class="nt"&gt;el&lt;/span&gt; &lt;span class="nt"&gt;que&lt;/span&gt; &lt;span class="nt"&gt;salen&lt;/span&gt; &lt;span class="nt"&gt;parte&lt;/span&gt; &lt;span class="nt"&gt;de&lt;/span&gt; &lt;span class="nt"&gt;los&lt;/span&gt; &lt;span class="nt"&gt;miembros&lt;/span&gt; &lt;span class="nt"&gt;de&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"Taller de Literatura de Los Navalmorales"&lt;/span&gt; &lt;span class="nt"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"/Secciones/actividades/taller-de-literatura/"&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;gt&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt; &lt;span class="nt"&gt;nuestro&lt;/span&gt; &lt;span class="nt"&gt;Taller&lt;/span&gt; &lt;span class="nt"&gt;de&lt;/span&gt; &lt;span class="nt"&gt;Literatura&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;;/&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;gt&lt;/span&gt;&lt;span class="o"&gt;;.&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;;/&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;gt&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;title=&lt;/span&gt;&lt;span class="s"&gt;"Más información del encuentro en la Web Oficial de Matilde Asensi"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"http://www.matildeasensi.net/noticias/xiii-encuentro-de-los-clubes-de-lectura-de-la-provincia-de-toledo"&lt;/span&gt; &lt;span class="na"&gt;target=&lt;/span&gt;&lt;span class="s"&gt;"_blank"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Noticia en la Web de Matilde Asensi&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;: Hay un vídeo al pié de la noticia en el que salen parte de los miembros de&lt;span class="nt"&gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;title=&lt;/span&gt;&lt;span class="s"&gt;"Taller de Literatura de Los Navalmorales"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"/Secciones/actividades/taller-de-literatura/"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt; nuestro Taller de Literatura&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;.&lt;span class="nt"&gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
 
-&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;gt&lt;/span&gt;&lt;span class="o"&gt;;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt; &lt;span class="nt"&gt;title&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"Noticia del encuentro en el ABC"&lt;/span&gt; &lt;span class="nt"&gt;href&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"http://www.abc.es/agencias/noticia.asp?noticia=840874"&lt;/span&gt; &lt;span class="nt"&gt;target&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;&lt;span class="s2"&gt;"_blank"&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;gt&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;&lt;span class="nt"&gt;Noticia&lt;/span&gt; &lt;span class="nt"&gt;del&lt;/span&gt; &lt;span class="nt"&gt;ABC&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;;/&lt;/span&gt;&lt;span class="nt"&gt;a&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;gt&lt;/span&gt;&lt;span class="o"&gt;;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;lt&lt;/span&gt;&lt;span class="o"&gt;;/&lt;/span&gt;&lt;span class="nt"&gt;li&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="nt"&gt;gt&lt;/span&gt;&lt;span class="o"&gt;;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class="na"&gt;title=&lt;/span&gt;&lt;span class="s"&gt;"Noticia del encuentro en el ABC"&lt;/span&gt; &lt;span class="na"&gt;href=&lt;/span&gt;&lt;span class="s"&gt;"http://www.abc.es/agencias/noticia.asp?noticia=840874"&lt;/span&gt; &lt;span class="na"&gt;target=&lt;/span&gt;&lt;span class="s"&gt;"_blank"&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;Noticia del ABC&lt;span class="nt"&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
 &lt;/pre&gt;
 
 

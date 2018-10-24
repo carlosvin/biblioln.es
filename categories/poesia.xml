@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Poesía)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/poesia.xml" type="application/rss+xml" rel="self"></atom:link><language>es</language><lastBuildDate>Thu, 11 Oct 2018 18:28:19 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Tarde de Poesía en la Biblioteca</title><link>http://biblioln.es/posts/2018/03/tarde-de-poesia/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Ha sido una tarde muy bonita. María Antonia Ricas nos ha leído sus
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Poesía)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/poesia.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 19 Sep 2018 17:33:23 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Tarde de Poesía en la Biblioteca</title><link>http://biblioln.es/posts/2018/03/tarde-de-poesia/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Ha sido una tarde muy bonita. María Antonia Ricas nos ha leído sus
 poemas, que hacen referencia a los cuadros de Hopper y nos dan la
 visión de estos a través de su poesía. Su libro: &lt;strong&gt;Salir de un Hopper&lt;/strong&gt;
 nos ha servido para disfrutar de su poesía. Con su inspiración nos
@@ -16,11 +16,6 @@ Gonper (&lt;a class="reference external" href="http://www.editorialcelya.com/"&g
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.jpg" class="thumbnail image-reference" title=""&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.thumbnail.jpg" alt=""&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.jpg" class="thumbnail image-reference" title=""&gt;
             &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/3.thumbnail.jpg" alt=""&gt;
         &lt;/a&gt;
@@ -28,6 +23,11 @@ Gonper (&lt;a class="reference external" href="http://www.editorialcelya.com/"&g
     &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/4.jpg" class="thumbnail image-reference" title=""&gt;
             &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/4.thumbnail.jpg" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.jpg" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/salir-de-un-hopper/1.thumbnail.jpg" alt=""&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
