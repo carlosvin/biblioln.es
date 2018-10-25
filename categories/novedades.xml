@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Novedades)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/novedades.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 24 Oct 2018 18:51:25 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades Libros y Películas</title><link>http://biblioln.es/posts/2018/08/novedades-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;En verano un buen libro siempre es una buena opción. En la biblioteca puedes encontrar todas estas novedades:&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Novedades)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/novedades.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Thu, 25 Oct 2018 18:00:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades de Octubre</title><link>http://biblioln.es/posts/2018/10/novedades-octubre-2018/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/galleries/2018/novedades-octubre/novedades.1.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Pásate por la Biblioteca a ver las novedades que tenemos.&lt;/p&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/novedades-octubre/novedades.1.jpeg" class="thumbnail image-reference" title="Novedades 1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/novedades-octubre/novedades.1.thumbnail.jpeg" alt="Novedades 1"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/novedades-octubre/novedades.2.jpeg" class="thumbnail image-reference" title="Novedades 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/novedades-octubre/novedades.2.thumbnail.jpeg" alt="Novedades 2"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Catálogo</category><category>Novedades</category><guid>http://biblioln.es/posts/2018/10/novedades-octubre-2018/</guid><pubDate>Thu, 25 Oct 2018 15:00:00 GMT</pubDate></item><item><title>Novedades Libros y Películas</title><link>http://biblioln.es/posts/2018/08/novedades-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;En verano un buen libro siempre es una buena opción. En la biblioteca puedes encontrar todas estas novedades:&lt;/p&gt;
 
 
 &lt;div id="gallery_container"&gt;&lt;/div&gt;
@@ -592,51 +611,4 @@
 &lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/17/9788468309217.jpg" alt="" width="480"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.google.com/search?q=9788420417974"&gt;EL MISTERIO DE LAS MASCARAS VENECIANAS(EL PEQUEÑO &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788420417974"&gt;9788420417974&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/74/9788420417974.jpg" alt="" width="480"&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Catálogo</category><category>Novedades</category><guid>http://biblioln.es/posts/2015/04/novedades-literatura-infantil/</guid><pubDate>Thu, 23 Apr 2015 22:45:54 GMT</pubDate></item><item><title>Novedades Literatura Adultos</title><link>http://biblioln.es/posts/2015/04/novedades-literatura-adultos/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;a href="http://www.google.com/search?q=9788408125518"&gt;REGRESO A TU PIEL - LUZ GABA&lt;b&gt;.&lt;/b&gt;&lt;/a&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788408125518"&gt;9788408125518&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t1/18/9788408125518.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788408139096"&gt;LA TEMPLANZA - MARIA DUEÑAS&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788408139096"&gt;9788408139096&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/96/9788408139096.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788499984520"&gt;EL CORAZON DE LAS MUJERES NO TIENE REGLAS : Agapea &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788499984520"&gt;9788499984520&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/20/9788499984520.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788496940321"&gt;EL RABINO - NOAH GORDON&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788496940321"&gt;9788496940321&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/21/9788496940321.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788468756936"&gt;LA MEJOR APUESTA - NORA ROBERTS&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788468756936"&gt;9788468756936&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/36/9788468756936.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788408134060"&gt;MI COLOR FAVORITO ES VERTE - PILAR EYRE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788408134060"&gt;9788408134060&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/60/9788408134060.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788490600719"&gt;Las siete maravillas&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788490600719"&gt;9788490600719&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://www.esferalibros.com/uploads/imagenes/libros/principal/201402/principal-portada-las-siete-maravillas-es.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788416100637"&gt;LA TIERRA DE ALVAR FAÑEZ - ANTONIO PEREZ HENARES &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788416100637"&gt;9788416100637&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/37/9788416100637.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788423346547"&gt;El cambio comienza en ti&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788423346547"&gt;9788423346547&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/47/9788423346547.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788408138754"&gt;ALGUIEN COMO TU (PREMIO RAMON LLULL 2015)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788408138754"&gt;9788408138754&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/54/9788408138754.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788408135302"&gt;LA SEGUNDA GUERRA MUNDIAL CONTADA PARA ESCÉPTICOS &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788408135302"&gt;9788408135302&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/02/9788408135302.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788415140276"&gt;EL CASO DE LA VIUDA NEGRA - JERONIMO TRISTANTE&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788415140276"&gt;9788415140276&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/76/9788415140276.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788490624067"&gt;LA LEYENDA DE LA ISLA SIN VOZ - VANESSA &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788490624067"&gt;9788490624067&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/67/9788490624067.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788415355830"&gt;EL PERFUME SECRETO DEL MELOCOTON - JOANNE HARRIS &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788415355830"&gt;9788415355830&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/30/9788415355830.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788420403243"&gt;Hombres buenos de Arturo Pérez-Reverte&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788420403243"&gt;9788420403243&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/43/9788420403243.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788425352911"&gt;El Mundo Azul. Ama Tu Caos (ALBERT ESPINOSA)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788425352911"&gt;9788425352911&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/11/9788425352911.jpg" alt="" width="480"&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Libros</category><category>Novedades</category><guid>http://biblioln.es/posts/2015/04/novedades-literatura-adultos/</guid><pubDate>Thu, 23 Apr 2015 22:21:03 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/74/9788420417974.jpg" alt="" width="480"&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Catálogo</category><category>Novedades</category><guid>http://biblioln.es/posts/2015/04/novedades-literatura-infantil/</guid><pubDate>Thu, 23 Apr 2015 22:45:54 GMT</pubDate></item></channel></rss>

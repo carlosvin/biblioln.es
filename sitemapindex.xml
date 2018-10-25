@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2018-10-24T18:52:00Z</lastmod>
+  <lastmod>2018-10-24T18:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/actividates.xml</loc>
@@ -43,7 +43,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/catalogo.xml</loc>
-  <lastmod>2018-09-19T17:33:00Z</lastmod>
+  <lastmod>2018-10-25T18:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/centro-de-internet.xml</loc>
@@ -127,7 +127,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2018-10-24T18:52:00Z</lastmod>
+  <lastmod>2018-10-24T18:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/formacion.xml</loc>
@@ -179,7 +179,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/novedades.xml</loc>
-  <lastmod>2018-10-24T18:51:00Z</lastmod>
+  <lastmod>2018-10-25T18:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/novedates.xml</loc>
@@ -215,7 +215,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-lectura.xml</loc>
-  <lastmod>2018-10-24T18:52:00Z</lastmod>
+  <lastmod>2018-10-24T18:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
@@ -398,6 +398,10 @@
   <lastmod>2018-10-24T18:51:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2018/novedades-octubre/rss.xml</loc>
+  <lastmod>2018-10-25T18:00:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/2018/novedades-primavera/rss.xml</loc>
   <lastmod>2018-10-24T18:51:00Z</lastmod>
  </sitemap>
@@ -439,10 +443,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2018-10-24T18:52:00Z</lastmod>
+  <lastmod>2018-10-25T18:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2018-10-24T18:52:00Z</lastmod>
+  <lastmod>2018-10-25T18:00:00Z</lastmod>
  </sitemap>
 </sitemapindex>

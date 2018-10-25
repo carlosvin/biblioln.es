@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales</title><link>http://biblioln.es/</link><description>Biblioteca Pública Municipal de Los Navalmorales</description><atom:link href="http://biblioln.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 24 Oct 2018 18:57:02 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Encuentro con Consolación González Rico</title><link>http://biblioln.es/posts/2018/10/encuentro-consolacion-gonzalez-rico./</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo día 16 de Noviembre a las 17:00 en la Biblioteca, tendrá lugar un encuentro con la escritora &lt;strong&gt;Gonsolación González Rico&lt;/strong&gt; con su libro &lt;em&gt;La Vida que Perdimos&lt;/em&gt;.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales</title><link>http://biblioln.es/</link><description>Biblioteca Pública Municipal de Los Navalmorales</description><atom:link href="http://biblioln.es/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Thu, 25 Oct 2018 18:00:58 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades de Octubre</title><link>http://biblioln.es/posts/2018/10/novedades-octubre-2018/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/galleries/2018/novedades-octubre/novedades.1.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Pásate por la Biblioteca a ver las novedades que tenemos.&lt;/p&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/novedades-octubre/novedades.1.jpeg" class="thumbnail image-reference" title="Novedades 1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/novedades-octubre/novedades.1.thumbnail.jpeg" alt="Novedades 1"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/novedades-octubre/novedades.2.jpeg" class="thumbnail image-reference" title="Novedades 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/novedades-octubre/novedades.2.thumbnail.jpeg" alt="Novedades 2"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Catálogo</category><category>Novedades</category><guid>http://biblioln.es/posts/2018/10/novedades-octubre-2018/</guid><pubDate>Thu, 25 Oct 2018 15:00:00 GMT</pubDate></item><item><title>Encuentro con Consolación González Rico</title><link>http://biblioln.es/posts/2018/10/encuentro-consolacion-gonzalez-rico./</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo día 16 de Noviembre a las 17:00 en la Biblioteca, tendrá lugar un encuentro con la escritora &lt;strong&gt;Gonsolación González Rico&lt;/strong&gt; con su libro &lt;em&gt;La Vida que Perdimos&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;¡Estáis todos y todas invitados!&lt;/p&gt;
 &lt;a class="reference external image-reference" href="http://biblioln.es/2018/encuentro-consolacion-gonzalez-rico.png"&gt;&lt;img alt="/2018/encuentro-consolacion-gonzalez-rico.thumbnail.png" class="align-center" src="http://biblioln.es/2018/encuentro-consolacion-gonzalez-rico.thumbnail.png"&gt;&lt;/a&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Taller de Lectura</category><guid>http://biblioln.es/posts/2018/10/encuentro-consolacion-gonzalez-rico./</guid><pubDate>Wed, 24 Oct 2018 15:00:00 GMT</pubDate></item><item><title>Presentación del libro Estuario de Invierno</title><link>http://biblioln.es/posts/2018/10/presentacion-libro-estuario-de-invierno/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Presentación del libro &lt;em&gt;Estuario de Invierno&lt;/em&gt; el 26 de Octubre a las 18:00 en La Biblioteca.&lt;/p&gt;
 &lt;dl class="docutils"&gt;
@@ -132,47 +151,4 @@ pueblo de Borox por esa estupenda acogida y a sus bibliotecarias  por lo bien qu
 &lt;td&gt;Cerrado&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</description><category>Biblioteca</category><category>Centro de Internet</category><category>Horarios</category><guid>http://biblioln.es/posts/2018/07/horario-verano/</guid><pubDate>Tue, 03 Jul 2018 08:00:00 GMT</pubDate></item><item><title>Crónica de la celebracion del Dia del Libro 2018</title><link>http://biblioln.es/posts/2018/06/dia-del-libro/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;Este año durante el mes de abril y mayo ha habido diferentes actos con motivo de la celebración del Día del Libro.
-Visitas escolares, tanto del &lt;a class="reference external" href="http://ceip-sanfranciscolosnavalmorales.centros.castillalamancha.es/"&gt;Colegio Público San Francisco&lt;/a&gt;, como del &lt;a class="reference external" href="http://ies-losnavalmorales.centros.castillalamancha.es/"&gt;IES de Los Navalmorales&lt;/a&gt;.
-En estas visitas hemos hecho las siguientes actividades:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Texto Roto&lt;/li&gt;
-&lt;li&gt;El Taller de la Imaginación&lt;/li&gt;
-&lt;li&gt;Cuentacuentos: Las niñas y niños han disfrutado escuchando los cuentos de Ana Cristina de &lt;a class="reference external" href="http://www.titiricuento.com/p/quienes-somos.html"&gt;Titiricuento&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Han asistido todos los cursos en dos sesiones.&lt;/p&gt;
-&lt;p&gt;Desde la Biblioteca de Los Navalmorales quiero expresar nuestro agradecimiento a los dos centros escolares con su profesorado por su colaboración. A continuación algunas fotografías:&lt;/p&gt;
-
-
-&lt;div id="gallery_container"&gt;&lt;/div&gt;
-&lt;div class="row"&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-2.jpg" class="thumbnail image-reference" title="Dia del libro 2"&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-2.thumbnail.jpg" alt="Dia del libro 2"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-1.jpg" class="thumbnail image-reference" title="Dia del libro 1"&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-1.thumbnail.jpg" alt="Dia del libro 1"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-4.jpg" class="thumbnail image-reference" title="Dia del libro 4"&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-4.thumbnail.jpg" alt="Dia del libro 4"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-5.jpg" class="thumbnail image-reference" title="Dia del libro 5"&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-5.thumbnail.jpg" alt="Dia del libro 5"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-3.jpg" class="thumbnail image-reference" title="Dia del libro 3"&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/dia-del-libro/dia-del-libro-3.thumbnail.jpg" alt="Dia del libro 3"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;ul class="thumbnails"&gt;
-        &lt;li&gt;
-&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Actividades</category><category>Día del Libro</category><category>Eventos</category><guid>http://biblioln.es/posts/2018/06/dia-del-libro/</guid><pubDate>Mon, 11 Jun 2018 16:00:00 GMT</pubDate></item></channel></rss>
+&lt;/table&gt;</description><category>Biblioteca</category><category>Centro de Internet</category><category>Horarios</category><guid>http://biblioln.es/posts/2018/07/horario-verano/</guid><pubDate>Tue, 03 Jul 2018 08:00:00 GMT</pubDate></item></channel></rss>

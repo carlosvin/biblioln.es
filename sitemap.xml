@@ -559,7 +559,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2018-10-24T18:52:00Z</lastmod>
+  <lastmod>2018-10-25T18:00:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/</loc>
@@ -947,7 +947,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2018/</loc>
-  <lastmod>2018-09-19T17:32:00Z</lastmod>
+  <lastmod>2018-10-25T18:00:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2018/dia-del-libro/</loc>
@@ -964,6 +964,10 @@
  <url>
   <loc>http://biblioln.es/galleries/2018/la-lechuza-detective/</loc>
   <lastmod>2018-09-19T17:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/galleries/2018/novedades-octubre/</loc>
+  <lastmod>2018-10-25T18:00:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2018/novedades-primavera/</loc>
@@ -1047,11 +1051,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-20.html</loc>
-  <lastmod>2018-10-24T18:51:00Z</lastmod>
+  <lastmod>2018-10-25T18:00:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-21.html</loc>
-  <lastmod>2018-10-24T18:52:00Z</lastmod>
+  <lastmod>2018-10-25T18:00:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-3.html</loc>
@@ -1964,6 +1968,10 @@
  <url>
   <loc>http://biblioln.es/posts/2018/10/encuentro-consolacion-gonzalez-rico./</loc>
   <lastmod>2018-10-24T18:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2018/10/novedades-octubre-2018/</loc>
+  <lastmod>2018-10-25T18:00:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2018/10/presentacion-libro-estuario-de-invierno/</loc>
