@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2018-11-08T21:18:00Z</lastmod>
+  <lastmod>2018-11-15T17:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/actividates.xml</loc>
@@ -127,7 +127,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2018-11-08T21:18:00Z</lastmod>
+  <lastmod>2018-11-15T17:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/formacion.xml</loc>
@@ -215,7 +215,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-lectura.xml</loc>
-  <lastmod>2018-11-08T21:18:00Z</lastmod>
+  <lastmod>2018-11-15T17:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
@@ -415,7 +415,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/presentacion-del-libro-estuario-de-invierno/rss.xml</loc>
-  <lastmod>2018-11-08T21:16:00Z</lastmod>
+  <lastmod>2018-11-08T21:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/rss.xml</loc>
@@ -447,10 +447,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2018-11-08T21:18:00Z</lastmod>
+  <lastmod>2018-11-15T17:50:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2018-11-08T21:18:00Z</lastmod>
+  <lastmod>2018-11-15T17:50:00Z</lastmod>
  </sitemap>
 </sitemapindex>

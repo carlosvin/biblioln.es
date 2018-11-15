@@ -6,7 +6,7 @@
 .. previewImage: /2018/encuentro-consolacion-gonzalez-rico.png
 .. type: micro
 
-El próximo día 16 de Noviembre a las 17:00 en la Biblioteca, tendrá lugar un encuentro con la escritora **Gonsolación González Rico** con su libro *La Vida que Perdimos*.
+El próximo día 16 de Noviembre a las 17:00 en el Salón de Actos de Los Navalmorales, tendrá lugar un encuentro con la escritora **Gonsolación González Rico** con su libro *La Vida que Perdimos*.
 
 ¡Estáis todos y todas invitados!
 
