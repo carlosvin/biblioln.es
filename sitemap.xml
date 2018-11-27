@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://biblioln.es/</loc>
-  <lastmod>2018-11-08T19:04:00Z</lastmod>
+  <lastmod>2018-11-27T19:11:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/2011/</loc>
@@ -559,7 +559,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2018-11-08T21:16:00Z</lastmod>
+  <lastmod>2018-11-27T19:11:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/</loc>
@@ -1059,7 +1059,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-21.html</loc>
-  <lastmod>2018-11-08T21:18:00Z</lastmod>
+  <lastmod>2018-11-27T19:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/index-22.html</loc>
+  <lastmod>2018-11-27T19:11:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-3.html</loc>
@@ -1968,6 +1972,10 @@
  <url>
   <loc>http://biblioln.es/posts/2018/09/hora-del-cuento/</loc>
   <lastmod>2018-11-08T19:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2018/10/encuentro-consolacion-gonzalez-rico-cronica/</loc>
+  <lastmod>2018-11-27T19:11:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2018/10/encuentro-consolacion-gonzalez-rico./</loc>
