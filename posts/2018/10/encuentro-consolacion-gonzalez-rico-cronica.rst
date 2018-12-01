@@ -10,5 +10,4 @@ estamos esperando que escribas el siguiente.
 
 Desde la biblioteca de Los Navalmorales y del taller de lectura queremos darte las gracias.
 
-.. thumbnail:: /2018/encuentro-consolacion-gonzalez-rico.png
-    :align: center
+.. gallery:: 2018/encuentro-consolacion-gonzalez-rico
