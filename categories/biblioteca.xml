@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Biblioteca)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/biblioteca.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Thu, 28 Feb 2019 13:57:23 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Donaciones para la Biblioteca de Cebolla</title><link>http://biblioln.es/posts/2018/09/donaciones-a-la-biblioteca-de-cebolla/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="admonition important"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Biblioteca)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/biblioteca.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Thu, 28 Feb 2019 15:53:43 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Donaciones para la Biblioteca de Cebolla</title><link>http://biblioln.es/posts/2018/09/donaciones-a-la-biblioteca-de-cebolla/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="admonition important"&gt;
 &lt;p class="first admonition-title"&gt;Importante&lt;/p&gt;
 &lt;p class="last"&gt;En la biblioteca de Los Navalmorales se recogen donaciones de libros y audiovisuales para la biblioteca de Cebolla&lt;/p&gt;
 &lt;/div&gt;
@@ -67,6 +67,11 @@
 &lt;/table&gt;</description><category>Biblioteca</category><category>Centro de Internet</category><category>Horarios</category><guid>http://biblioln.es/posts/2018/07/horario-verano/</guid><pubDate>Tue, 03 Jul 2018 08:00:00 GMT</pubDate></item><item><title>Novedades de Libros y Películas para este Verano</title><link>http://biblioln.es/posts/2017/07/novedades-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div id="gallery_container"&gt;&lt;/div&gt;
 &lt;div class="row"&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano1.jpg" class="thumbnail image-reference" title="Novedades verano1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano1.thumbnail.jpg" alt="Novedades verano1"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano2.jpg" class="thumbnail image-reference" title="Novedades verano2"&gt;
             &lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano2.thumbnail.jpg" alt="Novedades verano2"&gt;
         &lt;/a&gt;
@@ -74,11 +79,6 @@
     &lt;div class="col-xs-6 col-md-3"&gt;
         &lt;a href="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano3.jpg" class="thumbnail image-reference" title="Novedades verano3"&gt;
             &lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano3.thumbnail.jpg" alt="Novedades verano3"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano1.jpg" class="thumbnail image-reference" title="Novedades verano1"&gt;
-            &lt;img src="http://biblioln.es/galleries/2017/novedades-verano/novedades-verano1.thumbnail.jpg" alt="Novedades verano1"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
