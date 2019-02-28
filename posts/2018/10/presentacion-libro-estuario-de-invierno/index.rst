@@ -3,7 +3,7 @@
 .. date: 2018-10-04 17:00
 .. tags: Actividades, Taller de Lectura, Eventos
 .. description: Presentación del libro Estuario de Invierno de Francisco del Puerto el 26 de Octubre a las 18:00 en La Biblioteca
-.. previewImage: /galleries/2018/presentacion-del-libro-estuario-de-invierno/presentacion-libro-estuario-de-invierno.png
+.. previewimage: /galleries/2018/presentacion-del-libro-estuario-de-invierno/presentacion-libro-estuario-de-invierno.png
 .. type: micro
 
 Presentación del libro *Estuario de Invierno* el 26 de Octubre a las 18:00 en La Biblioteca.
