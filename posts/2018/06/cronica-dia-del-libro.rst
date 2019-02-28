@@ -3,7 +3,7 @@
 .. date: 2018-06-11 18:00
 .. tags: Actividades, Día del Libro, Eventos
 .. description: Crónica de la celebracion del Dia del Libro 2018
-.. previewImage: /galleries/2018/dia-del-libro/dia-del-libro-1.jpg
+.. previewimage: /galleries/2018/dia-del-libro/dia-del-libro-1.jpg
 
 
 Este año durante el mes de abril y mayo ha habido diferentes actos con motivo de la celebración del Día del Libro.

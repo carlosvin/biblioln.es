@@ -3,7 +3,7 @@
 .. date: 2018-11-08 17:00
 .. tags: Actividades, Taller de Lectura, Eventos
 .. description: Crónica de la Presentación del libro Estuario de Invierno de Francisco del Puerto el 26 de Octubre a las 18:00 en La Biblioteca
-.. previewImage: /galleries/2018/presentacion-del-libro-estuario-de-invierno/presentacion-libro-estuario-de-invierno.png
+.. previewimage: /galleries/2018/presentacion-del-libro-estuario-de-invierno/presentacion-libro-estuario-de-invierno.png
 
 Comenzamos a las 18:00 horas. En primer lugar María Victoria Navas hizo la presentación del escritor y autor del libro **Francisco del Puerto**, contando en esta presentación con la colaboración de: **Jesús Bermejo** (profesor de literatura) y de **Germán Pinto** (escritor). Tanto Jesús, cómo Germán, que previamente lo habían leído, nos hablaron de este *Estuario de Invierno*, lo que les ha transmitido a ellos estos poemas. Posteriormente hicimos una lectura de algunos de los poemas. 
 

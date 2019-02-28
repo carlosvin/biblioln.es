@@ -4,7 +4,7 @@
 .. tags: Eventos
 .. description: Este verano, en la Biblioteca, los Martes a las 20:00 contamos cuentos
 .. type: micro
-.. previewImage: /2018/este-verano-contamos-cuentos.png
+.. previewimage: /2018/este-verano-contamos-cuentos.png
 
 Este verano, en la Biblioteca, los Martes a las 20:00 contamos cuentos.
 

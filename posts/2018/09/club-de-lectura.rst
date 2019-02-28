@@ -3,7 +3,7 @@
 .. date: 2018-09-24 17:00
 .. tags: Actividades, Club de Lectura, Eventos
 .. description: Está abierto el plazo de inscripción, pásate por la Biblioteca
-.. previewImage: /2018/club-de-lectura.png
+.. previewimage: /2018/club-de-lectura.png
 .. type: micro
 
 El día **1 de Octubre** comienza el Club de Lectura, está abierto el plazo de inscripción. 
