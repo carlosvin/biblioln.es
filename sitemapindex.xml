@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2019-02-28T15:09:00Z</lastmod>
+  <lastmod>2019-02-28T15:28:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/actividates.xml</loc>
@@ -231,7 +231,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/talleres.xml</loc>
-  <lastmod>2019-02-28T15:09:00Z</lastmod>
+  <lastmod>2019-02-28T15:28:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/teatro.xml</loc>
@@ -463,10 +463,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2019-02-28T15:09:00Z</lastmod>
+  <lastmod>2019-02-28T15:28:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2019-02-28T15:10:00Z</lastmod>
+  <lastmod>2019-02-28T15:28:00Z</lastmod>
  </sitemap>
 </sitemapindex>
