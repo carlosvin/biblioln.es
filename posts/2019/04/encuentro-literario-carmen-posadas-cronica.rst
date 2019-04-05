@@ -15,10 +15,10 @@ Ha sido todo un placer para nosotros que haya tenido la atención de venir a Los
 También quiero agradecer a los clubes de lectura que nos han acompañado:
 
 - Club de Lectura del Centro de Educación de Adultos de Navahermosa acompañados por Carlos Bustamante profesor y responsable del club. 
-- Club de lectura de Los Navalucillos acompañados por Isabel Simón, profesora y responsable del club.
-- Club de lectura de la Biblioteca de Pepino con su bibliotecaria y responsable del club de lectura Pilar.
-- Club de lectura de Castillo de Bayuela con Isabel su bibliotecaria y responsable del club.
-- Club de lectura de Malpica con su bibliotecaria y responsable del club de lectura María Amor.
+- Club de Lectura de Los Navalucillos acompañados por Isabel Simón, profesora y responsable del club.
+- Club de Lectura de la Biblioteca de Pepino con su bibliotecaria y responsable del club, Pilar.
+- Club de Lectura de Castillo de Bayuela con Isabel su bibliotecaria y responsable del club.
+- Club de Lectura de Malpica con su bibliotecaria y responsable del club de lectura María Amor.
 
 También me gustaría agradecer Carlos Bustamante, profesor del centro de Adultos de Navahermosa, su colaboración en la entrevista.
 
