@@ -3,7 +3,7 @@
 .. date: 2019-04-04 20:00
 .. tags: Actividades, Eventos, Encuentros Literarios, Taller de Lectura
 .. description: Cronica del Encuentro literario con Carmen Posadas con su libro "La Maestra de Títeres"
-.. previewimage: /2019/carmen-posadas-los-navalmorales.png
+.. previewimage: galleries/2019/encuentro-literario-carmen-posadas/Carmen-Posadas-Presentacion.png
 .. type: micro
 
 Desde la Biblioteca Pública Municipal de Los Navalmorales quiero expresar nuestro agradecimiento a `Carmen Posadas <http://carmenposadas.net>`_.
