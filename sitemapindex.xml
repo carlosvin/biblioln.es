@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2019-04-05T19:03:00Z</lastmod>
+  <lastmod>2019-04-07T22:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/actividates.xml</loc>
@@ -107,7 +107,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/encuentros-literarios.xml</loc>
-  <lastmod>2019-04-05T19:03:00Z</lastmod>
+  <lastmod>2019-04-07T22:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/encuentros.xml</loc>
@@ -131,7 +131,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2019-04-05T19:03:00Z</lastmod>
+  <lastmod>2019-04-07T22:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/formacion.xml</loc>
@@ -219,7 +219,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-lectura.xml</loc>
-  <lastmod>2019-04-05T19:03:00Z</lastmod>
+  <lastmod>2019-04-07T22:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
@@ -439,7 +439,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2019/encuentro-literario-carmen-posadas/rss.xml</loc>
-  <lastmod>2019-04-05T19:03:00Z</lastmod>
+  <lastmod>2019-04-07T22:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2019/rss.xml</loc>
@@ -467,10 +467,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2019-04-05T19:03:00Z</lastmod>
+  <lastmod>2019-04-07T22:40:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2019-04-05T19:03:00Z</lastmod>
+  <lastmod>2019-04-07T22:40:00Z</lastmod>
  </sitemap>
 </sitemapindex>
