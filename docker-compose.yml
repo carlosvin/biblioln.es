@@ -1,9 +1,0 @@
-version: '2'
-services:
-  biblioln:
-    build: .
-    volumes:
-    - .:/biblioln.es
-    command: bash
-    stdin_open: true
-    tty: true
