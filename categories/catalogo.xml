@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Catálogo)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/catalogo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Thu, 28 Feb 2019 15:53:42 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades de Octubre</title><link>http://biblioln.es/posts/2018/10/novedades-octubre-2018/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/galleries/2018/novedades-octubre/novedades.1.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Pásate por la Biblioteca a ver las novedades que tenemos.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Catálogo)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/catalogo.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 10 Apr 2019 16:50:04 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades de Octubre</title><link>http://biblioln.es/posts/2018/10/novedades-octubre-2018/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/galleries/2018/novedades-octubre/novedades.1.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Pásate por la Biblioteca a ver las novedades que tenemos.&lt;/p&gt;
 
 
 &lt;div id="gallery_container"&gt;&lt;/div&gt;
 &lt;div class="row"&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/novedades-octubre/novedades.1.jpeg" class="thumbnail image-reference" title="Novedades 1"&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/novedades-octubre/novedades.1.thumbnail.jpeg" alt="Novedades 1"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/novedades-octubre/novedades.2.jpeg" class="thumbnail image-reference" title="Novedades 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/novedades-octubre/novedades.2.thumbnail.jpeg" alt="Novedades 2"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2018/novedades-octubre/novedades.2.jpeg" class="thumbnail image-reference" title="Novedades 2"&gt;
-            &lt;img src="http://biblioln.es/galleries/2018/novedades-octubre/novedades.2.thumbnail.jpeg" alt="Novedades 2"&gt;
+        &lt;a href="http://biblioln.es/galleries/2018/novedades-octubre/novedades.1.jpeg" class="thumbnail image-reference" title="Novedades 1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2018/novedades-octubre/novedades.1.thumbnail.jpeg" alt="Novedades 1"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
@@ -24,13 +24,13 @@
 &lt;div id="gallery_container"&gt;&lt;/div&gt;
 &lt;div class="row"&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2017/novedades/novedades.2.jpg" class="thumbnail image-reference" title="Novedades 2"&gt;
-            &lt;img src="http://biblioln.es/galleries/2017/novedades/novedades.2.thumbnail.jpg" alt="Novedades 2"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/novedades/novedades.3.jpg" class="thumbnail image-reference" title="Novedades 3"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/novedades/novedades.3.thumbnail.jpg" alt="Novedades 3"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2017/novedades/novedades.3.jpg" class="thumbnail image-reference" title="Novedades 3"&gt;
-            &lt;img src="http://biblioln.es/galleries/2017/novedades/novedades.3.thumbnail.jpg" alt="Novedades 3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/novedades/novedades.4.jpg" class="thumbnail image-reference" title="Novedades 4"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/novedades/novedades.4.thumbnail.jpg" alt="Novedades 4"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
@@ -39,8 +39,8 @@
         &lt;/a&gt;
     &lt;/div&gt;
     &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2017/novedades/novedades.4.jpg" class="thumbnail image-reference" title="Novedades 4"&gt;
-            &lt;img src="http://biblioln.es/galleries/2017/novedades/novedades.4.thumbnail.jpg" alt="Novedades 4"&gt;
+        &lt;a href="http://biblioln.es/galleries/2017/novedades/novedades.2.jpg" class="thumbnail image-reference" title="Novedades 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2017/novedades/novedades.2.thumbnail.jpg" alt="Novedades 2"&gt;
         &lt;/a&gt;
     &lt;/div&gt;
 &lt;/div&gt;
