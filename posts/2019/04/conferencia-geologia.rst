@@ -6,7 +6,7 @@
 .. previewimage: /2019/conferencia-geologia.png
 .. type: micro
 
-El próximo **10 de Mayo** a las **17:00** en la :doc:`la-biblioteca-de-los-navalmorales`, **Juan Manuel Roiz** (profesor de geología) impartirá la conferencia  **Geología de Los Navalmorales y Montes de Toledo**.
+El próximo **10 de Mayo** a las **17:00** en la :doc:`la-biblioteca-de-los-navalmorales`, **Juan Manuel Roiz** (profesor de geología) impartirá la conferencia **Geología de Los Navalmorales y Montes de Toledo**.
 
 .. thumbnail:: /2019/conferencia-geologia.png
     :align: center
