@@ -15,5 +15,5 @@ El próximo **10 de Mayo** a las **17:00** en la :doc:`la-biblioteca-de-los-nava
     ¡Estáis todos y todas invitados!
 
 Organizan:
- - Ayuntamiento de Los Navalmorales
+ - `Ayuntamiento de Los Navalmorales <http://www.losnavalmorales.es/>`_
  - `Taller de Lectura de Los Navalmorales </categories/taller-de-lectura/>`_
