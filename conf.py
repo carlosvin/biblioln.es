@@ -79,8 +79,13 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/stories/la-biblioteca-de-los-navalmorales", "La Biblioteca"),
         ("/stories/la-biblioteca-de-los-navalmorales/contacto", "Contacto"),
-         ((("http://reddebibliotecas.jccm.es/portal/", "Catálogo JCCM"),
-          ("http://www.losnavalmorales.com/mesa/", "Revista Forja")), 'Enlaces'),
+            (
+                (
+                    ("http://reddebibliotecas.jccm.es/portal/", "Catálogo JCCM"),
+                    ("http://www.losnavalmorales.com/mesa/", "Revista Forja"),
+                    ("http://www.losnavalmorales.es/", "Ayuntamiento de Los Navalmorales"),
+                ), 
+            'Enlaces'),
         ("/categories", "Categorías"),
         ("/rss.xml", "RSS"),
     ),

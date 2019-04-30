@@ -7,14 +7,12 @@
 .. type: micro
 
 El profesor de la `Universidad Complutense de Madrid <https://www.ucm.es/>`_ **Javier Gorgas** impartirá una **conferencia sobre Agujeros Negros**. 
-    
+
 .. thumbnail:: /2019/conferencia-agujeros-negros.png
     :align: center
     :alt: Cartel conferencia "Agujeros Negros" por Javier Gorgas
 
-    ¡Estáis todos y todas invitados!
-
 Cuándo
     3 de Mayo a las 21:00
 Dónde
-    Casa de Cultura de Los Navalmorales
+    `Casa de Cultura de Los Navalmorales <https://goo.gl/maps/PYiqyDRaQbk9BuWW8>`_
