@@ -27,11 +27,11 @@ Esta actividad la coordinamos con el `Colegio Público San Francisco <http://cei
 Día 23 de Abril, día del Libro
 ------------------------------
 
-Presentación del libro *"Las Tres Gemas"*, por Oscar Hornillos. 
+Presentación del libro *"Las Tres Gemas"*, por Óscar Hornillos. 
 
 Su autor nos habló sobre ésta primera parte y nos anunció que que ya tiene hecha una segunda parte, solo falta que la publiquen.
 
-Es un libro de fantasía y aventuras, que sin duda enganchará a todo el mundo, sobre todo al público jóven.
+Es un libro de fantasía y aventuras, que sin duda enganchará a todo el mundo, sobre todo al público joven.
 Muchas gracias Óscar.
 
 .. gallery:: 2019/presentacion-las-tres-gemas
