@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-05-14T08:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/actividates.xml</loc>
@@ -67,7 +67,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/conferencias.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-04-30T11:58:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/congresos.xml</loc>
@@ -75,7 +75,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/cronica.xml</loc>
-  <lastmod>2019-04-10T16:50:00Z</lastmod>
+  <lastmod>2019-05-14T08:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/cuentacuentos.xml</loc>
@@ -131,7 +131,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-05-14T08:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/formacion.xml</loc>
@@ -223,7 +223,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-lectura.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-04-30T11:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
@@ -442,8 +442,16 @@
   <lastmod>2019-04-30T11:52:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2019/actuaciones-dia-del-libro/rss.xml</loc>
+  <lastmod>2019-05-14T08:11:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/2019/encuentro-literario-carmen-posadas/rss.xml</loc>
   <lastmod>2019-04-30T11:52:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/galleries/2019/presentacion-las-tres-gemas/rss.xml</loc>
+  <lastmod>2019-05-14T08:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2019/rss.xml</loc>
@@ -467,10 +475,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-05-14T08:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-05-14T08:13:00Z</lastmod>
  </sitemap>
 </sitemapindex>
