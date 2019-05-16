@@ -563,7 +563,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2019-05-14T07:42:00Z</lastmod>
+  <lastmod>2019-05-16T19:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/</loc>
@@ -1011,11 +1011,15 @@
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2019/</loc>
-  <lastmod>2019-05-14T08:12:00Z</lastmod>
+  <lastmod>2019-05-16T19:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2019/actuaciones-dia-del-libro/</loc>
   <lastmod>2019-05-14T08:11:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/galleries/2019/conferencia-geologia-cronica/</loc>
+  <lastmod>2019-05-16T19:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2019/encuentro-literario-carmen-posadas/</loc>
@@ -1095,7 +1099,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-22.html</loc>
-  <lastmod>2019-05-14T07:42:00Z</lastmod>
+  <lastmod>2019-05-16T19:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-3.html</loc>
@@ -2052,6 +2056,10 @@
  <url>
   <loc>http://biblioln.es/posts/2019/04/presentacion-las-3-gemas-oscar-hornillos/</loc>
   <lastmod>2019-04-10T16:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2019/05/conferencia-geologia-cronica/</loc>
+  <lastmod>2019-05-16T19:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2019/05/cronica-dia-del-libro/</loc>
