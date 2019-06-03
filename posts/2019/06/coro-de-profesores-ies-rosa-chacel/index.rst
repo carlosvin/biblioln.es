@@ -1,4 +1,4 @@
-.. title: Presentación de Las Tres Gemas por Oscar Hornillos
+.. title: Concierto del Coro de Profesores IES Rosa Chacel
 .. slug: coro-de-profesores-ies-rosa-chacel
 .. date: 2019-06-02 10:00
 .. tags: Actividades, Eventos, Conciertos
