@@ -6,8 +6,20 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>http://biblioln.es/authors/biblioteca-de-los-navalmorales.xml</loc>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/authors/bibliotecaria-de-los-navalmorales.xml</loc>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/authors/lourdes-bibliotecaria-de-los-navalmorales.xml</loc>
+  <lastmod>2019-06-08T11:57:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2019-06-03T14:07:00Z</lastmod>
+  <lastmod>2019-06-08T11:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/actividates.xml</loc>
@@ -59,7 +71,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/conciertos.xml</loc>
-  <lastmod>2019-06-03T14:07:00Z</lastmod>
+  <lastmod>2019-06-03T14:13:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/concurso.xml</loc>
@@ -135,7 +147,11 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2019-06-03T14:07:00Z</lastmod>
+  <lastmod>2019-06-08T11:57:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/categories/excursiones.xml</loc>
+  <lastmod>2019-06-08T11:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/formacion.xml</loc>
@@ -227,7 +243,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-lectura.xml</loc>
-  <lastmod>2019-05-16T19:54:00Z</lastmod>
+  <lastmod>2019-06-08T11:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
@@ -267,226 +283,230 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2012/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2012/visita-de-los-alumnos-de-e-s-o-a-la-biblioteca/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2015/Club_de_Lectura_Jovenes_Lectores/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2015/encuentro-nieves-herrero/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2015/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/dia-del-libro/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/encuentro-javier-ruescas/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/halloween/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/libros-premio-maria-moliner/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/navidad/cena-taller-literatura/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/navidad/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/navidad/talleres/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/novedades/libros/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/novedades/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/novedades/videos/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/talleres/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/viii-congreso-nacional-bibliotecas-publicas/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2016/xviii-encuentro-provincial-clubes-lectura/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2017/camino-hacia-el-reposo/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2017/cita-con-mucho-amor-cronica/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2017/conferencia-criminologia/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2017/conferencia-el-extranjero/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2017/conferencia-larra/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2017/cuentos-quita-y-pon/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2017/el-estado-de-valdepusa/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2017/encuentro-fernando-lallana/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2017/navidad/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2017/novedades-verano/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2017/novedades/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2017/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2017/xix-encuentro-clubes-lectura-toledo/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/dia-del-libro/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/encuentro-autor-jose-alberto-blanco-hernandez/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/encuentro-consolacion-gonzalez-rico/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/hora-del-cuento/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/la-lechuza-detective/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/novedades-octubre/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/novedades-primavera/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/novedades-verano/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/paseo-literario-por-toledo-fernando-lallana/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/presentacion-del-libro-estuario-de-invierno/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/ruta-madrid-medieval/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2018/salir-de-un-hopper/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2019/actuaciones-dia-del-libro/rss.xml</loc>
-  <lastmod>2019-05-14T08:11:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2019/conferencia-geologia-cronica/rss.xml</loc>
-  <lastmod>2019-05-16T19:51:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2019/encuentro-literario-carmen-posadas/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2019/presentacion-las-tres-gemas/rss.xml</loc>
-  <lastmod>2019-05-14T08:13:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/2019/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://biblioln.es/galleries/2019/visita-toledo/rss.xml</loc>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/la-biblioteca/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/galleries/xvii-encuentro-provincial-de-clubes-de-lectura/rss.xml</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2019-06-03T14:07:00Z</lastmod>
+  <lastmod>2019-06-08T11:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2019-06-03T14:07:00Z</lastmod>
+  <lastmod>2019-06-08T11:57:00Z</lastmod>
  </sitemap>
 </sitemapindex>

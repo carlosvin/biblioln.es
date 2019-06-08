@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://biblioln.es/</loc>
-  <lastmod>2019-06-03T14:06:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/2011/</loc>
@@ -563,11 +563,27 @@
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2019-06-03T14:06:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/authors/</loc>
+  <lastmod>2019-06-08T11:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/authors/biblioteca-de-los-navalmorales/</loc>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/authors/bibliotecaria-de-los-navalmorales/</loc>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/authors/lourdes-bibliotecaria-de-los-navalmorales/</loc>
+  <lastmod>2019-06-08T11:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/</loc>
-  <lastmod>2019-06-03T14:07:00Z</lastmod>
+  <lastmod>2019-06-08T11:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/actividades/</loc>
@@ -700,6 +716,10 @@
  <url>
   <loc>http://biblioln.es/categories/eventos/</loc>
   <lastmod>2019-04-07T22:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/categories/excursiones/</loc>
+  <lastmod>2019-06-08T11:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/formacion/</loc>
@@ -1015,7 +1035,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2019/</loc>
-  <lastmod>2019-05-16T19:51:00Z</lastmod>
+  <lastmod>2019-06-08T11:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2019/actuaciones-dia-del-libro/</loc>
@@ -1034,6 +1054,10 @@
   <lastmod>2019-05-14T08:13:00Z</lastmod>
  </url>
  <url>
+  <loc>http://biblioln.es/galleries/2019/visita-toledo/</loc>
+  <lastmod>2019-06-08T11:54:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://biblioln.es/galleries/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez/</loc>
   <lastmod>2019-04-07T22:50:00Z</lastmod>
  </url>
@@ -1047,95 +1071,95 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-1.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-10.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-11.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-12.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-13.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-14.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-15.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-16.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-17.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-18.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-19.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-2.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-20.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-21.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-22.html</loc>
-  <lastmod>2019-06-03T14:06:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-23.html</loc>
-  <lastmod>2019-06-03T14:06:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-3.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-4.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-5.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-6.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-7.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-8.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-9.html</loc>
-  <lastmod>2019-04-30T11:52:00Z</lastmod>
+  <lastmod>2019-06-08T11:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/la-biblioteca-de-los-navalmorales/</loc>
@@ -2076,6 +2100,14 @@
  <url>
   <loc>http://biblioln.es/posts/2019/06/coro-de-profesores-ies-rosa-chacel/</loc>
   <lastmod>2019-06-03T14:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2019/06/visita-toledo-clubes-lectura-infantiles/</loc>
+  <lastmod>2019-06-08T11:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2019/06/visita-toledo/</loc>
+  <lastmod>2019-06-08T11:55:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/stories/2011/07/44/</loc>
