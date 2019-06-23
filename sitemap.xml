@@ -563,7 +563,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2019-06-23T07:16:00Z</lastmod>
+  <lastmod>2019-06-23T07:32:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/authors/</loc>
@@ -1135,7 +1135,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-23.html</loc>
-  <lastmod>2019-06-23T07:16:00Z</lastmod>
+  <lastmod>2019-06-23T07:32:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-3.html</loc>
@@ -2100,6 +2100,10 @@
  <url>
   <loc>http://biblioln.es/posts/2019/05/cronica-dia-del-libro/</loc>
   <lastmod>2019-05-14T07:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2019/06/bases-concurso-verano/</loc>
+  <lastmod>2019-06-23T07:32:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2019/06/coro-de-profesores-ies-rosa-chacel/</loc>
