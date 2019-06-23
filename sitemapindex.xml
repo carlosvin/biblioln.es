@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/authors/biblioteca-de-los-navalmorales.xml</loc>
-  <lastmod>2019-06-23T06:55:00Z</lastmod>
+  <lastmod>2019-06-23T07:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/authors/lourdes-bibliotecaria-de-los-navalmorales.xml</loc>
@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2019-06-23T06:55:00Z</lastmod>
+  <lastmod>2019-06-23T07:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/actividates.xml</loc>
@@ -59,7 +59,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/club-de-lectura.xml</loc>
-  <lastmod>2019-06-23T06:42:00Z</lastmod>
+  <lastmod>2019-06-23T07:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/comprension-lectora.xml</loc>
@@ -67,7 +67,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/conciertos.xml</loc>
-  <lastmod>2019-06-23T06:55:00Z</lastmod>
+  <lastmod>2019-06-23T07:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/concurso.xml</loc>
@@ -123,7 +123,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/encuentros.xml</loc>
-  <lastmod>2019-04-10T16:50:00Z</lastmod>
+  <lastmod>2019-06-23T07:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/enlaces.xml</loc>
@@ -135,7 +135,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/escritores.xml</loc>
-  <lastmod>2019-04-10T16:50:00Z</lastmod>
+  <lastmod>2019-06-23T07:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/esta-web.xml</loc>
@@ -143,7 +143,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2019-06-23T06:55:00Z</lastmod>
+  <lastmod>2019-06-23T07:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/excursiones.xml</loc>
@@ -243,7 +243,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller-de-literatura.xml</loc>
-  <lastmod>2019-04-10T16:50:00Z</lastmod>
+  <lastmod>2019-06-23T07:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/taller.xml</loc>
@@ -486,6 +486,10 @@
   <lastmod>2019-06-23T06:34:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2019/xxi-encuentro-clubes-lectura-toledo/rss.xml</loc>
+  <lastmod>2019-06-23T07:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/cronica-de-la-conferencia-de-maria-victoria-navas-sanchez-elez/rss.xml</loc>
   <lastmod>2019-06-23T06:34:00Z</lastmod>
  </sitemap>
@@ -503,10 +507,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2019-06-23T06:55:00Z</lastmod>
+  <lastmod>2019-06-23T07:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2019-06-23T06:55:00Z</lastmod>
+  <lastmod>2019-06-23T07:16:00Z</lastmod>
  </sitemap>
 </sitemapindex>

@@ -3,7 +3,7 @@
 .. date: 2019-06-22 10:00
 .. tags: Actividades, Eventos, Conciertos
 .. description: Crónica del concierto del Coro de Profesores del IES Rosa Chacel.
-.. previewimage: galleries/2019/coro-de-profesores-ies-rosa-chacel/coro-de-profesores-ies-rosa-chacel.png
+.. previewimage: /galleries/2019/coro-de-profesores-ies-rosa-chacel/coro-de-profesores-ies-rosa-chacel-1.png
 .. type: micro
 
 El sábado día 8 de Junio tuvimos el placer de volver a escuchar a este grupo de profesores en el salón de actos de La Casa de la Cultura de Los Navalmorales.
