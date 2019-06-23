@@ -1,5 +1,5 @@
 .. title: Crónica del Concierto del Coro de Profesores IES Rosa Chacel
-.. slug: cronica'coro-de-profesores-ies-rosa-chacel
+.. slug: cronica-coro-de-profesores-ies-rosa-chacel
 .. date: 2019-06-22 10:00
 .. tags: Actividades, Eventos, Conciertos
 .. description: Crónica del concierto del Coro de Profesores del IES Rosa Chacel.
