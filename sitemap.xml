@@ -559,7 +559,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/2019/</loc>
-  <lastmod>2019-06-23T06:43:00Z</lastmod>
+  <lastmod>2019-06-23T06:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
@@ -579,7 +579,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/categories/</loc>
-  <lastmod>2019-06-23T06:25:00Z</lastmod>
+  <lastmod>2019-06-23T06:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/actividades/</loc>
@@ -618,10 +618,6 @@
   <lastmod>2019-04-07T22:50:00Z</lastmod>
  </url>
  <url>
-  <loc>http://biblioln.es/categories/cat_contacto-la-biblioteca/</loc>
-  <lastmod>2019-06-23T06:25:00Z</lastmod>
- </url>
- <url>
   <loc>http://biblioln.es/categories/catalogo/</loc>
   <lastmod>2019-04-07T22:50:00Z</lastmod>
  </url>
@@ -656,10 +652,6 @@
  <url>
   <loc>http://biblioln.es/categories/congresos/</loc>
   <lastmod>2019-04-07T22:50:00Z</lastmod>
- </url>
- <url>
-  <loc>http://biblioln.es/categories/contacto/</loc>
-  <lastmod>2019-06-23T06:25:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/cronica/</loc>
@@ -800,10 +792,6 @@
  <url>
   <loc>http://biblioln.es/categories/presentacion-libros/</loc>
   <lastmod>2019-04-10T16:50:00Z</lastmod>
- </url>
- <url>
-  <loc>http://biblioln.es/categories/principal/</loc>
-  <lastmod>2019-06-23T06:25:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/categories/radio/</loc>
@@ -1056,10 +1044,6 @@
  <url>
   <loc>http://biblioln.es/galleries/2019/coro-de-profesores-ies-rosa-chacel/</loc>
   <lastmod>2019-06-23T06:42:00Z</lastmod>
- </url>
- <url>
-  <loc>http://biblioln.es/galleries/2019/coro-profesores-ies-rosa-valcarcel/</loc>
-  <lastmod>2019-06-23T06:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2019/encuentro-literario-carmen-posadas/</loc>
@@ -2122,36 +2106,8 @@
   <lastmod>2019-06-23T06:42:00Z</lastmod>
  </url>
  <url>
-  <loc>http://biblioln.es/posts/2019/06/stories/2011/07/44/</loc>
-  <lastmod>2019-06-23T06:25:00Z</lastmod>
- </url>
- <url>
-  <loc>http://biblioln.es/posts/2019/06/stories/2011/11/233/</loc>
-  <lastmod>2019-06-23T06:25:00Z</lastmod>
- </url>
- <url>
-  <loc>http://biblioln.es/posts/2019/06/stories/2012/04/359/</loc>
-  <lastmod>2019-06-23T06:25:00Z</lastmod>
- </url>
- <url>
-  <loc>http://biblioln.es/posts/2019/06/stories/2015/01/1178/</loc>
-  <lastmod>2019-06-23T06:25:00Z</lastmod>
- </url>
- <url>
-  <loc>http://biblioln.es/posts/2019/06/stories/2015/01/1179/</loc>
-  <lastmod>2019-06-23T06:25:00Z</lastmod>
- </url>
- <url>
-  <loc>http://biblioln.es/posts/2019/06/stories/2015/01/1181/</loc>
-  <lastmod>2019-06-23T06:25:00Z</lastmod>
- </url>
- <url>
-  <loc>http://biblioln.es/posts/2019/06/stories/la-biblioteca-de-los-navalmorales/</loc>
-  <lastmod>2019-06-23T06:25:00Z</lastmod>
- </url>
- <url>
-  <loc>http://biblioln.es/posts/2019/06/stories/la-biblioteca-de-los-navalmorales/contacto/</loc>
-  <lastmod>2019-06-23T06:25:00Z</lastmod>
+  <loc>http://biblioln.es/posts/2019/06/cronica-coro-de-profesores-ies-rosa-chacel/</loc>
+  <lastmod>2019-06-23T06:55:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2019/06/visita-toledo/</loc>
