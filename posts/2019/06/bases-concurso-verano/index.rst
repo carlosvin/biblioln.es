@@ -2,9 +2,9 @@
 .. slug: bases-concurso-verano
 .. date: 2019-06-22 10:02
 .. tags: Actividades, Concursos
-.. description: Si este verano te quieres divertir, ven a la Biblioteca y recibirás un premio
+.. description: Si este verano te quieres divertir leyendo, ven a la Biblioteca y recibirás un premio
 
-.. important:: Si este verano te quieres divertir, ven a la Biblioteca y recibirás un premio
+.. important:: Si este verano te quieres divertir leyendo, ven a la Biblioteca y recibirás un premio
 
 Bases del concurso
 -------------------
