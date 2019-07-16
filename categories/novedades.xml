@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Novedades)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/novedades.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 10 Apr 2019 16:50:04 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades de Octubre</title><link>http://biblioln.es/posts/2018/10/novedades-octubre-2018/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/galleries/2018/novedades-octubre/novedades.1.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Pásate por la Biblioteca a ver las novedades que tenemos.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Novedades)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/novedades.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Tue, 16 Jul 2019 11:14:19 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades de Libros para este verano</title><link>http://biblioln.es/posts/2019/07/novedades-libros-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;A continuación puedes las novedades para este verano:&lt;/p&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.6.jpg" class="thumbnail image-reference" title="Novedades libros verano 6"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.6.thumbnail.jpg" alt="Novedades libros verano 6"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.2.jpg" class="thumbnail image-reference" title="Novedades libros verano 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.2.thumbnail.jpg" alt="Novedades libros verano 2"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.4.jpg" class="thumbnail image-reference" title="Novedades libros verano 4"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.4.thumbnail.jpg" alt="Novedades libros verano 4"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.5.jpg" class="thumbnail image-reference" title="Novedades libros verano 5"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.5.thumbnail.jpg" alt="Novedades libros verano 5"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.1.jpg" class="thumbnail image-reference" title="Novedades libros verano 1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.1.thumbnail.jpg" alt="Novedades libros verano 1"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.3.jpg" class="thumbnail image-reference" title="Novedades libros verano 3"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.3.thumbnail.jpg" alt="Novedades libros verano 3"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Libros</category><category>Novedades</category><category>Películas</category><guid>http://biblioln.es/posts/2019/07/novedades-libros-verano/</guid><pubDate>Mon, 15 Jul 2019 15:00:00 GMT</pubDate></item><item><title>Novedades de Octubre</title><link>http://biblioln.es/posts/2018/10/novedades-octubre-2018/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/galleries/2018/novedades-octubre/novedades.1.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Pásate por la Biblioteca a ver las novedades que tenemos.&lt;/p&gt;
 
 
 &lt;div id="gallery_container"&gt;&lt;/div&gt;
@@ -553,62 +592,4 @@
 &lt;/tbody&gt;&lt;/table&gt;
 
 &lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Catálogo</category><category>Libros</category><category>Novedades</category><guid>http://biblioln.es/posts/2015/10/novedades-otonio-2015/</guid><pubDate>Mon, 26 Oct 2015 20:00:00 GMT</pubDate></item><item><title>Novedades Literatura Infantil</title><link>http://biblioln.es/posts/2015/04/novedades-literatura-infantil/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;a href="http://www.google.com/search?q=9788444169293"&gt;MY LITTLE PONY: PINKIE PIE Y LA FANTASTICA FIESTA &lt;b&gt;...&lt;/b&gt; - Agapea&lt;/a&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788444169293"&gt;9788444169293&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://portadas.quorum.t2v.com/6/9/2/9/3/9788444169293.JPG" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788444169286"&gt;MY LITTLE PONY : TWILIGHT SPARKLE Y EL HECHIZO DEL &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788444169286"&gt;9788444169286&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/86/9788444169286.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788493822347"&gt;PASAJES Librería internacional: Mil y un cuentos&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788493822347"&gt;9788493822347&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://ecx.images-amazon.com/images/I/51B0sGvGz0L._SX258_BO1,204,203,200_.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788484647416"&gt;LA FAMILIA C - PEP BRUNO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788484647416"&gt;9788484647416&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/16/9788484647416.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788467574159"&gt;LOS FUTBOLISIMOS: EL MISTERIO DEL ROBO IMPOSIBLE &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788467574159"&gt;9788467574159&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/59/9788467574159.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788408131984"&gt;SHERLOCK, LUPIN Y YO 5: EL CASTILLO DE HIELO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788408131984"&gt;9788408131984&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/84/9788408131984.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788420444765"&gt;UNA (ESTUPENDA) HISTORIA DE DRAGONES Y PRINCESAS &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788420444765"&gt;9788420444765&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/65/9788420444765.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788567502879"&gt;9788567502879&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/78/9788484289678.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788461540464"&gt;LA FAMILIA C - PEP BRUNO, comprar el libro&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788461540464"&gt;9788461540464&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://ecx.images-amazon.com/images/I/81M0FYJM8mL.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788498710731"&gt;La aldea menuda: 2010/03&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788498710731"&gt;9788498710731&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://ecx.images-amazon.com/images/I/81S6P4C1L3L.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788467536058"&gt;QUIJOTE - MIGUEL DE CERVANTES SAAVEDRA&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788467536058"&gt;9788467536058&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t1/58/9788467536058.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788416075126"&gt;¿DONDE ESTA WALLY?: LA COLECCION DEFINITIVA - MARTIN &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788416075126"&gt;9788416075126&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/26/9788416075126.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788494222825"&gt;RUIDO - PABLO ALBO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788494222825"&gt;9788494222825&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t1/25/9788494222825.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788492702886"&gt;11. La máquina de las estaciones - Almadraba Infantil y Juvenil&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788492702886"&gt;9788492702886&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/86/9788492702886.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788484289678"&gt;UN MONSTRUO - PEP BRUNO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788484289678"&gt;9788484289678&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/78/9788484289678.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788408113362"&gt;BUSCAFIERAS 23. BLAZE. EL DRAGON DE HIELO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788408113362"&gt;9788408113362&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/62/9788408113362.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788426391797"&gt;ADA GOTH Y EL FANTASMA DEL RATÓN - CHRIS RIDDELL &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788426391797"&gt;9788426391797&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://www.libreriacentral.com/Resources/Pictures/9788426391797.JPG" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788423692811"&gt;MICHO 2, EDUCACIÓN INFANTIL, MARTÍNEZ BELINCHÓN, PILAR &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788423692811"&gt;9788423692811&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://ecx.images-amazon.com/images/I/819QM6fX1QL.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788468309217"&gt;LA EXTRAÑA ORQUESTA - PABLO ALBO&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788468309217"&gt;9788468309217&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/17/9788468309217.jpg" alt="" width="480"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://www.google.com/search?q=9788420417974"&gt;EL MISTERIO DE LAS MASCARAS VENECIANAS(EL PEQUEÑO &lt;b&gt;...&lt;/b&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788420417974"&gt;9788420417974&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/74/9788420417974.jpg" alt="" width="480"&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Catálogo</category><category>Novedades</category><guid>http://biblioln.es/posts/2015/04/novedades-literatura-infantil/</guid><pubDate>Thu, 23 Apr 2015 22:45:54 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;&lt;/div&gt;</description><category>Catálogo</category><category>Libros</category><category>Novedades</category><guid>http://biblioln.es/posts/2015/10/novedades-otonio-2015/</guid><pubDate>Mon, 26 Oct 2015 20:00:00 GMT</pubDate></item></channel></rss>

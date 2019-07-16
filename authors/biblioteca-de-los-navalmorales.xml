@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones de Biblioteca de Los Navalmorales)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/authors/biblioteca-de-los-navalmorales.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Tue, 16 Jul 2019 11:05:50 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Horario de verano: Biblioteca y Centro de Internet</title><link>http://biblioln.es/posts/2019/07/horario-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;table border="1" class="docutils"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones de Biblioteca de Los Navalmorales)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/authors/biblioteca-de-los-navalmorales.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Tue, 16 Jul 2019 11:14:19 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades de Libros para este verano</title><link>http://biblioln.es/posts/2019/07/novedades-libros-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;A continuación puedes las novedades para este verano:&lt;/p&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.6.jpg" class="thumbnail image-reference" title="Novedades libros verano 6"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.6.thumbnail.jpg" alt="Novedades libros verano 6"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.2.jpg" class="thumbnail image-reference" title="Novedades libros verano 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.2.thumbnail.jpg" alt="Novedades libros verano 2"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.4.jpg" class="thumbnail image-reference" title="Novedades libros verano 4"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.4.thumbnail.jpg" alt="Novedades libros verano 4"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.5.jpg" class="thumbnail image-reference" title="Novedades libros verano 5"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.5.thumbnail.jpg" alt="Novedades libros verano 5"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.1.jpg" class="thumbnail image-reference" title="Novedades libros verano 1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.1.thumbnail.jpg" alt="Novedades libros verano 1"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.3.jpg" class="thumbnail image-reference" title="Novedades libros verano 3"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.3.thumbnail.jpg" alt="Novedades libros verano 3"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Libros</category><category>Novedades</category><category>Películas</category><guid>http://biblioln.es/posts/2019/07/novedades-libros-verano/</guid><pubDate>Mon, 15 Jul 2019 15:00:00 GMT</pubDate></item><item><title>Horario de verano: Biblioteca y Centro de Internet</title><link>http://biblioln.es/posts/2019/07/horario-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;table border="1" class="docutils"&gt;
 &lt;colgroup&gt;
 &lt;col width="12%"&gt;
 &lt;col width="18%"&gt;
@@ -269,8 +308,4 @@ Muchas gracias Óscar.&lt;/p&gt;
 &lt;dd&gt;3 de Mayo a las 21:00&lt;/dd&gt;
 &lt;dt&gt;Dónde&lt;/dt&gt;
 &lt;dd&gt;&lt;a class="reference external" href="https://goo.gl/maps/PYiqyDRaQbk9BuWW8"&gt;Casa de Cultura de Los Navalmorales&lt;/a&gt;&lt;/dd&gt;
-&lt;/dl&gt;&lt;/div&gt;</description><category>Actividades</category><category>Conferencias</category><category>Eventos</category><guid>http://biblioln.es/posts/2019/04/conferencia-agujeros-negros/</guid><pubDate>Mon, 29 Apr 2019 07:00:00 GMT</pubDate></item><item><title>Presentación de Las Tres Gemas por Oscar Hornillos</title><link>http://biblioln.es/posts/2019/04/presentacion-las-3-gemas-oscar-hornillos/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El próximo &lt;strong&gt;23 de Abril&lt;/strong&gt; a las &lt;strong&gt;19:00&lt;/strong&gt; en la Casa de Cultura de Los Navalmorales, &lt;strong&gt;Oscar Hornillos&lt;/strong&gt; presentará su libro &lt;strong&gt;Las Tres Gemas&lt;/strong&gt;.&lt;/p&gt;
-&lt;div class="figure align-center"&gt;
-&lt;a class="reference external image-reference" href="http://biblioln.es/2019/presentacion-las-3-gemas-oscar-hornillos.jpeg"&gt;&lt;img alt='Cartel de la presentación del libro "Las Tres Gemas", por Oscar Hornillos' src="http://biblioln.es/2019/presentacion-las-3-gemas-oscar-hornillos.thumbnail.jpeg"&gt;&lt;/a&gt;
-&lt;p class="caption"&gt;¡Estáis todos y todas invitados!&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Eventos</category><category>Presentación Libros</category><guid>http://biblioln.es/posts/2019/04/presentacion-las-3-gemas-oscar-hornillos/</guid><pubDate>Wed, 10 Apr 2019 08:00:00 GMT</pubDate></item></channel></rss>
+&lt;/dl&gt;&lt;/div&gt;</description><category>Actividades</category><category>Conferencias</category><category>Eventos</category><guid>http://biblioln.es/posts/2019/04/conferencia-agujeros-negros/</guid><pubDate>Mon, 29 Apr 2019 07:00:00 GMT</pubDate></item></channel></rss>

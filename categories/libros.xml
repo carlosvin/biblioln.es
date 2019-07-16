@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Libros)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/libros.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 10 Apr 2019 16:50:04 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Donaciones para la Biblioteca de Cebolla</title><link>http://biblioln.es/posts/2018/09/donaciones-a-la-biblioteca-de-cebolla/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="admonition important"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Libros)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/libros.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Tue, 16 Jul 2019 11:14:19 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Novedades de Libros para este verano</title><link>http://biblioln.es/posts/2019/07/novedades-libros-verano/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;A continuación puedes las novedades para este verano:&lt;/p&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.6.jpg" class="thumbnail image-reference" title="Novedades libros verano 6"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.6.thumbnail.jpg" alt="Novedades libros verano 6"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.2.jpg" class="thumbnail image-reference" title="Novedades libros verano 2"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.2.thumbnail.jpg" alt="Novedades libros verano 2"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.4.jpg" class="thumbnail image-reference" title="Novedades libros verano 4"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.4.thumbnail.jpg" alt="Novedades libros verano 4"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.5.jpg" class="thumbnail image-reference" title="Novedades libros verano 5"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.5.thumbnail.jpg" alt="Novedades libros verano 5"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.1.jpg" class="thumbnail image-reference" title="Novedades libros verano 1"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.1.thumbnail.jpg" alt="Novedades libros verano 1"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.3.jpg" class="thumbnail image-reference" title="Novedades libros verano 3"&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/novedades-libros-verano/novedades-libros-verano.3.thumbnail.jpg" alt="Novedades libros verano 3"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Libros</category><category>Novedades</category><category>Películas</category><guid>http://biblioln.es/posts/2019/07/novedades-libros-verano/</guid><pubDate>Mon, 15 Jul 2019 15:00:00 GMT</pubDate></item><item><title>Donaciones para la Biblioteca de Cebolla</title><link>http://biblioln.es/posts/2018/09/donaciones-a-la-biblioteca-de-cebolla/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="admonition important"&gt;
 &lt;p class="first admonition-title"&gt;Importante&lt;/p&gt;
 &lt;p class="last"&gt;En la biblioteca de Los Navalmorales se recogen donaciones de libros y audiovisuales para la biblioteca de Cebolla&lt;/p&gt;
 &lt;/div&gt;
@@ -456,7 +495,4 @@ Encuentro con María Antonia Ricas&lt;/div&gt;
 &lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/43/9788420403243.jpg" alt="" width="480"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.google.com/search?q=9788425352911"&gt;El Mundo Azul. Ama Tu Caos (ALBERT ESPINOSA)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;ISBN:&lt;a href="http://www.google.com/search?q=9788425352911"&gt;9788425352911&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/11/9788425352911.jpg" alt="" width="480"&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Libros</category><category>Novedades</category><guid>http://biblioln.es/posts/2015/04/novedades-literatura-adultos/</guid><pubDate>Thu, 23 Apr 2015 22:21:03 GMT</pubDate></item><item><title>Presentación del libro Esencias</title><link>http://biblioln.es/posts/2015/03/presentacion-del-libro-esencias/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;El día 20 de Marzo a las 13:00  en la Biblioteca de Los Navalmorales, tendrá lugar la presentación del libro Esencias de Mª Dolores Pinto Cámara.&lt;/p&gt;
-&lt;p&gt;Invitamos a los padres de los niños del primer ciclo de primaria. Los niños asistirán acompañados por los profesores del Colegio Público San Francisco.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;a href="http://biblioln.es/wp-content/uploads/poster-esencias-escudo.jpg"&gt;&lt;img class="aligncenter size-medium wp-image-1224" src="http://biblioln.es/wp-content/uploads/poster-esencias-escudo-300x212.jpg" alt="poster esencias escudo" width="300" height="212"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://biblioln.es/wp-content/uploads/poster-esencias-escudo.pdf"&gt;Cartel en PDF&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Escritores</category><category>Eventos</category><category>Libros</category><category>Visitas</category><guid>http://biblioln.es/posts/2015/03/presentacion-del-libro-esencias/</guid><pubDate>Mon, 09 Mar 2015 20:51:11 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;img src="http://image.casadellibro.com/a/l/t0/11/9788425352911.jpg" alt="" width="480"&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Libros</category><category>Novedades</category><guid>http://biblioln.es/posts/2015/04/novedades-literatura-adultos/</guid><pubDate>Thu, 23 Apr 2015 22:21:03 GMT</pubDate></item></channel></rss>

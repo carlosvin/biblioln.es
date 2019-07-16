@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/authors/biblioteca-de-los-navalmorales.xml</loc>
-  <lastmod>2019-07-16T10:56:00Z</lastmod>
+  <lastmod>2019-07-16T11:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/authors/lourdes-bibliotecaria-de-los-navalmorales.xml</loc>
@@ -47,7 +47,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/biblioteca.xml</loc>
-  <lastmod>2019-07-16T10:56:00Z</lastmod>
+  <lastmod>2019-07-16T11:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/catalogo.xml</loc>
@@ -55,7 +55,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/centro-de-internet.xml</loc>
-  <lastmod>2019-07-16T10:56:00Z</lastmod>
+  <lastmod>2019-07-16T11:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/club-de-lectura.xml</loc>
@@ -163,7 +163,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/horarios.xml</loc>
-  <lastmod>2019-07-16T10:56:00Z</lastmod>
+  <lastmod>2019-07-16T11:05:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/informatica.xml</loc>
@@ -179,7 +179,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/libros.xml</loc>
-  <lastmod>2019-04-10T16:50:00Z</lastmod>
+  <lastmod>2019-07-16T11:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/literatura.xml</loc>
@@ -199,7 +199,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/novedades.xml</loc>
-  <lastmod>2019-04-10T16:50:00Z</lastmod>
+  <lastmod>2019-07-16T11:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/novedates.xml</loc>
@@ -207,7 +207,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/peliculas.xml</loc>
-  <lastmod>2019-04-10T16:50:00Z</lastmod>
+  <lastmod>2019-07-16T11:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/poesia.xml</loc>
@@ -474,6 +474,10 @@
   <lastmod>2019-06-23T06:34:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2019/novedades-libros-verano/rss.xml</loc>
+  <lastmod>2019-07-16T11:14:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/2019/presentacion-las-tres-gemas/rss.xml</loc>
   <lastmod>2019-06-23T06:34:00Z</lastmod>
  </sitemap>
@@ -507,10 +511,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2019-07-16T10:56:00Z</lastmod>
+  <lastmod>2019-07-16T11:14:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2019-07-16T10:56:00Z</lastmod>
+  <lastmod>2019-07-16T11:14:00Z</lastmod>
  </sitemap>
 </sitemapindex>
