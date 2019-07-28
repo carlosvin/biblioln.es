@@ -559,11 +559,11 @@
  </url>
  <url>
   <loc>http://biblioln.es/2019/</loc>
-  <lastmod>2019-06-23T06:53:00Z</lastmod>
+  <lastmod>2019-07-28T05:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2019-07-16T11:14:00Z</lastmod>
+  <lastmod>2019-07-28T05:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/authors/</loc>
@@ -1139,7 +1139,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-23.html</loc>
-  <lastmod>2019-07-16T11:14:00Z</lastmod>
+  <lastmod>2019-07-28T05:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-3.html</loc>
@@ -2124,6 +2124,10 @@
  <url>
   <loc>http://biblioln.es/posts/2019/06/visita-toledo/</loc>
   <lastmod>2019-06-08T11:55:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2019/07/conferencia-radiaciones-ionizantes/</loc>
+  <lastmod>2019-07-28T05:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2019/07/horario-verano/</loc>
