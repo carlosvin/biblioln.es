@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/authors/biblioteca-de-los-navalmorales.xml</loc>
-  <lastmod>2019-07-28T05:54:00Z</lastmod>
+  <lastmod>2019-08-26T16:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/authors/lourdes-bibliotecaria-de-los-navalmorales.xml</loc>
@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2019-06-24T13:27:00Z</lastmod>
+  <lastmod>2019-08-26T16:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/actividates.xml</loc>
@@ -59,7 +59,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/club-de-lectura.xml</loc>
-  <lastmod>2019-06-23T07:33:00Z</lastmod>
+  <lastmod>2019-08-26T16:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/comprension-lectora.xml</loc>
@@ -79,7 +79,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/conferencias.xml</loc>
-  <lastmod>2019-07-28T05:54:00Z</lastmod>
+  <lastmod>2019-07-28T06:01:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/congresos.xml</loc>
@@ -87,7 +87,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/cronica.xml</loc>
-  <lastmod>2019-05-16T19:54:00Z</lastmod>
+  <lastmod>2019-08-26T16:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/cuentacuentos.xml</loc>
@@ -123,7 +123,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/encuentros.xml</loc>
-  <lastmod>2019-06-23T07:18:00Z</lastmod>
+  <lastmod>2019-08-26T16:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/enlaces.xml</loc>
@@ -143,7 +143,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2019-07-28T05:54:00Z</lastmod>
+  <lastmod>2019-08-26T16:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/excursiones.xml</loc>
@@ -466,6 +466,10 @@
   <lastmod>2019-06-23T06:34:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://biblioln.es/galleries/2019/conferencia-radiaciones-ionizantes/rss.xml</loc>
+  <lastmod>2019-08-26T16:29:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://biblioln.es/galleries/2019/coro-de-profesores-ies-rosa-chacel/rss.xml</loc>
   <lastmod>2019-06-23T06:42:00Z</lastmod>
  </sitemap>
@@ -511,10 +515,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2019-07-28T05:54:00Z</lastmod>
+  <lastmod>2019-08-26T16:22:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2019-07-28T05:54:00Z</lastmod>
+  <lastmod>2019-08-26T16:29:00Z</lastmod>
  </sitemap>
 </sitemapindex>

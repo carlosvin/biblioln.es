@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Crónica)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/cronica.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Thu, 16 May 2019 19:54:33 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Crónica de la Conferencia de Geología</title><link>http://biblioln.es/posts/2019/05/conferencia-geologia-cronica/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/galleries/2019/conferencia-geologia-cronica/conferencia%20geologia%201.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Juan Manuel Roiz ha sido profesor de geología en distintos institutos y también ha dado clase en la universidad autónoma, muy conocedor de la geología sobre Los Montes de Toledo y autor de algunos libros de información científica para alumnos de la ESO y bachillerato.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones sobre Crónica)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/categories/cronica.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 26 Aug 2019 16:31:08 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Crónica de la Conferencia sobre Radiaciones Ionizantes</title><link>http://biblioln.es/posts/2019/07/cronica-conferencia-radiaciones-ionizantes/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El día 21 por la tarde tuvimos el placer de escuchar a Ángel Márquez, licenciado en física y técnico de protección radiológica. Muchas gracias Ángel, ha sido muy interesante, hemos aprendido las distintas aplicaciones de las radiaciones, tanto en medicina como en industria.&lt;/p&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/conferencia-radiaciones-ionizantes/1.png" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/conferencia-radiaciones-ionizantes/1.thumbnail.png" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/conferencia-radiaciones-ionizantes/2.png" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/conferencia-radiaciones-ionizantes/2.thumbnail.png" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/conferencia-radiaciones-ionizantes/3.png" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/conferencia-radiaciones-ionizantes/3.thumbnail.png" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="http://biblioln.es/galleries/2019/conferencia-radiaciones-ionizantes/4.png" class="thumbnail image-reference" title=""&gt;
+            &lt;img src="http://biblioln.es/galleries/2019/conferencia-radiaciones-ionizantes/4.thumbnail.png" alt=""&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Actividades</category><category>Club de Lectura</category><category>Conferencias</category><category>Crónica</category><category>Eventos</category><guid>http://biblioln.es/posts/2019/07/cronica-conferencia-radiaciones-ionizantes/</guid><pubDate>Sun, 25 Aug 2019 08:01:00 GMT</pubDate></item><item><title>Crónica de la Conferencia de Geología</title><link>http://biblioln.es/posts/2019/05/conferencia-geologia-cronica/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;figure&gt;&lt;img src="http://biblioln.es/galleries/2019/conferencia-geologia-cronica/conferencia%20geologia%201.jpg"&gt;&lt;/figure&gt; &lt;div&gt;&lt;p&gt;Juan Manuel Roiz ha sido profesor de geología en distintos institutos y también ha dado clase en la universidad autónoma, muy conocedor de la geología sobre Los Montes de Toledo y autor de algunos libros de información científica para alumnos de la ESO y bachillerato.&lt;/p&gt;
 &lt;p&gt;El día 10 ha impartido una conferencia en la biblioteca sobre la geología de los Montes de Toledo y de Los Navalmorales.&lt;/p&gt;
 &lt;p&gt;Hemos aprendido que tipo de piedras predominan en nuestra Sierra del Santo. También nos ha mostrado que el mármol rojo que hay subiendo las escaleras de la biblioteca está lleno de fósiles. Todo esto en lo referente a nuestro pueblo, pero también nos ha dado una visión general muy interesante sobre geología.&lt;/p&gt;
 &lt;p&gt;Muchas gracias Juan Manuel.&lt;/p&gt;

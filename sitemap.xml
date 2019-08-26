@@ -563,7 +563,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/archive.html</loc>
-  <lastmod>2019-07-28T05:53:00Z</lastmod>
+  <lastmod>2019-08-26T16:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/authors/</loc>
@@ -1031,7 +1031,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2019/</loc>
-  <lastmod>2019-07-16T11:14:00Z</lastmod>
+  <lastmod>2019-08-26T16:26:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2019/actuaciones-dia-del-libro/</loc>
@@ -1040,6 +1040,10 @@
  <url>
   <loc>http://biblioln.es/galleries/2019/conferencia-geologia-cronica/</loc>
   <lastmod>2019-05-16T19:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/galleries/2019/conferencia-radiaciones-ionizantes/</loc>
+  <lastmod>2019-08-26T16:29:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/galleries/2019/coro-de-profesores-ies-rosa-chacel/</loc>
@@ -1139,7 +1143,7 @@
  </url>
  <url>
   <loc>http://biblioln.es/index-23.html</loc>
-  <lastmod>2019-07-28T05:53:00Z</lastmod>
+  <lastmod>2019-08-26T16:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/index-3.html</loc>
@@ -2128,6 +2132,14 @@
  <url>
   <loc>http://biblioln.es/posts/2019/07/conferencia-radiaciones-ionizantes/</loc>
   <lastmod>2019-07-28T05:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2019/07/cronica-conferencia-radiaciones-ionizantes/</loc>
+  <lastmod>2019-08-26T16:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://biblioln.es/posts/2019/07/cronica-xxi-encuentro-clubes-lectura-toledo/</loc>
+  <lastmod>2019-08-26T16:20:00Z</lastmod>
  </url>
  <url>
   <loc>http://biblioln.es/posts/2019/07/horario-verano/</loc>
