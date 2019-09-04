@@ -1,9 +1,12 @@
-.. title: Horario de invierno, a partir del 1 de Octubre
+.. title: Horario de invierno 2019
+.. subtitle: asdf
 .. slug: horario-invierno
 .. date: 2019-09-03 10:00
 .. tags: Horarios, Biblioteca, Centro de Internet
 .. description: Horario de invierno 2019 para la Biblioteca y el Centro de Internet a partir del 1 de Octubre
 .. type: micro
+
+**Horario a partir del 1 de Octubre.**
 
 +---------+-------------+-------------+-------------+-------------+-------------+
 |         | Lunes       | Martes      | Miércoles   | Jueves      |  Viernes    |
