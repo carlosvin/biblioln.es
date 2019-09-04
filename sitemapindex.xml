@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>http://biblioln.es/authors/biblioteca-de-los-navalmorales.xml</loc>
-  <lastmod>2019-08-26T16:22:00Z</lastmod>
+  <lastmod>2019-09-04T15:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/authors/lourdes-bibliotecaria-de-los-navalmorales.xml</loc>
@@ -15,7 +15,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/actividades.xml</loc>
-  <lastmod>2019-08-26T16:22:00Z</lastmod>
+  <lastmod>2019-08-26T16:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/actividates.xml</loc>
@@ -47,7 +47,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/biblioteca.xml</loc>
-  <lastmod>2019-07-16T11:05:00Z</lastmod>
+  <lastmod>2019-09-04T15:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/catalogo.xml</loc>
@@ -55,11 +55,11 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/centro-de-internet.xml</loc>
-  <lastmod>2019-07-16T11:05:00Z</lastmod>
+  <lastmod>2019-09-04T15:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/club-de-lectura.xml</loc>
-  <lastmod>2019-08-26T16:22:00Z</lastmod>
+  <lastmod>2019-08-26T16:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/comprension-lectora.xml</loc>
@@ -79,7 +79,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/conferencias.xml</loc>
-  <lastmod>2019-07-28T06:01:00Z</lastmod>
+  <lastmod>2019-08-26T16:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/congresos.xml</loc>
@@ -87,7 +87,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/cronica.xml</loc>
-  <lastmod>2019-08-26T16:22:00Z</lastmod>
+  <lastmod>2019-08-26T16:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/cuentacuentos.xml</loc>
@@ -143,7 +143,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/eventos.xml</loc>
-  <lastmod>2019-08-26T16:22:00Z</lastmod>
+  <lastmod>2019-08-26T16:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/excursiones.xml</loc>
@@ -163,7 +163,7 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/horarios.xml</loc>
-  <lastmod>2019-07-16T11:05:00Z</lastmod>
+  <lastmod>2019-09-04T15:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/categories/informatica.xml</loc>
@@ -515,10 +515,10 @@
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/rss.xml</loc>
-  <lastmod>2019-08-26T16:22:00Z</lastmod>
+  <lastmod>2019-09-04T15:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://biblioln.es/sitemap.xml</loc>
-  <lastmod>2019-08-26T16:29:00Z</lastmod>
+  <lastmod>2019-09-04T15:33:00Z</lastmod>
  </sitemap>
 </sitemapindex>

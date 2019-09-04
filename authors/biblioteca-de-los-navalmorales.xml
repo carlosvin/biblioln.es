@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones de Biblioteca de Los Navalmorales)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/authors/biblioteca-de-los-navalmorales.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Mon, 26 Aug 2019 16:31:08 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Crónica de la Conferencia sobre Radiaciones Ionizantes</title><link>http://biblioln.es/posts/2019/07/cronica-conferencia-radiaciones-ionizantes/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El día 21 por la tarde tuvimos el placer de escuchar a Ángel Márquez, licenciado en física y técnico de protección radiológica. Muchas gracias Ángel, ha sido muy interesante, hemos aprendido las distintas aplicaciones de las radiaciones, tanto en medicina como en industria.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Biblioteca Los Navalmorales (Publicaciones de Biblioteca de Los Navalmorales)</title><link>http://biblioln.es/</link><description></description><atom:link href="http://biblioln.es/authors/biblioteca-de-los-navalmorales.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><lastBuildDate>Wed, 04 Sep 2019 15:36:21 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Horario de invierno, a partir del 1 de Octubre</title><link>http://biblioln.es/posts/2019/09/horario-invierno/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="12%"&gt;
+&lt;col width="18%"&gt;
+&lt;col width="18%"&gt;
+&lt;col width="18%"&gt;
+&lt;col width="18%"&gt;
+&lt;col width="18%"&gt;
+&lt;/colgroup&gt;
+&lt;thead valign="bottom"&gt;
+&lt;tr&gt;&lt;th class="head"&gt; &lt;/th&gt;
+&lt;th class="head"&gt;Lunes&lt;/th&gt;
+&lt;th class="head"&gt;Martes&lt;/th&gt;
+&lt;th class="head"&gt;Miércoles&lt;/th&gt;
+&lt;th class="head"&gt;Jueves&lt;/th&gt;
+&lt;th class="head"&gt;Viernes&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;Mañanas&lt;/td&gt;
+&lt;td&gt;9:00-13:00&lt;/td&gt;
+&lt;td&gt;9:00-13:00&lt;/td&gt;
+&lt;td&gt;9:00-13:00&lt;/td&gt;
+&lt;td&gt;Cerrado&lt;/td&gt;
+&lt;td&gt;9:00-13:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Tardes&lt;/td&gt;
+&lt;td&gt;16:00-20:00&lt;/td&gt;
+&lt;td&gt;16:00-20:00&lt;/td&gt;
+&lt;td&gt;16:00-20:00&lt;/td&gt;
+&lt;td&gt;16:00-20:00&lt;/td&gt;
+&lt;td&gt;16:00-20:00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class="admonition important"&gt;
+&lt;p class="first admonition-title"&gt;Importante&lt;/p&gt;
+&lt;p class="last"&gt;Del 13 al 30 de Septiembre estará cerrado por vacaciones&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;</description><category>Biblioteca</category><category>Centro de Internet</category><category>Horarios</category><guid>http://biblioln.es/posts/2019/09/horario-invierno/</guid><pubDate>Tue, 03 Sep 2019 08:00:00 GMT</pubDate></item><item><title>Crónica de la Conferencia sobre Radiaciones Ionizantes</title><link>http://biblioln.es/posts/2019/07/cronica-conferencia-radiaciones-ionizantes/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;p&gt;El día 21 por la tarde tuvimos el placer de escuchar a Ángel Márquez, licenciado en física y técnico de protección radiológica. Muchas gracias Ángel, ha sido muy interesante, hemos aprendido las distintas aplicaciones de las radiaciones, tanto en medicina como en industria.&lt;/p&gt;
 
 
 &lt;div id="gallery_container"&gt;&lt;/div&gt;
@@ -244,80 +282,4 @@
 
 &lt;ul class="thumbnails"&gt;
         &lt;li&gt;
-&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Actividades</category><category>Conferencias</category><category>Crónica</category><category>Eventos</category><category>Taller de Lectura</category><guid>http://biblioln.es/posts/2019/05/conferencia-geologia-cronica/</guid><pubDate>Thu, 16 May 2019 07:00:00 GMT</pubDate></item><item><title>Crónica sobre las actividades del Día del Libro 2019</title><link>http://biblioln.es/posts/2019/05/cronica-dia-del-libro/</link><dc:creator>Biblioteca de Los Navalmorales</dc:creator><description>&lt;div&gt;&lt;div class="admonition note"&gt;
-&lt;p class="first admonition-title"&gt;Nota&lt;/p&gt;
-&lt;p class="last"&gt;Como todos los años por la celebración del día del libro,  la biblioteca coordina  actividades con los dos centros escolares que hay en nuestro pueblo.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="texto-roto-con-ies-los-navalmorales"&gt;
-&lt;h2&gt;Texto roto con &lt;a class="reference external" href="http://ies-losnavalmorales.centros.castillalamancha.es/"&gt;IES Los Navalmorales&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Nos han visitado 3 clases de 1º de la ESO con las que hemos realizado la actividad &lt;strong&gt;"Texto Roto"&lt;/strong&gt;, con el libro &lt;em&gt;"La Composición" (Skármeta)&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Esta actividad consiste en repartir fichas con fragmentos del texto totalmente desordenados, los participantes tienen que ir colocando sus fichas según el orden que ellos consideran que puede ser el argumento del libro. Previamente los participantes deben haber leído el libro.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="cuenta-cuentos-con-comando-teatral-con-cp-san-francisco"&gt;
-&lt;h2&gt;Cuenta Cuentos con Comando Teatral con &lt;a class="reference external" href="http://ceip-sanfranciscolosnavalmorales.centros.castillalamancha.es/"&gt;CP San Francisco&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Esta actividad la coordinamos con el &lt;a class="reference external" href="http://ceip-sanfranciscolosnavalmorales.centros.castillalamancha.es/"&gt;Colegio Público San Francisco&lt;/a&gt;. Dividimos la visita en dos grupos:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;Para los más pequeños representaron &lt;em&gt;"Brujas, alas y escamas"&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;Para los mayores representaron &lt;em&gt;"La Aventura de las Galaxias"&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;div id="gallery_container"&gt;&lt;/div&gt;
-&lt;div class="row"&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2019/actuaciones-dia-del-libro/dia%20del%20libro.jpg" class="thumbnail image-reference" title="Dia del libro"&gt;
-            &lt;img src="http://biblioln.es/galleries/2019/actuaciones-dia-del-libro/dia%20del%20libro.thumbnail.jpg" alt="Dia del libro"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2019/actuaciones-dia-del-libro/dia%20del%20libro%202.jpg" class="thumbnail image-reference" title="Dia del libro 2"&gt;
-            &lt;img src="http://biblioln.es/galleries/2019/actuaciones-dia-del-libro/dia%20del%20libro%202.thumbnail.jpg" alt="Dia del libro 2"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2019/actuaciones-dia-del-libro/dia%20del%20libro%203.jpg" class="thumbnail image-reference" title="Dia del libro 3"&gt;
-            &lt;img src="http://biblioln.es/galleries/2019/actuaciones-dia-del-libro/dia%20del%20libro%203.thumbnail.jpg" alt="Dia del libro 3"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;ul class="thumbnails"&gt;
-        &lt;li&gt;
-&lt;/li&gt;&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div class="section" id="dia-23-de-abril-dia-del-libro"&gt;
-&lt;h2&gt;Día 23 de Abril, día del Libro&lt;/h2&gt;
-&lt;p&gt;Presentación del libro &lt;em&gt;"Las Tres Gemas"&lt;/em&gt;, por Óscar Hornillos.&lt;/p&gt;
-&lt;p&gt;Su autor nos habló sobre ésta primera parte y nos anunció que que ya tiene hecha una segunda parte, solo falta que la publiquen.&lt;/p&gt;
-&lt;p&gt;Es un libro de fantasía y aventuras, que sin duda enganchará a todo el mundo, sobre todo al público joven.
-Muchas gracias Óscar.&lt;/p&gt;
-
-
-&lt;div id="gallery_container"&gt;&lt;/div&gt;
-&lt;div class="row"&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2019/presentacion-las-tres-gemas/tres%20gemas.jpg" class="thumbnail image-reference" title="Tres gemas"&gt;
-            &lt;img src="http://biblioln.es/galleries/2019/presentacion-las-tres-gemas/tres%20gemas.thumbnail.jpg" alt="Tres gemas"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2019/presentacion-las-tres-gemas/tres%20gemas%202.jpg" class="thumbnail image-reference" title="Tres gemas 2"&gt;
-            &lt;img src="http://biblioln.es/galleries/2019/presentacion-las-tres-gemas/tres%20gemas%202.thumbnail.jpg" alt="Tres gemas 2"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2019/presentacion-las-tres-gemas/3%20gemas%203.jpg" class="thumbnail image-reference" title="Gemas 3"&gt;
-            &lt;img src="http://biblioln.es/galleries/2019/presentacion-las-tres-gemas/3%20gemas%203.thumbnail.jpg" alt="Gemas 3"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-    &lt;div class="col-xs-6 col-md-3"&gt;
-        &lt;a href="http://biblioln.es/galleries/2019/presentacion-las-tres-gemas/3%20gemas%204.jpg" class="thumbnail image-reference" title="Gemas 4"&gt;
-            &lt;img src="http://biblioln.es/galleries/2019/presentacion-las-tres-gemas/3%20gemas%204.thumbnail.jpg" alt="Gemas 4"&gt;
-        &lt;/a&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;ul class="thumbnails"&gt;
-        &lt;li&gt;
-&lt;/li&gt;&lt;/ul&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>Actividades</category><category>Crónica</category><category>Eventos</category><guid>http://biblioln.es/posts/2019/05/cronica-dia-del-libro/</guid><pubDate>Tue, 14 May 2019 07:00:00 GMT</pubDate></item></channel></rss>
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>Actividades</category><category>Conferencias</category><category>Crónica</category><category>Eventos</category><category>Taller de Lectura</category><guid>http://biblioln.es/posts/2019/05/conferencia-geologia-cronica/</guid><pubDate>Thu, 16 May 2019 07:00:00 GMT</pubDate></item></channel></rss>
