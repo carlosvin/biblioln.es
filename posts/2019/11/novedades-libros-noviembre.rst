@@ -1,5 +1,5 @@
-.. title: Novedades de Libros para este verano
-.. slug: novedades-libros-verano
+.. title: Novedades de Libros en Noviembre
+.. slug: novedades-libros-noviembre
 .. date: 2019-11-7 17:00
 .. tags: Libros, Novedades
 .. description: Adquisiciones de libros para este en Noviembre 2019
