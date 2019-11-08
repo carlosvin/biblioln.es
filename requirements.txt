@@ -64,7 +64,7 @@ Pyphen==0.9.5
 PyRSS2Gen==1.1
 python-dateutil==2.7.5
 pytz==2018.7
-PyYAML==3.13
+PyYAML==5.1
 pyzmq==17.1.2
 requests==2.20.1
 restructuredtext-lint==1.2.1
