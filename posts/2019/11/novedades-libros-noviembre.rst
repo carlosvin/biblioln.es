@@ -1,0 +1,22 @@
+.. title: Novedades de Libros para este verano
+.. slug: novedades-libros-verano
+.. date: 2019-11-7 17:00
+.. tags: Libros, Novedades
+.. description: Adquisiciones de libros para este en Noviembre 2019
+.. previewimage: /2019/novedades-2019-nov.jpg
+.. type: micro
+
+A continuación las últimas novedades recibidas en la Biblioteca:
+
+.. thumbnail:: /2019/novedades-2019-nov.jpg
+    :align: center
+    :alt: Novedades para adultos
+
+    Novedades para adultos
+
+
+.. thumbnail:: /2019/novedades-2019-nov.jpg
+    :align: center
+    :alt: Novedades infantil
+
+    Novedades infantil
