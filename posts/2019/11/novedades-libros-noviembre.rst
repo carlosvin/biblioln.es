@@ -15,7 +15,7 @@ A continuación las últimas novedades recibidas en la Biblioteca:
     Novedades para adultos
 
 
-.. thumbnail:: /2019/novedades-2019-nov.jpg
+.. thumbnail:: /2019/novedades-infantil-2019-nov.jpg
     :align: center
     :alt: Novedades infantil
 
