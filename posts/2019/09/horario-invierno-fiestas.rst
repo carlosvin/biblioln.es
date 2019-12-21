@@ -1,5 +1,4 @@
 .. title: Horario de invierno 2019
-.. subtitle: asdf
 .. slug: horario-invierno
 .. date: 2019-09-03 10:00
 .. tags: Horarios, Biblioteca, Centro de Internet
