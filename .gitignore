@@ -6,3 +6,4 @@ output/
 .doit.db.*
 venv
 _build/
+nikola
