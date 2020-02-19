@@ -6,7 +6,7 @@
 .. previewimage: /galleries/2020/cronica-encuentro-literario-inma-chacon-10.jpg
 
 El día 4 de febrero tuvimos el encuentro literario con Inma Chacón, con su libro: *Tiempo
-de Arena*. Hemos leído en el Taller de Lectura, ha sido un placer que se haya
+de Arena*, el cual hemos leído en el Taller de Lectura, ha sido un placer que se haya
 desplazado a Los Navalmorales y haya compartido la tarde con nosotros dándonos la
 oportunidad de profundizar más sobre esta novela.
 
