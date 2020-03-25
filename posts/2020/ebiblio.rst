@@ -1,23 +1,19 @@
-.. title: Cierre temporal por la alerta del COVID-19
+.. title: Préstamo Online
 .. slug: covid-cierre-al-publico-ebiblio
-.. date: 2020-03-17 10:00
+.. date: 2020-03-25 10:00
 .. tags: Covid19, Notificaciones, Horarios, La Biblioteca, #QuédateEnCasa
-.. description: La Biblioteca de Los Navalmorales permanecerá temporalmente cerrada como medida de prevención frente al COVID-19
+.. description: Quédate en casa, pero sigue leyendo. Puedes realizar préstamos online de libros, prensa, películas y música a través de la ṕlataforma eBiblio.
 .. previewimage: /quedateencasa.png
 
-.. important:: La Biblioteca de Los Navalmorales permanecerá temporalmente cerrada como medida de prevención frente al COVID-19.
+.. note:: La Biblioteca dispone de **préstamo online** a través de la `Red de Bibliotecas de Castilla-La Mancha <http://reddebibliotecas.jccm.es>`_. Se puede acceder a libros, películas y prensa a través de la plataforma `eBiblio <https://castillalamancha.ebiblio.es>`_ a traves de la `web <https://castillalamancha.ebiblio.es>`_, para plataformas `IOS <https://apps.apple.com/es/app/ebiblio/id1028387742>`_, `Android <https://play.google.com/store/apps/details?id=es.odilo.ebiblio>`_ y libros electrónicos.
 
-Préstamos online: eBiblio
---------------------------
+Para acceder necesitan el poner el número de carnet y la contraseña o código. 
+
 :Requisitos: Carnet de la biblioteca.
 :Acceso: Número de carnet y contraseña/código.
 :Precio: Gratuito.
 :Dispositivos: `Web <https://castillalamancha.ebiblio.es>`_, tablet y teléfono móvil (`IOS <https://apps.apple.com/es/app/ebiblio/id1028387742>`_ y `Android <https://play.google.com/store/apps/details?id=es.odilo.ebiblio>`_) y algunos libros electrónicos.
 :Manual: `Ver manual de usuario de eBiblio <https://biblioclm.castillalamancha.es/sites/biblioclm.castillalamancha.es/files/fich_inf_general/triptico-bibliotecas-manualdeusuario.pdf>`_.
-
-.. note:: La Biblioteca dispone de **préstamo online** a través de la `Red de Bibliotecas de Castilla-La Mancha <http://reddebibliotecas.jccm.es>`_. Se puede acceder a libros, películas y prensa a través de la plataforma `eBiblio <https://castillalamancha.ebiblio.es>`_ a traves de la `web <https://castillalamancha.ebiblio.es>`_, para plataformas `IOS <https://apps.apple.com/es/app/ebiblio/id1028387742>`_, `Android <https://play.google.com/store/apps/details?id=es.odilo.ebiblio>`_ y libros electrónicos.
-
-Para acceder necesitan el poner el número de carnet y la contraseña o código. 
 
 Consultas
 ----------
