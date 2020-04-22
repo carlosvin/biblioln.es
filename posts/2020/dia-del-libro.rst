@@ -4,7 +4,9 @@
 .. tags: Notificaciones, La Biblioteca, #QuédateEnCasa, Día del Libro
 .. description: Día del Libro 2020
 
-Esta semana  es una fiesta para las bibliotecas en torno al libro y la lectura. En la Biblioteca de  Los  Navalmorales  tenemos todas las semanas la hora del cuento, varios clubes de lectura infantiles y un  Taller de Lectura de adultos, aunque ahora por las circunstancias  que estamos viviendo no nos podemos reunir personalmente. Estos días nos hemos conectado por internet con las mamás y los niños/niñas para poder contar cuentos y poder leer poemas que se han estado preparando, esta será nuestra forma de celebrar la Fiesta del Libro. 
+Esta semana es una fiesta para las bibliotecas en torno al libro y la lectura. En la Biblioteca de  Los  Navalmorales tenemos todas las semanas la hora del cuento, varios clubes de lectura infantiles y un Taller de Lectura de adultos, aunque ahora por las circunstancias  que estamos viviendo no nos podemos reunir personalmente. 
+
+Estos días nos hemos conectado por internet con las mamás y los niños/niñas para poder contar cuentos y poder leer poemas que se han estado preparando, esta será nuestra forma de celebrar la Fiesta del Libro. 
 
 Desde la biblioteca animo a los adultos a que nos manden el titulo de un libro que nos aconsejan para leer en estos días, pueden poner el título y su opinión sobre el libro. Me lo pueden mandar al siguiente correo: lnavalmorales@hotmail.com.
 
