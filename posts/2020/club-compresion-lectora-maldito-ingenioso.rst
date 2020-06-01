@@ -10,6 +10,6 @@ Marcos tiene un nuevo juguete que se llama Ingenioso, es un oso y debe de tener 
 
 Es una lectura muy divertida y emocionante, estamos averiguando, junto con Carla, qué se puede hacer para que Marcos se anime otra vez a jugar con su hermana Carla. No os contamos el final para que lo leáis.
 
-A continuación el dibujo que ha hecho uno de los niños del club de comprensión lectora, en este dibujo podéis ver a todos los componentes de esta historia.
+A continuación los dibujos que han hecho las niñas y niños del club de comprensión lectora, en estos dibujos podéis ver a todos los componentes de esta historia.
 
 .. gallery:: 2020/club-compresion-lectora-maldito-ingenioso
