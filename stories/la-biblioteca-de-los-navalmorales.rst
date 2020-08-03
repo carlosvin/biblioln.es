@@ -61,7 +61,7 @@ Contacto_
 | 45140 Los Navalmorales (TOLEDO)
 | 925404242
 
-.. _Contacto: /stories/la-biblioteca-de-los-navalmorales/contacto.html
+.. _Contacto: /stories/la-biblioteca-de-los-navalmorales/contacto
 
 .. _`Reglamento de La Biblioteca Municipal de Los Navalmorales`: /wp-content/uploads/reglamento-de-funcionamiento-de-la-biblioteca-pblica-municipal-los-navalmorales.pdf 
 
