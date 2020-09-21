@@ -1,4 +1,4 @@
-.. title: Cierre hasta el 30 de Octubre
+.. title: Nota Informativa 
 .. slug: cierre-biblioteca
 .. date: 2020-09-21 10:00
 .. tags: La Biblioteca, Avisos, Notificaciones
