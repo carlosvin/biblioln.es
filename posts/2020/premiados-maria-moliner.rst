@@ -20,4 +20,4 @@ Más información
 - Listado de los `300 municipios premiados con 2000€ <http://www.culturaydeporte.gob.es/dam/jcr:45458bad-043b-4c66-8d30-10ebd577807a/listado-300-propuestos.pdf>`_, entre los que se encuentra nuestra biblioteca.
 - `Convocatoria 2020 del Concurso María Moliner del Ministerio de Cultura y Deporte <http://www.culturaydeporte.gob.es/cultura/libro/sc/becas-ayudas-y-subvenciones/animacion-lectura-maria-moliner.html>`_.
 - `Noticia de la Federación Española de Municipios y Provincias <http://www.femp.es/comunicacion/noticias/campana-maria-moliner-2020-700000-euros-para-310-bibliotecas-municipales>`_.
-
+- `Descarga el proyecto "Unidos por la Lectura" en PDF </2020/unidos-por-la-lectura.pdf>`_.
