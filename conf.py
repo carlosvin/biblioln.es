@@ -100,7 +100,7 @@ NAVIGATION_LINKS = {
 
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "bootstrap4-jinja"
 
 # Below this point, everything is optional
 
