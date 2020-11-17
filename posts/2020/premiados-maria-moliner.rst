@@ -1,8 +1,8 @@
-.. title: Premio María Moliner 2020
+.. title: Premio María Moliner 2020: Unidos por la Lectura
 .. slug: premiados-maria-moliner
 .. date: 2020-11-17 10:00
 .. tags: La Biblioteca, Avisos, Notificaciones, Premios
-.. description: Hemos recibido el premio María Moliner 2020
+.. description: Nuestro proyecto "Unidos por la Lectura", ha recibido el Premio María Moliner 2020
 .. author: María Lourdes Sánchez Mencía
 .. previewimage: http://www.culturaydeporte.gob.es/.imaging/mte/mcd-theme/contenido-cim-md/dam/mcd/actualidad/2020/11/201116-maria-moliner/201116-maria-moliner/jcr:content/201116-maria-moliner.jpg.jpg
 .. type: micro
