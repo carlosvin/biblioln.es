@@ -4,7 +4,7 @@
 .. tags: La Biblioteca, Avisos, Notificaciones, Premios
 .. description: Hemos recibido el premio María Moliner 2020
 .. author: María Lourdes Sánchez Mencía
-.. previewImage: http://www.culturaydeporte.gob.es/.imaging/mte/mcd-theme/contenido-cim-md/dam/mcd/actualidad/2020/11/201116-maria-moliner/201116-maria-moliner/jcr:content/201116-maria-moliner.jpg.jpg
+.. previewimage: http://www.culturaydeporte.gob.es/.imaging/mte/mcd-theme/contenido-cim-md/dam/mcd/actualidad/2020/11/201116-maria-moliner/201116-maria-moliner/jcr:content/201116-maria-moliner.jpg.jpg
 .. type: micro
 
 Escribo esta nota como la bibliotecaria que he sido de Los Navalmorales. Aunque ya estoy jubilada,
