@@ -6926,3 +6926,6 @@ legend {
   flex-flow: wrap;
   justify-content: center;
 }
+.entry-title {
+  margin-top: 2em;
+}
