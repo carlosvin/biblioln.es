@@ -3,7 +3,7 @@
 .. date: 2021-07-01 10:00
 .. tags: Eventos, Concurso
 .. description: Concurso: ¡¡¡Yo también leo en verano!!!!
-.. previewimage: /2021/marcapaginas.jpg
+.. previewimage: /galleries/2021/yo-tambien-leo-en-verano/marcapaginas.jpg
 
 
 Aunque sea verano en la biblioteca no paramos de leer por eso hemos creado el concurso "Yo también leo en verano" durante los meses de julio y agosto.
@@ -19,7 +19,4 @@ Quien más sellos tenga tras finalizar el verano se llevará gratis un libro �
 - Si os retraseis en la devolución quedaréis descalificados. Recordaros que el préstamo en verano dura 30 días.
 - Quien más sellos reciba se llevará un libro completamente gratis
 
-.. thumbnail:: /2021/marcapaginas.jpg
-   :alt: Marcapáginas
-
-   Marcapáginas
+.. gallery:: 2021/yo-tambien-leo-en-verano
