@@ -7,3 +7,5 @@ output/
 venv
 _build/
 nikola
+galleries/.DS_Store
+galleries/2022/.DS_Store

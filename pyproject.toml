@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "biblioln-es"
+version = "0.1.0"
+description = ""
+authors = ["Carlos Martin Sanchez <carlos.martin-sanchez@mongodb.com>"]
+readme = "README.md"
+packages = []
+
+[tool.poetry.dependencies]
+python = "^3.8"
+Nikola = {extras = ["extras"], version = "^8.2.0"}
+Jinja2 = "^3.1.1"
+nbconvert = "5.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
